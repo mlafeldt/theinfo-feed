@@ -1,0 +1,85 @@
+name: mirror
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  # Only what changes the served bytes or the machinery producing them, so a
+  # README edit does not spin up a runner to redeploy an identical tree.
+  push:
+    branches: [main]
+    paths:
+      - public/**
+      - scripts/**
+      - .github/workflows/mirror.yml
+  workflow_dispatch:
+
+# Least privilege by default; jobs widen this only where they need to.
+permissions:
+  contents: read
+
+concurrency:
+  group: mirror
+  cancel-in-progress: false
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    outputs:
+      changed: ${{ steps.mirror.outputs.changed }}
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Fetch upstream feed
+        id: mirror
+        env:
+          CF_CLEARANCE: ${{ secrets.CF_CLEARANCE }}
+        run: |
+          ./scripts/mirror.sh
+          # mirror.sh rewrites meta.json (whose mirrored_at is volatile) only on a
+          # real upstream change, so staging public/ leaves an empty diff on no-op
+          # runs — and otherwise holds exactly what the commit step will commit.
+          git add public
+          echo "changed=$(git diff --cached --quiet && echo false || echo true)" >> "$GITHUB_OUTPUT"
+
+      # Pushes made with GITHUB_TOKEN do not trigger workflows, so the push
+      # trigger above cannot loop.
+      - name: Commit changes
+        if: steps.mirror.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Mirror feed from $(jq -r '.feed_updated' public/meta.json)"
+          git push
+
+  # Republishing identical bytes every run would just pile up deployment
+  # records, so scheduled runs deploy only when the mirror actually changed.
+  deploy:
+    needs: mirror
+    if: needs.mirror.outputs.changed == 'true' || github.event_name != 'schedule'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      # main, not the triggering SHA, so we publish the commit the mirror job
+      # just pushed rather than the tree it started from.
+      - uses: actions/checkout@v7
+        with:
+          ref: main
+
+      - uses: actions/configure-pages@v6
+
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: public
+
+      - id: deploy
+        uses: actions/deploy-pages@v5

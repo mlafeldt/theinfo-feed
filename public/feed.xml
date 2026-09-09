@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
+  <id>tag:www.theinformation.com,2005:/feed</id>
+  <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
+  <link rel="hub" href="https://theinformation.superfeedr.com/"/>
+  <title>The Information</title>
+  <updated>2026-09-09T19:59:39Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18008</id>
+    <published>2026-09-09T19:59:39Z</published>
+    <updated>2026-09-09T19:59:39Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/apple-launches-foldable-iphone-duo"/>
+    <title>Apple Launches Foldable iPhone Duo</title>
+    <content type="html">&lt;p&gt;Apple unveiled a much anticipated foldable iPhone at its first product launch featuring brand-new Chief Executive John Ternus.&lt;/p&gt; &lt;p&gt;The iPhone Duo is Apple’s first foldable smartphone—a product category that competitors have been selling for years, but has remained mostly a smaller, niche part of the ...&lt;/p&gt;</content>
+    <author>
+      <name>Aaron Tilley</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18007</id>
+    <published>2026-09-09T16:14:49Z</published>
+    <updated>2026-09-09T16:14:49Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/anthropic-believes-ai-kill-humans-within-next-decade-researcher-says"/>
+    <title>Anthropic Believes AI ‘Could Kill All Humans’ Within the Next Decade, Researcher Says</title>
+    <content type="html">&lt;p&gt;Anthropic safety researcher Evan Hubinger said in a &lt;a href="https://x.com/EvanHub/status/2097497037956891126"&gt;post&lt;/a&gt; on X Tuesday night that his company does “earnestly believe AI could kill all humans,” adding that he believes there’s a greater than a 10% chance that happens within the next decade.&lt;/p&gt; &lt;p&gt;The post immediately sparked outrage and concerns from ...&lt;/p&gt;</content>
+    <author>
+      <name>Stephanie Palazzolo</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17788</id>
+    <published>2026-09-09T14:00:42Z</published>
+    <updated>2026-09-09T14:01:28Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/openai-math-result-stokes-data-sharing-concerns"/>
+    <title>OpenAI Math Result Stokes Data-Sharing Concerns</title>
+    <content type="html">&lt;p&gt;In case you missed it: we got an eye-catching &lt;a href="https://x.com/EvanHub/status/2097497037956891126?s=20"&gt;X post&lt;/a&gt; on Tuesday night from &lt;b&gt;Evan Hubinger&lt;/b&gt;, a leader of &lt;b&gt;Anthropic's&lt;/b&gt; alignment efforts. Responding to the resignation announcement of an Anthropic employee who warned that AI companies aren’t doing enough to ensure AI won't kill humanity, Hubinger wrote that the employee is “correct here—we really do earnestly believe AI could kill all humans! I personally think it is &amp;gt;10% within the next decade.” Hubinger added that he was worried about future AI models, not those currently available, but still, yikes!&lt;/p&gt;&lt;p&gt;Meanwhile, our colleague Jyoti sizes up the significance of &lt;b&gt;Meta’s&lt;/b&gt; new personal AI agent, &lt;b&gt;Muse&lt;/b&gt;, unveiled on Tuesday. That’s below. But before we get to that:&lt;/p&gt;&lt;p&gt;This may go down as the year the AI industry got a crash course in mathematics. Breakthroughs in AI models have yielded announcements on such arcane subjects as the “Erdős unit distance problem” and the “Jacobian Conjecture,” which observers have watched as an indicator of AI progress in other domains.&lt;/p&gt;&lt;p&gt;The latest announcement, &lt;b&gt;OpenAI's&lt;/b&gt; claim on Tuesday that it had solved the vexing “Navier-Stokes existence and smoothness problem,” has drawn attention for another reason: questions over whether its math-genius models may have gained an edge by incorporating data from two human mathematicians that had used OpenAI's &lt;b&gt;Codex&lt;/b&gt; in their work on the same problem. Those questions fed into concerns about the possibility of AI companies &lt;a href="https://www.theinformation.com/newsletters/applied-ai/ai-providers-threat-customers"&gt;learning from customers’ use of their AI models&lt;/a&gt; to develop competing products.&lt;/p&gt;</content>
+    <author>
+      <name>Rocket Drew</name>
+    </author>
+    <author>
+      <name>Tiffany Li</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17785</id>
+    <published>2026-09-09T13:00:44Z</published>
+    <updated>2026-09-09T13:01:11Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/confusion-reigns-white-houses-ai-whitelist"/>
+    <title>Confusion Reigns Over White House’s AI Whitelist</title>
+    <content type="html">&lt;p&gt;It may be one of the hottest tickets in corporate America right now: membership in the “trusted partner” program that allows companies to get access to the most advanced AI models before they’re released to the public. There’s just one problem: no one outside of the Trump administration has a clear idea how to get on that list.&lt;/p&gt;
+
+&lt;p&gt;As laid out in the administration’s &lt;a href="https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/"&gt;executive order&lt;/a&gt; in early June, which established a voluntary testing framework for frontier AI models, these “trusted partners”&amp;mdash; including banks, cybersecurity firms and power utilities&amp;mdash;would use their access to sniff out potential vulnerabilities in their computer systems exposed by the new AI models.&lt;/p&gt;</content>
+    <author>
+      <name>Leo Schwartz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18006</id>
+    <published>2026-09-09T09:33:33Z</published>
+    <updated>2026-09-09T19:07:20Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/openai-works-samsung-next-generation-chips"/>
+    <title>OpenAI Works With Samsung on Next-Generation Chips</title>
+    <content type="html">&lt;p&gt;OpenAI said it is working with Samsung Electronics to develop next-generation chips, deepening a collaboration with the South Korean technology giant that already spans data centers and enterprise sales, Reuters reported.&lt;/p&gt; &lt;p&gt;“One of the areas where we have made the most progress and gained the most ...&lt;/p&gt;</content>
+    <author>
+      <name>Claudia Chong</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18005</id>
+    <published>2026-09-09T08:03:46Z</published>
+    <updated>2026-09-09T14:24:21Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/u-s-accuses-deepseek-alibaba-chinese-ai-firms-large-scale-distillation"/>
+    <title>U.S. Accuses DeepSeek, Alibaba and Other Chinese AI Firms of Large-Scale Distillation </title>
+    <content type="html">&lt;p&gt;The U.S. government has accused six Chinese AI firms of using large-scale distillation to copy the capabilities of American models, in a move that highlights the intensifying AI rivalry between the two nations.&lt;/p&gt; &lt;p&gt;The six Chinese firms under accusation are DeepSeek, Moonshot AI, Alibaba Group, ...&lt;/p&gt;</content>
+    <author>
+      <name>Juro Osawa</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18004</id>
+    <published>2026-09-09T06:18:00Z</published>
+    <updated>2026-09-09T19:07:20Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/google-warns-eu-mandated-changes-worsen-user-experience"/>
+    <title>Google Warns that EU-Mandated Changes Worsen User Experience</title>
+    <content type="html">&lt;p&gt;Google said that changes it rolled out Tuesday to its search results in Europe to satisfy European Union regulators will significantly worsen users’ experience there, Reuters reported.&lt;/p&gt; &lt;p&gt;The company made the changes in response to a ruling, accompanied by a 460 million euro fine, that it violated ...&lt;/p&gt;</content>
+    <author>
+      <name>Jason Dean</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17787</id>
+    <published>2026-09-09T02:30:14Z</published>
+    <updated>2026-09-09T14:22:39Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/china-curbs-humanoid-ipos-unitrees-volatile-debut"/>
+    <title>China Curbs Humanoid IPOs After Unitree’s Volatile Debut</title>
+    <content type="html">&lt;p&gt;Chinese regulators are tightening the approval for humanoid startups seeking to go public after a volatile debut by industry leader Unitree Robotics, as they aim to cool down a sizzling sector rife with copycats but little real technological breakthroughs.&lt;/p&gt;
+
+&lt;p&gt;The Chinese Securities Regulatory Commission recently gave its&amp;nbsp;informal “window guidance” to some investment banks and investment firms that it is raising the bar for granting approval of humanoid IPOs, according to people with knowledge of the matter. Companies must demonstrate they can generate recurring revenue, are on a path to narrow their losses or achieve real innovation before approvals can be considered, the people added.&lt;/p&gt;</content>
+    <author>
+      <name>Qianer Liu</name>
+    </author>
+    <author>
+      <name>Jing Yang</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17786</id>
+    <published>2026-09-09T00:37:51Z</published>
+    <updated>2026-09-09T00:39:30Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/gimlets-three-tranche-deal-reveals-ai-funding-frenzy"/>
+    <title>Gimlet's Three-Tranche Deal Reveals AI Funding Frenzy</title>
+    <content type="html">&lt;p&gt;Gimlet Labs said late last week it had raised $300 million at a valuation of about $3 billion, in a round led by new investor Andreessen Horowitz. Today we have unreported details on how that round, which boosted its valuation by a whopping 16 times from its last PitchBook valuation, came together.&lt;/p&gt;&lt;p&gt;The three-year-old startup, which helps AI developers run models using different AI chips simultaneously, raised the round after the company’s executives told some potential investors that based on signed contracts, OpenAI was likely to spend more than $100 million a year on its services, according to a person familiar with the company. Such outlays, if they transpire, would be significant given it just emerged from stealth in October.&amp;nbsp;&lt;/p&gt;&lt;p&gt;This windfall would be in the future, however. “We have explored possibilities with Gimlet but we are not a paying customer,” said an OpenAI spokesperson.&lt;/p&gt;</content>
+    <author>
+      <name>Phoebe Liu</name>
+    </author>
+    <author>
+      <name>Stephanie Palazzolo</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17784</id>
+    <published>2026-09-09T00:00:49Z</published>
+    <updated>2026-09-09T00:07:40Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/price-cuts-may-rattle-anthropics-ipo-pitch"/>
+    <title>Why Price Cuts May Rattle Anthropic's IPO Pitch</title>
+    <content type="html">&lt;p&gt;Anthropic’s IPO paperwork is expected to become public sometime soon. But it was OpenAI finance chief Sarah Friar who drew a standing-room-only crowd Tuesday at San Francisco’s Palace Hotel, as Goldman Sachs kicked off its annual Communacopia + Technology conference with a Q&amp;amp;A with Friar. In her talk, Friar made clear how important price has become for determining model popularity—a potential problem for Anthropic, widely seen as &lt;a href="https://www.theinformation.com/newsletters/applied-ai/anthropic-customers-bills-80-higher-need-glean-says?rc=9byxri"&gt;the high-end AI provider.&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Friar described how a price cut on OpenAI’s GPT 5.6 Luna model led to a tenfold increase in use, &lt;a href="https://www.theinformation.com/briefings/openai-cfo-touts-user-growth-resulting-lowering-prices?rc=9byxri"&gt;my colleague Anita Ramaswamy reported&lt;/a&gt;, giving OpenAI the highest market share on OpenRouter, a service developers use to access different models. We wrote &lt;a href="https://www.theinformation.com/newsletters/ai-agenda/openai-makes-gains-anthropic-among-openrouter-customers?rc=9byxri"&gt;in mid-August&lt;/a&gt; that Luna had generated more than twice the token usage of Anthropic’s Opus 5 and Sonnet 5 models on OpenRouter. Judging from Friar’s comments Tuesday, the increase in usage was enough to offset the price cut.&lt;/p&gt;</content>
+    <author>
+      <name>Martin Peers</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18003</id>
+    <published>2026-09-08T22:51:18Z</published>
+    <updated>2026-09-09T19:07:20Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/openai-says-ai-agents-solved-prize-math-problem"/>
+    <title>OpenAI Says Its AI Agents Solved Prize Math Problem</title>
+    <content type="html">&lt;p&gt;OpenAI said Tuesday &lt;a href="https://openai.com/index/navier-stokes-solution/"&gt;it had solved a problem that mathematicians&lt;/a&gt; have been grappling with for more than a hundred years. But the achievement set off accusations that OpenAI had leaned on another researcher’s work to solve the problem.&lt;/p&gt; &lt;p&gt;More than 10,000 OpenAI agents worked together to solve the ...&lt;/p&gt;</content>
+    <author>
+      <name>Tiffany Li</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18002</id>
+    <published>2026-09-08T20:45:59Z</published>
+    <updated>2026-09-09T19:07:20Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/cognition-raised-2-billion-48-billion-valuation"/>
+    <title>Cognition Raised Over $2 Billion at a $48 Billion Valuation </title>
+    <content type="html">&lt;p&gt;Cognition, the artificial intelligence startup behind the Devin coding assistant, has raised more than $2 billion at a $48 billion valuation including the new funding, nearly double its valuation in May, the company said Tuesday. The round shows coding agent startups are continuing to thrive ...&lt;/p&gt;</content>
+    <author>
+      <name>Alix Coutures</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18001</id>
+    <published>2026-09-08T20:36:29Z</published>
+    <updated>2026-09-09T19:07:21Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/chime-strikes-deal-buy-stride-bank"/>
+    <title>Chime Strikes Deal to Buy Stride Bank</title>
+    <content type="html">&lt;p&gt;Chime, a fintech company that offers bank accounts and cards to consumers, has struck a deal to buy Stride Bank, an Oklahoma-based institution that has supported Chime behind the scenes for years.&lt;/p&gt; &lt;p&gt;Chime on Tuesday said it will buy Stride Bank for $590 million and will rename the institution ...&lt;/p&gt;</content>
+    <author>
+      <name>Michael Roddan</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18000</id>
+    <published>2026-09-08T19:33:56Z</published>
+    <updated>2026-09-08T20:09:12Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/meta-launches-first-consumer-ai-agent-muse"/>
+    <title>Meta Launches Its First Consumer AI Agent ‘Muse’ </title>
+    <content type="html">&lt;p&gt;Meta Platforms unveiled Muse, its first consumer-facing AI agent, giving users an AI assistant designed to carry out tasks on their behalf across the web.&lt;/p&gt; &lt;p&gt;In a Threads post Tuesday announcing the product, CEO Mark Zuckerberg described Muse as a personal agent that “understands your goals and ...&lt;/p&gt;</content>
+    <author>
+      <name>Jyoti Mann</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/17999</id>
+    <published>2026-09-08T19:16:22Z</published>
+    <updated>2026-09-09T19:07:20Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/white-house-declines-senate-democrats-request-ai-policy-clarity"/>
+    <title>White House Declines Senate Democrats’ Request for AI Policy Clarity</title>
+    <content type="html">&lt;p&gt;Attempts by Senate Democrats to get more clarity about the White House’s AI policies have gone nowhere. A White House official responded last Friday to an August letter from a group of Senate Democrats asking for more details about the White House’s voluntary AI testing framework without a ...&lt;/p&gt;</content>
+    <author>
+      <name>Leo Schwartz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17783</id>
+    <published>2026-09-08T19:06:56Z</published>
+    <updated>2026-09-09T16:23:41Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/hugging-face-making-big-robotics-push"/>
+    <title>Hugging Face Is Making A Big Robotics Push</title>
+    <content type="html">&lt;p&gt;Nvidia is &lt;a href="https://www.theinformation.com/articles/nvidia-agrees-buy-open-source-model-repository-hugging-face-12-9-billion"&gt;paying a steep price for Hugging Face&lt;/a&gt;, a repository of open source models, primarily for its strategic position in the center of the open source AI world. But it turns out Nvidia is also getting a budding robot business that could help CEO Jensen Huang fulfill the promise of “physical AI.”&amp;nbsp;&lt;/p&gt;&lt;p&gt;Hugging Face late last month launched Microduck, a small robot that can walk around and learn skills like roller skating or pointing lasers at walls for cats to chase. The company has already sold more than 15,000 ducks, generating over $6 million in sales, despite limited advertising on X and LinkedIn, Hugging Face co-founder Thomas Wolf told me.&amp;nbsp;&lt;/p&gt;&lt;p&gt;The new robot is part of Hugging Face’s push to sell affordable robots built on open source AI for consumers and developers. That shaped its strategy with its April 2025 acquisition of Pollen Robotics, which previously focused on pricier humanoid robots but shifted to making more affordable, accessible robots after the deal, Wolf explained.&amp;nbsp;&lt;/p&gt;</content>
+    <author>
+      <name>Laura Bratton</name>
+    </author>
+    <author>
+      <name>Rocket Drew</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17782</id>
+    <published>2026-09-08T18:40:21Z</published>
+    <updated>2026-09-08T18:40:22Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/use-google-gemini-market-research-campaign-planning"/>
+    <title>How to Use Google Gemini for Market Research and Campaign Planning</title>
+    <content type="html">&lt;p&gt;For marketers, the start of annual campaign planning is the ultimate blank page.&lt;/p&gt;
+
+&lt;p&gt;Even with access to comprehensive product information and results from past campaigns, it can be daunting to begin pulling this data together and finding ways to improve in the year ahead. Often, marketing leaders are overwhelmed with a combination of highly technical product roadmaps and dense spreadsheets detailing last year’s campaign metrics, and it can take days of manual cross-referencing and analysis to simply figure out where to start.&lt;/p&gt;
+
+&lt;p&gt;By synthesizing market research, product specs, and historical data, Gemini can help your team map out a data-informed go-to-market strategy.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 1: Sketch Out Your Baseline Buyer Personas&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;To start, you can use Gemini’s vast training data to help you build a detailed profile of your target buyers. You’ll need to give Gemini a rough directional target to make sure these personas are as specific as possible. Jot down your timeline, product category, and high-level audience definition, and then ask Gemini to use this information to help you brainstorm ways to reach these buyers.&lt;/p&gt;
+
+&lt;p&gt;Here’s a sample prompt:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;I’m a marketing leader conducting analysis in preparation for next year’s [launch]. Define my target audiences [audiences], for my new line of [product]. Include interests, relevant marketing channels, and top trends that drive their consideration and purchase behavior.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Gemini will return a set of potential audience segments based on your inputs. For example, if you’re marketing a high-end technical jacket, results might include the Active Executive Commuter, the Global Business Traveler, and the Tech-Forward Urbanite, with different purchase drivers for each persona.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 2: Break Down Your Data Silos&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Now that you have your buyer personas sketched out, it’s time to bring in additional information to give Gemini the context it needs to find historical lessons and apply them to your next campaign.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;Gather past campaign performance data, corresponding product information, and your own insights on what worked and what went wrong. Sticking with the example of a premium jacket: Perhaps you will note that social media ads underperformed for last year’s line, with brand-aligned messaging about sustainable manufacturing failing to effectively drive purchase intent. Or, you might note that sponsored videos from travel gear creators drove the highest volume of sales.&lt;/p&gt;
+
+&lt;p&gt;Be as thorough and as specific as possible. The more information Gemini has about the past, the better it can help you plan for the future.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 3: Brainstorm Campaign Messaging&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Now that Gemini has information about your product, your buyers, and your past campaigns, it can help you brainstorm ideas for how to conduct your next campaign.&lt;/p&gt;
+
+&lt;p&gt;Try this prompt:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Brainstorm value props for my [target audiences] based on features from [Product Requirements Document]. Include a section on campaign learnings from [Campaign Performance].&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Gemini will suggest specific value propositions for each buyer persona that it previously outlined. For example, Gemini might note that the Active Executive Commuter is likely to focus on the jacket’s underarm vents, while the Global Business Traveler might care more about the jacket’s hidden pockets.&lt;/p&gt;
+
+&lt;p&gt;Use Gemini’s suggestions as a starting point for campaign messaging, rather than treating them like an unchangeable roadmap. While Gemini can spark ideas, your team’s expertise is needed to identify which of these ideas will work in the real world.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 4: Execute Your Campaign&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;After you’ve finalized your broad campaign messaging, you can come back to Gemini for help executing specific tactics. Here are some prompts you might try:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Turn these value propositions into a creative brief for our design team.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Draft three distinct variations of 15-second ad scripts showcasing [Feature X] for our target audience.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Outline a landing page wireframe that emphasizes these new value props.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Gemini’s creative brief will bring together information about your existing target audience and messaging angles, creative guardrails and format requirements, and key deliverables. Its ad scripts will offer ideas for specific visuals and voiceover text. And its landing page wireframe will outline a design meant to prioritize clarity and conversion, complete with ideas for headlines, hero image, and call to action.&lt;/p&gt;
+
+&lt;p&gt;Here again, you should tweak Gemini’s output, going back and forth in the chat to refine your vision as your campaign planning becomes more concrete. Human intuition will always be part of any successful campaign launch. But when you first use product data and past campaign information to generate initial ideas, you no longer have to start from scratch.&lt;/p&gt;</content>
+    <author>
+      <name>The Information Partnerships</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/17998</id>
+    <published>2026-09-08T18:34:03Z</published>
+    <updated>2026-09-09T09:40:22Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/openai-cfo-touts-user-growth-resulting-lowering-prices"/>
+    <title>OpenAI CFO Touts User Growth Resulting From Lowering Prices  </title>
+    <content type="html">&lt;p&gt;OpenAI’s price cut on its GPT-5.6 Luna model shortly after its release in July resulted in a tenfold increase in model usage, said OpenAI chief financial officer Sarah Friar in an interview on Monday at Goldman Sachs’ Communacopia + Technology conference in San Francisco. Usage of the model is ...&lt;/p&gt;</content>
+    <author>
+      <name>Anita Ramaswamy</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17779</id>
+    <published>2026-09-08T16:01:05Z</published>
+    <updated>2026-09-09T13:15:09Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/ai-threats-reshaping-companies-spend-cybersecurity-budgets"/>
+    <title>AI Threats Are Reshaping Where Companies Spend Their Cybersecurity Budgets</title>
+    <content type="html">&lt;p&gt;The AI hacking threat isn’t just causing companies to jack up their cybersecurity budgets, it’s changing where they spend them.&lt;/p&gt;
+
+&lt;p&gt;Buyers at big companies have significantly raised planned spending on systems that monitor how employees use AI, as well as on AI models that detect vulnerabilities before hackers can and AI-powered tools that speed patching those holes, security executives said.&lt;/p&gt;</content>
+    <author>
+      <name>Aaron Holmes</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17774</id>
+    <published>2026-09-08T13:00:57Z</published>
+    <updated>2026-09-08T13:01:24Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/six-aws-engineers-rebuilt-bedrock-challenge-microsoft"/>
+    <title>How Six AWS Engineers Rebuilt Bedrock to Challenge Microsoft</title>
+    <content type="html">&lt;p&gt;In early 2025, things were tense inside Amazon’s cloud unit. Bedrock, a new service designed to run AI models, was proving buggy. Customers were getting error messages repeatedly and sometimes waiting weeks for the computing capacity they needed, according to people with knowledge of the customer issues.&lt;/p&gt;
+
+&lt;p&gt;As these problems surged, a senior engineering leader, Anthony Liguori, led a team that came up with a plan for a revamped version of Bedrock&amp;mdash;known as Project Mantle&amp;mdash;designed to fix the throttling and error messages and enable the service to scale to serve larger numbers of users, said two of the people with direct knowledge of the situation. Liguori worked with five other senior engineers to build Mantle using AWS’ in-house AI coding tool, Kiro.&lt;/p&gt;</content>
+    <author>
+      <name>Kevin McLaughlin</name>
+    </author>
+    <author>
+      <name>Catherine Perloff</name>
+    </author>
+  </entry>
+</feed>
