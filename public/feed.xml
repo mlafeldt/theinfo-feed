@@ -5,11 +5,22 @@
   <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-09T21:02:21Z</updated>
+  <updated>2026-09-09T21:26:47Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18011</id>
+    <published>2026-09-09T21:26:47Z</published>
+    <updated>2026-09-09T21:26:47Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/mandiant-founder-kevin-mandia-joins-amazons-board"/>
+    <title>Mandiant Founder Kevin Mandia Joins Amazon’s Board </title>
+    <content type="html">&lt;p&gt;Kevin Mandia, a cybersecurity expert who founded Mandiant, is joining Amazon’s board of directors, increasing the board’s size to 12. The board had shrunk briefly after Keith B. Alexander left the board in the spring. Like Mandia, Alexander had a security background—he served as a general in the ...&lt;/p&gt;</content>
+    <author>
+      <name>Catherine Perloff</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18010</id>
     <published>2026-09-09T21:02:21Z</published>
-    <updated>2026-09-09T21:02:21Z</updated>
+    <updated>2026-09-09T21:10:50Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/openai-appoints-white-house-ai-advisor-nonprofit-board"/>
     <title>OpenAI Appoints White House AI Advisor to Nonprofit Board</title>
     <content type="html">&lt;p&gt;OpenAI &lt;a href="https://openai.com/index/paul-christiano-joins-openai-foundation-board/"&gt;announced&lt;/a&gt; on Wednesday that Paul Christiano, a senior technical advisor at the U.S. Commerce Department’s AI center, would be joining the board of the OpenAI Foundation, the charity that has a 26% stake in the company. Christiano will also be a non-voting observer on the board of OpenAI’s ...&lt;/p&gt;</content>
@@ -20,9 +31,9 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17791</id>
     <published>2026-09-09T20:54:54Z</published>
-    <updated>2026-09-09T20:55:59Z</updated>
+    <updated>2026-09-09T21:25:26Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/openai-cuts-adobe-others-advertising-competing-ai-products-chatgpt"/>
-    <title>OpenAI Cuts Off Adobe, Others From Advertising Some Competing AI Products in ChatGPT</title>
+    <title>OpenAI Restricts Adobe and Other Competitors From Advertising in ChatGPT</title>
     <content type="html">&lt;p&gt;OpenAI has told some business partners that it will no longer accept advertising in ChatGPT for image- and audio-generating products&amp;mdash;which compete with its own features.&lt;/p&gt;
 
 &lt;p&gt;The change, which hasn’t been previously reported or reflected in its &lt;a href="https://openai.com/policies/ad-policies/"&gt;published ads policy&lt;/a&gt;, blindsided existing advertisers such as Adobe, which sells such products. And if extended to other competing products, the new policy could narrow OpenAI’s potential ad revenue. OpenAI has given investors aggressive projections for ad growth, which it sees as a key way to make money off its large audience of people who don’t pay for the service.&lt;/p&gt;</content>
@@ -36,7 +47,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18009</id>
     <published>2026-09-09T20:46:06Z</published>
-    <updated>2026-09-09T20:58:25Z</updated>
+    <updated>2026-09-09T21:10:50Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/block-applies-establish-national-bank"/>
     <title>Block Applies to Establish National Bank</title>
     <content type="html">&lt;p&gt;Block, the fintech firm cofounded by Jack Dorsey, said it has applied to federal regulators to establish an uninsured national trust bank called Builders Bank &amp;amp; Trust.&lt;/p&gt; &lt;p&gt;The company has sought approval from the Office of the Comptroller of the Currency to set up the proposed institution, ...&lt;/p&gt;</content>
@@ -58,7 +69,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18007</id>
     <published>2026-09-09T16:14:49Z</published>
-    <updated>2026-09-09T21:02:05Z</updated>
+    <updated>2026-09-09T21:10:50Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/anthropic-believes-ai-kill-humans-within-next-decade-researcher-says"/>
     <title>Anthropic Believes AI ‘Could Kill All Humans’ Within the Next Decade, Researcher Says</title>
     <content type="html">&lt;p&gt;Anthropic safety researcher Evan Hubinger said in a &lt;a href="https://x.com/EvanHub/status/2097497037956891126"&gt;post&lt;/a&gt; on X Tuesday night that his company does “earnestly believe AI could kill all humans,” adding that he believes there’s a greater than a 10% chance that happens within the next decade.&lt;/p&gt; &lt;p&gt;The post immediately sparked outrage and concerns from ...&lt;/p&gt;</content>
@@ -96,7 +107,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18006</id>
     <published>2026-09-09T09:33:33Z</published>
-    <updated>2026-09-09T21:02:06Z</updated>
+    <updated>2026-09-09T21:10:50Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/openai-works-samsung-next-generation-chips"/>
     <title>OpenAI Works With Samsung on Next-Generation Chips</title>
     <content type="html">&lt;p&gt;OpenAI said it is working with Samsung Electronics to develop next-generation chips, deepening a collaboration with the South Korean technology giant that already spans data centers and enterprise sales, Reuters reported.&lt;/p&gt; &lt;p&gt;“One of the areas where we have made the most progress and gained the most ...&lt;/p&gt;</content>
@@ -107,7 +118,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18005</id>
     <published>2026-09-09T08:03:46Z</published>
-    <updated>2026-09-09T20:58:25Z</updated>
+    <updated>2026-09-09T21:10:50Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/u-s-accuses-deepseek-alibaba-chinese-ai-firms-large-scale-distillation"/>
     <title>U.S. Accuses DeepSeek, Alibaba and Other Chinese AI Firms of Large-Scale Distillation </title>
     <content type="html">&lt;p&gt;The U.S. government has accused six Chinese AI firms of using large-scale distillation to copy the capabilities of American models, in a move that highlights the intensifying AI rivalry between the two nations.&lt;/p&gt; &lt;p&gt;The six Chinese firms under accusation are DeepSeek, Moonshot AI, Alibaba Group, ...&lt;/p&gt;</content>
@@ -118,7 +129,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18004</id>
     <published>2026-09-09T06:18:00Z</published>
-    <updated>2026-09-09T21:02:06Z</updated>
+    <updated>2026-09-09T21:10:51Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/google-warns-eu-mandated-changes-worsen-user-experience"/>
     <title>Google Warns that EU-Mandated Changes Worsen User Experience</title>
     <content type="html">&lt;p&gt;Google said that changes it rolled out Tuesday to its search results in Europe to satisfy European Union regulators will significantly worsen users’ experience there, Reuters reported.&lt;/p&gt; &lt;p&gt;The company made the changes in response to a ruling, accompanied by a 460 million euro fine, that it violated ...&lt;/p&gt;</content>
@@ -170,7 +181,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18003</id>
     <published>2026-09-08T22:51:18Z</published>
-    <updated>2026-09-09T21:02:06Z</updated>
+    <updated>2026-09-09T21:10:51Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/openai-says-ai-agents-solved-prize-math-problem"/>
     <title>OpenAI Says Its AI Agents Solved Prize Math Problem</title>
     <content type="html">&lt;p&gt;OpenAI said Tuesday &lt;a href="https://openai.com/index/navier-stokes-solution/"&gt;it had solved a problem that mathematicians&lt;/a&gt; have been grappling with for more than a hundred years. But the achievement set off accusations that OpenAI had leaned on another researcher’s work to solve the problem.&lt;/p&gt; &lt;p&gt;More than 10,000 OpenAI agents worked together to solve the ...&lt;/p&gt;</content>
@@ -181,7 +192,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18002</id>
     <published>2026-09-08T20:45:59Z</published>
-    <updated>2026-09-09T21:02:06Z</updated>
+    <updated>2026-09-09T21:10:51Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/cognition-raised-2-billion-48-billion-valuation"/>
     <title>Cognition Raised Over $2 Billion at a $48 Billion Valuation </title>
     <content type="html">&lt;p&gt;Cognition, the artificial intelligence startup behind the Devin coding assistant, has raised more than $2 billion at a $48 billion valuation including the new funding, nearly double its valuation in May, the company said Tuesday. The round shows coding agent startups are continuing to thrive ...&lt;/p&gt;</content>
@@ -192,7 +203,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18001</id>
     <published>2026-09-08T20:36:29Z</published>
-    <updated>2026-09-09T21:02:06Z</updated>
+    <updated>2026-09-09T21:10:51Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/chime-strikes-deal-buy-stride-bank"/>
     <title>Chime Strikes Deal to Buy Stride Bank</title>
     <content type="html">&lt;p&gt;Chime, a fintech company that offers bank accounts and cards to consumers, has struck a deal to buy Stride Bank, an Oklahoma-based institution that has supported Chime behind the scenes for years.&lt;/p&gt; &lt;p&gt;Chime on Tuesday said it will buy Stride Bank for $590 million and will rename the institution ...&lt;/p&gt;</content>
@@ -203,7 +214,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18000</id>
     <published>2026-09-08T19:33:56Z</published>
-    <updated>2026-09-09T20:58:25Z</updated>
+    <updated>2026-09-09T21:10:50Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/meta-launches-first-consumer-ai-agent-muse"/>
     <title>Meta Launches Its First Consumer AI Agent ‘Muse’ </title>
     <content type="html">&lt;p&gt;Meta Platforms unveiled Muse, its first consumer-facing AI agent, giving users an AI assistant designed to carry out tasks on their behalf across the web.&lt;/p&gt; &lt;p&gt;In a Threads post Tuesday announcing the product, CEO Mark Zuckerberg described Muse as a personal agent that “understands your goals and ...&lt;/p&gt;</content>
@@ -214,7 +225,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/17999</id>
     <published>2026-09-08T19:16:22Z</published>
-    <updated>2026-09-09T21:02:06Z</updated>
+    <updated>2026-09-09T21:10:51Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/white-house-declines-senate-democrats-request-ai-policy-clarity"/>
     <title>White House Declines Senate Democrats’ Request for AI Policy Clarity</title>
     <content type="html">&lt;p&gt;Attempts by Senate Democrats to get more clarity about the White House’s AI policies have gone nowhere. A White House official responded last Friday to an August letter from a group of Senate Democrats asking for more details about the White House’s voluntary AI testing framework without a ...&lt;/p&gt;</content>
@@ -234,65 +245,6 @@
     </author>
     <author>
       <name>Rocket Drew</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Article/17782</id>
-    <published>2026-09-08T18:40:21Z</published>
-    <updated>2026-09-08T18:40:22Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/use-google-gemini-market-research-campaign-planning"/>
-    <title>How to Use Google Gemini for Market Research and Campaign Planning</title>
-    <content type="html">&lt;p&gt;For marketers, the start of annual campaign planning is the ultimate blank page.&lt;/p&gt;
-
-&lt;p&gt;Even with access to comprehensive product information and results from past campaigns, it can be daunting to begin pulling this data together and finding ways to improve in the year ahead. Often, marketing leaders are overwhelmed with a combination of highly technical product roadmaps and dense spreadsheets detailing last year’s campaign metrics, and it can take days of manual cross-referencing and analysis to simply figure out where to start.&lt;/p&gt;
-
-&lt;p&gt;By synthesizing market research, product specs, and historical data, Gemini can help your team map out a data-informed go-to-market strategy.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Step 1: Sketch Out Your Baseline Buyer Personas&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;To start, you can use Gemini’s vast training data to help you build a detailed profile of your target buyers. You’ll need to give Gemini a rough directional target to make sure these personas are as specific as possible. Jot down your timeline, product category, and high-level audience definition, and then ask Gemini to use this information to help you brainstorm ways to reach these buyers.&lt;/p&gt;
-
-&lt;p&gt;Here’s a sample prompt:&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;I’m a marketing leader conducting analysis in preparation for next year’s [launch]. Define my target audiences [audiences], for my new line of [product]. Include interests, relevant marketing channels, and top trends that drive their consideration and purchase behavior.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Gemini will return a set of potential audience segments based on your inputs. For example, if you’re marketing a high-end technical jacket, results might include the Active Executive Commuter, the Global Business Traveler, and the Tech-Forward Urbanite, with different purchase drivers for each persona.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Step 2: Break Down Your Data Silos&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Now that you have your buyer personas sketched out, it’s time to bring in additional information to give Gemini the context it needs to find historical lessons and apply them to your next campaign.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;Gather past campaign performance data, corresponding product information, and your own insights on what worked and what went wrong. Sticking with the example of a premium jacket: Perhaps you will note that social media ads underperformed for last year’s line, with brand-aligned messaging about sustainable manufacturing failing to effectively drive purchase intent. Or, you might note that sponsored videos from travel gear creators drove the highest volume of sales.&lt;/p&gt;
-
-&lt;p&gt;Be as thorough and as specific as possible. The more information Gemini has about the past, the better it can help you plan for the future.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Step 3: Brainstorm Campaign Messaging&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Now that Gemini has information about your product, your buyers, and your past campaigns, it can help you brainstorm ideas for how to conduct your next campaign.&lt;/p&gt;
-
-&lt;p&gt;Try this prompt:&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Brainstorm value props for my [target audiences] based on features from [Product Requirements Document]. Include a section on campaign learnings from [Campaign Performance].&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Gemini will suggest specific value propositions for each buyer persona that it previously outlined. For example, Gemini might note that the Active Executive Commuter is likely to focus on the jacket’s underarm vents, while the Global Business Traveler might care more about the jacket’s hidden pockets.&lt;/p&gt;
-
-&lt;p&gt;Use Gemini’s suggestions as a starting point for campaign messaging, rather than treating them like an unchangeable roadmap. While Gemini can spark ideas, your team’s expertise is needed to identify which of these ideas will work in the real world.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Step 4: Execute Your Campaign&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;After you’ve finalized your broad campaign messaging, you can come back to Gemini for help executing specific tactics. Here are some prompts you might try:&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Turn these value propositions into a creative brief for our design team.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Draft three distinct variations of 15-second ad scripts showcasing [Feature X] for our target audience.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Outline a landing page wireframe that emphasizes these new value props.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Gemini’s creative brief will bring together information about your existing target audience and messaging angles, creative guardrails and format requirements, and key deliverables. Its ad scripts will offer ideas for specific visuals and voiceover text. And its landing page wireframe will outline a design meant to prioritize clarity and conversion, complete with ideas for headlines, hero image, and call to action.&lt;/p&gt;
-
-&lt;p&gt;Here again, you should tweak Gemini’s output, going back and forth in the chat to refine your vision as your campaign planning becomes more concrete. Human intuition will always be part of any successful campaign launch. But when you first use product data and past campaign information to generate initial ideas, you no longer have to start from scratch.&lt;/p&gt;</content>
-    <author>
-      <name>The Information Partnerships</name>
     </author>
   </entry>
 </feed>
