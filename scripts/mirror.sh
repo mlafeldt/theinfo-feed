@@ -48,6 +48,19 @@ if ! grep -q '<feed' "$body" || ! grep -q '<entry' "$body"; then
 	exit 1
 fi
 
+# On 2026-09-10 upstream rendered its Heroku origin hostname into entry links and
+# ids instead of its canonical one, sending readers to a host where no subscriber
+# session can exist. Refuse such a payload outright: a failed run leaves the last
+# good mirror in place, and the next run picks the feed up once upstream recovers.
+# The tag: prefix appears only in Atom ids, so an article that merely mentions the
+# hostname in its body cannot wedge the mirror.
+if grep -q 'tag:info-reader-production\.herokuapp\.com' "$body"; then
+	echo "refusing to mirror: $UPSTREAM leaked its origin hostname into the payload" >&2
+	echo "first offending line:" >&2
+	grep -m1 'tag:info-reader-production\.herokuapp\.com' "$body" >&2
+	exit 1
+fi
+
 # The feed-level <updated> precedes every entry's, so the first match is the one
 # describing the feed as a whole.
 feed_updated=$(grep -m1 -o '<updated>[^<]*</updated>' "$body" | sed 's/<[^>]*>//g')

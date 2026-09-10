@@ -23,8 +23,18 @@ reader back at the original.
 
 `scripts/mirror.sh` fetches the feed, refuses to write anything that is not an Atom feed with
 at least one entry, and rewrites `public/` only when the payload actually changed. The workflow
-commits and redeploys only on a real change, so the history records upstream updates and
-nothing else.
+commits and redeploys only on a real change.
+
+A change in the bytes is not always an editorial one, though. Entries get re-stamped in bulk:
+unrelated briefings, some a day apart in publication, converge on one `<updated>` value while
+their title, summary and author stay byte-identical, and the feed-level `<updated>` moves with
+them. The cause looks like a re-render rather than an edit, so expect commits that carry no new
+writing.
+
+It also fails the run outright if an entry id carries `info-reader-production.herokuapp.com`,
+upstream's Heroku origin hostname, which it briefly rendered into entry links and ids on
+2026-09-10 in place of its own. Those URLs point at a host where no subscriber can sign in, so a
+red run and a stale mirror beat republishing them.
 
 Fetching needs a `CF_CLEARANCE` repository secret. Run it locally with:
 
