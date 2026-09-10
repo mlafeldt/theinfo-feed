@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed</id>
+  <id>tag:www.theinformation.com,2005:/feed?cb=1789045451419</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1789045451419"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-10T10:29:50Z</updated>
+  <updated>2026-09-10T13:03:18Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18013</id>
+    <published>2026-09-10T13:01:01Z</published>
+    <updated>2026-09-10T13:01:01Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/nvidia-deepens-partnership-ai-chip-startup-d-matrix"/>
+    <title>Nvidia Deepens Partnership With AI Chip Startup D-Matrix</title>
+    <content type="html">&lt;p&gt;Chip startup d-Matrix said Thursday it plans to use Nvidia’s networking hardware to connect its chips for running AI models to each other and to Nvidia’s Vera central processing units, which are used in data centers.&lt;/p&gt; &lt;p&gt;The startup will use Nvidia’s NVLink Fusion products, including switches, data ...&lt;/p&gt;</content>
+    <author>
+      <name>Phoebe Liu</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18015</id>
     <published>2026-09-10T10:29:50Z</published>
@@ -145,7 +156,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18007</id>
     <published>2026-09-09T16:14:49Z</published>
-    <updated>2026-09-09T21:10:50Z</updated>
+    <updated>2026-09-10T13:03:18Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/anthropic-believes-ai-kill-humans-within-next-decade-researcher-says"/>
     <title>Anthropic Believes AI ‘Could Kill All Humans’ Within the Next Decade, Researcher Says</title>
     <content type="html">&lt;p&gt;Anthropic safety researcher Evan Hubinger said in a &lt;a href="https://x.com/EvanHub/status/2097497037956891126"&gt;post&lt;/a&gt; on X Tuesday night that his company does “earnestly believe AI could kill all humans,” adding that he believes there’s a greater than a 10% chance that happens within the next decade.&lt;/p&gt; &lt;p&gt;The post immediately sparked outrage and concerns from ...&lt;/p&gt;</content>
@@ -241,17 +252,6 @@
     </author>
     <author>
       <name>Stephanie Palazzolo</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Article/17784</id>
-    <published>2026-09-09T00:00:49Z</published>
-    <updated>2026-09-09T00:07:40Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/price-cuts-may-rattle-anthropics-ipo-pitch"/>
-    <title>Why Price Cuts May Rattle Anthropic's IPO Pitch</title>
-    <content type="html">&lt;p&gt;Anthropic’s IPO paperwork is expected to become public sometime soon. But it was OpenAI finance chief Sarah Friar who drew a standing-room-only crowd Tuesday at San Francisco’s Palace Hotel, as Goldman Sachs kicked off its annual Communacopia + Technology conference with a Q&amp;amp;A with Friar. In her talk, Friar made clear how important price has become for determining model popularity—a potential problem for Anthropic, widely seen as &lt;a href="https://www.theinformation.com/newsletters/applied-ai/anthropic-customers-bills-80-higher-need-glean-says?rc=9byxri"&gt;the high-end AI provider.&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Friar described how a price cut on OpenAI’s GPT 5.6 Luna model led to a tenfold increase in use, &lt;a href="https://www.theinformation.com/briefings/openai-cfo-touts-user-growth-resulting-lowering-prices?rc=9byxri"&gt;my colleague Anita Ramaswamy reported&lt;/a&gt;, giving OpenAI the highest market share on OpenRouter, a service developers use to access different models. We wrote &lt;a href="https://www.theinformation.com/newsletters/ai-agenda/openai-makes-gains-anthropic-among-openrouter-customers?rc=9byxri"&gt;in mid-August&lt;/a&gt; that Luna had generated more than twice the token usage of Anthropic’s Opus 5 and Sonnet 5 models on OpenRouter. Judging from Friar’s comments Tuesday, the increase in usage was enough to offset the price cut.&lt;/p&gt;</content>
-    <author>
-      <name>Martin Peers</name>
     </author>
   </entry>
 </feed>
