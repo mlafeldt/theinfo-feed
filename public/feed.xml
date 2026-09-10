@@ -5,12 +5,12 @@
   <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-10T04:55:42Z</updated>
+  <updated>2026-09-10T07:40:09Z</updated>
   <entry>
-    <id>tag:info-reader-production.herokuapp.com,2005:Briefing/18014</id>
+    <id>tag:www.theinformation.com,2005:Briefing/18014</id>
     <published>2026-09-10T04:55:42Z</published>
-    <updated>2026-09-10T04:55:42Z</updated>
-    <link rel="alternate" type="text/html" href="https://info-reader-production.herokuapp.com/briefings/china-hits-back-u-s-accusation-industrial-scale-ai-distillation"/>
+    <updated>2026-09-10T07:40:09Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/china-hits-back-u-s-accusation-industrial-scale-ai-distillation"/>
     <title>China Hits Back at U.S. Accusation of “Industrial-Scale” AI Distillation </title>
     <content type="html">&lt;p&gt;China’s Ministry of Commerce rejected U.S. accusations that some Chinese AI firms are conducting “industrial-scale distillation” of American AI models, describing Washington’s latest move as an attempt to politicize a “normal technical and commercial issue.”&lt;/p&gt; &lt;p&gt;“China’s open-source models are ...&lt;/p&gt;</content>
     <author>
@@ -18,10 +18,10 @@
     </author>
   </entry>
   <entry>
-    <id>tag:info-reader-production.herokuapp.com,2005:Article/17794</id>
+    <id>tag:www.theinformation.com,2005:Article/17794</id>
     <published>2026-09-10T00:01:27Z</published>
     <updated>2026-09-10T00:08:00Z</updated>
-    <link rel="alternate" type="text/html" href="https://info-reader-production.herokuapp.com/articles/anthropics-ipo-marketing-meets-extinction-risk"/>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/anthropics-ipo-marketing-meets-extinction-risk"/>
     <title>Anthropic’s IPO Marketing Meets Extinction Risk</title>
     <content type="html">&lt;p&gt;Are we sleepwalking our way into AI-caused extinction? It feels a little like that, &lt;a href="https://x.com/EvanHub/status/2097497037956891126?s=20"&gt;given an Anthropic researcher’s&lt;/a&gt; X post on Tuesday night that there’s a greater than 10% chance that “AI could kill all humans” within the next decade! Despite that rather gruesome note, for tech executives posting on X &lt;a href="https://x.com/elonmusk/status/2097753657714573749?s=20"&gt;today&lt;/a&gt;, it was&lt;a href="https://x.com/sama/status/2097695001341829212?s=20"&gt; business as usual&lt;/a&gt;. (See &lt;a href="https://www.theinformation.com/articles/anthropic-researchers-terminator-style-warning-caught-fire?rc=9byxri"&gt;our detailed report&lt;/a&gt; on the episode here).&lt;/p&gt;&lt;p&gt;Plenty of &lt;a href="https://x.com/typesfast/status/2097728838457589800?s=20"&gt;dark humor&lt;/a&gt; circulated about the researcher’s post, however—&lt;a href="https://x.com/buccocapital/status/2097657305273610438?s=20"&gt;this one&lt;/a&gt; joking about a Wall Street analyst asking Anthropic CEO Dario Amodei about the “extinction number” on an earnings call is possibly the best. That joke also highlighted the reality that Anthropic will shortly be marketing its IPO. How will its executives handle the warning on the Wall Street investor road show?&amp;nbsp;&lt;/p&gt;</content>
     <author>
@@ -29,10 +29,10 @@
     </author>
   </entry>
   <entry>
-    <id>tag:info-reader-production.herokuapp.com,2005:Briefing/18012</id>
+    <id>tag:www.theinformation.com,2005:Briefing/18012</id>
     <published>2026-09-09T23:28:55Z</published>
-    <updated>2026-09-09T23:28:55Z</updated>
-    <link rel="alternate" type="text/html" href="https://info-reader-production.herokuapp.com/briefings/anthropic-discloses-fourth-cybersecurity-incident"/>
+    <updated>2026-09-10T07:40:09Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/anthropic-discloses-fourth-cybersecurity-incident"/>
     <title>Anthropic Discloses Fourth Cybersecurity Incident</title>
     <content type="html">&lt;p&gt;Anthropic said Wednesday it had &lt;a href="https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents"&gt;found a fourth cybersecurity incident&lt;/a&gt; involving its Claude models. The company disclosed the new incident, which occurred in January and involved an early version of Claude Opus 4.6, and additional information on three previously known incidents amid growing ...&lt;/p&gt;</content>
     <author>
@@ -40,10 +40,10 @@
     </author>
   </entry>
   <entry>
-    <id>tag:info-reader-production.herokuapp.com,2005:Article/17790</id>
+    <id>tag:www.theinformation.com,2005:Article/17790</id>
     <published>2026-09-09T23:19:39Z</published>
     <updated>2026-09-09T23:50:26Z</updated>
-    <link rel="alternate" type="text/html" href="https://info-reader-production.herokuapp.com/articles/jeffrey-katzenberg-teams-former-openai-sora-head-new-ai-video-startup"/>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/jeffrey-katzenberg-teams-former-openai-sora-head-new-ai-video-startup"/>
     <title>Jeffrey Katzenberg Teams Up with Former OpenAI Sora Head on New AI Video Startup</title>
     <content type="html">&lt;p&gt;Hollywood mogul Jeffrey Katzenberg is teaming up with the former head of OpenAI’s Sora app to launch a new AI startup that would train its own video models and try to win over filmmakers, people familiar with the matter said.&lt;/p&gt;
 
@@ -56,10 +56,10 @@
     </author>
   </entry>
   <entry>
-    <id>tag:info-reader-production.herokuapp.com,2005:Article/17795</id>
+    <id>tag:www.theinformation.com,2005:Article/17795</id>
     <published>2026-09-09T22:53:50Z</published>
     <updated>2026-09-10T03:02:11Z</updated>
-    <link rel="alternate" type="text/html" href="https://info-reader-production.herokuapp.com/articles/anthropic-researchers-terminator-style-warning-caught-fire"/>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/anthropic-researchers-terminator-style-warning-caught-fire"/>
     <title>Why An Anthropic Researcher’s Terminator-Style Warning Caught Fire</title>
     <content type="html">&lt;p&gt;An Anthropic safety researcher’s warning Tuesday that his company believes AI “could kill all humans” within a decade has reverberated throughout Silicon Valley, Wall Street and Washington, potentially complicating the Claude maker’s upcoming initial public offering and its efforts to repair ties with U.S. political leaders.&lt;/p&gt;
 
@@ -72,10 +72,10 @@
     </author>
   </entry>
   <entry>
-    <id>tag:info-reader-production.herokuapp.com,2005:Briefing/18011</id>
+    <id>tag:www.theinformation.com,2005:Briefing/18011</id>
     <published>2026-09-09T21:26:47Z</published>
-    <updated>2026-09-09T21:26:47Z</updated>
-    <link rel="alternate" type="text/html" href="https://info-reader-production.herokuapp.com/briefings/mandiant-founder-kevin-mandia-joins-amazons-board"/>
+    <updated>2026-09-10T07:39:43Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/mandiant-founder-kevin-mandia-joins-amazons-board"/>
     <title>Mandiant Founder Kevin Mandia Joins Amazon’s Board </title>
     <content type="html">&lt;p&gt;Kevin Mandia, a cybersecurity expert who founded Mandiant, is joining Amazon’s board of directors, increasing the board’s size to 12. The board had shrunk briefly after Keith B. Alexander left the board in the spring. Like Mandia, Alexander had a security background—he served as a general in the ...&lt;/p&gt;</content>
     <author>
@@ -83,10 +83,10 @@
     </author>
   </entry>
   <entry>
-    <id>tag:info-reader-production.herokuapp.com,2005:Briefing/18010</id>
+    <id>tag:www.theinformation.com,2005:Briefing/18010</id>
     <published>2026-09-09T21:02:21Z</published>
     <updated>2026-09-09T21:10:50Z</updated>
-    <link rel="alternate" type="text/html" href="https://info-reader-production.herokuapp.com/briefings/openai-appoints-white-house-ai-advisor-nonprofit-board"/>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/openai-appoints-white-house-ai-advisor-nonprofit-board"/>
     <title>OpenAI Appoints White House AI Advisor to Nonprofit Board</title>
     <content type="html">&lt;p&gt;OpenAI &lt;a href="https://openai.com/index/paul-christiano-joins-openai-foundation-board/"&gt;announced&lt;/a&gt; on Wednesday that Paul Christiano, a senior technical advisor at the U.S. Commerce Department’s AI center, would be joining the board of the OpenAI Foundation, the charity that has a 26% stake in the company. Christiano will also be a non-voting observer on the board of OpenAI’s ...&lt;/p&gt;</content>
     <author>
@@ -94,10 +94,10 @@
     </author>
   </entry>
   <entry>
-    <id>tag:info-reader-production.herokuapp.com,2005:Article/17791</id>
+    <id>tag:www.theinformation.com,2005:Article/17791</id>
     <published>2026-09-09T20:54:54Z</published>
     <updated>2026-09-10T01:02:42Z</updated>
-    <link rel="alternate" type="text/html" href="https://info-reader-production.herokuapp.com/articles/openai-cuts-adobe-others-advertising-competing-ai-products-chatgpt"/>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/openai-cuts-adobe-others-advertising-competing-ai-products-chatgpt"/>
     <title>OpenAI Restricts Adobe and Other Competitors From Advertising in ChatGPT</title>
     <content type="html">&lt;p&gt;OpenAI has told some business partners that it will no longer accept advertising in ChatGPT for image- and audio-generating products&amp;mdash;which compete with its own features.&lt;/p&gt;
 
@@ -110,10 +110,10 @@
     </author>
   </entry>
   <entry>
-    <id>tag:info-reader-production.herokuapp.com,2005:Briefing/18009</id>
+    <id>tag:www.theinformation.com,2005:Briefing/18009</id>
     <published>2026-09-09T20:46:06Z</published>
-    <updated>2026-09-09T21:10:50Z</updated>
-    <link rel="alternate" type="text/html" href="https://info-reader-production.herokuapp.com/briefings/block-applies-establish-national-bank"/>
+    <updated>2026-09-10T07:40:09Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/block-applies-establish-national-bank"/>
     <title>Block Applies to Establish National Bank</title>
     <content type="html">&lt;p&gt;Block, the fintech firm cofounded by Jack Dorsey, said it has applied to federal regulators to establish an uninsured national trust bank called Builders Bank &amp;amp; Trust.&lt;/p&gt; &lt;p&gt;The company has sought approval from the Office of the Comptroller of the Currency to set up the proposed institution, ...&lt;/p&gt;</content>
     <author>
@@ -121,10 +121,10 @@
     </author>
   </entry>
   <entry>
-    <id>tag:info-reader-production.herokuapp.com,2005:Briefing/18008</id>
+    <id>tag:www.theinformation.com,2005:Briefing/18008</id>
     <published>2026-09-09T19:59:39Z</published>
     <updated>2026-09-09T20:58:25Z</updated>
-    <link rel="alternate" type="text/html" href="https://info-reader-production.herokuapp.com/briefings/apple-launches-foldable-iphone-duo"/>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/apple-launches-foldable-iphone-duo"/>
     <title>Apple Launches Foldable iPhone Duo</title>
     <content type="html">&lt;p&gt;Apple unveiled a much anticipated foldable iPhone at its first product launch featuring brand-new Chief Executive John Ternus.&lt;/p&gt; &lt;p&gt;The iPhone Duo is Apple’s first foldable smartphone—a product category that competitors have been selling for years, but has remained mostly a smaller, niche part of the ...&lt;/p&gt;</content>
     <author>
@@ -132,10 +132,10 @@
     </author>
   </entry>
   <entry>
-    <id>tag:info-reader-production.herokuapp.com,2005:Briefing/18007</id>
+    <id>tag:www.theinformation.com,2005:Briefing/18007</id>
     <published>2026-09-09T16:14:49Z</published>
     <updated>2026-09-09T21:10:50Z</updated>
-    <link rel="alternate" type="text/html" href="https://info-reader-production.herokuapp.com/briefings/anthropic-believes-ai-kill-humans-within-next-decade-researcher-says"/>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/anthropic-believes-ai-kill-humans-within-next-decade-researcher-says"/>
     <title>Anthropic Believes AI ‘Could Kill All Humans’ Within the Next Decade, Researcher Says</title>
     <content type="html">&lt;p&gt;Anthropic safety researcher Evan Hubinger said in a &lt;a href="https://x.com/EvanHub/status/2097497037956891126"&gt;post&lt;/a&gt; on X Tuesday night that his company does “earnestly believe AI could kill all humans,” adding that he believes there’s a greater than a 10% chance that happens within the next decade.&lt;/p&gt; &lt;p&gt;The post immediately sparked outrage and concerns from ...&lt;/p&gt;</content>
     <author>
@@ -143,10 +143,10 @@
     </author>
   </entry>
   <entry>
-    <id>tag:info-reader-production.herokuapp.com,2005:Article/17788</id>
+    <id>tag:www.theinformation.com,2005:Article/17788</id>
     <published>2026-09-09T14:00:42Z</published>
     <updated>2026-09-09T14:01:28Z</updated>
-    <link rel="alternate" type="text/html" href="https://info-reader-production.herokuapp.com/articles/openai-math-result-stokes-data-sharing-concerns"/>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/openai-math-result-stokes-data-sharing-concerns"/>
     <title>OpenAI Math Result Stokes Data-Sharing Concerns</title>
     <content type="html">&lt;p&gt;In case you missed it: we got an eye-catching &lt;a href="https://x.com/EvanHub/status/2097497037956891126?s=20"&gt;X post&lt;/a&gt; on Tuesday night from &lt;b&gt;Evan Hubinger&lt;/b&gt;, a leader of &lt;b&gt;Anthropic's&lt;/b&gt; alignment efforts. Responding to the resignation announcement of an Anthropic employee who warned that AI companies aren’t doing enough to ensure AI won't kill humanity, Hubinger wrote that the employee is “correct here—we really do earnestly believe AI could kill all humans! I personally think it is &amp;gt;10% within the next decade.” Hubinger added that he was worried about future AI models, not those currently available, but still, yikes!&lt;/p&gt;&lt;p&gt;Meanwhile, our colleague Jyoti sizes up the significance of &lt;b&gt;Meta’s&lt;/b&gt; new personal AI agent, &lt;b&gt;Muse&lt;/b&gt;, unveiled on Tuesday. That’s below. But before we get to that:&lt;/p&gt;&lt;p&gt;This may go down as the year the AI industry got a crash course in mathematics. Breakthroughs in AI models have yielded announcements on such arcane subjects as the “Erdős unit distance problem” and the “Jacobian Conjecture,” which observers have watched as an indicator of AI progress in other domains.&lt;/p&gt;&lt;p&gt;The latest announcement, &lt;b&gt;OpenAI's&lt;/b&gt; claim on Tuesday that it had solved the vexing “Navier-Stokes existence and smoothness problem,” has drawn attention for another reason: questions over whether its math-genius models may have gained an edge by incorporating data from two human mathematicians that had used OpenAI's &lt;b&gt;Codex&lt;/b&gt; in their work on the same problem. Those questions fed into concerns about the possibility of AI companies &lt;a href="https://www.theinformation.com/newsletters/applied-ai/ai-providers-threat-customers"&gt;learning from customers’ use of their AI models&lt;/a&gt; to develop competing products.&lt;/p&gt;</content>
     <author>
@@ -157,10 +157,10 @@
     </author>
   </entry>
   <entry>
-    <id>tag:info-reader-production.herokuapp.com,2005:Article/17785</id>
+    <id>tag:www.theinformation.com,2005:Article/17785</id>
     <published>2026-09-09T13:00:44Z</published>
     <updated>2026-09-09T13:01:11Z</updated>
-    <link rel="alternate" type="text/html" href="https://info-reader-production.herokuapp.com/articles/confusion-reigns-white-houses-ai-whitelist"/>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/confusion-reigns-white-houses-ai-whitelist"/>
     <title>Confusion Reigns Over White House’s AI Whitelist</title>
     <content type="html">&lt;p&gt;It may be one of the hottest tickets in corporate America right now: membership in the “trusted partner” program that allows companies to get access to the most advanced AI models before they’re released to the public. There’s just one problem: no one outside of the Trump administration has a clear idea how to get on that list.&lt;/p&gt;
 
@@ -170,10 +170,10 @@
     </author>
   </entry>
   <entry>
-    <id>tag:info-reader-production.herokuapp.com,2005:Briefing/18006</id>
+    <id>tag:www.theinformation.com,2005:Briefing/18006</id>
     <published>2026-09-09T09:33:33Z</published>
-    <updated>2026-09-09T21:10:50Z</updated>
-    <link rel="alternate" type="text/html" href="https://info-reader-production.herokuapp.com/briefings/openai-works-samsung-next-generation-chips"/>
+    <updated>2026-09-10T07:39:43Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/openai-works-samsung-next-generation-chips"/>
     <title>OpenAI Works With Samsung on Next-Generation Chips</title>
     <content type="html">&lt;p&gt;OpenAI said it is working with Samsung Electronics to develop next-generation chips, deepening a collaboration with the South Korean technology giant that already spans data centers and enterprise sales, Reuters reported.&lt;/p&gt; &lt;p&gt;“One of the areas where we have made the most progress and gained the most ...&lt;/p&gt;</content>
     <author>
@@ -181,10 +181,10 @@
     </author>
   </entry>
   <entry>
-    <id>tag:info-reader-production.herokuapp.com,2005:Briefing/18005</id>
+    <id>tag:www.theinformation.com,2005:Briefing/18005</id>
     <published>2026-09-09T08:03:46Z</published>
-    <updated>2026-09-09T21:10:50Z</updated>
-    <link rel="alternate" type="text/html" href="https://info-reader-production.herokuapp.com/briefings/u-s-accuses-deepseek-alibaba-chinese-ai-firms-large-scale-distillation"/>
+    <updated>2026-09-10T07:39:44Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/u-s-accuses-deepseek-alibaba-chinese-ai-firms-large-scale-distillation"/>
     <title>U.S. Accuses DeepSeek, Alibaba and Other Chinese AI Firms of Large-Scale Distillation </title>
     <content type="html">&lt;p&gt;The U.S. government has accused six Chinese AI firms of using large-scale distillation to copy the capabilities of American models, in a move that highlights the intensifying AI rivalry between the two nations.&lt;/p&gt; &lt;p&gt;The six Chinese firms under accusation are DeepSeek, Moonshot AI, Alibaba Group, ...&lt;/p&gt;</content>
     <author>
@@ -192,10 +192,10 @@
     </author>
   </entry>
   <entry>
-    <id>tag:info-reader-production.herokuapp.com,2005:Briefing/18004</id>
+    <id>tag:www.theinformation.com,2005:Briefing/18004</id>
     <published>2026-09-09T06:18:00Z</published>
-    <updated>2026-09-09T21:10:51Z</updated>
-    <link rel="alternate" type="text/html" href="https://info-reader-production.herokuapp.com/briefings/google-warns-eu-mandated-changes-worsen-user-experience"/>
+    <updated>2026-09-10T07:39:44Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/google-warns-eu-mandated-changes-worsen-user-experience"/>
     <title>Google Warns that EU-Mandated Changes Worsen User Experience</title>
     <content type="html">&lt;p&gt;Google said that changes it rolled out Tuesday to its search results in Europe to satisfy European Union regulators will significantly worsen users’ experience there, Reuters reported.&lt;/p&gt; &lt;p&gt;The company made the changes in response to a ruling, accompanied by a 460 million euro fine, that it violated ...&lt;/p&gt;</content>
     <author>
@@ -203,10 +203,10 @@
     </author>
   </entry>
   <entry>
-    <id>tag:info-reader-production.herokuapp.com,2005:Article/17787</id>
+    <id>tag:www.theinformation.com,2005:Article/17787</id>
     <published>2026-09-09T02:30:14Z</published>
     <updated>2026-09-09T14:22:39Z</updated>
-    <link rel="alternate" type="text/html" href="https://info-reader-production.herokuapp.com/articles/china-curbs-humanoid-ipos-unitrees-volatile-debut"/>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/china-curbs-humanoid-ipos-unitrees-volatile-debut"/>
     <title>China Curbs Humanoid IPOs After Unitree’s Volatile Debut</title>
     <content type="html">&lt;p&gt;Chinese regulators are tightening the approval for humanoid startups seeking to go public after a volatile debut by industry leader Unitree Robotics, as they aim to cool down a sizzling sector rife with copycats but little real technological breakthroughs.&lt;/p&gt;
 
@@ -219,10 +219,10 @@
     </author>
   </entry>
   <entry>
-    <id>tag:info-reader-production.herokuapp.com,2005:Article/17786</id>
+    <id>tag:www.theinformation.com,2005:Article/17786</id>
     <published>2026-09-09T00:37:51Z</published>
     <updated>2026-09-09T00:39:30Z</updated>
-    <link rel="alternate" type="text/html" href="https://info-reader-production.herokuapp.com/articles/gimlets-three-tranche-deal-reveals-ai-funding-frenzy"/>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/gimlets-three-tranche-deal-reveals-ai-funding-frenzy"/>
     <title>Gimlet's Three-Tranche Deal Reveals AI Funding Frenzy</title>
     <content type="html">&lt;p&gt;Gimlet Labs said late last week it had raised $300 million at a valuation of about $3 billion, in a round led by new investor Andreessen Horowitz. Today we have unreported details on how that round, which boosted its valuation by a whopping 16 times from its last PitchBook valuation, came together.&lt;/p&gt;&lt;p&gt;The three-year-old startup, which helps AI developers run models using different AI chips simultaneously, raised the round after the company’s executives told some potential investors that based on signed contracts, OpenAI was likely to spend more than $100 million a year on its services, according to a person familiar with the company. Such outlays, if they transpire, would be significant given it just emerged from stealth in October.&amp;nbsp;&lt;/p&gt;&lt;p&gt;This windfall would be in the future, however. “We have explored possibilities with Gimlet but we are not a paying customer,” said an OpenAI spokesperson.&lt;/p&gt;</content>
     <author>
@@ -233,10 +233,10 @@
     </author>
   </entry>
   <entry>
-    <id>tag:info-reader-production.herokuapp.com,2005:Article/17784</id>
+    <id>tag:www.theinformation.com,2005:Article/17784</id>
     <published>2026-09-09T00:00:49Z</published>
     <updated>2026-09-09T00:07:40Z</updated>
-    <link rel="alternate" type="text/html" href="https://info-reader-production.herokuapp.com/articles/price-cuts-may-rattle-anthropics-ipo-pitch"/>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/price-cuts-may-rattle-anthropics-ipo-pitch"/>
     <title>Why Price Cuts May Rattle Anthropic's IPO Pitch</title>
     <content type="html">&lt;p&gt;Anthropic’s IPO paperwork is expected to become public sometime soon. But it was OpenAI finance chief Sarah Friar who drew a standing-room-only crowd Tuesday at San Francisco’s Palace Hotel, as Goldman Sachs kicked off its annual Communacopia + Technology conference with a Q&amp;amp;A with Friar. In her talk, Friar made clear how important price has become for determining model popularity—a potential problem for Anthropic, widely seen as &lt;a href="https://www.theinformation.com/newsletters/applied-ai/anthropic-customers-bills-80-higher-need-glean-says?rc=9byxri"&gt;the high-end AI provider.&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Friar described how a price cut on OpenAI’s GPT 5.6 Luna model led to a tenfold increase in use, &lt;a href="https://www.theinformation.com/briefings/openai-cfo-touts-user-growth-resulting-lowering-prices?rc=9byxri"&gt;my colleague Anita Ramaswamy reported&lt;/a&gt;, giving OpenAI the highest market share on OpenRouter, a service developers use to access different models. We wrote &lt;a href="https://www.theinformation.com/newsletters/ai-agenda/openai-makes-gains-anthropic-among-openrouter-customers?rc=9byxri"&gt;in mid-August&lt;/a&gt; that Luna had generated more than twice the token usage of Anthropic’s Opus 5 and Sonnet 5 models on OpenRouter. Judging from Friar’s comments Tuesday, the increase in usage was enough to offset the price cut.&lt;/p&gt;</content>
     <author>
@@ -244,10 +244,10 @@
     </author>
   </entry>
   <entry>
-    <id>tag:info-reader-production.herokuapp.com,2005:Briefing/18003</id>
+    <id>tag:www.theinformation.com,2005:Briefing/18003</id>
     <published>2026-09-08T22:51:18Z</published>
     <updated>2026-09-09T21:10:51Z</updated>
-    <link rel="alternate" type="text/html" href="https://info-reader-production.herokuapp.com/briefings/openai-says-ai-agents-solved-prize-math-problem"/>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/openai-says-ai-agents-solved-prize-math-problem"/>
     <title>OpenAI Says Its AI Agents Solved Prize Math Problem</title>
     <content type="html">&lt;p&gt;OpenAI said Tuesday &lt;a href="https://openai.com/index/navier-stokes-solution/"&gt;it had solved a problem that mathematicians&lt;/a&gt; have been grappling with for more than a hundred years. But the achievement set off accusations that OpenAI had leaned on another researcher’s work to solve the problem.&lt;/p&gt; &lt;p&gt;More than 10,000 OpenAI agents worked together to solve the ...&lt;/p&gt;</content>
     <author>
