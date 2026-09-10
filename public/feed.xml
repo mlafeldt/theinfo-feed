@@ -1,15 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed</id>
+  <id>tag:www.theinformation.com,2005:/feed?cb=1789081360823</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1789081360823"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-10T20:50:37Z</updated>
+  <updated>2026-09-10T23:01:54Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18024</id>
+    <published>2026-09-10T23:01:54Z</published>
+    <updated>2026-09-10T23:01:54Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/adobe-shares-drop-2-despite-ai-product-sales-growth"/>
+    <title>Adobe Shares Drop 2% Despite AI Product Sales Growth</title>
+    <content type="html">&lt;p&gt;Adobe Systems shares dipped 2% late Thursday after its third-quarter earnings report, as some investors appear to unsure about how much its AI products will drive future revenue growth.&lt;/p&gt; &lt;p&gt;Adobe, which began breaking out revenue for its AI products in March, is continuing to highlight this area of ...&lt;/p&gt;</content>
+    <author>
+      <name>Kevin McLaughlin</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18023</id>
+    <published>2026-09-10T22:38:57Z</published>
+    <updated>2026-09-10T22:44:40Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/anthropic-says-blocked-bioweapons-efforts-detected-chinese-distillation-attacks"/>
+    <title>Anthropic Says It Blocked Bioweapons Efforts and Detected Chinese Distillation Attacks</title>
+    <content type="html">&lt;p&gt;Anthropic has disrupted several &lt;a href="https://www-cdn.anthropic.com/e50be2e51e7695dc4b1366a37a245a597377d3b5/Anthropic-Detecting-and-countering-091026.pdf"&gt;attempts to use its Claude models for potentially malicious activity&lt;/a&gt;, including research into how to adapt bird flu to a human-transmittable strain with “pandemic potential,” the company said in a report Thursday.&lt;/p&gt; &lt;p&gt;Amid increasing worry about AI misuse and &lt;a href="https://www.theinformation.com/articles/anthropic-researchers-terminator-style-warning-caught-fire"&gt;rogue ...&lt;/a&gt;&lt;/p&gt;</content>
+    <author>
+      <name>Tiffany Li</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17801</id>
+    <published>2026-09-10T22:29:45Z</published>
+    <updated>2026-09-10T23:00:07Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/personal-ai-app-instinct-faces-compute-crunch-lead-new-funding"/>
+    <title>Personal AI App Instinct Faces Compute Crunch That Could Lead to New Funding</title>
+    <content type="html">&lt;p&gt;The year-old startup behind Instinct, a personal AI assistant that’s caught fire with Silicon Valley insiders, is seeking more computing power, leveraging its early buzz as it faces new competition from giant Meta Platforms.&lt;/p&gt;
+
+&lt;p&gt;Over the last few weeks, Instinct, which launched to a select group of users earlier this year, has sometimes notified users that it is running at full capacity and “responses may be slower” as people use it for tasks such as negotiating bills and answering emails. More cash could help: the company is looking to raise $1 billion in new funding after recently raising $250 million, its founder and CEO Noah Shinn has recently told prospective investors, according to a person familiar with the statement.&lt;/p&gt;</content>
+    <author>
+      <name>Stephanie Palazzolo</name>
+    </author>
+    <author>
+      <name>Valida Pau</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18022</id>
+    <published>2026-09-10T22:28:52Z</published>
+    <updated>2026-09-10T22:28:52Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/spacex-signs-another-compute-deal-new-customer"/>
+    <title>SpaceX Signs Another Compute Deal With New Customer</title>
+    <content type="html">&lt;p&gt;SpaceX has signed another cloud computing rental deal to an identified customer that will pay it about $1.11 billion per month starting on Dec. 1, the company’s chief financial officer, Bret Johnsen, said in an interview at Goldman Sachs’ Communacopia + Technology conference on Thursday.&lt;/p&gt; &lt;p&gt;The ...&lt;/p&gt;</content>
+    <author>
+      <name>Anita Ramaswamy</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18021</id>
+    <published>2026-09-10T22:11:03Z</published>
+    <updated>2026-09-10T22:44:04Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/microsoft-hurt-server-shortage-aims-triple-cloud-capacity-2032"/>
+    <title>Microsoft, Hurt By Server Shortage, Aims to Triple Cloud Capacity by 2032</title>
+    <content type="html">&lt;p&gt;Microsoft is planning to more than triple the size of its Azure cloud unit’s data center capacity to over 38 gigawatts by 2032, up from 12 gigawatts today, &lt;a href="https://www.bloomberg.com/news/features/2026-09-10/microsoft-ai-focused-data-center-plan-to-add-26-gigawatts-of-compute"&gt;Bloomberg reported Thursday.&lt;/a&gt; A gigawatt of capacity would be able to power a city the size of San Francisco.&lt;/p&gt; &lt;p&gt;The planned buildout reflects ...&lt;/p&gt;</content>
+    <author>
+      <name>Aaron Holmes</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18020</id>
     <published>2026-09-10T20:29:50Z</published>
-    <updated>2026-09-10T20:29:50Z</updated>
+    <updated>2026-09-10T22:10:33Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/oracle-reports-30-topline-growth-august-quarter"/>
     <title>Oracle Reports 30% Topline Growth for August Quarter</title>
     <content type="html">&lt;p&gt;Oracle reported 30% growth in revenue of $19.3 billion for the quarter ending Aug. 31, a slightly better growth rate than the company projected in June, even as it burned $5 billion to expand the data centers that are driving its accelerating topline growth.&lt;/p&gt; &lt;p&gt;The software and cloud firm said ...&lt;/p&gt;</content>
@@ -59,7 +119,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18019</id>
     <published>2026-09-10T15:30:56Z</published>
-    <updated>2026-09-10T20:29:21Z</updated>
+    <updated>2026-09-10T22:44:40Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/sen-josh-hawley-launches-investigation-openai-hugging-face-hack"/>
     <title>Sen. Josh Hawley Launches Investigation Into OpenAI Hugging Face Hack</title>
     <content type="html">&lt;p&gt;The U.S. Senate formally launched an investigation into the July hack of Hugging Face, when a swarm of OpenAI agents broke out of a testing environment and gained access to the open-source repository.&lt;/p&gt; &lt;p&gt;In a &lt;a href="https://www.documentcloud.org/documents/28609385-hawley-hugging-face-openai-letter/"&gt;letter&lt;/a&gt; sent to OpenAI CEO Sam Altman on Wednesday, Republican Sen. Josh Hawley said that ...&lt;/p&gt;</content>
@@ -70,7 +130,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18018</id>
     <published>2026-09-10T15:19:23Z</published>
-    <updated>2026-09-10T20:29:21Z</updated>
+    <updated>2026-09-10T22:44:39Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/bending-spoons-buys-miro-1-355-billion"/>
     <title>Bending Spoons Buys Miro For $1.355 Billion</title>
     <content type="html">&lt;p&gt;Italian digital conglomerate Bending Spoons is buying&amp;nbsp;whiteboarding software firm Miro at a valuation of $1.355 billion, the latest in a series of purchases the Italian firm has done at knock-down prices.&lt;/p&gt; &lt;p&gt;The price for Miro is a huge discount to its peak valuation of $17.5 billion, dating ...&lt;/p&gt;</content>
@@ -145,7 +205,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18017</id>
     <published>2026-09-10T14:00:16Z</published>
-    <updated>2026-09-10T20:29:21Z</updated>
+    <updated>2026-09-10T22:44:40Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/amazon-helping-advertisers-buy-ads-chatgpt"/>
     <title>Amazon Is Helping Advertisers Buy Ads on ChatGPT</title>
     <content type="html">&lt;p&gt;Amazon is letting advertisers test buying ads on ChatGPT via Amazon’s advertising technology platform, Amazon said on Sept. 10.&lt;/p&gt; &lt;p&gt;ChatGPT started selling ads earlier this year, which it has let advertisers buy through its own interface and via partnerships with smaller advertising technology firms ...&lt;/p&gt;</content>
@@ -156,7 +216,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18016</id>
     <published>2026-09-10T13:31:42Z</published>
-    <updated>2026-09-10T20:29:21Z</updated>
+    <updated>2026-09-10T22:44:40Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/doj-investigating-nvidias-licensing-deal-chip-startup-groq"/>
     <title>The DOJ Is Investigating Nvidia’s Licensing Deal With Chip Startup Groq</title>
     <content type="html">&lt;p&gt;The Department of Justice is looking into whether Nvidia tried to avoid antitrust scrutiny in its $20 billion deal to license the technology of chip startup Groq and hire most of its employees in December, &lt;a href="https://www.nytimes.com/2026/09/09/business/nvidia-groq-antitrust.html?smid=nytcore-ios-share"&gt;the New York Times reported&lt;/a&gt; Wednesday.&lt;/p&gt; &lt;p&gt;The two companies described the deal as a “ ...&lt;/p&gt;</content>
@@ -180,7 +240,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18013</id>
     <published>2026-09-10T13:01:01Z</published>
-    <updated>2026-09-10T20:29:22Z</updated>
+    <updated>2026-09-10T22:44:40Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/nvidia-deepens-partnership-ai-chip-startup-d-matrix"/>
     <title>Nvidia Deepens Partnership With AI Chip Startup D-Matrix</title>
     <content type="html">&lt;p&gt;Chip startup d-Matrix said Thursday it plans to use Nvidia’s networking hardware to connect its chips for running AI models to each other and to Nvidia’s Vera central processing units, which are used in data centers.&lt;/p&gt; &lt;p&gt;The startup will use Nvidia’s NVLink Fusion products, including switches, data ...&lt;/p&gt;</content>
@@ -191,7 +251,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18015</id>
     <published>2026-09-10T10:29:50Z</published>
-    <updated>2026-09-10T20:29:22Z</updated>
+    <updated>2026-09-10T22:44:40Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/chinese-ceo-laments-robotics-firms-fabricate-revenue"/>
     <title>Chinese CEO Laments Many Robotics Firms Fabricate Revenue </title>
     <content type="html">&lt;p&gt;The co-founder and CEO of Mech-Mind Robotics, a Beijing-based robotics firm that recently went public, said in a post on WeChat on Thursday that many Chinese embodied AI companies are “creating false and unsustainable revenue,” in response to The Information’s &lt;a href="https://www.theinformation.com/articles/china-curbs-humanoid-ipos-unitrees-volatile-debut?rc=jnr9wn"&gt;scoop&lt;/a&gt; on Chinese regulators ...&lt;/p&gt;</content>
@@ -202,7 +262,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18014</id>
     <published>2026-09-10T04:55:42Z</published>
-    <updated>2026-09-10T20:29:22Z</updated>
+    <updated>2026-09-10T22:44:40Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/china-hits-back-u-s-accusation-industrial-scale-ai-distillation"/>
     <title>China Hits Back at U.S. Accusation of “Industrial-Scale” AI Distillation </title>
     <content type="html">&lt;p&gt;China’s Ministry of Commerce rejected U.S. accusations that some Chinese AI firms are conducting “industrial-scale distillation” of American AI models, describing Washington’s latest move as an attempt to politicize a “normal technical and commercial issue.”&lt;/p&gt; &lt;p&gt;“China’s open-source models are ...&lt;/p&gt;</content>
@@ -219,71 +279,6 @@
     <content type="html">&lt;p&gt;Are we sleepwalking our way into AI-caused extinction? It feels a little like that, &lt;a href="https://x.com/EvanHub/status/2097497037956891126?s=20"&gt;given an Anthropic researcher’s&lt;/a&gt; X post on Tuesday night that there’s a greater than 10% chance that “AI could kill all humans” within the next decade! Despite that rather gruesome note, for tech executives posting on X &lt;a href="https://x.com/elonmusk/status/2097753657714573749?s=20"&gt;today&lt;/a&gt;, it was&lt;a href="https://x.com/sama/status/2097695001341829212?s=20"&gt; business as usual&lt;/a&gt;. (See &lt;a href="https://www.theinformation.com/articles/anthropic-researchers-terminator-style-warning-caught-fire?rc=9byxri"&gt;our detailed report&lt;/a&gt; on the episode here).&lt;/p&gt;&lt;p&gt;Plenty of &lt;a href="https://x.com/typesfast/status/2097728838457589800?s=20"&gt;dark humor&lt;/a&gt; circulated about the researcher’s post, however—&lt;a href="https://x.com/buccocapital/status/2097657305273610438?s=20"&gt;this one&lt;/a&gt; joking about a Wall Street analyst asking Anthropic CEO Dario Amodei about the “extinction number” on an earnings call is possibly the best. That joke also highlighted the reality that Anthropic will shortly be marketing its IPO. How will its executives handle the warning on the Wall Street investor road show?&amp;nbsp;&lt;/p&gt;</content>
     <author>
       <name>Martin Peers</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18012</id>
-    <published>2026-09-09T23:28:55Z</published>
-    <updated>2026-09-10T20:29:22Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/anthropic-discloses-fourth-cybersecurity-incident"/>
-    <title>Anthropic Discloses Fourth Cybersecurity Incident</title>
-    <content type="html">&lt;p&gt;Anthropic said Wednesday it had &lt;a href="https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents"&gt;found a fourth cybersecurity incident&lt;/a&gt; involving its Claude models. The company disclosed the new incident, which occurred in January and involved an early version of Claude Opus 4.6, and additional information on three previously known incidents amid growing ...&lt;/p&gt;</content>
-    <author>
-      <name>Tiffany Li</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Article/17790</id>
-    <published>2026-09-09T23:19:39Z</published>
-    <updated>2026-09-09T23:50:26Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/jeffrey-katzenberg-teams-former-openai-sora-head-new-ai-video-startup"/>
-    <title>Jeffrey Katzenberg Teams Up with Former OpenAI Sora Head on New AI Video Startup</title>
-    <content type="html">&lt;p&gt;Hollywood mogul Jeffrey Katzenberg is teaming up with the former head of OpenAI’s Sora app to launch a new AI startup that would train its own video models and try to win over filmmakers, people familiar with the matter said.&lt;/p&gt;
-
-&lt;p&gt;The founders have been talking to potential investors including Andreessen Horowitz about raising significant funding for the new company, the people said.&lt;/p&gt;</content>
-    <author>
-      <name>Cory Weinberg</name>
-    </author>
-    <author>
-      <name>Stephanie Palazzolo</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Article/17795</id>
-    <published>2026-09-09T22:53:50Z</published>
-    <updated>2026-09-10T03:02:11Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/anthropic-researchers-terminator-style-warning-caught-fire"/>
-    <title>Why An Anthropic Researcher’s Terminator-Style Warning Caught Fire</title>
-    <content type="html">&lt;p&gt;An Anthropic safety researcher’s warning Tuesday that his company believes AI “could kill all humans” within a decade has reverberated throughout Silicon Valley, Wall Street and Washington, potentially complicating the Claude maker’s upcoming initial public offering and its efforts to repair ties with U.S. political leaders.&lt;/p&gt;
-
-&lt;p&gt;As the comment circulated around the internet and on TV broadcasts, some Anthropic employees and other AI staffers defended their efforts to minimize harm their technology might cause&amp;mdash;while acknowledging there was much work to do. Paul Christiano, whom OpenAI just tapped as a board director of a nonprofit that oversees the company, echoed the Anthropic warning in a statement Wednesday, saying that “If we build superintelligence without more robust alignment”&amp;mdash;or safety constraints&amp;mdash;“I expect we will permanently lose control of it. If that happens then most people could die.”&lt;/p&gt;</content>
-    <author>
-      <name>Rocket Drew</name>
-    </author>
-    <author>
-      <name>Amir Efrati</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18011</id>
-    <published>2026-09-09T21:26:47Z</published>
-    <updated>2026-09-10T15:11:08Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/mandiant-founder-kevin-mandia-joins-amazons-board"/>
-    <title>Mandiant Founder Kevin Mandia Joins Amazon’s Board </title>
-    <content type="html">&lt;p&gt;Kevin Mandia, a cybersecurity expert who founded Mandiant, is joining Amazon’s board of directors, increasing the board’s size to 12. The board had shrunk briefly after Keith B. Alexander left the board in the spring. Like Mandia, Alexander had a security background—he served as a general in the ...&lt;/p&gt;</content>
-    <author>
-      <name>Catherine Perloff</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18010</id>
-    <published>2026-09-09T21:02:21Z</published>
-    <updated>2026-09-10T20:29:21Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/openai-appoints-white-house-ai-advisor-nonprofit-board"/>
-    <title>OpenAI Appoints White House AI Advisor to Nonprofit Board</title>
-    <content type="html">&lt;p&gt;OpenAI &lt;a href="https://openai.com/index/paul-christiano-joins-openai-foundation-board/"&gt;announced&lt;/a&gt; on Wednesday that Paul Christiano, a senior technical advisor at the U.S. Commerce Department’s AI center, would be joining the board of the OpenAI Foundation, the charity that has a 26% stake in the company. Christiano will also be a non-voting observer on the board of OpenAI’s ...&lt;/p&gt;</content>
-    <author>
-      <name>Leo Schwartz</name>
     </author>
   </entry>
 </feed>
