@@ -5,21 +5,59 @@
   <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-09T22:54:26Z</updated>
+  <updated>2026-09-10T00:13:32Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17794</id>
+    <published>2026-09-10T00:01:27Z</published>
+    <updated>2026-09-10T00:08:00Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/anthropics-ipo-marketing-meets-extinction-risk"/>
+    <title>Anthropic’s IPO Marketing Meets Extinction Risk</title>
+    <content type="html">&lt;p&gt;Are we sleepwalking our way into AI-caused extinction? It feels a little like that, &lt;a href="https://x.com/EvanHub/status/2097497037956891126?s=20"&gt;given an Anthropic researcher’s&lt;/a&gt; X post on Tuesday night that there’s a greater than 10% chance that “AI could kill all humans” within the next decade! Despite that rather gruesome note, for tech executives posting on X &lt;a href="https://x.com/elonmusk/status/2097753657714573749?s=20"&gt;today&lt;/a&gt;, it was&lt;a href="https://x.com/sama/status/2097695001341829212?s=20"&gt; business as usual&lt;/a&gt;. (See &lt;a href="https://www.theinformation.com/articles/anthropic-researchers-terminator-style-warning-caught-fire?rc=9byxri"&gt;our detailed report&lt;/a&gt; on the episode here).&lt;/p&gt;&lt;p&gt;Plenty of &lt;a href="https://x.com/typesfast/status/2097728838457589800?s=20"&gt;dark humor&lt;/a&gt; circulated about the researcher’s post, however—&lt;a href="https://x.com/buccocapital/status/2097657305273610438?s=20"&gt;this one&lt;/a&gt; joking about a Wall Street analyst asking Anthropic CEO Dario Amodei about the “extinction number” on an earnings call is possibly the best. That joke also highlighted the reality that Anthropic will shortly be marketing its IPO. How will its executives handle the warning on the Wall Street investor road show?&amp;nbsp;&lt;/p&gt;</content>
+    <author>
+      <name>Martin Peers</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18012</id>
+    <published>2026-09-09T23:28:55Z</published>
+    <updated>2026-09-09T23:28:55Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/anthropic-discloses-fourth-cybersecurity-incident"/>
+    <title>Anthropic Discloses Fourth Cybersecurity Incident</title>
+    <content type="html">&lt;p&gt;Anthropic said Wednesday it had &lt;a href="https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents"&gt;found a fourth cybersecurity incident&lt;/a&gt; involving its Claude models. The company disclosed the new incident, which occurred in January and involved an early version of Claude Opus 4.6, and additional information on three previously known incidents amid growing ...&lt;/p&gt;</content>
+    <author>
+      <name>Tiffany Li</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17790</id>
+    <published>2026-09-09T23:19:39Z</published>
+    <updated>2026-09-09T23:50:26Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/jeffrey-katzenberg-teams-former-openai-sora-head-new-ai-video-startup"/>
+    <title>Jeffrey Katzenberg Teams Up with Former OpenAI Sora Head on New AI Video Startup</title>
+    <content type="html">&lt;p&gt;Hollywood mogul Jeffrey Katzenberg is teaming up with the former head of OpenAI’s Sora app to launch a new AI startup that would train its own video models and try to win over filmmakers, people familiar with the matter said.&lt;/p&gt;
+
+&lt;p&gt;The founders have been talking to potential investors including Andreessen Horowitz about raising significant funding for the new company, the people said.&lt;/p&gt;</content>
+    <author>
+      <name>Stephanie Palazzolo</name>
+    </author>
+    <author>
+      <name>Cory Weinberg</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17795</id>
     <published>2026-09-09T22:53:50Z</published>
-    <updated>2026-09-09T22:54:26Z</updated>
+    <updated>2026-09-09T23:24:26Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/anthropic-researchers-terminator-style-warning-caught-fire"/>
     <title>Why An Anthropic Researcher’s Terminator-Style Warning Caught Fire</title>
     <content type="html">&lt;p&gt;An Anthropic safety researcher’s warning Tuesday that his company believes AI “could kill all humans” within a decade has reverberated throughout Silicon Valley, Wall Street and Washington, potentially complicating the Claude maker’s upcoming initial public offering and its efforts to repair ties with U.S. political leaders.&lt;/p&gt;
 
 &lt;p&gt;As the comment circulated around the internet and on TV broadcasts, some Anthropic employees and other AI staffers defended their efforts to minimize harm their technology might cause&amp;mdash;while acknowledging there was much work to do. Paul Christiano, whom OpenAI just tapped as a board director of a nonprofit that oversees the company, echoed the Anthropic warning in a statement Wednesday, saying that “If we build superintelligence without more robust alignment”&amp;mdash;or safety constraints&amp;mdash;“I expect we will permanently lose control of it. If that happens then most people could die.”&lt;/p&gt;</content>
     <author>
-      <name>Amir Efrati</name>
+      <name>Rocket Drew</name>
     </author>
     <author>
-      <name>Rocket Drew</name>
+      <name>Amir Efrati</name>
     </author>
   </entry>
   <entry>
@@ -47,7 +85,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17791</id>
     <published>2026-09-09T20:54:54Z</published>
-    <updated>2026-09-09T21:25:26Z</updated>
+    <updated>2026-09-10T00:13:32Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/openai-cuts-adobe-others-advertising-competing-ai-products-chatgpt"/>
     <title>OpenAI Restricts Adobe and Other Competitors From Advertising in ChatGPT</title>
     <content type="html">&lt;p&gt;OpenAI has told some business partners that it will no longer accept advertising in ChatGPT for image- and audio-generating products&amp;mdash;which compete with its own features.&lt;/p&gt;
@@ -177,10 +215,10 @@
     <title>Gimlet's Three-Tranche Deal Reveals AI Funding Frenzy</title>
     <content type="html">&lt;p&gt;Gimlet Labs said late last week it had raised $300 million at a valuation of about $3 billion, in a round led by new investor Andreessen Horowitz. Today we have unreported details on how that round, which boosted its valuation by a whopping 16 times from its last PitchBook valuation, came together.&lt;/p&gt;&lt;p&gt;The three-year-old startup, which helps AI developers run models using different AI chips simultaneously, raised the round after the company’s executives told some potential investors that based on signed contracts, OpenAI was likely to spend more than $100 million a year on its services, according to a person familiar with the company. Such outlays, if they transpire, would be significant given it just emerged from stealth in October.&amp;nbsp;&lt;/p&gt;&lt;p&gt;This windfall would be in the future, however. “We have explored possibilities with Gimlet but we are not a paying customer,” said an OpenAI spokesperson.&lt;/p&gt;</content>
     <author>
-      <name>Stephanie Palazzolo</name>
+      <name>Phoebe Liu</name>
     </author>
     <author>
-      <name>Phoebe Liu</name>
+      <name>Stephanie Palazzolo</name>
     </author>
   </entry>
   <entry>
@@ -214,39 +252,6 @@
     <content type="html">&lt;p&gt;Cognition, the artificial intelligence startup behind the Devin coding assistant, has raised more than $2 billion at a $48 billion valuation including the new funding, nearly double its valuation in May, the company said Tuesday. The round shows coding agent startups are continuing to thrive ...&lt;/p&gt;</content>
     <author>
       <name>Alix Coutures</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18001</id>
-    <published>2026-09-08T20:36:29Z</published>
-    <updated>2026-09-09T21:10:51Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/chime-strikes-deal-buy-stride-bank"/>
-    <title>Chime Strikes Deal to Buy Stride Bank</title>
-    <content type="html">&lt;p&gt;Chime, a fintech company that offers bank accounts and cards to consumers, has struck a deal to buy Stride Bank, an Oklahoma-based institution that has supported Chime behind the scenes for years.&lt;/p&gt; &lt;p&gt;Chime on Tuesday said it will buy Stride Bank for $590 million and will rename the institution ...&lt;/p&gt;</content>
-    <author>
-      <name>Michael Roddan</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18000</id>
-    <published>2026-09-08T19:33:56Z</published>
-    <updated>2026-09-09T21:10:50Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/meta-launches-first-consumer-ai-agent-muse"/>
-    <title>Meta Launches Its First Consumer AI Agent ‘Muse’ </title>
-    <content type="html">&lt;p&gt;Meta Platforms unveiled Muse, its first consumer-facing AI agent, giving users an AI assistant designed to carry out tasks on their behalf across the web.&lt;/p&gt; &lt;p&gt;In a Threads post Tuesday announcing the product, CEO Mark Zuckerberg described Muse as a personal agent that “understands your goals and ...&lt;/p&gt;</content>
-    <author>
-      <name>Jyoti Mann</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/17999</id>
-    <published>2026-09-08T19:16:22Z</published>
-    <updated>2026-09-09T21:10:51Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/white-house-declines-senate-democrats-request-ai-policy-clarity"/>
-    <title>White House Declines Senate Democrats’ Request for AI Policy Clarity</title>
-    <content type="html">&lt;p&gt;Attempts by Senate Democrats to get more clarity about the White House’s AI policies have gone nowhere. A White House official responded last Friday to an August letter from a group of Senate Democrats asking for more details about the White House’s voluntary AI testing framework without a ...&lt;/p&gt;</content>
-    <author>
-      <name>Leo Schwartz</name>
     </author>
   </entry>
 </feed>
