@@ -5,7 +5,82 @@
   <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-10T14:43:57Z</updated>
+  <updated>2026-09-10T15:30:56Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18019</id>
+    <published>2026-09-10T15:30:56Z</published>
+    <updated>2026-09-10T15:30:56Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/sen-josh-hawley-launches-investigation-openai-hugging-face-hack"/>
+    <title>Sen. Josh Hawley Launches Investigation Into OpenAI Hugging Face Hack</title>
+    <content type="html">&lt;p&gt;The U.S. Senate formally launched an investigation into the July hack of Hugging Face, when a swarm of OpenAI agents broke out of a testing environment and gained access to the open-source repository.&lt;/p&gt; &lt;p&gt;In a &lt;a href="https://www.documentcloud.org/documents/28609385-hawley-hugging-face-openai-letter/"&gt;letter&lt;/a&gt; sent to OpenAI CEO Sam Altman on Wednesday, Republican Sen. Josh Hawley said that ...&lt;/p&gt;</content>
+    <author>
+      <name>Leo Schwartz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18018</id>
+    <published>2026-09-10T15:19:23Z</published>
+    <updated>2026-09-10T15:19:23Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/bending-spoons-buys-miro-1-355-billion"/>
+    <title>Bending Spoons Buys Miro For $1.355 Billion</title>
+    <content type="html">&lt;p&gt;Italian digital conglomerate Bending Spoons is buying&amp;nbsp;whiteboarding software firm Miro at a valuation of $1.355 billion, the latest in a series of purchases the Italian firm has done at knock-down prices.&lt;/p&gt; &lt;p&gt;The price for Miro is a huge discount to its peak valuation of $17.5 billion, dating ...&lt;/p&gt;</content>
+    <author>
+      <name>Martin Peers</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17798</id>
+    <published>2026-09-10T15:07:17Z</published>
+    <updated>2026-09-10T15:07:17Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/use-google-gemini-brainstorm-content-thought-leadership"/>
+    <title>How to Use Google Gemini to Brainstorm Content and Thought Leadership</title>
+    <content type="html">&lt;p&gt;In almost any organization, there are practically infinite content ideas hiding in memos, emails, presentation decks, and meeting notes. But too often, this material mostly sits idle. Ideas that sparked excitement in the moment get ignored in favor of the countless little emergencies of office life, and eventually they are forgotten entirely.&lt;/p&gt;
+
+&lt;p&gt;Even with many companies actively encouraging their executives to post organic thought leadership on professional networking sites, social media, and company channels, there are countless missed opportunities to turn off-the-cuff insights into valuable content.&lt;/p&gt;
+
+&lt;p&gt;Google Gemini can help you transform your meeting notes into content plans, on-brand slogan ideas, and even booth mock-ups for your events team.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 1: Brainstorm Blog Ideas&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Imagine you’ve just stepped out of a meeting with your social media team leads. You have a document full of notes (or maybe even a transcript) about what resonates with your audience, trending topics in your industry, target audience data, and keywords that are effective at driving engagement with your brand.&lt;/p&gt;
+
+&lt;p&gt;Instead of letting this wealth of information stay locked inside your notes, open up a new Gemini chat and brainstorm how to turn your team’s sprawling strategy session into a series of relevant, focused blog posts. Here’s a prompt you can try:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Generate a list of four relevant and engaging thought leadership blog post ideas for [company] based on trending topics, target audience analysis, and brand keywords.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Gemini will return ideas for blog posts with catchy, clickable titles, along with information about target audience, keywords, angle, and tone. For example, if your meeting notes talk about how your customers are worried about their employees using unauthorized IT tools, Gemini might suggest a blog post titled “The Anatomy of a Zombie Subscription: How to Audit and Kill Shadow IT Instantly.”&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 2: Develop the Material&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The initial output will just be kernels of potential blog posts, but you can go back and forth with Gemini to develop them into real content. Take the “Zombie Subscription” blog, for example. You might ask Gemini to give you options for a “four tips” article structure, or to identify specific ideas from your meeting notes that merit extra attention.&lt;/p&gt;
+
+&lt;p&gt;Use your own judgment—and your own language—during this process, rather than having Gemini write your entire blog post for you. Gemini can help with brainstorming, outlining, drafting, and revision, but your audience is ultimately reading the content to hear your own expert insights.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 3: Distill the Main Message&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Maybe during your meeting, your team also discussed launching a new brand campaign. You know that your customers value your reliable and unique services, and your company has a long history of delivering for its customers.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;But sometimes, it can feel impossible to condense these big ideas into a few words that really communicate why customers come back to your company over and over.&lt;/p&gt;
+
+&lt;p&gt;If you need help getting started with ideas for a new campaign tagline, open a new chat in Gemini and prompt something like: &lt;em&gt;Generate three options for a new slogan emphasizing reliability, innovation, and a long history of popularity for [company].&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;For a B2B fintech company, Gemini might offer options like “Innovating Beyond the Bank. Trusted with Billions.” Or: “Built for Tomorrow. Proven by $10 Billion Today.”&lt;/p&gt;
+
+&lt;p&gt;You may not hit the mark exactly on your first prompt. Maybe you want more (or less) alliteration, for example. Maybe you want it to be five words or fewer, unbroken by punctuation. You can keep asking Gemini for new variations until the new tagline is just right.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 4: Mock Up Visuals for Events&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Often, one successful creative project sparks ideas for another. After you create your blog campaign and craft your new slogan, you might turn your attention to upcoming events.&lt;/p&gt;
+
+&lt;p&gt;Try mocking up booth graphics ideas for your events team. Here’s a sample prompt:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Create an image of a trade show booth using orange and blue colors. The booth should be modern and showcase interactive computer stations.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Gemini will generate an image that you can sketch on in-app, giving you a quick, no-risk way to play with your potential trade show setup. And between the blog posts, the tagline, and the event visuals, you will have turned a couple of pages of messy meeting notes into the bones of an entire marketing campaign.&lt;/p&gt;</content>
+    <author>
+      <name>The Information Partnerships</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17797</id>
     <published>2026-09-10T14:01:39Z</published>
@@ -20,7 +95,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18017</id>
     <published>2026-09-10T14:00:16Z</published>
-    <updated>2026-09-10T14:00:16Z</updated>
+    <updated>2026-09-10T15:18:50Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/amazon-helping-advertisers-buy-ads-chatgpt"/>
     <title>Amazon Is Helping Advertisers Buy Ads on ChatGPT</title>
     <content type="html">&lt;p&gt;Amazon is letting advertisers test buying ads on ChatGPT via Amazon’s advertising technology platform, Amazon said on Sept. 10.&lt;/p&gt; &lt;p&gt;ChatGPT started selling ads earlier this year, which it has let advertisers buy through its own interface and via partnerships with smaller advertising technology firms ...&lt;/p&gt;</content>
@@ -31,7 +106,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18016</id>
     <published>2026-09-10T13:31:42Z</published>
-    <updated>2026-09-10T13:31:42Z</updated>
+    <updated>2026-09-10T15:30:36Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/doj-investigating-nvidias-licensing-deal-chip-startup-groq"/>
     <title>The DOJ Is Investigating Nvidia’s Licensing Deal With Chip Startup Groq</title>
     <content type="html">&lt;p&gt;The Department of Justice is looking into whether Nvidia tried to avoid antitrust scrutiny in its $20 billion deal to license the technology of chip startup Groq and hire most of its employees in December, the New York Times reported Wednesday.&lt;/p&gt; &lt;p&gt;The two companies described the deal as a “ ...&lt;/p&gt;</content>
@@ -42,7 +117,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17796</id>
     <published>2026-09-10T13:21:21Z</published>
-    <updated>2026-09-10T13:44:02Z</updated>
+    <updated>2026-09-10T15:14:30Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/spacex-overhauls-data-center-build-potentially-slowing-expansion"/>
     <title>SpaceX Overhauls Data Center Build-Out, Potentially Slowing Expansion</title>
     <content type="html">&lt;p&gt;Elon Musk is famous for his “move fast” management philosophy, which he demonstrated most starkly when he built new data centers for his AI startup in record time two years ago. But a new team of rocket engineers Musk recently installed to run his data centers is taking a very different approach.&lt;/p&gt;
@@ -55,7 +130,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18013</id>
     <published>2026-09-10T13:01:01Z</published>
-    <updated>2026-09-10T13:01:01Z</updated>
+    <updated>2026-09-10T15:30:36Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/nvidia-deepens-partnership-ai-chip-startup-d-matrix"/>
     <title>Nvidia Deepens Partnership With AI Chip Startup D-Matrix</title>
     <content type="html">&lt;p&gt;Chip startup d-Matrix said Thursday it plans to use Nvidia’s networking hardware to connect its chips for running AI models to each other and to Nvidia’s Vera central processing units, which are used in data centers.&lt;/p&gt; &lt;p&gt;The startup will use Nvidia’s NVLink Fusion products, including switches, data ...&lt;/p&gt;</content>
@@ -66,7 +141,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18015</id>
     <published>2026-09-10T10:29:50Z</published>
-    <updated>2026-09-10T10:29:50Z</updated>
+    <updated>2026-09-10T15:30:36Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/chinese-ceo-laments-robotics-firms-fabricate-revenue"/>
     <title>Chinese CEO Laments Many Robotics Firms Fabricate Revenue </title>
     <content type="html">&lt;p&gt;The co-founder and CEO of Mech-Mind Robotics, a Beijing-based robotics firm that recently went public, said in a post on WeChat on Thursday that many Chinese embodied AI companies are “creating false and unsustainable revenue,” in response to The Information’s &lt;a href="https://www.theinformation.com/articles/china-curbs-humanoid-ipos-unitrees-volatile-debut?rc=jnr9wn"&gt;scoop&lt;/a&gt; on Chinese regulators ...&lt;/p&gt;</content>
@@ -77,7 +152,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18014</id>
     <published>2026-09-10T04:55:42Z</published>
-    <updated>2026-09-10T07:40:09Z</updated>
+    <updated>2026-09-10T15:30:36Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/china-hits-back-u-s-accusation-industrial-scale-ai-distillation"/>
     <title>China Hits Back at U.S. Accusation of “Industrial-Scale” AI Distillation </title>
     <content type="html">&lt;p&gt;China’s Ministry of Commerce rejected U.S. accusations that some Chinese AI firms are conducting “industrial-scale distillation” of American AI models, describing Washington’s latest move as an attempt to politicize a “normal technical and commercial issue.”&lt;/p&gt; &lt;p&gt;“China’s open-source models are ...&lt;/p&gt;</content>
@@ -99,7 +174,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18012</id>
     <published>2026-09-09T23:28:55Z</published>
-    <updated>2026-09-10T07:40:09Z</updated>
+    <updated>2026-09-10T15:30:36Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/anthropic-discloses-fourth-cybersecurity-incident"/>
     <title>Anthropic Discloses Fourth Cybersecurity Incident</title>
     <content type="html">&lt;p&gt;Anthropic said Wednesday it had &lt;a href="https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents"&gt;found a fourth cybersecurity incident&lt;/a&gt; involving its Claude models. The company disclosed the new incident, which occurred in January and involved an early version of Claude Opus 4.6, and additional information on three previously known incidents amid growing ...&lt;/p&gt;</content>
@@ -142,7 +217,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18011</id>
     <published>2026-09-09T21:26:47Z</published>
-    <updated>2026-09-10T07:39:43Z</updated>
+    <updated>2026-09-10T15:11:08Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/mandiant-founder-kevin-mandia-joins-amazons-board"/>
     <title>Mandiant Founder Kevin Mandia Joins Amazon’s Board </title>
     <content type="html">&lt;p&gt;Kevin Mandia, a cybersecurity expert who founded Mandiant, is joining Amazon’s board of directors, increasing the board’s size to 12. The board had shrunk briefly after Keith B. Alexander left the board in the spring. Like Mandia, Alexander had a security background—he served as a general in the ...&lt;/p&gt;</content>
@@ -153,7 +228,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18010</id>
     <published>2026-09-09T21:02:21Z</published>
-    <updated>2026-09-09T21:10:50Z</updated>
+    <updated>2026-09-10T15:30:36Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/openai-appoints-white-house-ai-advisor-nonprofit-board"/>
     <title>OpenAI Appoints White House AI Advisor to Nonprofit Board</title>
     <content type="html">&lt;p&gt;OpenAI &lt;a href="https://openai.com/index/paul-christiano-joins-openai-foundation-board/"&gt;announced&lt;/a&gt; on Wednesday that Paul Christiano, a senior technical advisor at the U.S. Commerce Department’s AI center, would be joining the board of the OpenAI Foundation, the charity that has a 26% stake in the company. Christiano will also be a non-voting observer on the board of OpenAI’s ...&lt;/p&gt;</content>
@@ -180,7 +255,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18009</id>
     <published>2026-09-09T20:46:06Z</published>
-    <updated>2026-09-10T07:40:09Z</updated>
+    <updated>2026-09-10T15:30:36Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/block-applies-establish-national-bank"/>
     <title>Block Applies to Establish National Bank</title>
     <content type="html">&lt;p&gt;Block, the fintech firm cofounded by Jack Dorsey, said it has applied to federal regulators to establish an uninsured national trust bank called Builders Bank &amp;amp; Trust.&lt;/p&gt; &lt;p&gt;The company has sought approval from the Office of the Comptroller of the Currency to set up the proposed institution, ...&lt;/p&gt;</content>
@@ -191,7 +266,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18008</id>
     <published>2026-09-09T19:59:39Z</published>
-    <updated>2026-09-09T20:58:25Z</updated>
+    <updated>2026-09-10T15:30:35Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/apple-launches-foldable-iphone-duo"/>
     <title>Apple Launches Foldable iPhone Duo</title>
     <content type="html">&lt;p&gt;Apple unveiled a much anticipated foldable iPhone at its first product launch featuring brand-new Chief Executive John Ternus.&lt;/p&gt; &lt;p&gt;The iPhone Duo is Apple’s first foldable smartphone—a product category that competitors have been selling for years, but has remained mostly a smaller, niche part of the ...&lt;/p&gt;</content>
@@ -202,50 +277,12 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18007</id>
     <published>2026-09-09T16:14:49Z</published>
-    <updated>2026-09-10T13:03:18Z</updated>
+    <updated>2026-09-10T15:30:36Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/anthropic-believes-ai-kill-humans-within-next-decade-researcher-says"/>
     <title>Anthropic Believes AI ‘Could Kill All Humans’ Within the Next Decade, Researcher Says</title>
     <content type="html">&lt;p&gt;Anthropic safety researcher Evan Hubinger said in a &lt;a href="https://x.com/EvanHub/status/2097497037956891126"&gt;post&lt;/a&gt; on X Tuesday night that his company does “earnestly believe AI could kill all humans,” adding that he believes there’s a greater than a 10% chance that happens within the next decade.&lt;/p&gt; &lt;p&gt;The post immediately sparked outrage and concerns from ...&lt;/p&gt;</content>
     <author>
       <name>Stephanie Palazzolo</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Article/17788</id>
-    <published>2026-09-09T14:00:42Z</published>
-    <updated>2026-09-09T14:01:28Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/openai-math-result-stokes-data-sharing-concerns"/>
-    <title>OpenAI Math Result Stokes Data-Sharing Concerns</title>
-    <content type="html">&lt;p&gt;In case you missed it: we got an eye-catching &lt;a href="https://x.com/EvanHub/status/2097497037956891126?s=20"&gt;X post&lt;/a&gt; on Tuesday night from &lt;b&gt;Evan Hubinger&lt;/b&gt;, a leader of &lt;b&gt;Anthropic's&lt;/b&gt; alignment efforts. Responding to the resignation announcement of an Anthropic employee who warned that AI companies aren’t doing enough to ensure AI won't kill humanity, Hubinger wrote that the employee is “correct here—we really do earnestly believe AI could kill all humans! I personally think it is &amp;gt;10% within the next decade.” Hubinger added that he was worried about future AI models, not those currently available, but still, yikes!&lt;/p&gt;&lt;p&gt;Meanwhile, our colleague Jyoti sizes up the significance of &lt;b&gt;Meta’s&lt;/b&gt; new personal AI agent, &lt;b&gt;Muse&lt;/b&gt;, unveiled on Tuesday. That’s below. But before we get to that:&lt;/p&gt;&lt;p&gt;This may go down as the year the AI industry got a crash course in mathematics. Breakthroughs in AI models have yielded announcements on such arcane subjects as the “Erdős unit distance problem” and the “Jacobian Conjecture,” which observers have watched as an indicator of AI progress in other domains.&lt;/p&gt;&lt;p&gt;The latest announcement, &lt;b&gt;OpenAI's&lt;/b&gt; claim on Tuesday that it had solved the vexing “Navier-Stokes existence and smoothness problem,” has drawn attention for another reason: questions over whether its math-genius models may have gained an edge by incorporating data from two human mathematicians that had used OpenAI's &lt;b&gt;Codex&lt;/b&gt; in their work on the same problem. Those questions fed into concerns about the possibility of AI companies &lt;a href="https://www.theinformation.com/newsletters/applied-ai/ai-providers-threat-customers"&gt;learning from customers’ use of their AI models&lt;/a&gt; to develop competing products.&lt;/p&gt;</content>
-    <author>
-      <name>Tiffany Li</name>
-    </author>
-    <author>
-      <name>Rocket Drew</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Article/17785</id>
-    <published>2026-09-09T13:00:44Z</published>
-    <updated>2026-09-09T13:01:11Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/confusion-reigns-white-houses-ai-whitelist"/>
-    <title>Confusion Reigns Over White House’s AI Whitelist</title>
-    <content type="html">&lt;p&gt;It may be one of the hottest tickets in corporate America right now: membership in the “trusted partner” program that allows companies to get access to the most advanced AI models before they’re released to the public. There’s just one problem: no one outside of the Trump administration has a clear idea how to get on that list.&lt;/p&gt;
-
-&lt;p&gt;As laid out in the administration’s &lt;a href="https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/"&gt;executive order&lt;/a&gt; in early June, which established a voluntary testing framework for frontier AI models, these “trusted partners”&amp;mdash; including banks, cybersecurity firms and power utilities&amp;mdash;would use their access to sniff out potential vulnerabilities in their computer systems exposed by the new AI models.&lt;/p&gt;</content>
-    <author>
-      <name>Leo Schwartz</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18006</id>
-    <published>2026-09-09T09:33:33Z</published>
-    <updated>2026-09-10T07:39:43Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/openai-works-samsung-next-generation-chips"/>
-    <title>OpenAI Works With Samsung on Next-Generation Chips</title>
-    <content type="html">&lt;p&gt;OpenAI said it is working with Samsung Electronics to develop next-generation chips, deepening a collaboration with the South Korean technology giant that already spans data centers and enterprise sales, Reuters reported.&lt;/p&gt; &lt;p&gt;“One of the areas where we have made the most progress and gained the most ...&lt;/p&gt;</content>
-    <author>
-      <name>Claudia Chong</name>
     </author>
   </entry>
 </feed>
