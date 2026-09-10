@@ -1,11 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed?cb=1789045451419</id>
+  <id>tag:www.theinformation.com,2005:/feed</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1789045451419"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-10T13:03:18Z</updated>
+  <updated>2026-09-10T14:02:08Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17797</id>
+    <published>2026-09-10T14:01:39Z</published>
+    <updated>2026-09-10T14:02:08Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/anthropic-doomsayer-jacob-coxon-saw"/>
+    <title>What Anthropic Doomsayer Jacob Coxon Saw</title>
+    <content type="html">&lt;p&gt;Yesterday, Amir and I &lt;a href="https://www.theinformation.com/articles/anthropic-researchers-terminator-style-warning-caught-fire"&gt;examined the shock waves&lt;/a&gt; that have rippled through the AI industry and far beyond since former &lt;b&gt;Anthropic&lt;/b&gt; researcher &lt;b&gt;Jacob Coxon&lt;/b&gt; very publicly quit his job over concerns that AI “could kill us all”—and another Anthropic AI safety specialist put the probability of such a catastrophe at greater than 10%.&lt;/p&gt;&lt;p&gt;Coxon told me that is hardly the most pessimistic view inside Anthropic. “People have varying probabilities that—barring some substantial coordinated slowdown—the whole thing ends in doom,” he said in an interview later Wednesday. Those estimates range higher than 50% among some Anthropic employees, he said.&lt;/p&gt;&lt;p&gt;Coxon was able to gauge the fears of his fellow employees because “Anthropic has a substantially more transparent internal culture than OpenAI,” where Coxon worked for years before joining Anthropic in May.&lt;/p&gt;&lt;p&gt;Coxon, who focused on the earliest stages of training AI models at Anthropic, said he decided to leave the company because he was gradually “starting to viscerally feel the fear of where the tech's going to be like the next two years or even the next one year.”&lt;/p&gt;</content>
+    <author>
+      <name>Rocket Drew</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18017</id>
+    <published>2026-09-10T14:00:16Z</published>
+    <updated>2026-09-10T14:00:16Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/amazon-helping-advertisers-buy-ads-chatgpt"/>
+    <title>Amazon Is Helping Advertisers Buy Ads on ChatGPT</title>
+    <content type="html">&lt;p&gt;Amazon is letting advertisers test buying ads on ChatGPT via Amazon’s advertising technology platform, Amazon said on Sept. 10.&lt;/p&gt; &lt;p&gt;ChatGPT started selling ads earlier this year, which it has let advertisers buy through its own interface and via partnerships with smaller advertising technology firms ...&lt;/p&gt;</content>
+    <author>
+      <name>Catherine Perloff</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18016</id>
+    <published>2026-09-10T13:31:42Z</published>
+    <updated>2026-09-10T13:31:42Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/doj-investigating-nvidias-licensing-deal-chip-startup-groq"/>
+    <title>The DOJ Is Investigating Nvidia’s Licensing Deal With Chip Startup Groq</title>
+    <content type="html">&lt;p&gt;The Department of Justice is looking into whether Nvidia tried to avoid antitrust scrutiny in its $20 billion deal to license the technology of chip startup Groq and hire most of its employees in December, the New York Times reported Wednesday.&lt;/p&gt; &lt;p&gt;The two companies described the deal as a “ ...&lt;/p&gt;</content>
+    <author>
+      <name>Phoebe Liu</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17796</id>
+    <published>2026-09-10T13:21:21Z</published>
+    <updated>2026-09-10T13:44:02Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/spacex-overhauls-data-center-build-potentially-slowing-expansion"/>
+    <title>SpaceX Overhauls Data Center Build-Out, Potentially Slowing Expansion</title>
+    <content type="html">&lt;p&gt;Elon Musk is famous for his “move fast” management philosophy, which he demonstrated most starkly when he built new data centers for his AI startup in record time two years ago. But a new team of rocket engineers Musk recently installed to run his data centers is taking a very different approach.&lt;/p&gt;
+
+&lt;p&gt;SpaceX is changing how it builds the giant facilities that house AI servers in a way that might slow the building of new campuses, according to people familiar with the situation. The new management team is looking to install more backup systems for power and cooling, and to more thoroughly test those systems before the data centers start operating, instead of adding them later on, as the AI company was doing, two of the people said. SpaceX also wants to reduce the use of temporary power and cooling systems in its data centers, one person said&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;</content>
+    <author>
+      <name>Grace Kay</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18013</id>
     <published>2026-09-10T13:01:01Z</published>
@@ -125,10 +171,10 @@
 
 &lt;p&gt;The change, which hasn’t been previously reported or reflected in its &lt;a href="https://openai.com/policies/ad-policies/"&gt;published ads policy&lt;/a&gt;, blindsided existing advertisers such as Adobe, which sells such products. And if extended to other competing products, the new policy could narrow OpenAI’s potential ad revenue. OpenAI has given investors aggressive projections for ad growth, which it sees as a key way to make money off its large audience of people who don’t pay for the service.&lt;/p&gt;</content>
     <author>
-      <name>Amir Efrati</name>
+      <name>Alix Coutures</name>
     </author>
     <author>
-      <name>Alix Coutures</name>
+      <name>Amir Efrati</name>
     </author>
   </entry>
   <entry>
@@ -172,10 +218,10 @@
     <title>OpenAI Math Result Stokes Data-Sharing Concerns</title>
     <content type="html">&lt;p&gt;In case you missed it: we got an eye-catching &lt;a href="https://x.com/EvanHub/status/2097497037956891126?s=20"&gt;X post&lt;/a&gt; on Tuesday night from &lt;b&gt;Evan Hubinger&lt;/b&gt;, a leader of &lt;b&gt;Anthropic's&lt;/b&gt; alignment efforts. Responding to the resignation announcement of an Anthropic employee who warned that AI companies aren’t doing enough to ensure AI won't kill humanity, Hubinger wrote that the employee is “correct here—we really do earnestly believe AI could kill all humans! I personally think it is &amp;gt;10% within the next decade.” Hubinger added that he was worried about future AI models, not those currently available, but still, yikes!&lt;/p&gt;&lt;p&gt;Meanwhile, our colleague Jyoti sizes up the significance of &lt;b&gt;Meta’s&lt;/b&gt; new personal AI agent, &lt;b&gt;Muse&lt;/b&gt;, unveiled on Tuesday. That’s below. But before we get to that:&lt;/p&gt;&lt;p&gt;This may go down as the year the AI industry got a crash course in mathematics. Breakthroughs in AI models have yielded announcements on such arcane subjects as the “Erdős unit distance problem” and the “Jacobian Conjecture,” which observers have watched as an indicator of AI progress in other domains.&lt;/p&gt;&lt;p&gt;The latest announcement, &lt;b&gt;OpenAI's&lt;/b&gt; claim on Tuesday that it had solved the vexing “Navier-Stokes existence and smoothness problem,” has drawn attention for another reason: questions over whether its math-genius models may have gained an edge by incorporating data from two human mathematicians that had used OpenAI's &lt;b&gt;Codex&lt;/b&gt; in their work on the same problem. Those questions fed into concerns about the possibility of AI companies &lt;a href="https://www.theinformation.com/newsletters/applied-ai/ai-providers-threat-customers"&gt;learning from customers’ use of their AI models&lt;/a&gt; to develop competing products.&lt;/p&gt;</content>
     <author>
-      <name>Rocket Drew</name>
+      <name>Tiffany Li</name>
     </author>
     <author>
-      <name>Tiffany Li</name>
+      <name>Rocket Drew</name>
     </author>
   </entry>
   <entry>
@@ -200,58 +246,6 @@
     <content type="html">&lt;p&gt;OpenAI said it is working with Samsung Electronics to develop next-generation chips, deepening a collaboration with the South Korean technology giant that already spans data centers and enterprise sales, Reuters reported.&lt;/p&gt; &lt;p&gt;“One of the areas where we have made the most progress and gained the most ...&lt;/p&gt;</content>
     <author>
       <name>Claudia Chong</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18005</id>
-    <published>2026-09-09T08:03:46Z</published>
-    <updated>2026-09-10T07:39:44Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/u-s-accuses-deepseek-alibaba-chinese-ai-firms-large-scale-distillation"/>
-    <title>U.S. Accuses DeepSeek, Alibaba and Other Chinese AI Firms of Large-Scale Distillation </title>
-    <content type="html">&lt;p&gt;The U.S. government has accused six Chinese AI firms of using large-scale distillation to copy the capabilities of American models, in a move that highlights the intensifying AI rivalry between the two nations.&lt;/p&gt; &lt;p&gt;The six Chinese firms under accusation are DeepSeek, Moonshot AI, Alibaba Group, ...&lt;/p&gt;</content>
-    <author>
-      <name>Juro Osawa</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18004</id>
-    <published>2026-09-09T06:18:00Z</published>
-    <updated>2026-09-10T07:39:44Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/google-warns-eu-mandated-changes-worsen-user-experience"/>
-    <title>Google Warns that EU-Mandated Changes Worsen User Experience</title>
-    <content type="html">&lt;p&gt;Google said that changes it rolled out Tuesday to its search results in Europe to satisfy European Union regulators will significantly worsen users’ experience there, Reuters reported.&lt;/p&gt; &lt;p&gt;The company made the changes in response to a ruling, accompanied by a 460 million euro fine, that it violated ...&lt;/p&gt;</content>
-    <author>
-      <name>Jason Dean</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Article/17787</id>
-    <published>2026-09-09T02:30:14Z</published>
-    <updated>2026-09-09T14:22:39Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/china-curbs-humanoid-ipos-unitrees-volatile-debut"/>
-    <title>China Curbs Humanoid IPOs After Unitree’s Volatile Debut</title>
-    <content type="html">&lt;p&gt;Chinese regulators are tightening the approval for humanoid startups seeking to go public after a volatile debut by industry leader Unitree Robotics, as they aim to cool down a sizzling sector rife with copycats but little real technological breakthroughs.&lt;/p&gt;
-
-&lt;p&gt;The Chinese Securities Regulatory Commission recently gave its&amp;nbsp;informal “window guidance” to some investment banks and investment firms that it is raising the bar for granting approval of humanoid IPOs, according to people with knowledge of the matter. Companies must demonstrate they can generate recurring revenue, are on a path to narrow their losses or achieve real innovation before approvals can be considered, the people added.&lt;/p&gt;</content>
-    <author>
-      <name>Qianer Liu</name>
-    </author>
-    <author>
-      <name>Jing Yang</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Article/17786</id>
-    <published>2026-09-09T00:37:51Z</published>
-    <updated>2026-09-09T00:39:30Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/gimlets-three-tranche-deal-reveals-ai-funding-frenzy"/>
-    <title>Gimlet's Three-Tranche Deal Reveals AI Funding Frenzy</title>
-    <content type="html">&lt;p&gt;Gimlet Labs said late last week it had raised $300 million at a valuation of about $3 billion, in a round led by new investor Andreessen Horowitz. Today we have unreported details on how that round, which boosted its valuation by a whopping 16 times from its last PitchBook valuation, came together.&lt;/p&gt;&lt;p&gt;The three-year-old startup, which helps AI developers run models using different AI chips simultaneously, raised the round after the company’s executives told some potential investors that based on signed contracts, OpenAI was likely to spend more than $100 million a year on its services, according to a person familiar with the company. Such outlays, if they transpire, would be significant given it just emerged from stealth in October.&amp;nbsp;&lt;/p&gt;&lt;p&gt;This windfall would be in the future, however. “We have explored possibilities with Gimlet but we are not a paying customer,” said an OpenAI spokesperson.&lt;/p&gt;</content>
-    <author>
-      <name>Phoebe Liu</name>
-    </author>
-    <author>
-      <name>Stephanie Palazzolo</name>
     </author>
   </entry>
 </feed>
