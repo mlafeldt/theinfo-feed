@@ -1,11 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed?cb=1789063177675</id>
+  <id>tag:www.theinformation.com,2005:/feed?cb=1789070149712</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1789063177675"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1789070149712"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-10T17:59:09Z</updated>
+  <updated>2026-09-10T19:54:51Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17799</id>
+    <published>2026-09-10T19:54:17Z</published>
+    <updated>2026-09-10T19:54:51Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/inside-blackstones-bid-rule-ai-financing"/>
+    <title>Inside Blackstone’s Bid to Rule Over AI Financing</title>
+    <content type="html">&lt;p&gt;In May, Blackstone unveiled a new joint venture with Google that revolved around a big number: The Wall Street giant was promising to spend $5 billion to buy 500 megawatts’ worth of Google’s tensor processing units, and it said it would use the chips in a new company that would deliver computing power to leading AI firms.&lt;/p&gt;
+
+&lt;p&gt;Four months later, Blackstone’s plans have only gotten larger, according to a person with knowledge of the effort. Blackstone actually anticipates buying many more TPUs&amp;mdash;several “multiples” beyond the originally announced figure, the person said.&lt;/p&gt;
+
+&lt;p&gt;In other words, Blackstone is likely to commit tens of billions of dollars to securing multiple gigawatts of AI chips. Blackstone declined to comment on exactly how many more TPUs it’ll buy.&lt;/p&gt;
+
+&lt;p&gt;Jas Khaira, the leader of a Blackstone team dubbed N1 that is leading the company’s push into AI investments, said in an interview that the firm’s “biggest conviction bet continues to be compute.” The company, he said, views the infrastructure build-out as something that will be bigger than a simple technology cycle. “This is definitely more akin to an industrial revolution,” he said.&lt;/p&gt;</content>
+    <author>
+      <name>Dakin Campbell</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17800</id>
+    <published>2026-09-10T19:36:43Z</published>
+    <updated>2026-09-10T19:39:00Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/salesforce-figma-placing-opposing-bets-future-apps"/>
+    <title>Why Salesforce and Figma Are Placing Opposing Bets on the Future of Apps</title>
+    <content type="html">&lt;p&gt;Salesforce seems unafraid of a future in which people use an AI chatbot like Claude to access Salesforce enterprise apps and underlying databases to get work done, rather than visiting those apps themselves. Figma, an enterprise design app, naturally wants a different future.&lt;/p&gt;&lt;p&gt;Dylan Field, Figma’s CEO, said Wednesday that as the company’s in-house AI tools for designing apps and other user interfaces get better, “we'll see more and more of that work happening in Figma directly,” rather than using Claude or other prominent AI assistants to do such work.&lt;/p&gt;</content>
+    <author>
+      <name>Laura Bratton</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17792</id>
     <published>2026-09-10T16:10:56Z</published>
@@ -20,7 +48,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18019</id>
     <published>2026-09-10T15:30:56Z</published>
-    <updated>2026-09-10T15:30:56Z</updated>
+    <updated>2026-09-10T19:22:10Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/sen-josh-hawley-launches-investigation-openai-hugging-face-hack"/>
     <title>Sen. Josh Hawley Launches Investigation Into OpenAI Hugging Face Hack</title>
     <content type="html">&lt;p&gt;The U.S. Senate formally launched an investigation into the July hack of Hugging Face, when a swarm of OpenAI agents broke out of a testing environment and gained access to the open-source repository.&lt;/p&gt; &lt;p&gt;In a &lt;a href="https://www.documentcloud.org/documents/28609385-hawley-hugging-face-openai-letter/"&gt;letter&lt;/a&gt; sent to OpenAI CEO Sam Altman on Wednesday, Republican Sen. Josh Hawley said that ...&lt;/p&gt;</content>
@@ -31,7 +59,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18018</id>
     <published>2026-09-10T15:19:23Z</published>
-    <updated>2026-09-10T15:19:23Z</updated>
+    <updated>2026-09-10T19:05:38Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/bending-spoons-buys-miro-1-355-billion"/>
     <title>Bending Spoons Buys Miro For $1.355 Billion</title>
     <content type="html">&lt;p&gt;Italian digital conglomerate Bending Spoons is buying&amp;nbsp;whiteboarding software firm Miro at a valuation of $1.355 billion, the latest in a series of purchases the Italian firm has done at knock-down prices.&lt;/p&gt; &lt;p&gt;The price for Miro is a huge discount to its peak valuation of $17.5 billion, dating ...&lt;/p&gt;</content>
@@ -117,10 +145,10 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18016</id>
     <published>2026-09-10T13:31:42Z</published>
-    <updated>2026-09-10T15:30:36Z</updated>
+    <updated>2026-09-10T19:06:55Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/doj-investigating-nvidias-licensing-deal-chip-startup-groq"/>
     <title>The DOJ Is Investigating Nvidia’s Licensing Deal With Chip Startup Groq</title>
-    <content type="html">&lt;p&gt;The Department of Justice is looking into whether Nvidia tried to avoid antitrust scrutiny in its $20 billion deal to license the technology of chip startup Groq and hire most of its employees in December, the New York Times reported Wednesday.&lt;/p&gt; &lt;p&gt;The two companies described the deal as a “ ...&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;The Department of Justice is looking into whether Nvidia tried to avoid antitrust scrutiny in its $20 billion deal to license the technology of chip startup Groq and hire most of its employees in December, &lt;a href="https://www.nytimes.com/2026/09/09/business/nvidia-groq-antitrust.html?smid=nytcore-ios-share"&gt;the New York Times reported&lt;/a&gt; Wednesday.&lt;/p&gt; &lt;p&gt;The two companies described the deal as a “ ...&lt;/p&gt;</content>
     <author>
       <name>Phoebe Liu</name>
     </author>
@@ -203,10 +231,10 @@
 
 &lt;p&gt;The founders have been talking to potential investors including Andreessen Horowitz about raising significant funding for the new company, the people said.&lt;/p&gt;</content>
     <author>
-      <name>Stephanie Palazzolo</name>
+      <name>Cory Weinberg</name>
     </author>
     <author>
-      <name>Cory Weinberg</name>
+      <name>Stephanie Palazzolo</name>
     </author>
   </entry>
   <entry>
@@ -257,32 +285,10 @@
 
 &lt;p&gt;The change, which hasn’t been previously reported or reflected in its &lt;a href="https://openai.com/policies/ad-policies/"&gt;published ads policy&lt;/a&gt;, blindsided existing advertisers such as Adobe, which sells such products. And if extended to other competing products, the new policy could narrow OpenAI’s potential ad revenue. OpenAI has given investors aggressive projections for ad growth, which it sees as a key way to make money off its large audience of people who don’t pay for the service.&lt;/p&gt;</content>
     <author>
-      <name>Alix Coutures</name>
-    </author>
-    <author>
       <name>Amir Efrati</name>
     </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18009</id>
-    <published>2026-09-09T20:46:06Z</published>
-    <updated>2026-09-10T15:30:36Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/block-applies-establish-national-bank"/>
-    <title>Block Applies to Establish National Bank</title>
-    <content type="html">&lt;p&gt;Block, the fintech firm cofounded by Jack Dorsey, said it has applied to federal regulators to establish an uninsured national trust bank called Builders Bank &amp;amp; Trust.&lt;/p&gt; &lt;p&gt;The company has sought approval from the Office of the Comptroller of the Currency to set up the proposed institution, ...&lt;/p&gt;</content>
     <author>
-      <name>Michael Roddan</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18008</id>
-    <published>2026-09-09T19:59:39Z</published>
-    <updated>2026-09-10T15:30:35Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/apple-launches-foldable-iphone-duo"/>
-    <title>Apple Launches Foldable iPhone Duo</title>
-    <content type="html">&lt;p&gt;Apple unveiled a much anticipated foldable iPhone at its first product launch featuring brand-new Chief Executive John Ternus.&lt;/p&gt; &lt;p&gt;The iPhone Duo is Apple’s first foldable smartphone—a product category that competitors have been selling for years, but has remained mostly a smaller, niche part of the ...&lt;/p&gt;</content>
-    <author>
-      <name>Aaron Tilley</name>
+      <name>Alix Coutures</name>
     </author>
   </entry>
 </feed>
