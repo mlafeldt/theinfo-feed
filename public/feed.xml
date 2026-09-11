@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed</id>
+  <id>tag:www.theinformation.com,2005:/feed?cb=1789161959803</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1789161959803"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-11T20:28:21Z</updated>
+  <updated>2026-09-11T21:25:51Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18028</id>
+    <published>2026-09-11T21:25:51Z</published>
+    <updated>2026-09-11T21:25:51Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/exclusive-salesforce-drop-agentforce-branding-products"/>
+    <title>Exclusive: Salesforce to Drop ‘Agentforce’ Branding From Some Products</title>
+    <content type="html">&lt;p&gt;Salesforce, ahead of its annual Dreamforce customer conference next week, is removing the word “Agentforce” from the names of some of its top products, according to two people with direct knowledge of the matter.&lt;/p&gt; &lt;p&gt;The reversal comes after Salesforce &lt;a href="https://www.theinformation.com/articles/ai-is-marc-benioffs-friend-and-foe?rc=eqgjah"&gt;made Agentforce a centerpiece&lt;/a&gt; of its product ...&lt;/p&gt;</content>
+    <author>
+      <name>Kevin McLaughlin</name>
+    </author>
+    <author>
+      <name>Laura Bratton</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18027</id>
     <published>2026-09-11T16:52:20Z</published>
@@ -266,17 +280,6 @@
     <content type="html">&lt;p&gt;Amazon is letting advertisers test buying ads on ChatGPT via Amazon’s advertising technology platform, Amazon said on Sept. 10.&lt;/p&gt; &lt;p&gt;ChatGPT started selling ads earlier this year, which it has let advertisers buy through its own interface and via partnerships with smaller advertising technology firms ...&lt;/p&gt;</content>
     <author>
       <name>Catherine Perloff</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18016</id>
-    <published>2026-09-10T13:31:42Z</published>
-    <updated>2026-09-11T20:28:21Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/doj-investigating-nvidias-licensing-deal-chip-startup-groq"/>
-    <title>The DOJ Is Investigating Nvidia’s Licensing Deal With Chip Startup Groq</title>
-    <content type="html">&lt;p&gt;The Department of Justice is looking into whether Nvidia tried to avoid antitrust scrutiny in its $20 billion deal to license the technology of chip startup Groq and hire most of its employees in December, &lt;a href="https://www.nytimes.com/2026/09/09/business/nvidia-groq-antitrust.html?smid=nytcore-ios-share"&gt;the New York Times reported&lt;/a&gt; Wednesday.&lt;/p&gt; &lt;p&gt;The two companies described the deal as a “ ...&lt;/p&gt;</content>
-    <author>
-      <name>Phoebe Liu</name>
     </author>
   </entry>
 </feed>
