@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed?cb=1789161959803</id>
+  <id>tag:www.theinformation.com,2005:/feed</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1789161959803"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-11T21:25:51Z</updated>
+  <updated>2026-09-11T22:24:04Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18029</id>
+    <published>2026-09-11T22:24:04Z</published>
+    <updated>2026-09-11T22:24:04Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/polymarket-appoints-first-cfo"/>
+    <title>Polymarket Appoints First CFO</title>
+    <content type="html">&lt;p&gt;Polymarket appointed former Amazon executive Warren Jenson as its first chief financial officer as the prediction markets startup looks to grow in the U.S.&lt;/p&gt; &lt;p&gt;Polymarket said Jenson will set Polymarket’s financial and capital strategy as it scales up its Commodity Futures Trading ...&lt;/p&gt;</content>
+    <author>
+      <name>Michael Roddan</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18028</id>
     <published>2026-09-11T21:25:51Z</published>
@@ -269,17 +280,6 @@
     <content type="html">&lt;p&gt;Yesterday, Amir and I &lt;a href="https://www.theinformation.com/articles/anthropic-researchers-terminator-style-warning-caught-fire"&gt;examined the shock waves&lt;/a&gt; that have rippled through the AI industry and far beyond since former &lt;b&gt;Anthropic&lt;/b&gt; researcher &lt;b&gt;Jacob Coxon&lt;/b&gt; very publicly quit his job over concerns that AI “could kill us all”—and another Anthropic AI safety specialist put the probability of such a catastrophe at greater than 10%.&lt;/p&gt;&lt;p&gt;Coxon told me that is hardly the most pessimistic view inside Anthropic. “People have varying probabilities that—barring some substantial coordinated slowdown—the whole thing ends in doom,” he said in an interview later Wednesday. Those estimates range higher than 50% among some Anthropic employees, he said.&lt;/p&gt;&lt;p&gt;Coxon was able to gauge the fears of his fellow employees because “Anthropic has a substantially more transparent internal culture than OpenAI,” where Coxon worked for years before joining Anthropic in May.&lt;/p&gt;&lt;p&gt;Coxon, who focused on the earliest stages of training AI models at Anthropic, said he decided to leave the company because he was gradually “starting to viscerally feel the fear of where the tech's going to be like the next two years or even the next one year.”&lt;/p&gt;</content>
     <author>
       <name>Rocket Drew</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18017</id>
-    <published>2026-09-10T14:00:16Z</published>
-    <updated>2026-09-11T20:28:21Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/amazon-helping-advertisers-buy-ads-chatgpt"/>
-    <title>Amazon Is Helping Advertisers Buy Ads on ChatGPT</title>
-    <content type="html">&lt;p&gt;Amazon is letting advertisers test buying ads on ChatGPT via Amazon’s advertising technology platform, Amazon said on Sept. 10.&lt;/p&gt; &lt;p&gt;ChatGPT started selling ads earlier this year, which it has let advertisers buy through its own interface and via partnerships with smaller advertising technology firms ...&lt;/p&gt;</content>
-    <author>
-      <name>Catherine Perloff</name>
     </author>
   </entry>
 </feed>
