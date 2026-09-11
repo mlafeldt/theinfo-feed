@@ -5,7 +5,7 @@
   <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-11T18:57:08Z</updated>
+  <updated>2026-09-11T20:28:21Z</updated>
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18027</id>
     <published>2026-09-11T16:52:20Z</published>
@@ -20,7 +20,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18026</id>
     <published>2026-09-11T09:22:16Z</published>
-    <updated>2026-09-11T16:51:53Z</updated>
+    <updated>2026-09-11T20:28:20Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/tencent-backed-enflame-triples-debut-china-pushes-chip-self-sufficiency"/>
     <title>Tencent-backed Enflame Triples on Debut as China Pushes for Chip Self-sufficiency</title>
     <content type="html">&lt;p&gt;Shanghai Enflame Technology surged on its first trading day Friday after the Chinese AI chip developer raised about 6.12 billion yuan ($911 million) in an initial public offering, underscoring strong investor appetite for domestic alternatives to Nvidia chips.&lt;/p&gt; &lt;p&gt;Shares opened at 410 yuan, nearly ...&lt;/p&gt;</content>
@@ -42,7 +42,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18025</id>
     <published>2026-09-10T23:55:28Z</published>
-    <updated>2026-09-11T16:51:53Z</updated>
+    <updated>2026-09-11T20:28:21Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/openai-pause-new-pro-subscriptions-cites-astra-demand"/>
     <title>OpenAI to Pause New Pro Subscriptions, Cites Astra Demand</title>
     <content type="html">&lt;p&gt;OpenAI said Thursday it will pause new subscriptions to its $200-a-month plan for Astra, its new flagship model, another sign of the compute crunch facing AI companies.&lt;/p&gt; &lt;p&gt;Thibault Sottiaux, who leads OpenAI’s Codex coding agent, &lt;a href="https://x.com/thsottiaux/status/2098113585683808624"&gt;cited strains on the company’s systems&lt;/a&gt; and a desire to preserve ...&lt;/p&gt;</content>
@@ -64,7 +64,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18024</id>
     <published>2026-09-10T23:01:54Z</published>
-    <updated>2026-09-11T16:51:54Z</updated>
+    <updated>2026-09-11T20:28:21Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/adobe-shares-drop-2-despite-ai-product-sales-growth"/>
     <title>Adobe Shares Drop 2% Despite AI Product Sales Growth</title>
     <content type="html">&lt;p&gt;Adobe Systems shares dipped 2% late Thursday after its third-quarter earnings report, as some investors appear to unsure about how much its AI products will drive future revenue growth.&lt;/p&gt; &lt;p&gt;Adobe, which began breaking out revenue for its AI products in March, is continuing to highlight this area of ...&lt;/p&gt;</content>
@@ -75,7 +75,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18023</id>
     <published>2026-09-10T22:38:57Z</published>
-    <updated>2026-09-11T16:51:53Z</updated>
+    <updated>2026-09-11T20:28:20Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/anthropic-says-blocked-bioweapons-efforts-detected-chinese-distillation-attacks"/>
     <title>Anthropic Says It Blocked Bioweapons Efforts and Detected Chinese Distillation Attacks</title>
     <content type="html">&lt;p&gt;Anthropic has disrupted several &lt;a href="https://www-cdn.anthropic.com/e50be2e51e7695dc4b1366a37a245a597377d3b5/Anthropic-Detecting-and-countering-091026.pdf"&gt;attempts to use its Claude models for potentially malicious activity&lt;/a&gt;, including research into how to adapt bird flu to a human-transmittable strain with “pandemic potential,” the company said in a report Thursday.&lt;/p&gt; &lt;p&gt;Amid increasing worry about AI misuse and &lt;a href="https://www.theinformation.com/articles/anthropic-researchers-terminator-style-warning-caught-fire"&gt;rogue ...&lt;/a&gt;&lt;/p&gt;</content>
@@ -102,7 +102,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18022</id>
     <published>2026-09-10T22:28:52Z</published>
-    <updated>2026-09-11T16:51:53Z</updated>
+    <updated>2026-09-11T20:28:21Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/spacex-signs-another-compute-deal-new-customer"/>
     <title>SpaceX Signs Another Compute Deal With New Customer</title>
     <content type="html">&lt;p&gt;SpaceX has signed another cloud computing rental deal to an identified customer that will pay it about $1.11 billion per month starting on Dec. 1, the company’s chief financial officer, Bret Johnsen, said in an interview at Goldman Sachs’ Communacopia + Technology conference on Thursday.&lt;/p&gt; &lt;p&gt;The ...&lt;/p&gt;</content>
@@ -113,7 +113,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18021</id>
     <published>2026-09-10T22:11:03Z</published>
-    <updated>2026-09-11T17:00:03Z</updated>
+    <updated>2026-09-11T20:28:20Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/microsoft-hurt-server-shortage-aims-triple-cloud-capacity-2032"/>
     <title>Microsoft, Hurt By Server Shortage, Aims to Triple Cloud Capacity by 2032</title>
     <content type="html">&lt;p&gt;Microsoft is planning to more than triple the size of its Azure cloud unit’s data center capacity to over 38 gigawatts by 2032, up from 12 gigawatts today, &lt;a href="https://www.bloomberg.com/news/features/2026-09-10/microsoft-ai-focused-data-center-plan-to-add-26-gigawatts-of-compute"&gt;Bloomberg reported Thursday.&lt;/a&gt; A gigawatt of capacity would be able to power a city the size of San Francisco.&lt;/p&gt; &lt;p&gt;In a statement Friday, a ...&lt;/p&gt;</content>
@@ -124,7 +124,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18020</id>
     <published>2026-09-10T20:29:50Z</published>
-    <updated>2026-09-11T16:51:53Z</updated>
+    <updated>2026-09-11T20:28:21Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/oracle-reports-30-topline-growth-august-quarter"/>
     <title>Oracle Reports 30% Topline Growth for August Quarter</title>
     <content type="html">&lt;p&gt;Oracle reported 30% growth in revenue of $19.3 billion for the quarter ending Aug. 31, a slightly better growth rate than the company projected in June, even as it burned $5 billion to expand the data centers that are driving its accelerating topline growth.&lt;/p&gt; &lt;p&gt;The software and cloud firm said ...&lt;/p&gt;</content>
@@ -174,7 +174,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18019</id>
     <published>2026-09-10T15:30:56Z</published>
-    <updated>2026-09-11T16:51:54Z</updated>
+    <updated>2026-09-11T20:28:21Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/sen-josh-hawley-launches-investigation-openai-hugging-face-hack"/>
     <title>Sen. Josh Hawley Launches Investigation Into OpenAI Hugging Face Hack</title>
     <content type="html">&lt;p&gt;The U.S. Senate formally launched an investigation into the July hack of Hugging Face, when a swarm of OpenAI agents broke out of a testing environment and gained access to the open-source repository.&lt;/p&gt; &lt;p&gt;In a &lt;a href="https://www.documentcloud.org/documents/28609385-hawley-hugging-face-openai-letter/"&gt;letter&lt;/a&gt; sent to OpenAI CEO Sam Altman on Wednesday, Republican Sen. Josh Hawley said that ...&lt;/p&gt;</content>
@@ -185,7 +185,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18018</id>
     <published>2026-09-10T15:19:23Z</published>
-    <updated>2026-09-11T16:51:54Z</updated>
+    <updated>2026-09-11T20:28:21Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/bending-spoons-buys-miro-1-355-billion"/>
     <title>Bending Spoons Buys Miro For $1.355 Billion</title>
     <content type="html">&lt;p&gt;Italian digital conglomerate Bending Spoons is buying&amp;nbsp;whiteboarding software firm Miro at a valuation of $1.355 billion, the latest in a series of purchases the Italian firm has done at knock-down prices.&lt;/p&gt; &lt;p&gt;The price for Miro is a huge discount to its peak valuation of $17.5 billion, dating ...&lt;/p&gt;</content>
@@ -260,7 +260,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18017</id>
     <published>2026-09-10T14:00:16Z</published>
-    <updated>2026-09-11T16:51:53Z</updated>
+    <updated>2026-09-11T20:28:21Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/amazon-helping-advertisers-buy-ads-chatgpt"/>
     <title>Amazon Is Helping Advertisers Buy Ads on ChatGPT</title>
     <content type="html">&lt;p&gt;Amazon is letting advertisers test buying ads on ChatGPT via Amazon’s advertising technology platform, Amazon said on Sept. 10.&lt;/p&gt; &lt;p&gt;ChatGPT started selling ads earlier this year, which it has let advertisers buy through its own interface and via partnerships with smaller advertising technology firms ...&lt;/p&gt;</content>
@@ -271,7 +271,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18016</id>
     <published>2026-09-10T13:31:42Z</published>
-    <updated>2026-09-11T16:51:53Z</updated>
+    <updated>2026-09-11T20:28:21Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/doj-investigating-nvidias-licensing-deal-chip-startup-groq"/>
     <title>The DOJ Is Investigating Nvidia’s Licensing Deal With Chip Startup Groq</title>
     <content type="html">&lt;p&gt;The Department of Justice is looking into whether Nvidia tried to avoid antitrust scrutiny in its $20 billion deal to license the technology of chip startup Groq and hire most of its employees in December, &lt;a href="https://www.nytimes.com/2026/09/09/business/nvidia-groq-antitrust.html?smid=nytcore-ios-share"&gt;the New York Times reported&lt;/a&gt; Wednesday.&lt;/p&gt; &lt;p&gt;The two companies described the deal as a “ ...&lt;/p&gt;</content>
