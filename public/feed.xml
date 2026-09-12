@@ -1,15 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed</id>
+  <id>tag:www.theinformation.com,2005:/feed?cb=1789175099806</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1789175099806"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-11T23:11:02Z</updated>
+  <updated>2026-09-12T01:04:55Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18031</id>
+    <published>2026-09-12T01:04:55Z</published>
+    <updated>2026-09-12T01:04:55Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/nvidia-may-invest-10-billion-anthropics-ipo"/>
+    <title>Nvidia May Invest Up to $10 Billion In Anthropic’s IPO</title>
+    <content type="html">&lt;p&gt;Nvidia has discussed investing in Anthropic’s upcoming initial public offering that would raise as much as $100 billion at a valuation of around $2 trillion, Reuters reported Friday. Nvidia could invest as much as $10 billion in Anthropic at the IPO price, according to the report. Anthropic last ...&lt;/p&gt;</content>
+    <author>
+      <name>Phoebe Liu</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18030</id>
+    <published>2026-09-12T00:18:42Z</published>
+    <updated>2026-09-12T00:37:50Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/openai-ai-swarm-hacked-software-service-months-hugging-face-incident"/>
+    <title>OpenAI AI Swarm Hacked Software Service Months Before Hugging Face Incident</title>
+    <content type="html">&lt;p&gt;A swarm of OpenAI agents &lt;a href="https://www.rubyhack.ai/"&gt;conducted a cyberattack on software service RubyGems&lt;/a&gt; in May, months before the company’s agents hacked model platform Hugging Face, researchers at AI safety organizations Nightingale Collective and AI Futures Project found. RubyGems allows software engineers to download ...&lt;/p&gt;</content>
+    <author>
+      <name>Tiffany Li</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18029</id>
     <published>2026-09-11T22:24:04Z</published>
-    <updated>2026-09-11T22:24:04Z</updated>
+    <updated>2026-09-12T00:18:08Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/polymarket-appoints-first-cfo"/>
     <title>Polymarket Appoints First CFO</title>
     <content type="html">&lt;p&gt;Polymarket appointed former Amazon executive Warren Jenson as its first chief financial officer as the prediction markets startup looks to grow in the U.S.&lt;/p&gt; &lt;p&gt;Polymarket said Jenson will set Polymarket’s financial and capital strategy as it scales up its Commodity Futures Trading ...&lt;/p&gt;</content>
@@ -67,7 +89,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18025</id>
     <published>2026-09-10T23:55:28Z</published>
-    <updated>2026-09-11T20:28:21Z</updated>
+    <updated>2026-09-12T00:18:08Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/openai-pause-new-pro-subscriptions-cites-astra-demand"/>
     <title>OpenAI to Pause New Pro Subscriptions, Cites Astra Demand</title>
     <content type="html">&lt;p&gt;OpenAI said Thursday it will pause new subscriptions to its $200-a-month plan for Astra, its new flagship model, another sign of the compute crunch facing AI companies.&lt;/p&gt; &lt;p&gt;Thibault Sottiaux, who leads OpenAI’s Codex coding agent, &lt;a href="https://x.com/thsottiaux/status/2098113585683808624"&gt;cited strains on the company’s systems&lt;/a&gt; and a desire to preserve ...&lt;/p&gt;</content>
@@ -100,7 +122,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18023</id>
     <published>2026-09-10T22:38:57Z</published>
-    <updated>2026-09-11T20:28:20Z</updated>
+    <updated>2026-09-12T00:18:08Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/anthropic-says-blocked-bioweapons-efforts-detected-chinese-distillation-attacks"/>
     <title>Anthropic Says It Blocked Bioweapons Efforts and Detected Chinese Distillation Attacks</title>
     <content type="html">&lt;p&gt;Anthropic has disrupted several &lt;a href="https://www-cdn.anthropic.com/e50be2e51e7695dc4b1366a37a245a597377d3b5/Anthropic-Detecting-and-countering-091026.pdf"&gt;attempts to use its Claude models for potentially malicious activity&lt;/a&gt;, including research into how to adapt bird flu to a human-transmittable strain with “pandemic potential,” the company said in a report Thursday.&lt;/p&gt; &lt;p&gt;Amid increasing worry about AI misuse and &lt;a href="https://www.theinformation.com/articles/anthropic-researchers-terminator-style-warning-caught-fire"&gt;rogue ...&lt;/a&gt;&lt;/p&gt;</content>
@@ -127,7 +149,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18022</id>
     <published>2026-09-10T22:28:52Z</published>
-    <updated>2026-09-11T20:28:21Z</updated>
+    <updated>2026-09-12T00:18:08Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/spacex-signs-another-compute-deal-new-customer"/>
     <title>SpaceX Signs Another Compute Deal With New Customer</title>
     <content type="html">&lt;p&gt;SpaceX has signed another cloud computing rental deal to an identified customer that will pay it about $1.11 billion per month starting on Dec. 1, the company’s chief financial officer, Bret Johnsen, said in an interview at Goldman Sachs’ Communacopia + Technology conference on Thursday.&lt;/p&gt; &lt;p&gt;The ...&lt;/p&gt;</content>
@@ -138,7 +160,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18021</id>
     <published>2026-09-10T22:11:03Z</published>
-    <updated>2026-09-11T20:28:20Z</updated>
+    <updated>2026-09-12T00:18:08Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/microsoft-hurt-server-shortage-aims-triple-cloud-capacity-2032"/>
     <title>Microsoft, Hurt By Server Shortage, Aims to Triple Cloud Capacity by 2032</title>
     <content type="html">&lt;p&gt;Microsoft is planning to more than triple the size of its Azure cloud unit’s data center capacity to over 38 gigawatts by 2032, up from 12 gigawatts today, &lt;a href="https://www.bloomberg.com/news/features/2026-09-10/microsoft-ai-focused-data-center-plan-to-add-26-gigawatts-of-compute"&gt;Bloomberg reported Thursday.&lt;/a&gt; A gigawatt of capacity would be able to power a city the size of San Francisco.&lt;/p&gt; &lt;p&gt;In a statement Friday, a ...&lt;/p&gt;</content>
@@ -149,7 +171,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18020</id>
     <published>2026-09-10T20:29:50Z</published>
-    <updated>2026-09-11T20:28:21Z</updated>
+    <updated>2026-09-12T00:18:08Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/oracle-reports-30-topline-growth-august-quarter"/>
     <title>Oracle Reports 30% Topline Growth for August Quarter</title>
     <content type="html">&lt;p&gt;Oracle reported 30% growth in revenue of $19.3 billion for the quarter ending Aug. 31, a slightly better growth rate than the company projected in June, even as it burned $5 billion to expand the data centers that are driving its accelerating topline growth.&lt;/p&gt; &lt;p&gt;The software and cloud firm said ...&lt;/p&gt;</content>
@@ -199,7 +221,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18019</id>
     <published>2026-09-10T15:30:56Z</published>
-    <updated>2026-09-11T20:28:21Z</updated>
+    <updated>2026-09-12T00:18:09Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/sen-josh-hawley-launches-investigation-openai-hugging-face-hack"/>
     <title>Sen. Josh Hawley Launches Investigation Into OpenAI Hugging Face Hack</title>
     <content type="html">&lt;p&gt;The U.S. Senate formally launched an investigation into the July hack of Hugging Face, when a swarm of OpenAI agents broke out of a testing environment and gained access to the open-source repository.&lt;/p&gt; &lt;p&gt;In a &lt;a href="https://www.documentcloud.org/documents/28609385-hawley-hugging-face-openai-letter/"&gt;letter&lt;/a&gt; sent to OpenAI CEO Sam Altman on Wednesday, Republican Sen. Josh Hawley said that ...&lt;/p&gt;</content>
@@ -216,70 +238,6 @@
     <content type="html">&lt;p&gt;Italian digital conglomerate Bending Spoons is buying&amp;nbsp;whiteboarding software firm Miro at a valuation of $1.355 billion, the latest in a series of purchases the Italian firm has done at knock-down prices.&lt;/p&gt; &lt;p&gt;The price for Miro is a huge discount to its peak valuation of $17.5 billion, dating ...&lt;/p&gt;</content>
     <author>
       <name>Martin Peers</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Article/17798</id>
-    <published>2026-09-10T15:07:17Z</published>
-    <updated>2026-09-10T15:07:17Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/use-google-gemini-brainstorm-content-thought-leadership"/>
-    <title>How to Use Google Gemini to Brainstorm Content and Thought Leadership</title>
-    <content type="html">&lt;p&gt;In almost any organization, there are practically infinite content ideas hiding in memos, emails, presentation decks, and meeting notes. But too often, this material mostly sits idle. Ideas that sparked excitement in the moment get ignored in favor of the countless little emergencies of office life, and eventually they are forgotten entirely.&lt;/p&gt;
-
-&lt;p&gt;Even with many companies actively encouraging their executives to post organic thought leadership on professional networking sites, social media, and company channels, there are countless missed opportunities to turn off-the-cuff insights into valuable content.&lt;/p&gt;
-
-&lt;p&gt;Google Gemini can help you transform your meeting notes into content plans, on-brand slogan ideas, and even booth mock-ups for your events team.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Step 1: Brainstorm Blog Ideas&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Imagine you’ve just stepped out of a meeting with your social media team leads. You have a document full of notes (or maybe even a transcript) about what resonates with your audience, trending topics in your industry, target audience data, and keywords that are effective at driving engagement with your brand.&lt;/p&gt;
-
-&lt;p&gt;Instead of letting this wealth of information stay locked inside your notes, open up a new Gemini chat and brainstorm how to turn your team’s sprawling strategy session into a series of relevant, focused blog posts. Here’s a prompt you can try:&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Generate a list of four relevant and engaging thought leadership blog post ideas for [company] based on trending topics, target audience analysis, and brand keywords.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Gemini will return ideas for blog posts with catchy, clickable titles, along with information about target audience, keywords, angle, and tone. For example, if your meeting notes talk about how your customers are worried about their employees using unauthorized IT tools, Gemini might suggest a blog post titled “The Anatomy of a Zombie Subscription: How to Audit and Kill Shadow IT Instantly.”&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Step 2: Develop the Material&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The initial output will just be kernels of potential blog posts, but you can go back and forth with Gemini to develop them into real content. Take the “Zombie Subscription” blog, for example. You might ask Gemini to give you options for a “four tips” article structure, or to identify specific ideas from your meeting notes that merit extra attention.&lt;/p&gt;
-
-&lt;p&gt;Use your own judgment—and your own language—during this process, rather than having Gemini write your entire blog post for you. Gemini can help with brainstorming, outlining, drafting, and revision, but your audience is ultimately reading the content to hear your own expert insights.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Step 3: Distill the Main Message&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Maybe during your meeting, your team also discussed launching a new brand campaign. You know that your customers value your reliable and unique services, and your company has a long history of delivering for its customers.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;But sometimes, it can feel impossible to condense these big ideas into a few words that really communicate why customers come back to your company over and over.&lt;/p&gt;
-
-&lt;p&gt;If you need help getting started with ideas for a new campaign tagline, open a new chat in Gemini and prompt something like: &lt;em&gt;Generate three options for a new slogan emphasizing reliability, innovation, and a long history of popularity for [company].&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;For a B2B fintech company, Gemini might offer options like “Innovating Beyond the Bank. Trusted with Billions.” Or: “Built for Tomorrow. Proven by $10 Billion Today.”&lt;/p&gt;
-
-&lt;p&gt;You may not hit the mark exactly on your first prompt. Maybe you want more (or less) alliteration, for example. Maybe you want it to be five words or fewer, unbroken by punctuation. You can keep asking Gemini for new variations until the new tagline is just right.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Step 4: Mock Up Visuals for Events&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Often, one successful creative project sparks ideas for another. After you create your blog campaign and craft your new slogan, you might turn your attention to upcoming events.&lt;/p&gt;
-
-&lt;p&gt;Try mocking up booth graphics ideas for your events team. Here’s a sample prompt:&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Create an image of a trade show booth using orange and blue colors. The booth should be modern and showcase interactive computer stations.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Gemini will generate an image that you can sketch on in-app, giving you a quick, no-risk way to play with your potential trade show setup. And between the blog posts, the tagline, and the event visuals, you will have turned a couple of pages of messy meeting notes into the bones of an entire marketing campaign.&lt;/p&gt;</content>
-    <author>
-      <name>The Information Partnerships</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Article/17797</id>
-    <published>2026-09-10T14:01:39Z</published>
-    <updated>2026-09-10T14:43:23Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/anthropic-doomsayer-jacob-coxon-saw"/>
-    <title>What Anthropic Doomsayer Jacob Coxon Saw</title>
-    <content type="html">&lt;p&gt;Yesterday, Amir and I &lt;a href="https://www.theinformation.com/articles/anthropic-researchers-terminator-style-warning-caught-fire"&gt;examined the shock waves&lt;/a&gt; that have rippled through the AI industry and far beyond since former &lt;b&gt;Anthropic&lt;/b&gt; researcher &lt;b&gt;Jacob Coxon&lt;/b&gt; very publicly quit his job over concerns that AI “could kill us all”—and another Anthropic AI safety specialist put the probability of such a catastrophe at greater than 10%.&lt;/p&gt;&lt;p&gt;Coxon told me that is hardly the most pessimistic view inside Anthropic. “People have varying probabilities that—barring some substantial coordinated slowdown—the whole thing ends in doom,” he said in an interview later Wednesday. Those estimates range higher than 50% among some Anthropic employees, he said.&lt;/p&gt;&lt;p&gt;Coxon was able to gauge the fears of his fellow employees because “Anthropic has a substantially more transparent internal culture than OpenAI,” where Coxon worked for years before joining Anthropic in May.&lt;/p&gt;&lt;p&gt;Coxon, who focused on the earliest stages of training AI models at Anthropic, said he decided to leave the company because he was gradually “starting to viscerally feel the fear of where the tech's going to be like the next two years or even the next one year.”&lt;/p&gt;</content>
-    <author>
-      <name>Rocket Drew</name>
     </author>
   </entry>
 </feed>
