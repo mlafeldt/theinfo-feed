@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed?cb=1789225476580</id>
+  <id>tag:www.theinformation.com,2005:/feed</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1789225476580"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-12T15:04:12Z</updated>
+  <updated>2026-09-12T16:03:07Z</updated>
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17806</id>
     <published>2026-09-12T15:01:08Z</published>
@@ -20,14 +20,14 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17807</id>
     <published>2026-09-12T13:16:34Z</published>
-    <updated>2026-09-12T14:40:40Z</updated>
+    <updated>2026-09-12T16:03:07Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/early-anthropic-investor-seeks-vc-glory-cash-compute"/>
     <title>Early Anthropic Investor Seeks VC Glory With Cash and Compute</title>
-    <content type="html">&lt;p&gt;A few months ago, venture capitalist Anjney Midha received a present from his wife while on a trip to Hawaii: a felt, tan-colored Stetson with his name monogrammed on the side. The hat was meant to cover up a brain sensor Midha has been wearing to gather neurological data forone of the many frontier startups he’s invested in.&lt;/p&gt;
+    <content type="html">&lt;p&gt;A few months ago, venture capitalist Anjney Midha received a present from his wife while on a trip to Hawaii: a felt, tan-colored Stetson with his name monogrammed on the side. The hat was meant to cover up a brain sensor Midha has been wearing to gather neurological data for one of the many frontier startups he’s invested in.&lt;/p&gt;
 
 &lt;p&gt;But it’s since become a wardrobe staple for him, and Midha seldom leaves home without it. He isn’t shy about its meaning to him and how he sees his standing in Silicon Valley. “There’s a new sheriff in town,” he said, flashing a smile.&lt;/p&gt;
 
-&lt;p&gt;That sentiment isn’t just bravado. Midha, 34, a computer scientist by training, has chalked up a string of hits as an investor in recent years. His most notable one is Anthropic. He cut the company an early check in 2021 when it was valued at less than $1 billion, usinga substantial portion of his and his wife’s savings. In the company’s approaching IPO, its valuation could extend to as much as $2 trillion.&lt;/p&gt;</content>
+&lt;p&gt;That sentiment isn’t just bravado. Midha, 34, a computer scientist by training, has chalked up a string of hits as an investor in recent years. His most notable one is Anthropic. He cut the company an early check in 2021 when it was valued at less than $1 billion, using a substantial portion of his and his wife’s savings. In the company’s approaching IPO, its valuation could extend to as much as $2 trillion.&lt;/p&gt;</content>
     <author>
       <name>Eli Rosenberg</name>
     </author>
