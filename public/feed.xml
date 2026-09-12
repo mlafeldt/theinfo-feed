@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed</id>
+  <id>tag:www.theinformation.com,2005:/feed?cb=1789232287762</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1789232287762"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-12T16:03:07Z</updated>
+  <updated>2026-09-12T16:57:44Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18032</id>
+    <published>2026-09-12T16:14:30Z</published>
+    <updated>2026-09-12T16:57:44Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/amodei-calls-ai-companies-coordinate-safety"/>
+    <title>Altman and Musk Back Amodei’s Call for AI Companies to Slow Down AI Development</title>
+    <content type="html">&lt;p&gt;Anthropic CEO Dario Amodei on Saturday called for leading AI companies to slow the development of advanced AI, drawing supportive responses from &lt;a href="https://x.com/sama/status/2098811563415150910?s=46&amp;t=vHmkStoxaU0_DAAjLc-84A"&gt;OpenAI CEO Sam Altman&lt;/a&gt; and &lt;a href="https://x.com/elonmusk/status/2098789109980332057?s=20"&gt;SpaceX CEO Elon Musk.&lt;/a&gt;&lt;/p&gt; &lt;p&gt;In a 3,800-word &lt;a href="https://darioamodei.com/post/we-must-pace-the-frontier"&gt;essay&lt;/a&gt; Saturday morning,&amp;nbsp;Amodei said Anthropic would give “employee-like access” to ...&lt;/p&gt;</content>
+    <author>
+      <name>Cory Weinberg</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17806</id>
     <published>2026-09-12T15:01:08Z</published>
@@ -20,7 +31,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17807</id>
     <published>2026-09-12T13:16:34Z</published>
-    <updated>2026-09-12T16:03:07Z</updated>
+    <updated>2026-09-12T16:37:47Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/early-anthropic-investor-seeks-vc-glory-cash-compute"/>
     <title>Early Anthropic Investor Seeks VC Glory With Cash and Compute</title>
     <content type="html">&lt;p&gt;A few months ago, venture capitalist Anjney Midha received a present from his wife while on a trip to Hawaii: a felt, tan-colored Stetson with his name monogrammed on the side. The hat was meant to cover up a brain sensor Midha has been wearing to gather neurological data for one of the many frontier startups he’s invested in.&lt;/p&gt;
@@ -35,7 +46,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18031</id>
     <published>2026-09-12T01:04:55Z</published>
-    <updated>2026-09-12T13:36:43Z</updated>
+    <updated>2026-09-12T16:14:02Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/nvidia-may-invest-10-billion-anthropics-ipo"/>
     <title>Nvidia May Invest Up to $10 Billion In Anthropic’s IPO</title>
     <content type="html">&lt;p&gt;Nvidia has discussed investing in Anthropic’s upcoming initial public offering that would raise as much as $100 billion at a valuation of around $2 trillion, &lt;a href="https://www.reuters.com/legal/transactional/nvidia-talks-invest-anthropics-mega-ipo-sources-say-2026-09-11/"&gt;Reuters reported Friday.&lt;/a&gt; Nvidia could invest as much as $10 billion in Anthropic at the IPO price, according to the report. Anthropic last ...&lt;/p&gt;</content>
@@ -46,7 +57,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18030</id>
     <published>2026-09-12T00:18:42Z</published>
-    <updated>2026-09-12T00:37:50Z</updated>
+    <updated>2026-09-12T16:14:02Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/openai-ai-swarm-hacked-software-service-months-hugging-face-incident"/>
     <title>OpenAI AI Swarm Hacked Software Service Months Before Hugging Face Incident</title>
     <content type="html">&lt;p&gt;A swarm of OpenAI agents &lt;a href="https://www.rubyhack.ai/"&gt;conducted a cyberattack on software service RubyGems&lt;/a&gt; in May, months before the company’s agents hacked model platform Hugging Face, researchers at AI safety organizations Nightingale Collective and AI Futures Project found. RubyGems allows software engineers to download ...&lt;/p&gt;</content>
@@ -57,7 +68,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18029</id>
     <published>2026-09-11T22:24:04Z</published>
-    <updated>2026-09-12T00:18:08Z</updated>
+    <updated>2026-09-12T16:14:03Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/polymarket-appoints-first-cfo"/>
     <title>Polymarket Appoints First CFO</title>
     <content type="html">&lt;p&gt;Polymarket appointed former Amazon executive Warren Jenson as its first chief financial officer as the prediction markets startup looks to grow in the U.S.&lt;/p&gt; &lt;p&gt;Polymarket said Jenson will set Polymarket’s financial and capital strategy as it scales up its Commodity Futures Trading ...&lt;/p&gt;</content>
@@ -68,7 +79,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18028</id>
     <published>2026-09-11T21:25:51Z</published>
-    <updated>2026-09-11T21:25:51Z</updated>
+    <updated>2026-09-12T16:14:02Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/exclusive-salesforce-drop-agentforce-branding-products"/>
     <title>Exclusive: Salesforce to Drop ‘Agentforce’ Branding From Some Products</title>
     <content type="html">&lt;p&gt;Salesforce, ahead of its annual Dreamforce customer conference next week, is removing the word “Agentforce” from the names of some of its top products, according to two people with direct knowledge of the matter.&lt;/p&gt; &lt;p&gt;The reversal comes after Salesforce &lt;a href="https://www.theinformation.com/articles/ai-is-marc-benioffs-friend-and-foe?rc=eqgjah"&gt;made Agentforce a centerpiece&lt;/a&gt; of its product ...&lt;/p&gt;</content>
@@ -82,7 +93,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18027</id>
     <published>2026-09-11T16:52:20Z</published>
-    <updated>2026-09-11T16:52:20Z</updated>
+    <updated>2026-09-12T16:14:02Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/microsoft-chief-communications-officer-shaw-depart"/>
     <title>Microsoft Chief Communications Officer Shaw to Depart</title>
     <content type="html">&lt;p&gt;Microsoft chief communications officer Frank Shaw will leave the company at the end of this year, he announced in a LinkedIn post Friday.&lt;/p&gt; &lt;p&gt;Shaw has spent more than 28 years at the company, including 17 years overseeing its communications. During that time, he steered the company’s public ...&lt;/p&gt;</content>
@@ -93,7 +104,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18026</id>
     <published>2026-09-11T09:22:16Z</published>
-    <updated>2026-09-11T20:28:20Z</updated>
+    <updated>2026-09-12T16:14:02Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/tencent-backed-enflame-triples-debut-china-pushes-chip-self-sufficiency"/>
     <title>Tencent-backed Enflame Triples on Debut as China Pushes for Chip Self-sufficiency</title>
     <content type="html">&lt;p&gt;Shanghai Enflame Technology surged on its first trading day Friday after the Chinese AI chip developer raised about 6.12 billion yuan ($911 million) in an initial public offering, underscoring strong investor appetite for domestic alternatives to Nvidia chips.&lt;/p&gt; &lt;p&gt;Shares opened at 410 yuan, nearly ...&lt;/p&gt;</content>
@@ -115,7 +126,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18025</id>
     <published>2026-09-10T23:55:28Z</published>
-    <updated>2026-09-12T00:18:08Z</updated>
+    <updated>2026-09-12T16:14:03Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/openai-pause-new-pro-subscriptions-cites-astra-demand"/>
     <title>OpenAI to Pause New Pro Subscriptions, Cites Astra Demand</title>
     <content type="html">&lt;p&gt;OpenAI said Thursday it will pause new subscriptions to its $200-a-month plan for Astra, its new flagship model, another sign of the compute crunch facing AI companies.&lt;/p&gt; &lt;p&gt;Thibault Sottiaux, who leads OpenAI’s Codex coding agent, &lt;a href="https://x.com/thsottiaux/status/2098113585683808624"&gt;cited strains on the company’s systems&lt;/a&gt; and a desire to preserve ...&lt;/p&gt;</content>
@@ -148,7 +159,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18023</id>
     <published>2026-09-10T22:38:57Z</published>
-    <updated>2026-09-12T00:18:08Z</updated>
+    <updated>2026-09-12T16:14:03Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/anthropic-says-blocked-bioweapons-efforts-detected-chinese-distillation-attacks"/>
     <title>Anthropic Says It Blocked Bioweapons Efforts and Detected Chinese Distillation Attacks</title>
     <content type="html">&lt;p&gt;Anthropic has disrupted several &lt;a href="https://www-cdn.anthropic.com/e50be2e51e7695dc4b1366a37a245a597377d3b5/Anthropic-Detecting-and-countering-091026.pdf"&gt;attempts to use its Claude models for potentially malicious activity&lt;/a&gt;, including research into how to adapt bird flu to a human-transmittable strain with “pandemic potential,” the company said in a report Thursday.&lt;/p&gt; &lt;p&gt;Amid increasing worry about AI misuse and &lt;a href="https://www.theinformation.com/articles/anthropic-researchers-terminator-style-warning-caught-fire"&gt;rogue ...&lt;/a&gt;&lt;/p&gt;</content>
@@ -175,7 +186,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18022</id>
     <published>2026-09-10T22:28:52Z</published>
-    <updated>2026-09-12T00:18:08Z</updated>
+    <updated>2026-09-12T16:14:03Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/spacex-signs-another-compute-deal-new-customer"/>
     <title>SpaceX Signs Another Compute Deal With New Customer</title>
     <content type="html">&lt;p&gt;SpaceX has signed another cloud computing rental deal to an identified customer that will pay it about $1.11 billion per month starting on Dec. 1, the company’s chief financial officer, Bret Johnsen, said in an interview at Goldman Sachs’ Communacopia + Technology conference on Thursday.&lt;/p&gt; &lt;p&gt;The ...&lt;/p&gt;</content>
@@ -186,7 +197,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18021</id>
     <published>2026-09-10T22:11:03Z</published>
-    <updated>2026-09-12T00:18:08Z</updated>
+    <updated>2026-09-12T16:14:03Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/microsoft-hurt-server-shortage-aims-triple-cloud-capacity-2032"/>
     <title>Microsoft, Hurt By Server Shortage, Aims to Triple Cloud Capacity by 2032</title>
     <content type="html">&lt;p&gt;Microsoft is planning to more than triple the size of its Azure cloud unit’s data center capacity to over 38 gigawatts by 2032, up from 12 gigawatts today, &lt;a href="https://www.bloomberg.com/news/features/2026-09-10/microsoft-ai-focused-data-center-plan-to-add-26-gigawatts-of-compute"&gt;Bloomberg reported Thursday.&lt;/a&gt; A gigawatt of capacity would be able to power a city the size of San Francisco.&lt;/p&gt; &lt;p&gt;In a statement Friday, a ...&lt;/p&gt;</content>
@@ -197,7 +208,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18020</id>
     <published>2026-09-10T20:29:50Z</published>
-    <updated>2026-09-12T00:18:08Z</updated>
+    <updated>2026-09-12T16:14:03Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/oracle-reports-30-topline-growth-august-quarter"/>
     <title>Oracle Reports 30% Topline Growth for August Quarter</title>
     <content type="html">&lt;p&gt;Oracle reported 30% growth in revenue of $19.3 billion for the quarter ending Aug. 31, a slightly better growth rate than the company projected in June, even as it burned $5 billion to expand the data centers that are driving its accelerating topline growth.&lt;/p&gt; &lt;p&gt;The software and cloud firm said ...&lt;/p&gt;</content>
@@ -231,17 +242,6 @@
     <content type="html">&lt;p&gt;Salesforce seems unafraid of a future in which people use an AI chatbot like Claude to access Salesforce enterprise apps and underlying databases to get work done, rather than visiting those apps themselves. Figma, an enterprise design app, naturally wants a different future.&lt;/p&gt;&lt;p&gt;Dylan Field, Figma’s CEO, said Wednesday that as the company’s in-house AI tools for designing apps and other user interfaces get better, “we'll see more and more of that work happening in Figma directly,” rather than using Claude or other prominent AI assistants to do such work.&lt;/p&gt;</content>
     <author>
       <name>Laura Bratton</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Article/17792</id>
-    <published>2026-09-10T16:10:56Z</published>
-    <updated>2026-09-11T11:37:39Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/wall-streets-new-exit-ramp-ai"/>
-    <title>Why AI Companies Are Building Out Wall Street-Style Finance Teams</title>
-    <content type="html">&lt;p&gt;The financing boom for the AI build-out is getting bigger and more complicated by the day—and AI companies have been staffing up for the challenge.&amp;nbsp;&lt;/p&gt;&lt;p&gt;AI labs including OpenAI and Anthropic, as well as neoclouds such as Nscale, are among a growing number of AI companies building out their capital markets teams and hiring specialists in areas like structured finance. That in part reflects the sheer volume of deals these companies are doing, many of which don’t fit neatly into standard corporate debt. This in-house staff can help when it comes to negotiating with lenders and drilling down into construction, power and other key details.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Of course, tech and data center companies have long had in-house teams to handle fundraising, deals and other corporate finance needs. And structured finance is nothing new to the infrastructure world. But the scale of the AI build-out, which bankers peg at &lt;a href="https://www.theinformation.com/articles/ai-financing-gets-creative"&gt;around $7.5 trillion&lt;/a&gt; in spending over the next five years, has pulled relatively young labs and upstart cloud firms into financing arrangements that are new territory.&amp;nbsp;&lt;/p&gt;&lt;p&gt;That means finance professionals, from bankers to investors at private equity, private credit and infrastructure firms, have more options in the form of neoclouds and other AI infrastructure startups, some of which are offering significant pre–initial public offering equity.&lt;/p&gt;&lt;p&gt;“It's a new avenue for these people,” said James Howl-Newton, founder of Futura Search Partners, a specialist search firm focused on areas including digital infrastructure finance. As a result, “sponsors are having to deal with additional routes to exits for top performers,” he said.&lt;/p&gt;&lt;p&gt;AI companies and infrastructure providers are tapping financing frequently and across different instruments, requiring deeper in-house capabilities and expertise than young tech firms have typically needed. One executive overseeing finance hiring at a neocloud noted that leveraged and structured finance backgrounds bring expertise that can help in areas like working through project diligence and getting banks to sign off on deals. Some AI firms may also want to run their own project finance models so they can move quickly through negotiations and have something to compare to lenders’ models.&lt;/p&gt;&lt;p&gt;AI companies aren’t always issuing the debt themselves—that can fall to data center developers or special purpose vehicles, with firms like Blackstone and Apollo &lt;a href="https://www.theinformation.com/articles/apollo-taps-new-ai-sector-head-chase-megafinancings"&gt;providing or arranging chip&lt;/a&gt; and other financing. And some of the biggest AI deals are using backstops from investment-grade companies like Nvidia or major cloud providers. Even so, commitments from AI customers often underpin much of the borrowing. And the users of the infrastructure will want to understand what they’re signing up for and their risks if a project runs into trouble.&amp;nbsp;&lt;/p&gt;&lt;p&gt;“Hiring of people within that business, responsible for the financing of compute, could prove to be an existential decision,” said Dan McCarthy, founder and CEO of One Search, an executive search firm focused on infrastructure finance whose recent clients &lt;a href="https://www.linkedin.com/posts/one-search_ai-executivesearch-onesearch-activity-7479976676194430976-C1zM"&gt;include&lt;/a&gt;&amp;nbsp;OpenAI. “You want someone who knows where all the pitfalls are, where all the bodies are buried in multibillion-dollar loans.”&amp;nbsp;&lt;/p&gt;&lt;p&gt;OpenAI, for its part, in July named Sven Semmelmann as head of compute capital markets. He previously led structured finance at Generate Capital, an investment firm that finances and owns infrastructure projects, and he has also held project finance roles at major banks. OpenAI Chief Financial Officer Sarah Friar, when announcing the hire on LinkedIn, said Semmelmann would oversee financing and partnerships to grow the company’s compute resources.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Anthropic, meanwhile, has made several finance hires recently to work on capital markets and compute deals, and also has open positions posted including a capital markets infrastructure financing role. AI infrastructure upstarts are staffing up as well. Nscale, which launched in 2024 and is gearing up for a &lt;a href="https://www.theinformation.com/briefings/exclusive-nscale-touts-100-billion-plus-contracted-revenue-anthropic-win"&gt;potential IPO&lt;/a&gt;, has been hiring across levels for capital markets and treasury as well as legal roles, calling for experience in areas like structured finance and private credit.&amp;nbsp;&lt;/p&gt;&lt;p&gt;SB Energy and Crusoe, which are developing major new data centers for OpenAI and other customers, are hiring across levels for jobs focused on project financings and other structured deals, recent postings show, while AI infrastructure startup Fluidstack is hiring a structured finance lead and a more junior counterpart.&amp;nbsp;&lt;/p&gt;&lt;p&gt;The good news for AI companies is that private credit and infrastructure teams, as well as investment banking teams focused on structured or project finance, had been growing even prior to the AI boom, providing a pool of skills that could translate into new twists on structured finance, like big graphics processing unit–backed deals.&amp;nbsp;&lt;/p&gt;&lt;p&gt;But that kind of finance talent doesn’t come cheap, especially for more senior people who have a track record of working on large transactions. And the normal tech tactic of dangling stock to lure talent won’t necessarily do the trick in all cases, especially for the most seasoned dealmakers and investors.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Financiers would have to weigh a cash-heavy Wall Street pay package, albeit one that can depend heavily on how good bonus season is, against betting a portion of their pay on stock in a private or newly public company. Managing directors in investment banking can make north of $1 million in cash a year, with the biggest rainmakers making considerably more. The part of pay they get in stock at big public banks may vest over a few years but is generally easy to sell after that.&amp;nbsp;&lt;/p&gt;&lt;p&gt;For people at big infrastructure or private credit firms, senior employees may also receive carried interest, meaning a share of the profits on the funds or investments they work on, which can become worth millions over time.&amp;nbsp;&lt;/p&gt;&lt;p&gt;For instance, an investor at a top infrastructure firm may have several million dollars’ worth of carried interest tied up at their current firm they’d have to leave on the table. An AI company could try to make them whole with stock, which could be tantalizing to some, though others might not want to make a bet on equity in a young company.&amp;nbsp;&lt;/p&gt;&lt;p&gt;That might make the most experienced investors—those who’ve seen big infrastructure projects through over many years and know all the tricks of the trade—hard to pry away.&amp;nbsp;&lt;/p&gt;&lt;article class="newFromOurReporters mb-32"&gt;&lt;h3 class="font-suisse-works text-headline-xs text-black font-medium"&gt;New From Our Reporters&lt;/h3&gt;&lt;article&gt;&lt;a href="https://www.theinformation.com/articles/anthropics-house-payments-tech-push-chip-away-stripe"&gt;&lt;img src="https://tii.imgix.net/production/articles/17770/5fc61991-fcec-4f6d-ba96-006c83cb3dd7.png?auto=compress,format&amp;amp;fit=crop&amp;amp;w=560" srcset="https://tii.imgix.net/production/articles/17770/5fc61991-fcec-4f6d-ba96-006c83cb3dd7.png?auto=compress,format&amp;amp;fit=crop&amp;amp;w=168 168w, https://tii.imgix.net/production/articles/17770/5fc61991-fcec-4f6d-ba96-006c83cb3dd7.png?auto=compress,format&amp;amp;fit=crop&amp;amp;w=336 336w, https://tii.imgix.net/production/articles/17770/5fc61991-fcec-4f6d-ba96-006c83cb3dd7.png?auto=compress,format&amp;amp;fit=crop&amp;amp;w=560 560w, https://tii.imgix.net/production/articles/17770/5fc61991-fcec-4f6d-ba96-006c83cb3dd7.png?auto=compress,format&amp;amp;fit=crop&amp;amp;w=767 767w" sizes="(min-width: 480px and max-width: 767px) 560px, (min-width: 768px) 168px, 100vw" loading="lazy"&gt;&lt;/a&gt;&lt;div&gt;&lt;span class="font-suisse-intl-mono text-overline-md text-black block mb-8"&gt;Exclusive&lt;/span&gt;&lt;h4 class="my-0 font-suisse-intl font-normal text-body-lg"&gt;&lt;a href="https://www.theinformation.com/articles/anthropics-house-payments-tech-push-chip-away-stripe" class="no-underline" style="text-decoration: none !important;"&gt;Anthropic’s In-House Payments Tech Push Could Chip Away at Stripe&lt;/a&gt;&lt;/h4&gt;&lt;span class="font-suisse-screen text-grayscale-gray text-byline-md mt-8 block"&gt;By Stephanie Palazzolo&lt;/span&gt;&lt;/div&gt;&lt;/article&gt;&lt;article&gt;&lt;a href="https://www.theinformation.com/articles/china-curbs-humanoid-ipos-unitrees-volatile-debut"&gt;&lt;img src="https://tii.imgix.net/production/articles/17787/45267242-7bcf-4d0e-a1b2-bd5dd26ff341.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;w=560" srcset="https://tii.imgix.net/production/articles/17787/45267242-7bcf-4d0e-a1b2-bd5dd26ff341.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;w=168 168w, https://tii.imgix.net/production/articles/17787/45267242-7bcf-4d0e-a1b2-bd5dd26ff341.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;w=336 336w, https://tii.imgix.net/production/articles/17787/45267242-7bcf-4d0e-a1b2-bd5dd26ff341.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;w=560 560w, https://tii.imgix.net/production/articles/17787/45267242-7bcf-4d0e-a1b2-bd5dd26ff341.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;w=767 767w" sizes="(min-width: 480px and max-width: 767px) 560px, (min-width: 768px) 168px, 100vw" loading="lazy"&gt;&lt;/a&gt;&lt;div&gt;&lt;span class="font-suisse-intl-mono text-overline-md text-black block mb-8"&gt;Exclusive&lt;/span&gt;&lt;h4 class="my-0 font-suisse-intl font-normal text-body-lg"&gt;&lt;a href="https://www.theinformation.com/articles/china-curbs-humanoid-ipos-unitrees-volatile-debut" class="no-underline" style="text-decoration: none !important;"&gt;China Curbs Humanoid IPOs After Unitree’s Volatile Debut&lt;/a&gt;&lt;/h4&gt;&lt;span class="font-suisse-screen text-grayscale-gray text-byline-md mt-8 block"&gt;By Jing Yang and Qianer Liu&lt;/span&gt;&lt;/div&gt;&lt;/article&gt;&lt;/article&gt;</content>
-    <author>
-      <name>Meredith Mazzilli</name>
     </author>
   </entry>
 </feed>
