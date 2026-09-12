@@ -1,18 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed</id>
+  <id>tag:www.theinformation.com,2005:/feed?cb=1789220835559</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1789220835559"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-12T01:04:55Z</updated>
+  <updated>2026-09-12T13:46:45Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17807</id>
+    <published>2026-09-12T13:16:34Z</published>
+    <updated>2026-09-12T13:46:45Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/early-anthropic-investor-seeks-vc-glory-cash-compute"/>
+    <title>Early Anthropic Investor Seeks VC Glory With Cash and Compute</title>
+    <content type="html">&lt;p&gt;A few months ago, venture capitalist Anjney Midha received a present from his wife while on a trip to Hawaii: a felt, tan-colored Stetson with his name monogrammed on the side. The hat was meant to cover up a brain sensor Midha has been wearing to gather neurological data forone of the many frontier startups he’s invested in.&lt;/p&gt;
+
+&lt;p&gt;But it’s since become a wardrobe staple for him, and Midha seldom leaves home without it. He isn’t shy about its meaning to him and how he sees his standing in Silicon Valley. “There’s a new sheriff in town,” he said, flashing a smile.&lt;/p&gt;
+
+&lt;p&gt;That sentiment isn’t just bravado. Midha, 34, a computer scientist by training, has chalked up a string of hits as an investor in recent years. His most notable one is Anthropic. He cut the company an early check in 2021 when it was valued at less than $1 billion, usinga substantial portion of his and his wife’s savings. In the company’s approaching IPO, its valuation could extend to as much as $2 trillion.&lt;/p&gt;</content>
+    <author>
+      <name>Eli Rosenberg</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18031</id>
     <published>2026-09-12T01:04:55Z</published>
-    <updated>2026-09-12T01:04:55Z</updated>
+    <updated>2026-09-12T13:36:43Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/nvidia-may-invest-10-billion-anthropics-ipo"/>
     <title>Nvidia May Invest Up to $10 Billion In Anthropic’s IPO</title>
-    <content type="html">&lt;p&gt;Nvidia has discussed investing in Anthropic’s upcoming initial public offering that would raise as much as $100 billion at a valuation of around $2 trillion, Reuters reported Friday. Nvidia could invest as much as $10 billion in Anthropic at the IPO price, according to the report. Anthropic last ...&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Nvidia has discussed investing in Anthropic’s upcoming initial public offering that would raise as much as $100 billion at a valuation of around $2 trillion, &lt;a href="https://www.reuters.com/legal/transactional/nvidia-talks-invest-anthropics-mega-ipo-sources-say-2026-09-11/"&gt;Reuters reported Friday.&lt;/a&gt; Nvidia could invest as much as $10 billion in Anthropic at the IPO price, according to the report. Anthropic last ...&lt;/p&gt;</content>
     <author>
       <name>Phoebe Liu</name>
     </author>
@@ -140,10 +155,10 @@
 
 &lt;p&gt;Over the last few weeks, Instinct, which launched to a select group of users earlier this year, has sometimes notified users that it is running at full capacity and “responses may be slower” as people use it for tasks such as negotiating bills and answering emails. More cash could help: the company is looking to raise $1 billion in new funding after recently raising $250 million, its founder and CEO Noah Shinn has recently told prospective investors, according to a person familiar with the statement.&lt;/p&gt;</content>
     <author>
-      <name>Valida Pau</name>
+      <name>Stephanie Palazzolo</name>
     </author>
     <author>
-      <name>Stephanie Palazzolo</name>
+      <name>Valida Pau</name>
     </author>
   </entry>
   <entry>
@@ -227,17 +242,6 @@
     <content type="html">&lt;p&gt;The U.S. Senate formally launched an investigation into the July hack of Hugging Face, when a swarm of OpenAI agents broke out of a testing environment and gained access to the open-source repository.&lt;/p&gt; &lt;p&gt;In a &lt;a href="https://www.documentcloud.org/documents/28609385-hawley-hugging-face-openai-letter/"&gt;letter&lt;/a&gt; sent to OpenAI CEO Sam Altman on Wednesday, Republican Sen. Josh Hawley said that ...&lt;/p&gt;</content>
     <author>
       <name>Leo Schwartz</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18018</id>
-    <published>2026-09-10T15:19:23Z</published>
-    <updated>2026-09-11T20:28:21Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/bending-spoons-buys-miro-1-355-billion"/>
-    <title>Bending Spoons Buys Miro For $1.355 Billion</title>
-    <content type="html">&lt;p&gt;Italian digital conglomerate Bending Spoons is buying&amp;nbsp;whiteboarding software firm Miro at a valuation of $1.355 billion, the latest in a series of purchases the Italian firm has done at knock-down prices.&lt;/p&gt; &lt;p&gt;The price for Miro is a huge discount to its peak valuation of $17.5 billion, dating ...&lt;/p&gt;</content>
-    <author>
-      <name>Martin Peers</name>
     </author>
   </entry>
 </feed>
