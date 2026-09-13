@@ -5,11 +5,11 @@
   <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-13T22:03:59Z</updated>
+  <updated>2026-09-13T22:07:24Z</updated>
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17808</id>
     <published>2026-09-13T22:00:47Z</published>
-    <updated>2026-09-13T22:03:59Z</updated>
+    <updated>2026-09-13T22:07:24Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/ais-pacing-obsession-misses-real-political-problem"/>
     <title>AI’s ‘Pacing’ Obsession Misses Real Political Problem</title>
     <content type="html">&lt;p&gt;Dario Amodei typically isn’t considered some camera-ready media maestro. His interview quotes aren’t particularly pithy, and he struggles to control his strained facial expressions. But his habit of sending his most high-stakes messages via essays posted on his own website, &lt;a href="http://darioamodei.com/"&gt;darioamodei.com&lt;/a&gt;, has proven to be a brilliant media strategy. “The medium is the message,” the ubiquitous half-century-old wisdom from scholar Marshall McLuhan, still resonates. The approach conveys authority and diligence, putting Amodei above the fray.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Amodei’s &lt;a href="https://darioamodei.com/post/we-must-pace-the-frontier"&gt;latest essay, on Saturday&lt;/a&gt;—suggesting that the industry slow down the pace of AI development—set off a weekend full of takes on the tech industry’s preferred medium, X—well-meaning, conspiratorial, annoying, breathless, thought-provoking takes, including nods of agreement from Amodei’s rivals, &lt;a href="https://x.com/sama/status/2098811563415150910?s=20"&gt;Sam Altman&lt;/a&gt; and &lt;a href="https://x.com/elonmusk/status/2098789109980332057?s=20"&gt;Elon Musk&lt;/a&gt;. Timing is important here, too, of course. AI doom is dominating the headlines, not just in Washington and Silicon Valley but around the world. (We reported &lt;a href="https://www.theinformation.com/articles/inside-ai-industrys-behind-scenes-push-police?rc=9byxri"&gt;today on discussions underway &lt;/a&gt;between the companies).&lt;/p&gt;</content>
@@ -40,10 +40,10 @@
 
 &lt;p&gt;That becomes clear when you look at its own disclosures going back several years, which specify how many customers account for more than 10% of sales. In the first half of this fiscal year, ending in July, three such customers were responsible for 44% of total sales. Last fiscal year, two customers accounted for 36% of total sales. Going back to fiscal 2023, Nvidia had no customers accounting for 10% or more of sales (see the chart&amp;nbsp;below).&lt;/p&gt;</content>
     <author>
-      <name>Qianer Liu</name>
+      <name>Martin Peers</name>
     </author>
     <author>
-      <name>Martin Peers</name>
+      <name>Qianer Liu</name>
     </author>
   </entry>
   <entry>
