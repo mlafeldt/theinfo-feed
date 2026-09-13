@@ -5,7 +5,23 @@
   <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-13T14:01:20Z</updated>
+  <updated>2026-09-13T15:01:10Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17804</id>
+    <published>2026-09-13T15:00:46Z</published>
+    <updated>2026-09-13T15:01:10Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/nvidias-growing-dependence-big-customers"/>
+    <title>Nvidia’s Growing Dependence On a Few Big Customers</title>
+    <content type="html">&lt;p&gt;Nvidia CEO Jensen Huang has very good reason to try to develop new customers by investing in a variety of neocloud and AI firms. For all its success, Nvidia’s sales have become increasingly dependent on a handful of customers&amp;mdash;some of which may cut back their purchases over time.&lt;/p&gt;
+
+&lt;p&gt;That becomes clear when you look at its own disclosures going back several years, which specify how many customers account for more than 10% of sales. In the first half of this fiscal year, ending in July, three such customers were responsible for 44% of total sales. Last fiscal year, two customers accounted for 36% of total sales. Going back to fiscal 2023, Nvidia had no customers accounting for 10% or more of sales (see the chart&amp;nbsp;below).&lt;/p&gt;</content>
+    <author>
+      <name>Qianer Liu</name>
+    </author>
+    <author>
+      <name>Martin Peers</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17809</id>
     <published>2026-09-13T14:00:46Z</published>
@@ -210,10 +226,10 @@
 
 &lt;p&gt;Over the last few weeks, Instinct, which launched to a select group of users earlier this year, has sometimes notified users that it is running at full capacity and “responses may be slower” as people use it for tasks such as negotiating bills and answering emails. More cash could help: the company is looking to raise $1 billion in new funding after recently raising $250 million, its founder and CEO Noah Shinn has recently told prospective investors, according to a person familiar with the statement.&lt;/p&gt;</content>
     <author>
-      <name>Valida Pau</name>
+      <name>Stephanie Palazzolo</name>
     </author>
     <author>
-      <name>Stephanie Palazzolo</name>
+      <name>Valida Pau</name>
     </author>
   </entry>
   <entry>
@@ -225,17 +241,6 @@
     <content type="html">&lt;p&gt;SpaceX has signed another cloud computing rental deal to an identified customer that will pay it about $1.11 billion per month starting on Dec. 1, the company’s chief financial officer, Bret Johnsen, said in an interview at Goldman Sachs’ Communacopia + Technology conference on Thursday.&lt;/p&gt; &lt;p&gt;The ...&lt;/p&gt;</content>
     <author>
       <name>Anita Ramaswamy</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18021</id>
-    <published>2026-09-10T22:11:03Z</published>
-    <updated>2026-09-12T22:47:53Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/microsoft-hurt-server-shortage-aims-triple-cloud-capacity-2032"/>
-    <title>Microsoft, Hurt By Server Shortage, Aims to Triple Cloud Capacity by 2032</title>
-    <content type="html">&lt;p&gt;Microsoft is planning to more than triple the size of its Azure cloud unit’s data center capacity to over 38 gigawatts by 2032, up from 12 gigawatts today, &lt;a href="https://www.bloomberg.com/news/features/2026-09-10/microsoft-ai-focused-data-center-plan-to-add-26-gigawatts-of-compute"&gt;Bloomberg reported Thursday.&lt;/a&gt; A gigawatt of capacity would be able to power a city the size of San Francisco.&lt;/p&gt; &lt;p&gt;In a statement Friday, a ...&lt;/p&gt;</content>
-    <author>
-      <name>Aaron Holmes</name>
     </author>
   </entry>
 </feed>
