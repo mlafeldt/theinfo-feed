@@ -1,11 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed</id>
+  <id>tag:www.theinformation.com,2005:/feed?cb=1789328860652</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1789328860652"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-13T18:38:54Z</updated>
+  <updated>2026-09-13T19:46:53Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17812</id>
+    <published>2026-09-13T19:16:26Z</published>
+    <updated>2026-09-13T19:46:53Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/inside-ai-industrys-behind-scenes-push-police"/>
+    <title>Inside the AI Industry’s Behind-the-Scenes Push to Police Itself</title>
+    <content type="html">&lt;p&gt;Anthropic, OpenAI and Google have been holding discussions about working together to create a standards body for the AI industry, people familiar with the matter said, even before Anthropic CEO Dario Amodei called on Saturday for AI companies to coordinate on testing and auditing the technology.&lt;/p&gt;
+
+&lt;p&gt;OpenAI CEO Sam Altman, for his part, told staff at a companywide town hall meeting earlier this week that he supported a testing and auditing organization for the AI industry but believed that major AI labs would have to create a standards body on their own without the support of the U.S. government, a person familiar with the comments said.&lt;/p&gt;</content>
+    <author>
+      <name>Leo Schwartz</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17804</id>
     <published>2026-09-13T15:00:46Z</published>
@@ -230,17 +243,6 @@
     </author>
     <author>
       <name>Stephanie Palazzolo</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18022</id>
-    <published>2026-09-10T22:28:52Z</published>
-    <updated>2026-09-13T18:38:53Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/spacex-signs-another-compute-deal-new-customer"/>
-    <title>SpaceX Signs Another Compute Deal With New Customer</title>
-    <content type="html">&lt;p&gt;SpaceX has signed another cloud computing rental deal to an identified customer that will pay it about $1.11 billion per month starting on Dec. 1, the company’s chief financial officer, Bret Johnsen, said in an interview at Goldman Sachs’ Communacopia + Technology conference on Thursday.&lt;/p&gt; &lt;p&gt;The ...&lt;/p&gt;</content>
-    <author>
-      <name>Anita Ramaswamy</name>
     </author>
   </entry>
 </feed>
