@@ -5,7 +5,18 @@
   <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-13T20:17:33Z</updated>
+  <updated>2026-09-13T22:03:59Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17808</id>
+    <published>2026-09-13T22:00:47Z</published>
+    <updated>2026-09-13T22:03:59Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/ais-pacing-obsession-misses-real-political-problem"/>
+    <title>AI’s ‘Pacing’ Obsession Misses Real Political Problem</title>
+    <content type="html">&lt;p&gt;Dario Amodei typically isn’t considered some camera-ready media maestro. His interview quotes aren’t particularly pithy, and he struggles to control his strained facial expressions. But his habit of sending his most high-stakes messages via essays posted on his own website, &lt;a href="http://darioamodei.com/"&gt;darioamodei.com&lt;/a&gt;, has proven to be a brilliant media strategy. “The medium is the message,” the ubiquitous half-century-old wisdom from scholar Marshall McLuhan, still resonates. The approach conveys authority and diligence, putting Amodei above the fray.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Amodei’s &lt;a href="https://darioamodei.com/post/we-must-pace-the-frontier"&gt;latest essay, on Saturday&lt;/a&gt;—suggesting that the industry slow down the pace of AI development—set off a weekend full of takes on the tech industry’s preferred medium, X—well-meaning, conspiratorial, annoying, breathless, thought-provoking takes, including nods of agreement from Amodei’s rivals, &lt;a href="https://x.com/sama/status/2098811563415150910?s=20"&gt;Sam Altman&lt;/a&gt; and &lt;a href="https://x.com/elonmusk/status/2098789109980332057?s=20"&gt;Elon Musk&lt;/a&gt;. Timing is important here, too, of course. AI doom is dominating the headlines, not just in Washington and Silicon Valley but around the world. (We reported &lt;a href="https://www.theinformation.com/articles/inside-ai-industrys-behind-scenes-push-police?rc=9byxri"&gt;today on discussions underway &lt;/a&gt;between the companies).&lt;/p&gt;</content>
+    <author>
+      <name>Cory Weinberg</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17812</id>
     <published>2026-09-13T19:16:26Z</published>
@@ -227,22 +238,6 @@
     <content type="html">&lt;p&gt;Anthropic has disrupted several &lt;a href="https://www-cdn.anthropic.com/e50be2e51e7695dc4b1366a37a245a597377d3b5/Anthropic-Detecting-and-countering-091026.pdf"&gt;attempts to use its Claude models for potentially malicious activity&lt;/a&gt;, including research into how to adapt bird flu to a human-transmittable strain with “pandemic potential,” the company said in a report Thursday.&lt;/p&gt; &lt;p&gt;Amid increasing worry about AI misuse and &lt;a href="https://www.theinformation.com/articles/anthropic-researchers-terminator-style-warning-caught-fire"&gt;rogue ...&lt;/a&gt;&lt;/p&gt;</content>
     <author>
       <name>Tiffany Li</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Article/17801</id>
-    <published>2026-09-10T22:29:45Z</published>
-    <updated>2026-09-11T00:55:58Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/personal-ai-app-instinct-faces-compute-crunch-lead-new-funding"/>
-    <title>Personal AI App Instinct Faces Compute Crunch That Could Lead to New Funding</title>
-    <content type="html">&lt;p&gt;The year-old startup behind Instinct, a personal AI assistant that’s caught fire with Silicon Valley insiders, is seeking more computing power, leveraging its early buzz as it faces new competition from giant Meta Platforms.&lt;/p&gt;
-
-&lt;p&gt;Over the last few weeks, Instinct, which launched to a select group of users earlier this year, has sometimes notified users that it is running at full capacity and “responses may be slower” as people use it for tasks such as negotiating bills and answering emails. More cash could help: the company is looking to raise $1 billion in new funding after recently raising $250 million, its founder and CEO Noah Shinn has recently told prospective investors, according to a person familiar with the statement.&lt;/p&gt;</content>
-    <author>
-      <name>Valida Pau</name>
-    </author>
-    <author>
-      <name>Stephanie Palazzolo</name>
     </author>
   </entry>
 </feed>
