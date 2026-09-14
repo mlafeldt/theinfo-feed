@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed</id>
+  <id>tag:www.theinformation.com,2005:/feed?cb=1789420579494</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1789420579494"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-14T20:45:03Z</updated>
+  <updated>2026-09-14T21:16:02Z</updated>
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17817</id>
     <published>2026-09-14T20:44:39Z</published>
-    <updated>2026-09-14T20:45:03Z</updated>
+    <updated>2026-09-14T21:15:22Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/defense-startup-shield-ai-talks-valuation-least-20-billion"/>
     <title>Defense Startup Shield AI in Talks for Valuation of at Least $20 Billion</title>
     <content type="html">&lt;p&gt;Shield AI, a startup building drones and AI-powered software for the military, is in talks to raise new funds at a valuation of at least $20 billion, according to a person with knowledge of the fundraise. The funding round, if it closes, would represent a roughly 60% increase to Shield’s valuation from just five months ago.&lt;/p&gt;
@@ -25,7 +25,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17805</id>
     <published>2026-09-14T20:08:50Z</published>
-    <updated>2026-09-14T20:10:07Z</updated>
+    <updated>2026-09-14T21:16:02Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/openais-top-priority-ai-agents-automating-ai-research-says-noam-brown"/>
     <title>OpenAI’s ‘Top Priority’ for AI Agents is Automating AI Research, Says Noam Brown</title>
     <content type="html">&lt;p&gt;&lt;a href="https://www.theinformation.com/org-charts/openai"&gt;OpenAI&lt;/a&gt;’s latest AI model, GPT-6 Astra, notched improvements at a variety of professional tasks, from designing video games to transcribing sheet music. But OpenAI’s main goal when training new AI models is making them better at AI research and development, OpenAI research scientist Noam Brown told me. “The number one priority is recursive self-improvement, and by a pretty wide margin,” he said.&lt;/p&gt;
