@@ -5,7 +5,36 @@
   <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-14T19:23:43Z</updated>
+  <updated>2026-09-14T20:45:03Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17817</id>
+    <published>2026-09-14T20:44:39Z</published>
+    <updated>2026-09-14T20:45:03Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/defense-startup-shield-ai-talks-valuation-least-20-billion"/>
+    <title>Defense Startup Shield AI in Talks for Valuation of at Least $20 Billion</title>
+    <content type="html">&lt;p&gt;Shield AI, a startup building drones and AI-powered software for the military, is in talks to raise new funds at a valuation of at least $20 billion, according to a person with knowledge of the fundraise. The funding round, if it closes, would represent a roughly 60% increase to Shield’s valuation from just five months ago.&lt;/p&gt;
+
+&lt;p&gt;The planned funding round follows the 11-year-old company’s success winning contracts for its AI software that coordinates drones and aircrafts, called Hivemind, and comes as investors continue to pour money into startups that are building AI-powered weapons and defense systems.&lt;/p&gt;</content>
+    <author>
+      <name>Jemima McEvoy</name>
+    </author>
+    <author>
+      <name>Julia Hornstein</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17805</id>
+    <published>2026-09-14T20:08:50Z</published>
+    <updated>2026-09-14T20:10:07Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/openais-top-priority-ai-agents-automating-ai-research-says-noam-brown"/>
+    <title>OpenAI’s ‘Top Priority’ for AI Agents is Automating AI Research, Says Noam Brown</title>
+    <content type="html">&lt;p&gt;&lt;a href="https://www.theinformation.com/org-charts/openai"&gt;OpenAI&lt;/a&gt;’s latest AI model, GPT-6 Astra, notched improvements at a variety of professional tasks, from designing video games to transcribing sheet music. But OpenAI’s main goal when training new AI models is making them better at AI research and development, OpenAI research scientist Noam Brown told me. “The number one priority is recursive self-improvement, and by a pretty wide margin,” he said.&lt;/p&gt;
+
+&lt;p&gt;I sat down with Brown for a conversation for the &lt;a href="https://www.youtube.com/live/fqcy0xQATq0?si=POsdalvPKIGxxZE0"&gt;first episode of AI Deep Dive&lt;/a&gt;, The Information’s new show exploring the hard problems on tech’s frontier. We discussed the future of AI agents, which can work autonomously to carry out digital tasks. Brown has spent the last three years at OpenAI, where he has pushed advancements in enabling AI models to reason through problems and act as agents.&lt;/p&gt;</content>
+    <author>
+      <name>Rocket Drew</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17815</id>
     <published>2026-09-14T16:01:07Z</published>
@@ -51,10 +80,10 @@
     <title>Anthropic Data Fears Prompt Nvidia, Palantir and Booz Allen to Restrict Model Use</title>
     <content type="html">&lt;p&gt;As paranoia rises over whether &lt;a href="https://www.theinformation.com/org-charts/anthropic"&gt;Anthropic&lt;/a&gt; or &lt;a href="https://www.theinformation.com/org-charts/openai"&gt;OpenAI&lt;/a&gt; could learn from their customers’ intellectual property, large firms involved in sensitive corporate work, such as Palantir Technologies, Nvidia and Booz Allen Hamilton, have started demanding new guarantees or reducing or eliminating use of the AI firms’ most advanced models.&lt;/p&gt;</content>
     <author>
-      <name>Laura Bratton</name>
+      <name>Aaron Holmes</name>
     </author>
     <author>
-      <name>Aaron Holmes</name>
+      <name>Laura Bratton</name>
     </author>
   </entry>
   <entry>
@@ -89,10 +118,10 @@
 
 &lt;p&gt;The deal is the latest in a spate of cloud computing agreements Anthropic struck in the past year, with major cloud providers like Google, tech companies such as SpaceX and &lt;a href="https://www.bloomberg.com/news/articles/2026-08-26/anthropic-to-pay-nscale-45-billion-for-ai-computing-power"&gt;smaller neoclouds such as Nscale,&lt;/a&gt; amid skyrocketing demand for its Claude Code and Cowork products. The agreements total at least 14.8 gigawatts of compute capacity, &lt;a href="https://www.theinformation.com/articles/anthropic-clinched-517-billion-compute-deals-11-months"&gt;costing as much as $517 billion over the next decade.&lt;/a&gt; The deal with Rum would add to that total.&lt;/p&gt;</content>
     <author>
-      <name>Phoebe Liu</name>
+      <name>Valida Pau</name>
     </author>
     <author>
-      <name>Valida Pau</name>
+      <name>Phoebe Liu</name>
     </author>
   </entry>
   <entry>
@@ -225,31 +254,6 @@
     <content type="html">&lt;p&gt;A swarm of OpenAI agents &lt;a href="https://www.rubyhack.ai/"&gt;conducted a cyberattack on software service RubyGems&lt;/a&gt; in May, months before the company’s agents hacked model platform Hugging Face, researchers at AI safety organizations Nightingale Collective and AI Futures Project found. RubyGems allows software engineers to download ...&lt;/p&gt;</content>
     <author>
       <name>Tiffany Li</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18029</id>
-    <published>2026-09-11T22:24:04Z</published>
-    <updated>2026-09-14T16:43:11Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/polymarket-appoints-first-cfo"/>
-    <title>Polymarket Appoints First CFO</title>
-    <content type="html">&lt;p&gt;Polymarket appointed former Amazon executive Warren Jenson as its first chief financial officer as the prediction markets startup looks to grow in the U.S.&lt;/p&gt; &lt;p&gt;Polymarket said Jenson will set Polymarket’s financial and capital strategy as it scales up its Commodity Futures Trading ...&lt;/p&gt;</content>
-    <author>
-      <name>Michael Roddan</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18028</id>
-    <published>2026-09-11T21:25:51Z</published>
-    <updated>2026-09-14T16:43:11Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/exclusive-salesforce-drop-agentforce-branding-products"/>
-    <title>Exclusive: Salesforce to Drop ‘Agentforce’ Branding From Some Products</title>
-    <content type="html">&lt;p&gt;Salesforce, ahead of its annual Dreamforce customer conference next week, is removing the word “Agentforce” from the names of some of its top products, according to two people with direct knowledge of the matter.&lt;/p&gt; &lt;p&gt;The reversal comes after Salesforce &lt;a href="https://www.theinformation.com/articles/ai-is-marc-benioffs-friend-and-foe?rc=eqgjah"&gt;made Agentforce a centerpiece&lt;/a&gt; of its product ...&lt;/p&gt;</content>
-    <author>
-      <name>Kevin McLaughlin</name>
-    </author>
-    <author>
-      <name>Laura Bratton</name>
     </author>
   </entry>
 </feed>
