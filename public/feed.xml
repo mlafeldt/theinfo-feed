@@ -1,11 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed</id>
+  <id>tag:www.theinformation.com,2005:/feed?cb=1789401811636</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1789401811636"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-14T15:04:35Z</updated>
+  <updated>2026-09-14T16:03:25Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17815</id>
+    <published>2026-09-14T16:01:07Z</published>
+    <updated>2026-09-14T16:01:37Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/refounding-america-tax-code-needs-change-age-ai"/>
+    <title>Refounding America: The Tax Code Needs to Change in the Age of AI</title>
+    <content type="html">&lt;p&gt;&lt;em&gt;Vinod Khosla is founder of Khosla Ventures and has spent the last 40 years in the business of innovation. He was the co-founder of Sun Microsystems. Khosla Ventures is an investor in OpenAI.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Major technological revolutions should force a renegotiation of society’s basic economic contract. AI will significantly diminish the requirement for labor at any given level of gross domestic product, and if we aren’t honest about that, we’ll stumble into a chaotic and suboptimal transition rather than engineer the optimal one. It’s not surprising that AI is scary to most people surveyed.&lt;/p&gt;
+
+&lt;p&gt;We need to create a strong social safety net, strong core government services and a focus on preserving the human element in the emerging world if American citizens are to accept AI. But we must protect people and transitions, not necessarily existing jobs. Human value need not depend on outperforming machines at intelligence. Meanwhile, we must maintain a strong safety and security posture while holding on to a lead against our AI nation-state adversaries.&lt;/p&gt;</content>
+    <author>
+      <name>Vinod Khosla</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17816</id>
     <published>2026-09-14T14:16:11Z</published>
@@ -31,7 +46,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17810</id>
     <published>2026-09-14T13:00:55Z</published>
-    <updated>2026-09-14T15:04:35Z</updated>
+    <updated>2026-09-14T16:03:25Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/anthropic-data-fears-prompt-nvidia-palantir-booz-allen-restrict-model-use"/>
     <title>Anthropic Data Fears Prompt Nvidia, Palantir and Booz Allen to Restrict Model Use</title>
     <content type="html">&lt;p&gt;As paranoia rises over whether &lt;a href="https://www.theinformation.com/org-charts/anthropic"&gt;Anthropic&lt;/a&gt; or &lt;a href="https://www.theinformation.com/org-charts/openai"&gt;OpenAI&lt;/a&gt; could learn from their customers’ intellectual property, large firms involved in sensitive corporate work, such as Palantir Technologies, Nvidia and Booz Allen Hamilton, have started demanding new guarantees or reducing or eliminating use of the AI firms’ most advanced models.&lt;/p&gt;</content>
@@ -235,17 +250,6 @@
     </author>
     <author>
       <name>Laura Bratton</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18027</id>
-    <published>2026-09-11T16:52:20Z</published>
-    <updated>2026-09-14T10:22:34Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/microsoft-chief-communications-officer-shaw-depart"/>
-    <title>Microsoft Chief Communications Officer Shaw to Depart</title>
-    <content type="html">&lt;p&gt;Microsoft chief communications officer Frank Shaw will leave the company at the end of this year, he announced in a LinkedIn post Friday.&lt;/p&gt; &lt;p&gt;Shaw has spent more than 28 years at the company, including 17 years overseeing its communications. During that time, he steered the company’s public ...&lt;/p&gt;</content>
-    <author>
-      <name>Aaron Holmes</name>
     </author>
   </entry>
 </feed>
