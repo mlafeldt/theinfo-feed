@@ -5,7 +5,18 @@
   <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-14T13:20:00Z</updated>
+  <updated>2026-09-14T15:04:35Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17816</id>
+    <published>2026-09-14T14:16:11Z</published>
+    <updated>2026-09-14T14:16:54Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/chinas-answer-surge-ai-got-1-billion-valuation-just-30-million-orders"/>
+    <title>Why China’s Answer to Surge AI Got a $1 Billion Valuation On Just $30 Million in Orders</title>
+    <content type="html">&lt;p&gt;Unless you’ve been under a rock over the weekend, you’d know that the debate about AI safety took a big leap forward, as &lt;b&gt;Anthropic&lt;/b&gt; CEO &lt;b&gt;Dario Amodei&lt;/b&gt; on Saturday &lt;a href="https://www.theinformation.com/briefings/amodei-calls-ai-companies-coordinate-safety"&gt;called for leading AI companies&lt;/a&gt; to slow the development of advanced AI, drawing supportive responses from &lt;b&gt;OpenAI&lt;/b&gt; CEO &lt;b&gt;Sam Altman&lt;/b&gt;, &lt;b&gt;Google&lt;/b&gt; &lt;b&gt;DeepMind&lt;/b&gt; chair &lt;b&gt;Demis Hassabis&lt;/b&gt; and &lt;b&gt;SpaceX&lt;/b&gt; CEO &lt;b&gt;Elon Musk&lt;/b&gt;.&amp;nbsp;&lt;/p&gt;&lt;p&gt;On Monday, &lt;b&gt;Microsoft&lt;/b&gt;&lt;a href="https://www.theinformation.com/briefings/microsoft-joins-calls-ai-pacing-pledges-build-kill-switches-ai-products?rc=9byxri"&gt; joined in&lt;/a&gt;, while &lt;a href="https://www.theinformation.com/briefings/china-rebuffs-u-s-fearmongering-light-ai-pacing-calls?rc=9byxri"&gt;Chinese authorities &lt;/a&gt;appeared skeptical. This is likely to dominate discussion in the AI sector and on Wall Street in the coming days. Stay tuned…&lt;/p&gt;&lt;p&gt;&lt;i&gt;Onto today’s news…&lt;/i&gt;&lt;/p&gt;&lt;p&gt;When representatives of Silicon Valley venture capital firm &lt;b&gt;Dimension Capital&lt;/b&gt; visited China on a research trip recently, one trend that grabbed their attention was the rise of local AI data and model evaluation startups akin to &lt;b&gt;Surge&lt;/b&gt;, &lt;b&gt;Mercor&lt;/b&gt; and &lt;b&gt;Scale&lt;/b&gt; in the U.S.&amp;nbsp;&lt;/p&gt;&lt;p&gt;The Chinese startups represent a new phase in the country’s AI advancement. Access to high-end data is increasingly critical for developers of cutting-edge models capable of handling complex tasks that require expert-level knowledge. The startups’ sophisticated benchmarks also help evaluate and refine these models’ capabilities for real-world tasks in different fields.&lt;/p&gt;</content>
+    <author>
+      <name>Juro Osawa</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18037</id>
     <published>2026-09-14T13:00:55Z</published>
@@ -20,7 +31,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17810</id>
     <published>2026-09-14T13:00:55Z</published>
-    <updated>2026-09-14T13:20:00Z</updated>
+    <updated>2026-09-14T15:04:35Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/anthropic-data-fears-prompt-nvidia-palantir-booz-allen-restrict-model-use"/>
     <title>Anthropic Data Fears Prompt Nvidia, Palantir and Booz Allen to Restrict Model Use</title>
     <content type="html">&lt;p&gt;As paranoia rises over whether &lt;a href="https://www.theinformation.com/org-charts/anthropic"&gt;Anthropic&lt;/a&gt; or &lt;a href="https://www.theinformation.com/org-charts/openai"&gt;OpenAI&lt;/a&gt; could learn from their customers’ intellectual property, large firms involved in sensitive corporate work, such as Palantir Technologies, Nvidia and Booz Allen Hamilton, have started demanding new guarantees or reducing or eliminating use of the AI firms’ most advanced models.&lt;/p&gt;</content>
@@ -103,10 +114,10 @@
 
 &lt;p&gt;That becomes clear when you look at its own disclosures going back several years, which specify how many customers account for more than 10% of sales. In the first half of this fiscal year, ending in July, three such customers were responsible for 44% of total sales. Last fiscal year, two customers accounted for 36% of total sales. Going back to fiscal 2023, Nvidia had no customers accounting for 10% or more of sales (see the chart&amp;nbsp;below).&lt;/p&gt;</content>
     <author>
-      <name>Martin Peers</name>
+      <name>Qianer Liu</name>
     </author>
     <author>
-      <name>Qianer Liu</name>
+      <name>Martin Peers</name>
     </author>
   </entry>
   <entry>
@@ -235,17 +246,6 @@
     <content type="html">&lt;p&gt;Microsoft chief communications officer Frank Shaw will leave the company at the end of this year, he announced in a LinkedIn post Friday.&lt;/p&gt; &lt;p&gt;Shaw has spent more than 28 years at the company, including 17 years overseeing its communications. During that time, he steered the company’s public ...&lt;/p&gt;</content>
     <author>
       <name>Aaron Holmes</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18026</id>
-    <published>2026-09-11T09:22:16Z</published>
-    <updated>2026-09-14T10:22:34Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/tencent-backed-enflame-triples-debut-china-pushes-chip-self-sufficiency"/>
-    <title>Tencent-backed Enflame Triples on Debut as China Pushes for Chip Self-sufficiency</title>
-    <content type="html">&lt;p&gt;Shanghai Enflame Technology surged on its first trading day Friday after the Chinese AI chip developer raised about 6.12 billion yuan ($911 million) in an initial public offering, underscoring strong investor appetite for domestic alternatives to Nvidia chips.&lt;/p&gt; &lt;p&gt;Shares opened at 410 yuan, nearly ...&lt;/p&gt;</content>
-    <author>
-      <name>Qianer Liu</name>
     </author>
   </entry>
 </feed>
