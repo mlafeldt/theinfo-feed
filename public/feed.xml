@@ -1,15 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed</id>
+  <id>tag:www.theinformation.com,2005:/feed?cb=1789512787527</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1789512787527"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-15T21:59:03Z</updated>
+  <updated>2026-09-15T22:53:04Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18047</id>
+    <published>2026-09-15T22:36:33Z</published>
+    <updated>2026-09-15T22:36:33Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/openai-early-talks-new-funding-round-1-2-trillion-valuation"/>
+    <title>OpenAI in Early Talks for New Funding Round at $1.2 Trillion Valuation</title>
+    <content type="html">&lt;p&gt;OpenAI has held early conversations with investors about a new funding round that could lift its valuation to $1.2 trillion or higher, according to people familiar with the conversations. The conversations come as OpenAI has pushed off a planned initial public offering to next year or later.&lt;/p&gt; &lt;p&gt;The ...&lt;/p&gt;</content>
+    <author>
+      <name>Laura Mandaro</name>
+    </author>
+    <author>
+      <name>Cory Weinberg</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18046</id>
+    <published>2026-09-15T22:22:52Z</published>
+    <updated>2026-09-15T22:37:16Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/microsoft-raises-dividend-8"/>
+    <title>Microsoft Raises Dividend 8%</title>
+    <content type="html">&lt;p&gt;Microsoft said Tuesday it will raise its quarterly dividend to 98 cents per share, up from 91 cents, beginning in December. The company previously raised its dividend by 10% a year ago. Microsoft’s stock was roughly flat in after hours trading.&lt;/p&gt; &lt;p&gt;The company’s move to return more cash to ...&lt;/p&gt;</content>
+    <author>
+      <name>Aaron Holmes</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17824</id>
+    <published>2026-09-15T22:22:39Z</published>
+    <updated>2026-09-15T22:53:04Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/meta-launch-camera-free-smart-glasses-amid-mounting-privacy-concerns"/>
+    <title>Meta to Launch Camera-Free Smart Glasses Amid Mounting Privacy Concerns</title>
+    <content type="html">&lt;p&gt;&lt;a href="https://www.theinformation.com/org-charts/meta"&gt;Meta Platforms&lt;/a&gt; plans to release a camera-free pair of smart glasses this fall, according to people familiar with the matter, as it looks to expand its hardware lineup amid privacy concerns about cameras on its existing offerings.&lt;/p&gt;
+
+&lt;p&gt;The new glasses model, internally code-named Luna, has six built-in microphones that will allow users to speak with Meta’s AI chatbot and its recently launched consumer AI agent, Muse, one of the people said. It also has a button on the side that can be used to quickly activate Meta AI, and speakers like those in its existing models that direct sound toward the user’s ears without covering them. In addition, the glasses have slimmer temple arms than previous Meta smart glasses such as its Ray-Ban models, making them look more like ordinary eyewear.&lt;/p&gt;</content>
+    <author>
+      <name>Jyoti Mann</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18045</id>
     <published>2026-09-15T21:59:03Z</published>
-    <updated>2026-09-15T21:59:03Z</updated>
+    <updated>2026-09-15T22:37:16Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/crypto-stocks-fall-clarity-bill-fails-advance"/>
     <title>Crypto Stocks Fall After Clarity Bill Fails to Advance</title>
     <content type="html">&lt;p&gt;A landmark crypto legislation, the Clarity Act, failed to advance in the Senate in a procedural vote Tuesday, sending prices of crypto shares down as the bill became unlikely to pass under the Trump administration.&lt;/p&gt; &lt;p&gt;The Clarity Act, a comprehensive crypto market structure bill, would set explicit ...&lt;/p&gt;</content>
@@ -20,7 +58,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18044</id>
     <published>2026-09-15T19:38:55Z</published>
-    <updated>2026-09-15T19:40:31Z</updated>
+    <updated>2026-09-15T22:37:16Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/salesforce-unveils-new-ai-model-agent-security-tools-dreamforce"/>
     <title>Salesforce Unveils New AI Model, Agent Security Tools at Dreamforce </title>
     <content type="html">&lt;p&gt;At the opening of its annual Dreamforce customer conference, Salesforce signaled its involvement in two major trends in enterprise AI: Open-source AI models and software that helps corporate customers safely run AI agents on their data.&lt;/p&gt; &lt;p&gt;Salesforce &lt;a href="https://www.salesforce.com/news/press-releases/2026/09/15/koa-reasoning-model/"&gt;unveiled&lt;/a&gt; a new AI model, called Koa, which it ...&lt;/p&gt;</content>
@@ -31,7 +69,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18043</id>
     <published>2026-09-15T19:11:45Z</published>
-    <updated>2026-09-15T21:32:36Z</updated>
+    <updated>2026-09-15T22:37:16Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/meta-rolls-new-meta-one-subscription-plans-higher-ai-usage-limits"/>
     <title>Meta Rolls Out New ‘Meta One’ Subscription Plans With Higher AI Usage Limits</title>
     <content type="html">&lt;p&gt;Meta Platforms is expanding its paid subscription offerings for its AI tools across Instagram, WhatsApp and Facebook as it looks to diversify revenue beyond digital advertising.&lt;/p&gt; &lt;p&gt;The company announced Tuesday in a blog post that it is introducing new tiers of its Meta One subscription plans, ...&lt;/p&gt;</content>
@@ -53,7 +91,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18042</id>
     <published>2026-09-15T18:18:36Z</published>
-    <updated>2026-09-15T18:19:43Z</updated>
+    <updated>2026-09-15T22:37:16Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/elon-musk-hints-possible-tesla-spacex-merger"/>
     <title>Elon Musk hints at possible Tesla-SpaceX merger</title>
     <content type="html">&lt;p&gt;Elon Musk once again teased the potential of a merger between Tesla and SpaceX on Monday, saying it was a “great question” why Tesla and SpaceX were separate companies.&lt;/p&gt; &lt;p&gt;“With all this collaboration, on so many levels, who can imagine what action one might take when there’s so much close ...&lt;/p&gt;</content>
@@ -71,10 +109,10 @@
 
 &lt;p&gt;But Erebor wound up pulling the offer after several months, after sophisticated crypto trading firms sniffed out a way to make an easy profit out of the offer&amp;mdash;at a cost to Erebor. The episode demonstrates that the young bank is still figuring out how to manage the risks of serving the cryptocurrency industry, a world of fast-moving financial flows, colorful characters and unusual business models.&lt;/p&gt;</content>
     <author>
-      <name>Yueqi Yang</name>
+      <name>Michael Roddan</name>
     </author>
     <author>
-      <name>Michael Roddan</name>
+      <name>Yueqi Yang</name>
     </author>
   </entry>
   <entry>
@@ -91,7 +129,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18041</id>
     <published>2026-09-15T13:23:53Z</published>
-    <updated>2026-09-15T13:23:53Z</updated>
+    <updated>2026-09-15T22:37:16Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/doordash-invests-marc-lores-wonder"/>
     <title>DoorDash Invests in Marc Lore’s Wonder</title>
     <content type="html">&lt;p&gt;DoorDash is teaming up with Marc Lore’s restaurant meal business Wonder, putting $125 million into the company and&amp;nbsp;buying a campus dining business from Wonder for $300 million, the two companies said.&lt;/p&gt; &lt;p&gt;Wonder offers its own lineup of meals, made in its own kitchens, for delivery, which makes ...&lt;/p&gt;</content>
@@ -109,16 +147,16 @@
 
 &lt;p&gt;The company’s revenue for the period rose around 30% year on year to $120 billion, driven partly by robust growth of its international advertising and e-commerce revenue from TikTok, the people said. That suggests &lt;a href="https://www.theinformation.com/org-charts/bytedance"&gt;ByteDance’&lt;/a&gt;s growth rate is accelerating marginally from its rate of expansion in the past two years. ByteDance’s revenue grew 29% last year to about $200 billion, the people said, following a similar rate of growth in 2024.&amp;nbsp;The company’s net profit grew 27% to $42 billion last year.&lt;/p&gt;</content>
     <author>
-      <name>Juro Osawa</name>
+      <name>Jing Yang</name>
     </author>
     <author>
-      <name>Jing Yang</name>
+      <name>Juro Osawa</name>
     </author>
   </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18040</id>
     <published>2026-09-15T08:48:11Z</published>
-    <updated>2026-09-15T21:32:36Z</updated>
+    <updated>2026-09-15T22:37:16Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/chinese-ai-chip-firm-biren-plans-1-billion-fundraising"/>
     <title>Chinese AI Chip Firm Biren Plans $1 Billion Fundraising</title>
     <content type="html">&lt;p&gt;Chinese AI chip designer Shanghai Biren Technology is considering raising around $1 billion through a stock offering, Bloomberg reported on Tuesday, citing people familiar with the situation.&lt;/p&gt; &lt;p&gt;Biren, which develops graphics processing units used to train and run AI models, debuted on the Hong ...&lt;/p&gt;</content>
@@ -129,7 +167,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18039</id>
     <published>2026-09-15T06:13:49Z</published>
-    <updated>2026-09-15T21:32:36Z</updated>
+    <updated>2026-09-15T22:37:16Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/trump-skewers-ai-leaders-calls-slowdown"/>
     <title>Trump Skewers AI Leaders’ Calls for Slowdown</title>
     <content type="html">&lt;p&gt;President Trump on Monday shot down calls by AI leaders to slow down the pace of development. In a series of social media posts, Trump called claims about AI’s risk to humanity a “hoax,” and equated it with other views he’s sharply criticized, such as climate change.&lt;/p&gt; &lt;p&gt;“There is a SICK conspiracy ...&lt;/p&gt;</content>
@@ -140,7 +178,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18038</id>
     <published>2026-09-15T05:09:02Z</published>
-    <updated>2026-09-15T21:32:36Z</updated>
+    <updated>2026-09-15T22:37:17Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/openai-said-buy-startup-glass-imaging-300-million"/>
     <title>OpenAI Said to Buy Startup Glass Imaging for $300 Million</title>
     <content type="html">&lt;p&gt;OpenAI has bought Glass Imaging, a startup developing higher quality cameras for smartphones, in a deal valued at $300 million, according to the Wall Street Journal.&lt;/p&gt; &lt;p&gt;The startup, founded by ex-Apple employees, was valued at $100 million in a funding round last year. The acquisition could help ...&lt;/p&gt;</content>
@@ -169,10 +207,10 @@
 
 &lt;p&gt;The planned funding round follows the 11-year-old company’s success winning contracts for its AI software that coordinates drones and aircrafts, called Hivemind, and comes as investors continue to pour money into startups that are building AI-powered weapons and defense systems.&lt;/p&gt;</content>
     <author>
-      <name>Julia Hornstein</name>
+      <name>Jemima McEvoy</name>
     </author>
     <author>
-      <name>Jemima McEvoy</name>
+      <name>Julia Hornstein</name>
     </author>
   </entry>
   <entry>
@@ -212,42 +250,6 @@
     <content type="html">&lt;p&gt;Unless you’ve been under a rock over the weekend, you’d know that the debate about AI safety took a big leap forward, as &lt;b&gt;Anthropic&lt;/b&gt; CEO &lt;b&gt;Dario Amodei&lt;/b&gt; on Saturday &lt;a href="https://www.theinformation.com/briefings/amodei-calls-ai-companies-coordinate-safety"&gt;called for leading AI companies&lt;/a&gt; to slow the development of advanced AI, drawing supportive responses from &lt;b&gt;OpenAI&lt;/b&gt; CEO &lt;b&gt;Sam Altman&lt;/b&gt;, &lt;b&gt;Google&lt;/b&gt; &lt;b&gt;DeepMind&lt;/b&gt; chair &lt;b&gt;Demis Hassabis&lt;/b&gt; and &lt;b&gt;SpaceX&lt;/b&gt; CEO &lt;b&gt;Elon Musk&lt;/b&gt;.&amp;nbsp;&lt;/p&gt;&lt;p&gt;On Monday, &lt;b&gt;Microsoft&lt;/b&gt;&lt;a href="https://www.theinformation.com/briefings/microsoft-joins-calls-ai-pacing-pledges-build-kill-switches-ai-products?rc=9byxri"&gt; joined in&lt;/a&gt;, while &lt;a href="https://www.theinformation.com/briefings/china-rebuffs-u-s-fearmongering-light-ai-pacing-calls?rc=9byxri"&gt;Chinese authorities &lt;/a&gt;appeared skeptical. This is likely to dominate discussion in the AI sector and on Wall Street in the coming days. Stay tuned…&lt;/p&gt;&lt;p&gt;&lt;i&gt;Onto today’s news…&lt;/i&gt;&lt;/p&gt;&lt;p&gt;When representatives of Silicon Valley venture capital firm &lt;b&gt;Dimension Capital&lt;/b&gt; visited China on a research trip recently, one trend that grabbed their attention was the rise of local AI data and model evaluation startups akin to &lt;b&gt;Surge&lt;/b&gt;, &lt;b&gt;Mercor&lt;/b&gt; and &lt;b&gt;Scale&lt;/b&gt; in the U.S.&amp;nbsp;&lt;/p&gt;&lt;p&gt;The Chinese startups represent a new phase in the country’s AI advancement. Access to high-end data is increasingly critical for developers of cutting-edge models capable of handling complex tasks that require expert-level knowledge. The startups’ sophisticated benchmarks also help evaluate and refine these models’ capabilities for real-world tasks in different fields.&lt;/p&gt;</content>
     <author>
       <name>Juro Osawa</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18037</id>
-    <published>2026-09-14T13:00:55Z</published>
-    <updated>2026-09-15T18:19:43Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/microsoft-joins-calls-ai-pacing-pledges-build-kill-switches-ai-products"/>
-    <title>Microsoft Joins Calls for AI “Pacing,” Pledges to Build Kill Switches Into AI Products</title>
-    <content type="html">&lt;p&gt;Microsoft on Monday published a new AI “code of conduct” promising to avoid building products that could evade human oversight, following CEO Satya Nadella’s call on Sunday for the tech industry to “pace” its progress in developing new AI.&lt;/p&gt; &lt;p&gt;The measures follow similar calls for pacing from ...&lt;/p&gt;</content>
-    <author>
-      <name>Aaron Holmes</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Article/17810</id>
-    <published>2026-09-14T13:00:55Z</published>
-    <updated>2026-09-14T16:22:06Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/anthropic-data-fears-prompt-nvidia-palantir-booz-allen-restrict-model-use"/>
-    <title>Anthropic Data Fears Prompt Nvidia, Palantir and Booz Allen to Restrict Model Use</title>
-    <content type="html">&lt;p&gt;As paranoia rises over whether &lt;a href="https://www.theinformation.com/org-charts/anthropic"&gt;Anthropic&lt;/a&gt; or &lt;a href="https://www.theinformation.com/org-charts/openai"&gt;OpenAI&lt;/a&gt; could learn from their customers’ intellectual property, large firms involved in sensitive corporate work, such as Palantir Technologies, Nvidia and Booz Allen Hamilton, have started demanding new guarantees or reducing or eliminating use of the AI firms’ most advanced models.&lt;/p&gt;</content>
-    <author>
-      <name>Laura Bratton</name>
-    </author>
-    <author>
-      <name>Aaron Holmes</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18036</id>
-    <published>2026-09-14T10:22:14Z</published>
-    <updated>2026-09-15T21:32:36Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/china-rebuffs-u-s-fearmongering-light-ai-pacing-calls"/>
-    <title>China Rebuffs U.S. “Fearmongering” in Light of AI Pacing Calls</title>
-    <content type="html">&lt;p&gt;China on Monday rejected calls from top U.S. tech executives on pacing frontier AI development while maintaining a lead over China to ensure America’s national security.&lt;/p&gt; &lt;p&gt;“The development of artificial intelligence concerns the common well-being of all humanity. All parties should jointly promote ...&lt;/p&gt;</content>
-    <author>
-      <name>Jing Yang</name>
     </author>
   </entry>
 </feed>
