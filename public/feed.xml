@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed?cb=1789503628695</id>
+  <id>tag:www.theinformation.com,2005:/feed</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1789503628695"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-15T20:19:30Z</updated>
+  <updated>2026-09-15T21:59:03Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18045</id>
+    <published>2026-09-15T21:59:03Z</published>
+    <updated>2026-09-15T21:59:03Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/crypto-stocks-fall-clarity-bill-fails-advance"/>
+    <title>Crypto Stocks Fall After Clarity Bill Fails to Advance</title>
+    <content type="html">&lt;p&gt;A landmark crypto legislation, the Clarity Act, failed to advance in the Senate in a procedural vote Tuesday, sending prices of crypto shares down as the bill became unlikely to pass under the Trump administration.&lt;/p&gt; &lt;p&gt;The Clarity Act, a comprehensive crypto market structure bill, would set explicit ...&lt;/p&gt;</content>
+    <author>
+      <name>Yueqi Yang</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18044</id>
     <published>2026-09-15T19:38:55Z</published>
@@ -20,7 +31,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18043</id>
     <published>2026-09-15T19:11:45Z</published>
-    <updated>2026-09-15T19:11:45Z</updated>
+    <updated>2026-09-15T21:32:36Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/meta-rolls-new-meta-one-subscription-plans-higher-ai-usage-limits"/>
     <title>Meta Rolls Out New ‘Meta One’ Subscription Plans With Higher AI Usage Limits</title>
     <content type="html">&lt;p&gt;Meta Platforms is expanding its paid subscription offerings for its AI tools across Instagram, WhatsApp and Facebook as it looks to diversify revenue beyond digital advertising.&lt;/p&gt; &lt;p&gt;The company announced Tuesday in a blog post that it is introducing new tiers of its Meta One subscription plans, ...&lt;/p&gt;</content>
@@ -107,7 +118,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18040</id>
     <published>2026-09-15T08:48:11Z</published>
-    <updated>2026-09-15T18:19:43Z</updated>
+    <updated>2026-09-15T21:32:36Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/chinese-ai-chip-firm-biren-plans-1-billion-fundraising"/>
     <title>Chinese AI Chip Firm Biren Plans $1 Billion Fundraising</title>
     <content type="html">&lt;p&gt;Chinese AI chip designer Shanghai Biren Technology is considering raising around $1 billion through a stock offering, Bloomberg reported on Tuesday, citing people familiar with the situation.&lt;/p&gt; &lt;p&gt;Biren, which develops graphics processing units used to train and run AI models, debuted on the Hong ...&lt;/p&gt;</content>
@@ -118,7 +129,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18039</id>
     <published>2026-09-15T06:13:49Z</published>
-    <updated>2026-09-15T18:19:43Z</updated>
+    <updated>2026-09-15T21:32:36Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/trump-skewers-ai-leaders-calls-slowdown"/>
     <title>Trump Skewers AI Leaders’ Calls for Slowdown</title>
     <content type="html">&lt;p&gt;President Trump on Monday shot down calls by AI leaders to slow down the pace of development. In a series of social media posts, Trump called claims about AI’s risk to humanity a “hoax,” and equated it with other views he’s sharply criticized, such as climate change.&lt;/p&gt; &lt;p&gt;“There is a SICK conspiracy ...&lt;/p&gt;</content>
@@ -129,7 +140,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18038</id>
     <published>2026-09-15T05:09:02Z</published>
-    <updated>2026-09-15T18:19:43Z</updated>
+    <updated>2026-09-15T21:32:36Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/openai-said-buy-startup-glass-imaging-300-million"/>
     <title>OpenAI Said to Buy Startup Glass Imaging for $300 Million</title>
     <content type="html">&lt;p&gt;OpenAI has bought Glass Imaging, a startup developing higher quality cameras for smartphones, in a deal valued at $300 million, according to the Wall Street Journal.&lt;/p&gt; &lt;p&gt;The startup, founded by ex-Apple employees, was valued at $100 million in a funding round last year. The acquisition could help ...&lt;/p&gt;</content>
@@ -231,23 +242,12 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18036</id>
     <published>2026-09-14T10:22:14Z</published>
-    <updated>2026-09-15T18:19:43Z</updated>
+    <updated>2026-09-15T21:32:36Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/china-rebuffs-u-s-fearmongering-light-ai-pacing-calls"/>
     <title>China Rebuffs U.S. “Fearmongering” in Light of AI Pacing Calls</title>
     <content type="html">&lt;p&gt;China on Monday rejected calls from top U.S. tech executives on pacing frontier AI development while maintaining a lead over China to ensure America’s national security.&lt;/p&gt; &lt;p&gt;“The development of artificial intelligence concerns the common well-being of all humanity. All parties should jointly promote ...&lt;/p&gt;</content>
     <author>
       <name>Jing Yang</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18035</id>
-    <published>2026-09-14T06:32:18Z</published>
-    <updated>2026-09-15T18:19:43Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/z-ai-plans-5-billion-fundraising-compute-cost-grows"/>
-    <title>Z.ai Plans $5 Billion Fundraising as Compute Cost Grows  </title>
-    <content type="html">&lt;p&gt;Z.ai is raising about $5 billion through equity and convertible bond offerings, seeking to replenish its warchest in the increasingly costly race to develop frontier AI models.&lt;/p&gt; &lt;p&gt;Hong Kong-listed Z.ai said in a regulatory filing on Sunday that it plans to raise $2 billion through a share ...&lt;/p&gt;</content>
-    <author>
-      <name>Juro Osawa</name>
     </author>
   </entry>
 </feed>
