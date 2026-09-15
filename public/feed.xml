@@ -5,7 +5,23 @@
   <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-15T14:01:23Z</updated>
+  <updated>2026-09-15T15:02:33Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17819</id>
+    <published>2026-09-15T14:30:54Z</published>
+    <updated>2026-09-15T15:02:33Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/erebor-banks-sweet-stablecoin-deal-backfired"/>
+    <title>How Erebor Bank’s Sweet Stablecoin Deal Backfired</title>
+    <content type="html">&lt;p&gt;When Palmer Luckey’s Erebor Bank launched earlier this year, it made an attractive pitch to lure new crypto customers: It would convert their stablecoins to cash for free.&lt;/p&gt;
+
+&lt;p&gt;But Erebor wound up pulling the offer after several months, after sophisticated crypto trading firms sniffed out a way to make an easy profit out of the offer&amp;mdash;at a cost to Erebor. The episode demonstrates that the young bank is still figuring out how to manage the risks of serving the cryptocurrency industry, a world of fast-moving financial flows, colorful characters and unusual business models.&lt;/p&gt;</content>
+    <author>
+      <name>Yueqi Yang</name>
+    </author>
+    <author>
+      <name>Michael Roddan</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17821</id>
     <published>2026-09-15T14:00:35Z</published>
@@ -200,10 +216,10 @@
 
 &lt;p&gt;The deal is the latest in a spate of cloud computing agreements Anthropic struck in the past year, with major cloud providers like Google, tech companies such as SpaceX and &lt;a href="https://www.bloomberg.com/news/articles/2026-08-26/anthropic-to-pay-nscale-45-billion-for-ai-computing-power"&gt;smaller neoclouds such as Nscale,&lt;/a&gt; amid skyrocketing demand for its Claude Code and Cowork products. The agreements total at least 14.8 gigawatts of compute capacity, &lt;a href="https://www.theinformation.com/articles/anthropic-clinched-517-billion-compute-deals-11-months"&gt;costing as much as $517 billion over the next decade.&lt;/a&gt; The deal with Rum would add to that total.&lt;/p&gt;</content>
     <author>
-      <name>Valida Pau</name>
+      <name>Phoebe Liu</name>
     </author>
     <author>
-      <name>Phoebe Liu</name>
+      <name>Valida Pau</name>
     </author>
   </entry>
   <entry>
@@ -244,17 +260,6 @@
     </author>
     <author>
       <name>Qianer Liu</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Article/17809</id>
-    <published>2026-09-13T14:00:46Z</published>
-    <updated>2026-09-13T14:01:20Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/amazon-microsoft-taking-communities-side-utilities"/>
-    <title>Why Amazon and Microsoft Are Taking Communities’ Side Against Utilities</title>
-    <content type="html">&lt;p&gt;Amazon, Microsoft, Oracle and other AI data center developers are sweetening financial offers to municipalities and regulators to gain approval for new facilities. They’re also getting smarter about standing up for consumers against utilities that have proposed to make the public pay for some of the cost of handling new electricity loads.&lt;/p&gt;&lt;p&gt;The tech giants still face years of local fights as activists ignore the money offered and ramp up their objections, but the companies are offering more tangible benefits instead of just refining their messages in information wars.&amp;nbsp;&lt;/p&gt;</content>
-    <author>
-      <name>Ann Davis Vaughan</name>
     </author>
   </entry>
 </feed>
