@@ -5,7 +5,29 @@
   <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-15T12:31:22Z</updated>
+  <updated>2026-09-15T14:01:23Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17821</id>
+    <published>2026-09-15T14:00:35Z</published>
+    <updated>2026-09-15T14:01:23Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/developers-find-ways-use-claude-code-without-anthropic-models"/>
+    <title>Developers Find Ways to Use Claude Code Without Anthropic Models</title>
+    <content type="html">&lt;p&gt;&lt;b&gt;Boris Cherney&lt;/b&gt;, the head of &lt;b&gt;Anthropic’s&lt;/b&gt; coding tool &lt;b&gt;Claude Code&lt;/b&gt;, last month found himself in the middle of an online spat that highlighted how some developers are finding workarounds to using Claude Code with cheaper non-Anthropic models, including those of rival &lt;b&gt;OpenAI&lt;/b&gt;, to save costs.&lt;/p&gt;&lt;p&gt;Developer &lt;b&gt;Alex Getman&lt;/b&gt; used a proxy made up of lines of code to connect Claude Code to OpenAI’s&lt;b&gt; GPT-5.6 Sol&lt;/b&gt;. Fifteen minutes after Getman typed the first coding requests into Claude, Anthropic shut down the account, he said.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Claude Code is popular because it comes with all the tools assembled to read and run files, search codebases and run tasks in parallel. But it doesn’t need to run on Anthropic models. And developers are saving money by using cheaper models with the Claude Code harness. For that reason, Getman’s posts &lt;a href="https://x.com/alexgetmancom/status/2086092971024253117"&gt;about the ban&lt;/a&gt; drew a million views within hours.&amp;nbsp;&lt;/p&gt;</content>
+    <author>
+      <name>Alix Coutures</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18041</id>
+    <published>2026-09-15T13:23:53Z</published>
+    <updated>2026-09-15T13:23:53Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/doordash-invests-marc-lores-wonder"/>
+    <title>DoorDash Invests in Marc Lore’s Wonder</title>
+    <content type="html">&lt;p&gt;DoorDash is teaming up with Marc Lore’s restaurant meal business Wonder, putting $125 million into the company and&amp;nbsp;buying a campus dining business from Wonder for $300 million, the two companies said.&lt;/p&gt; &lt;p&gt;Wonder offers its own lineup of meals, made in its own kitchens, for delivery, which makes ...&lt;/p&gt;</content>
+    <author>
+      <name>Martin Peers</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17820</id>
     <published>2026-09-15T12:00:54Z</published>
@@ -25,7 +47,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18040</id>
     <published>2026-09-15T08:48:11Z</published>
-    <updated>2026-09-15T08:56:40Z</updated>
+    <updated>2026-09-15T13:23:24Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/chinese-ai-chip-firm-biren-plans-1-billion-fundraising"/>
     <title>Chinese AI Chip Firm Biren Plans $1 Billion Fundraising</title>
     <content type="html">&lt;p&gt;Chinese AI chip designer Shanghai Biren Technology is considering raising around $1 billion through a stock offering, Bloomberg reported on Tuesday, citing people familiar with the situation.&lt;/p&gt; &lt;p&gt;Biren, which develops graphics processing units used to train and run AI models, debuted on the Hong ...&lt;/p&gt;</content>
@@ -36,7 +58,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18039</id>
     <published>2026-09-15T06:13:49Z</published>
-    <updated>2026-09-15T09:02:17Z</updated>
+    <updated>2026-09-15T13:23:24Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/trump-skewers-ai-leaders-calls-slowdown"/>
     <title>Trump Skewers AI Leaders’ Calls for Slowdown</title>
     <content type="html">&lt;p&gt;President Trump on Monday shot down calls by AI leaders to slow down the pace of development. In a series of social media posts, Trump called claims about AI’s risk to humanity a “hoax,” and equated it with other views he’s sharply criticized, such as climate change.&lt;/p&gt; &lt;p&gt;“There is a SICK conspiracy ...&lt;/p&gt;</content>
@@ -47,7 +69,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18038</id>
     <published>2026-09-15T05:09:02Z</published>
-    <updated>2026-09-15T09:02:17Z</updated>
+    <updated>2026-09-15T13:23:24Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/openai-said-buy-startup-glass-imaging-300-million"/>
     <title>OpenAI Said to Buy Startup Glass Imaging for $300 Million</title>
     <content type="html">&lt;p&gt;OpenAI has bought Glass Imaging, a startup developing higher quality cameras for smartphones, in a deal valued at $300 million, according to the Wall Street Journal.&lt;/p&gt; &lt;p&gt;The startup, founded by ex-Apple employees, was valued at $100 million in a funding round last year. The acquisition could help ...&lt;/p&gt;</content>
@@ -124,7 +146,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18037</id>
     <published>2026-09-14T13:00:55Z</published>
-    <updated>2026-09-15T05:04:51Z</updated>
+    <updated>2026-09-15T13:23:24Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/microsoft-joins-calls-ai-pacing-pledges-build-kill-switches-ai-products"/>
     <title>Microsoft Joins Calls for AI “Pacing,” Pledges to Build Kill Switches Into AI Products</title>
     <content type="html">&lt;p&gt;Microsoft on Monday published a new AI “code of conduct” promising to avoid building products that could evade human oversight, following CEO Satya Nadella’s call on Sunday for the tech industry to “pace” its progress in developing new AI.&lt;/p&gt; &lt;p&gt;The measures follow similar calls for pacing from ...&lt;/p&gt;</content>
@@ -149,7 +171,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18036</id>
     <published>2026-09-14T10:22:14Z</published>
-    <updated>2026-09-15T08:56:40Z</updated>
+    <updated>2026-09-15T13:23:24Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/china-rebuffs-u-s-fearmongering-light-ai-pacing-calls"/>
     <title>China Rebuffs U.S. “Fearmongering” in Light of AI Pacing Calls</title>
     <content type="html">&lt;p&gt;China on Monday rejected calls from top U.S. tech executives on pacing frontier AI development while maintaining a lead over China to ensure America’s national security.&lt;/p&gt; &lt;p&gt;“The development of artificial intelligence concerns the common well-being of all humanity. All parties should jointly promote ...&lt;/p&gt;</content>
@@ -160,7 +182,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18035</id>
     <published>2026-09-14T06:32:18Z</published>
-    <updated>2026-09-15T08:56:40Z</updated>
+    <updated>2026-09-15T13:23:24Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/z-ai-plans-5-billion-fundraising-compute-cost-grows"/>
     <title>Z.ai Plans $5 Billion Fundraising as Compute Cost Grows  </title>
     <content type="html">&lt;p&gt;Z.ai is raising about $5 billion through equity and convertible bond offerings, seeking to replenish its warchest in the increasingly costly race to develop frontier AI models.&lt;/p&gt; &lt;p&gt;Hong Kong-listed Z.ai said in a regulatory filing on Sunday that it plans to raise $2 billion through a share ...&lt;/p&gt;</content>
@@ -178,10 +200,10 @@
 
 &lt;p&gt;The deal is the latest in a spate of cloud computing agreements Anthropic struck in the past year, with major cloud providers like Google, tech companies such as SpaceX and &lt;a href="https://www.bloomberg.com/news/articles/2026-08-26/anthropic-to-pay-nscale-45-billion-for-ai-computing-power"&gt;smaller neoclouds such as Nscale,&lt;/a&gt; amid skyrocketing demand for its Claude Code and Cowork products. The agreements total at least 14.8 gigawatts of compute capacity, &lt;a href="https://www.theinformation.com/articles/anthropic-clinched-517-billion-compute-deals-11-months"&gt;costing as much as $517 billion over the next decade.&lt;/a&gt; The deal with Rum would add to that total.&lt;/p&gt;</content>
     <author>
-      <name>Phoebe Liu</name>
+      <name>Valida Pau</name>
     </author>
     <author>
-      <name>Valida Pau</name>
+      <name>Phoebe Liu</name>
     </author>
   </entry>
   <entry>
@@ -218,10 +240,10 @@
 
 &lt;p&gt;That becomes clear when you look at its own disclosures going back several years, which specify how many customers account for more than 10% of sales. In the first half of this fiscal year, ending in July, three such customers were responsible for 44% of total sales. Last fiscal year, two customers accounted for 36% of total sales. Going back to fiscal 2023, Nvidia had no customers accounting for 10% or more of sales (see the chart&amp;nbsp;below).&lt;/p&gt;</content>
     <author>
-      <name>Qianer Liu</name>
+      <name>Martin Peers</name>
     </author>
     <author>
-      <name>Martin Peers</name>
+      <name>Qianer Liu</name>
     </author>
   </entry>
   <entry>
@@ -233,28 +255,6 @@
     <content type="html">&lt;p&gt;Amazon, Microsoft, Oracle and other AI data center developers are sweetening financial offers to municipalities and regulators to gain approval for new facilities. They’re also getting smarter about standing up for consumers against utilities that have proposed to make the public pay for some of the cost of handling new electricity loads.&lt;/p&gt;&lt;p&gt;The tech giants still face years of local fights as activists ignore the money offered and ramp up their objections, but the companies are offering more tangible benefits instead of just refining their messages in information wars.&amp;nbsp;&lt;/p&gt;</content>
     <author>
       <name>Ann Davis Vaughan</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18034</id>
-    <published>2026-09-12T22:47:23Z</published>
-    <updated>2026-09-15T08:56:41Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/tesla-teases-october-next-gen-roadster-reveal"/>
-    <title>Tesla Teases October Next-Gen Roadster Reveal </title>
-    <content type="html">&lt;p&gt;Tesla teased an October 1 Roadster reveal on Saturday. The company &lt;a href="https://x.com/Tesla/status/2098847894975795323"&gt;shared&lt;/a&gt; a photo of what appears to be the back of the vehicle with the words “Go for launch” on X and updated its Roadster webpage with a countdown to October 1.&lt;/p&gt; &lt;p&gt;Tesla also sent some reservation-holders invites to the event, ...&lt;/p&gt;</content>
-    <author>
-      <name>Grace Kay</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18033</id>
-    <published>2026-09-12T19:18:53Z</published>
-    <updated>2026-09-15T08:56:40Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/larry-ellison-cancels-plan-sell-7-5-billion-oracle-stock"/>
-    <title>Larry Ellison Cancels Plan to Sell Up to $7.5 Billion of Oracle Stock </title>
-    <content type="html">&lt;p&gt;Oracle founder Larry Ellison has canceled plans to sell up to 50 million of his shares in the company, worth around $7.5 billion at current prices, Oracle said on Saturday. The announcement came a day after Oracle disclosed that Ellison had adopted a trading plan to sell the shares by late ...&lt;/p&gt;</content>
-    <author>
-      <name>Meredith Mazzilli</name>
     </author>
   </entry>
 </feed>
