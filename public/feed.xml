@@ -1,11 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed</id>
+  <id>tag:www.theinformation.com,2005:/feed?cb=1789497184812</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1789497184812"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-15T16:31:39Z</updated>
+  <updated>2026-09-15T18:32:12Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17823</id>
+    <published>2026-09-15T18:28:58Z</published>
+    <updated>2026-09-15T18:32:12Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/anthropics-data-policy-drama-good-openai"/>
+    <title>Why Anthropic’s Data Policy Drama Is Good for OpenAI</title>
+    <content type="html">&lt;p&gt;Major Anthropic customers are &lt;a href="https://www.theinformation.com/articles/anthropic-data-fears-prompt-nvidia-palantir-booz-allen-restrict-model-use"&gt;still waiting to get “zero data retention”&lt;/a&gt; for the newest Fable AI models, meaning the AI firm would not store data related to their usage of its models. In the meantime, some are turning to OpenAI.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Palantir and Booz Allen, for instance, are expanding their use of OpenAI’s Astra model, which they’ve been able to secure&lt;i&gt; with &lt;/i&gt;zero data retention. Both have restricted their use of Fable models because Anthropic said in June it would store customer data for those using Fable models for 30 days, for security reasons.&lt;/p&gt;&lt;p&gt;Before that June announcement, Anthropic offered zero data retention policies in deals negotiated with individual customers. Starting later this fall, the AI firm plans to roll out a new program called Enterprise Frontier Safeguards, which effectively gives “eligible” customers zero data retention.&amp;nbsp;&lt;/p&gt;</content>
+    <author>
+      <name>Laura Bratton</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18042</id>
+    <published>2026-09-15T18:18:36Z</published>
+    <updated>2026-09-15T18:19:43Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/elon-musk-hints-possible-tesla-spacex-merger"/>
+    <title>Elon Musk hints at possible Tesla-SpaceX merger</title>
+    <content type="html">&lt;p&gt;Elon Musk once again teased the potential of a merger between Tesla and SpaceX on Monday, saying it was a “great question” why Tesla and SpaceX were separate companies.&lt;/p&gt; &lt;p&gt;“With all this collaboration, on so many levels, who can imagine what action one might take when there’s so much close ...&lt;/p&gt;</content>
+    <author>
+      <name>Grace Kay</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17819</id>
     <published>2026-09-15T14:30:54Z</published>
@@ -63,7 +85,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18040</id>
     <published>2026-09-15T08:48:11Z</published>
-    <updated>2026-09-15T15:14:11Z</updated>
+    <updated>2026-09-15T18:19:43Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/chinese-ai-chip-firm-biren-plans-1-billion-fundraising"/>
     <title>Chinese AI Chip Firm Biren Plans $1 Billion Fundraising</title>
     <content type="html">&lt;p&gt;Chinese AI chip designer Shanghai Biren Technology is considering raising around $1 billion through a stock offering, Bloomberg reported on Tuesday, citing people familiar with the situation.&lt;/p&gt; &lt;p&gt;Biren, which develops graphics processing units used to train and run AI models, debuted on the Hong ...&lt;/p&gt;</content>
@@ -74,7 +96,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18039</id>
     <published>2026-09-15T06:13:49Z</published>
-    <updated>2026-09-15T15:14:11Z</updated>
+    <updated>2026-09-15T18:19:43Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/trump-skewers-ai-leaders-calls-slowdown"/>
     <title>Trump Skewers AI Leaders’ Calls for Slowdown</title>
     <content type="html">&lt;p&gt;President Trump on Monday shot down calls by AI leaders to slow down the pace of development. In a series of social media posts, Trump called claims about AI’s risk to humanity a “hoax,” and equated it with other views he’s sharply criticized, such as climate change.&lt;/p&gt; &lt;p&gt;“There is a SICK conspiracy ...&lt;/p&gt;</content>
@@ -85,7 +107,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18038</id>
     <published>2026-09-15T05:09:02Z</published>
-    <updated>2026-09-15T15:14:11Z</updated>
+    <updated>2026-09-15T18:19:43Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/openai-said-buy-startup-glass-imaging-300-million"/>
     <title>OpenAI Said to Buy Startup Glass Imaging for $300 Million</title>
     <content type="html">&lt;p&gt;OpenAI has bought Glass Imaging, a startup developing higher quality cameras for smartphones, in a deal valued at $300 million, according to the Wall Street Journal.&lt;/p&gt; &lt;p&gt;The startup, founded by ex-Apple employees, was valued at $100 million in a funding round last year. The acquisition could help ...&lt;/p&gt;</content>
@@ -162,7 +184,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18037</id>
     <published>2026-09-14T13:00:55Z</published>
-    <updated>2026-09-15T15:14:11Z</updated>
+    <updated>2026-09-15T18:19:43Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/microsoft-joins-calls-ai-pacing-pledges-build-kill-switches-ai-products"/>
     <title>Microsoft Joins Calls for AI “Pacing,” Pledges to Build Kill Switches Into AI Products</title>
     <content type="html">&lt;p&gt;Microsoft on Monday published a new AI “code of conduct” promising to avoid building products that could evade human oversight, following CEO Satya Nadella’s call on Sunday for the tech industry to “pace” its progress in developing new AI.&lt;/p&gt; &lt;p&gt;The measures follow similar calls for pacing from ...&lt;/p&gt;</content>
@@ -178,16 +200,16 @@
     <title>Anthropic Data Fears Prompt Nvidia, Palantir and Booz Allen to Restrict Model Use</title>
     <content type="html">&lt;p&gt;As paranoia rises over whether &lt;a href="https://www.theinformation.com/org-charts/anthropic"&gt;Anthropic&lt;/a&gt; or &lt;a href="https://www.theinformation.com/org-charts/openai"&gt;OpenAI&lt;/a&gt; could learn from their customers’ intellectual property, large firms involved in sensitive corporate work, such as Palantir Technologies, Nvidia and Booz Allen Hamilton, have started demanding new guarantees or reducing or eliminating use of the AI firms’ most advanced models.&lt;/p&gt;</content>
     <author>
-      <name>Laura Bratton</name>
+      <name>Aaron Holmes</name>
     </author>
     <author>
-      <name>Aaron Holmes</name>
+      <name>Laura Bratton</name>
     </author>
   </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18036</id>
     <published>2026-09-14T10:22:14Z</published>
-    <updated>2026-09-15T15:14:11Z</updated>
+    <updated>2026-09-15T18:19:43Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/china-rebuffs-u-s-fearmongering-light-ai-pacing-calls"/>
     <title>China Rebuffs U.S. “Fearmongering” in Light of AI Pacing Calls</title>
     <content type="html">&lt;p&gt;China on Monday rejected calls from top U.S. tech executives on pacing frontier AI development while maintaining a lead over China to ensure America’s national security.&lt;/p&gt; &lt;p&gt;“The development of artificial intelligence concerns the common well-being of all humanity. All parties should jointly promote ...&lt;/p&gt;</content>
@@ -198,7 +220,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18035</id>
     <published>2026-09-14T06:32:18Z</published>
-    <updated>2026-09-15T15:14:11Z</updated>
+    <updated>2026-09-15T18:19:43Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/z-ai-plans-5-billion-fundraising-compute-cost-grows"/>
     <title>Z.ai Plans $5 Billion Fundraising as Compute Cost Grows  </title>
     <content type="html">&lt;p&gt;Z.ai is raising about $5 billion through equity and convertible bond offerings, seeking to replenish its warchest in the increasingly costly race to develop frontier AI models.&lt;/p&gt; &lt;p&gt;Hong Kong-listed Z.ai said in a regulatory filing on Sunday that it plans to raise $2 billion through a share ...&lt;/p&gt;</content>
@@ -231,35 +253,6 @@
     <content type="html">&lt;p&gt;Dario Amodei typically isn’t considered some camera-ready media maestro. His interview quotes aren’t particularly pithy, and he struggles to control his strained facial expressions. But his habit of sending his most high-stakes messages via essays posted on his own website, &lt;a href="http://darioamodei.com/"&gt;darioamodei.com&lt;/a&gt;, has proven to be a brilliant media strategy. “The medium is the message,” the ubiquitous half-century-old wisdom from scholar Marshall McLuhan, still resonates. The approach conveys authority and diligence, putting Amodei above the fray.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Amodei’s &lt;a href="https://darioamodei.com/post/we-must-pace-the-frontier"&gt;latest essay, on Saturday&lt;/a&gt;—suggesting that the industry slow down the pace of AI development—set off a weekend full of takes on the tech industry’s preferred medium, X—well-meaning, conspiratorial, annoying, breathless, thought-provoking takes, including nods of agreement from Amodei’s rivals, &lt;a href="https://x.com/sama/status/2098811563415150910?s=20"&gt;Sam Altman&lt;/a&gt; and &lt;a href="https://x.com/elonmusk/status/2098789109980332057?s=20"&gt;Elon Musk&lt;/a&gt;. Timing is important here, too, of course. AI doom is dominating the headlines, not just in Washington and Silicon Valley but around the world. (We reported &lt;a href="https://www.theinformation.com/articles/inside-ai-industrys-behind-scenes-push-police?rc=9byxri"&gt;today on discussions underway &lt;/a&gt;between the companies).&lt;/p&gt;</content>
     <author>
       <name>Cory Weinberg</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Article/17812</id>
-    <published>2026-09-13T19:16:26Z</published>
-    <updated>2026-09-13T20:17:33Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/inside-ai-industrys-behind-scenes-push-police"/>
-    <title>Anthropic, OpenAI, Google Quietly Discussed an AI Safety Standards Body</title>
-    <content type="html">&lt;p&gt;Anthropic, OpenAI and Google have been holding discussions about working together to create a standards body for the AI industry, people familiar with the matter said, even before Anthropic CEO Dario Amodei called on Saturday for AI companies to coordinate on testing and auditing the technology.&lt;/p&gt;
-
-&lt;p&gt;OpenAI CEO Sam Altman, for his part, told staff at a companywide town hall meeting earlier this week that he supported a testing and auditing organization for the AI industry but believed that major AI labs would have to create a standards body on their own without the support of the U.S. government, a person familiar with the comments said.&lt;/p&gt;</content>
-    <author>
-      <name>Leo Schwartz</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Article/17804</id>
-    <published>2026-09-13T15:00:46Z</published>
-    <updated>2026-09-15T04:41:49Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/nvidias-growing-dependence-big-customers"/>
-    <title>Nvidia’s Growing Dependence On a Few Big Customers</title>
-    <content type="html">&lt;p&gt;Nvidia CEO Jensen Huang has very good reasons to try to develop new customers by investing in a variety of neocloud and AI firms. For all its success, Nvidia’s sales have become increasingly dependent on a handful of customers&amp;mdash;some of which may cut back their purchases over time.&lt;/p&gt;
-
-&lt;p&gt;That becomes clear when you look at its own disclosures going back several years, which specify how many customers account for more than 10% of sales. In the first half of this fiscal year, ending in July, three such customers were responsible for 44% of total sales. Last fiscal year, two customers accounted for 36% of total sales. Going back to fiscal 2023, Nvidia had no customers accounting for 10% or more of sales (see the chart&amp;nbsp;below).&lt;/p&gt;</content>
-    <author>
-      <name>Martin Peers</name>
-    </author>
-    <author>
-      <name>Qianer Liu</name>
     </author>
   </entry>
 </feed>
