@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed?cb=1789462966065</id>
+  <id>tag:www.theinformation.com,2005:/feed</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1789462966065"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-15T09:02:17Z</updated>
+  <updated>2026-09-15T12:01:52Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17820</id>
+    <published>2026-09-15T12:00:54Z</published>
+    <updated>2026-09-15T12:01:52Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/bytedances-first-half-profit-drops-20-billion-weighed-ai-spending"/>
+    <title>ByteDance’s First-Half Profit Drops to $20 Billion, Weighed Down by AI Spending</title>
+    <content type="html">&lt;p&gt;ByteDance’s net profit in the first half of this year declined by a single-digit percentage to $20 billion, as the Chinese tech giant ramped up its investments in AI, according to three people with knowledge of the financial results.&lt;/p&gt;
+
+&lt;p&gt;The company’s revenue for the period rose around 30% year on year to $120 billion, driven partly by robust growth of its international advertising and e-commerce revenue from TikTok, the people said. That suggests &lt;a href="https://www.theinformation.com/org-charts/bytedance"&gt;ByteDance’&lt;/a&gt;s growth rate is accelerating marginally from its rate of expansion in the past two years. ByteDance’s revenue grew 29% last year to about $200 billion, the people said, following a similar rate of growth in 2024.&amp;nbsp;The company’s net profit grew 27% to $42 billion last year.&lt;/p&gt;</content>
+    <author>
+      <name>Juro Osawa</name>
+    </author>
+    <author>
+      <name>Jing Yang</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18040</id>
     <published>2026-09-15T08:48:11Z</published>
@@ -124,10 +140,10 @@
     <title>Anthropic Data Fears Prompt Nvidia, Palantir and Booz Allen to Restrict Model Use</title>
     <content type="html">&lt;p&gt;As paranoia rises over whether &lt;a href="https://www.theinformation.com/org-charts/anthropic"&gt;Anthropic&lt;/a&gt; or &lt;a href="https://www.theinformation.com/org-charts/openai"&gt;OpenAI&lt;/a&gt; could learn from their customers’ intellectual property, large firms involved in sensitive corporate work, such as Palantir Technologies, Nvidia and Booz Allen Hamilton, have started demanding new guarantees or reducing or eliminating use of the AI firms’ most advanced models.&lt;/p&gt;</content>
     <author>
-      <name>Aaron Holmes</name>
+      <name>Laura Bratton</name>
     </author>
     <author>
-      <name>Laura Bratton</name>
+      <name>Aaron Holmes</name>
     </author>
   </entry>
   <entry>
@@ -162,10 +178,10 @@
 
 &lt;p&gt;The deal is the latest in a spate of cloud computing agreements Anthropic struck in the past year, with major cloud providers like Google, tech companies such as SpaceX and &lt;a href="https://www.bloomberg.com/news/articles/2026-08-26/anthropic-to-pay-nscale-45-billion-for-ai-computing-power"&gt;smaller neoclouds such as Nscale,&lt;/a&gt; amid skyrocketing demand for its Claude Code and Cowork products. The agreements total at least 14.8 gigawatts of compute capacity, &lt;a href="https://www.theinformation.com/articles/anthropic-clinched-517-billion-compute-deals-11-months"&gt;costing as much as $517 billion over the next decade.&lt;/a&gt; The deal with Rum would add to that total.&lt;/p&gt;</content>
     <author>
-      <name>Valida Pau</name>
+      <name>Phoebe Liu</name>
     </author>
     <author>
-      <name>Phoebe Liu</name>
+      <name>Valida Pau</name>
     </author>
   </entry>
   <entry>
@@ -239,17 +255,6 @@
     <content type="html">&lt;p&gt;Oracle founder Larry Ellison has canceled plans to sell up to 50 million of his shares in the company, worth around $7.5 billion at current prices, Oracle said on Saturday. The announcement came a day after Oracle disclosed that Ellison had adopted a trading plan to sell the shares by late ...&lt;/p&gt;</content>
     <author>
       <name>Meredith Mazzilli</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18032</id>
-    <published>2026-09-12T16:14:30Z</published>
-    <updated>2026-09-15T08:56:40Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/amodei-calls-ai-companies-coordinate-safety"/>
-    <title>Altman and Musk Back Amodei’s Call for AI Companies to Slow Down AI Development</title>
-    <content type="html">&lt;p&gt;Anthropic CEO Dario Amodei on Saturday called for leading AI companies to slow the development of advanced AI, drawing supportive responses from &lt;a href="https://x.com/sama/status/2098811563415150910?s=46&amp;t=vHmkStoxaU0_DAAjLc-84A"&gt;OpenAI CEO Sam Altman&lt;/a&gt; and &lt;a href="https://x.com/elonmusk/status/2098789109980332057?s=20"&gt;SpaceX CEO Elon Musk.&lt;/a&gt;&lt;/p&gt; &lt;p&gt;In a 3,800-word &lt;a href="https://darioamodei.com/post/we-must-pace-the-frontier"&gt;essay&lt;/a&gt; Saturday morning,&amp;nbsp;Amodei said Anthropic would give “employee-like access” to ...&lt;/p&gt;</content>
-    <author>
-      <name>Cory Weinberg</name>
     </author>
   </entry>
 </feed>
