@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed?cb=1789502484174</id>
+  <id>tag:www.theinformation.com,2005:/feed?cb=1789503628695</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1789502484174"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1789503628695"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-15T20:00:36Z</updated>
+  <updated>2026-09-15T20:19:30Z</updated>
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18044</id>
     <published>2026-09-15T19:38:55Z</published>
@@ -140,7 +140,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17818</id>
     <published>2026-09-15T00:00:33Z</published>
-    <updated>2026-09-15T00:07:19Z</updated>
+    <updated>2026-09-15T20:18:08Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/wall-street-delivers-verdict-ai-slowdowns-winners-losers"/>
     <title>Wall Street Delivers Verdict on AI Slowdown’s Winners and Losers</title>
     <content type="html">&lt;p&gt;Guess who likes the idea of an AI development slowdown? Software investors! Stocks of enterprise software firms, such as Salesforce, Shopify, ServiceNow and Figma, all gained ground on Monday—ServiceNow jumped 7%, for instance, while Salesforce rose nearly 5%. Software firms, of course, have been seen as threatened by AI. Meanwhile, stocks of neoclouds and chip firms fell by similar proportions—and, these companies might be seriously hurting if the pace of AI development really slows.&lt;/p&gt;&lt;p&gt;Wall Street’s reaction gives some sense of the winners and losers in a real AI downturn, for what it’s worth. But this is likely to be a one-day investor reaction. The chances of a coordinated AI development slowdown, of the kind advocated by Anthropic’s Dario Amodei and others &lt;a href="https://darioamodei.com/post/we-must-pace-the-frontier"&gt;on Saturday&lt;/a&gt;, seems to be zero. You’ve got both &lt;a href="https://truthsocial.com/@realDonaldTrump/117270591511950591"&gt;President Donald Trump &lt;/a&gt;and &lt;a href="https://www.theinformation.com/briefings/china-rebuffs-u-s-fearmongering-light-ai-pacing-calls?rc=9byxri"&gt;the Chinese government&lt;/a&gt; dismissing the worries about AI safety as a “hoax” or “fearmongering” (it’s nice they agree on something!). Meanwhile, one major AI firm, Meta Platforms, has stayed conspicuously quiet, aside from this &lt;a href="https://x.com/alexandr_wang/status/2099015997525291211?s=20"&gt;indecipherable X post &lt;/a&gt;from Meta's Alexandr Wang.&amp;nbsp;&lt;/p&gt;</content>
@@ -158,10 +158,10 @@
 
 &lt;p&gt;The planned funding round follows the 11-year-old company’s success winning contracts for its AI software that coordinates drones and aircrafts, called Hivemind, and comes as investors continue to pour money into startups that are building AI-powered weapons and defense systems.&lt;/p&gt;</content>
     <author>
-      <name>Jemima McEvoy</name>
+      <name>Julia Hornstein</name>
     </author>
     <author>
-      <name>Julia Hornstein</name>
+      <name>Jemima McEvoy</name>
     </author>
   </entry>
   <entry>
@@ -222,10 +222,10 @@
     <title>Anthropic Data Fears Prompt Nvidia, Palantir and Booz Allen to Restrict Model Use</title>
     <content type="html">&lt;p&gt;As paranoia rises over whether &lt;a href="https://www.theinformation.com/org-charts/anthropic"&gt;Anthropic&lt;/a&gt; or &lt;a href="https://www.theinformation.com/org-charts/openai"&gt;OpenAI&lt;/a&gt; could learn from their customers’ intellectual property, large firms involved in sensitive corporate work, such as Palantir Technologies, Nvidia and Booz Allen Hamilton, have started demanding new guarantees or reducing or eliminating use of the AI firms’ most advanced models.&lt;/p&gt;</content>
     <author>
-      <name>Aaron Holmes</name>
+      <name>Laura Bratton</name>
     </author>
     <author>
-      <name>Laura Bratton</name>
+      <name>Aaron Holmes</name>
     </author>
   </entry>
   <entry>
