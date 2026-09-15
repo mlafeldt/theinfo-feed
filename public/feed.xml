@@ -1,11 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed?cb=1789497184812</id>
+  <id>tag:www.theinformation.com,2005:/feed?cb=1789502484174</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1789497184812"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1789502484174"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-15T18:32:12Z</updated>
+  <updated>2026-09-15T20:00:36Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18044</id>
+    <published>2026-09-15T19:38:55Z</published>
+    <updated>2026-09-15T19:40:31Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/salesforce-unveils-new-ai-model-agent-security-tools-dreamforce"/>
+    <title>Salesforce Unveils New AI Model, Agent Security Tools at Dreamforce </title>
+    <content type="html">&lt;p&gt;At the opening of its annual Dreamforce customer conference, Salesforce signaled its involvement in two major trends in enterprise AI: Open-source AI models and software that helps corporate customers safely run AI agents on their data.&lt;/p&gt; &lt;p&gt;Salesforce &lt;a href="https://www.salesforce.com/news/press-releases/2026/09/15/koa-reasoning-model/"&gt;unveiled&lt;/a&gt; a new AI model, called Koa, which it ...&lt;/p&gt;</content>
+    <author>
+      <name>Kevin McLaughlin</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18043</id>
+    <published>2026-09-15T19:11:45Z</published>
+    <updated>2026-09-15T19:11:45Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/meta-rolls-new-meta-one-subscription-plans-higher-ai-usage-limits"/>
+    <title>Meta Rolls Out New ‘Meta One’ Subscription Plans With Higher AI Usage Limits</title>
+    <content type="html">&lt;p&gt;Meta Platforms is expanding its paid subscription offerings for its AI tools across Instagram, WhatsApp and Facebook as it looks to diversify revenue beyond digital advertising.&lt;/p&gt; &lt;p&gt;The company announced Tuesday in a blog post that it is introducing new tiers of its Meta One subscription plans, ...&lt;/p&gt;</content>
+    <author>
+      <name>Jyoti Mann</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17823</id>
     <published>2026-09-15T18:28:58Z</published>
@@ -226,33 +248,6 @@
     <content type="html">&lt;p&gt;Z.ai is raising about $5 billion through equity and convertible bond offerings, seeking to replenish its warchest in the increasingly costly race to develop frontier AI models.&lt;/p&gt; &lt;p&gt;Hong Kong-listed Z.ai said in a regulatory filing on Sunday that it plans to raise $2 billion through a share ...&lt;/p&gt;</content>
     <author>
       <name>Juro Osawa</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Article/17814</id>
-    <published>2026-09-14T01:07:00Z</published>
-    <updated>2026-09-14T01:37:53Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/anthropic-strikes-13-7-billion-compute-deal-trump-linked-rum-group"/>
-    <title>Anthropic Strikes $13.7 Billion Compute Deal With Trump-Linked Rum Group</title>
-    <content type="html">&lt;p&gt;Anthropic has signed a computing deal worth $13.7 billion over six years with Rum Group, a company with roots in social media and long-standing ties to the Trump administration, according to a person familiar with the matter.&lt;/p&gt;
-
-&lt;p&gt;The deal is the latest in a spate of cloud computing agreements Anthropic struck in the past year, with major cloud providers like Google, tech companies such as SpaceX and &lt;a href="https://www.bloomberg.com/news/articles/2026-08-26/anthropic-to-pay-nscale-45-billion-for-ai-computing-power"&gt;smaller neoclouds such as Nscale,&lt;/a&gt; amid skyrocketing demand for its Claude Code and Cowork products. The agreements total at least 14.8 gigawatts of compute capacity, &lt;a href="https://www.theinformation.com/articles/anthropic-clinched-517-billion-compute-deals-11-months"&gt;costing as much as $517 billion over the next decade.&lt;/a&gt; The deal with Rum would add to that total.&lt;/p&gt;</content>
-    <author>
-      <name>Phoebe Liu</name>
-    </author>
-    <author>
-      <name>Valida Pau</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Article/17808</id>
-    <published>2026-09-13T22:00:47Z</published>
-    <updated>2026-09-13T22:07:24Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/ais-pacing-obsession-misses-real-political-problem"/>
-    <title>AI’s ‘Pacing’ Obsession Misses Real Political Problem</title>
-    <content type="html">&lt;p&gt;Dario Amodei typically isn’t considered some camera-ready media maestro. His interview quotes aren’t particularly pithy, and he struggles to control his strained facial expressions. But his habit of sending his most high-stakes messages via essays posted on his own website, &lt;a href="http://darioamodei.com/"&gt;darioamodei.com&lt;/a&gt;, has proven to be a brilliant media strategy. “The medium is the message,” the ubiquitous half-century-old wisdom from scholar Marshall McLuhan, still resonates. The approach conveys authority and diligence, putting Amodei above the fray.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Amodei’s &lt;a href="https://darioamodei.com/post/we-must-pace-the-frontier"&gt;latest essay, on Saturday&lt;/a&gt;—suggesting that the industry slow down the pace of AI development—set off a weekend full of takes on the tech industry’s preferred medium, X—well-meaning, conspiratorial, annoying, breathless, thought-provoking takes, including nods of agreement from Amodei’s rivals, &lt;a href="https://x.com/sama/status/2098811563415150910?s=20"&gt;Sam Altman&lt;/a&gt; and &lt;a href="https://x.com/elonmusk/status/2098789109980332057?s=20"&gt;Elon Musk&lt;/a&gt;. Timing is important here, too, of course. AI doom is dominating the headlines, not just in Washington and Silicon Valley but around the world. (We reported &lt;a href="https://www.theinformation.com/articles/inside-ai-industrys-behind-scenes-push-police?rc=9byxri"&gt;today on discussions underway &lt;/a&gt;between the companies).&lt;/p&gt;</content>
-    <author>
-      <name>Cory Weinberg</name>
     </author>
   </entry>
 </feed>
