@@ -5,7 +5,18 @@
   <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-15T05:04:52Z</updated>
+  <updated>2026-09-15T05:38:44Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18038</id>
+    <published>2026-09-15T05:09:02Z</published>
+    <updated>2026-09-15T05:38:44Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/openai-said-buy-startup-glass-imaging-300-million"/>
+    <title>OpenAI Said to Buy Startup Glass Imaging for $300 Million</title>
+    <content type="html">&lt;p&gt;OpenAI has bought Glass Imaging, a startup developing higher quality cameras for smartphones, in a deal valued at $300 million, according to the Wall Street Journal.&lt;/p&gt; &lt;p&gt;The startup, founded by ex-Apple employees, was valued at $100 million in a funding round last year. The acquisition could help ...&lt;/p&gt;</content>
+    <author>
+      <name>Laura Mandaro</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17818</id>
     <published>2026-09-15T00:00:33Z</published>
@@ -111,7 +122,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18035</id>
     <published>2026-09-14T06:32:18Z</published>
-    <updated>2026-09-15T05:04:52Z</updated>
+    <updated>2026-09-15T05:38:44Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/z-ai-plans-5-billion-fundraising-compute-cost-grows"/>
     <title>Z.ai Plans $5 Billion Fundraising as Compute Cost Grows  </title>
     <content type="html">&lt;p&gt;Z.ai is raising about $5 billion through equity and convertible bond offerings, seeking to replenish its warchest in the increasingly costly race to develop frontier AI models.&lt;/p&gt; &lt;p&gt;Hong Kong-listed Z.ai said in a regulatory filing on Sunday that it plans to raise $2 billion through a share ...&lt;/p&gt;</content>
@@ -189,7 +200,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18034</id>
     <published>2026-09-12T22:47:23Z</published>
-    <updated>2026-09-14T16:43:10Z</updated>
+    <updated>2026-09-15T05:38:44Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/tesla-teases-october-next-gen-roadster-reveal"/>
     <title>Tesla Teases October Next-Gen Roadster Reveal </title>
     <content type="html">&lt;p&gt;Tesla teased an October 1 Roadster reveal on Saturday. The company &lt;a href="https://x.com/Tesla/status/2098847894975795323"&gt;shared&lt;/a&gt; a photo of what appears to be the back of the vehicle with the words “Go for launch” on X and updated its Roadster webpage with a countdown to October 1.&lt;/p&gt; &lt;p&gt;Tesla also sent some reservation-holders invites to the event, ...&lt;/p&gt;</content>
@@ -200,7 +211,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18033</id>
     <published>2026-09-12T19:18:53Z</published>
-    <updated>2026-09-15T05:04:52Z</updated>
+    <updated>2026-09-15T05:38:44Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/larry-ellison-cancels-plan-sell-7-5-billion-oracle-stock"/>
     <title>Larry Ellison Cancels Plan to Sell Up to $7.5 Billion of Oracle Stock </title>
     <content type="html">&lt;p&gt;Oracle founder Larry Ellison has canceled plans to sell up to 50 million of his shares in the company, worth around $7.5 billion at current prices, Oracle said on Saturday. The announcement came a day after Oracle disclosed that Ellison had adopted a trading plan to sell the shares by late ...&lt;/p&gt;</content>
@@ -211,7 +222,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18032</id>
     <published>2026-09-12T16:14:30Z</published>
-    <updated>2026-09-15T05:04:52Z</updated>
+    <updated>2026-09-15T05:38:44Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/amodei-calls-ai-companies-coordinate-safety"/>
     <title>Altman and Musk Back Amodei’s Call for AI Companies to Slow Down AI Development</title>
     <content type="html">&lt;p&gt;Anthropic CEO Dario Amodei on Saturday called for leading AI companies to slow the development of advanced AI, drawing supportive responses from &lt;a href="https://x.com/sama/status/2098811563415150910?s=46&amp;t=vHmkStoxaU0_DAAjLc-84A"&gt;OpenAI CEO Sam Altman&lt;/a&gt; and &lt;a href="https://x.com/elonmusk/status/2098789109980332057?s=20"&gt;SpaceX CEO Elon Musk.&lt;/a&gt;&lt;/p&gt; &lt;p&gt;In a 3,800-word &lt;a href="https://darioamodei.com/post/we-must-pace-the-frontier"&gt;essay&lt;/a&gt; Saturday morning,&amp;nbsp;Amodei said Anthropic would give “employee-like access” to ...&lt;/p&gt;</content>
@@ -243,17 +254,6 @@
 &lt;p&gt;That sentiment isn’t just bravado. Midha, 34, a computer scientist by training, has chalked up a string of hits as an investor in recent years. His most notable one is Anthropic. He cut the company an early check in 2021 when it was valued at less than $1 billion, using a substantial portion of his and his wife’s savings. In the company’s approaching IPO, its valuation could extend to as much as $2 trillion.&lt;/p&gt;</content>
     <author>
       <name>Eli Rosenberg</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18031</id>
-    <published>2026-09-12T01:04:55Z</published>
-    <updated>2026-09-15T05:04:52Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/nvidia-may-invest-10-billion-anthropics-ipo"/>
-    <title>Nvidia May Invest Up to $10 Billion In Anthropic’s IPO</title>
-    <content type="html">&lt;p&gt;Nvidia has discussed investing in Anthropic’s upcoming initial public offering that would raise as much as $100 billion at a valuation of around $2 trillion, &lt;a href="https://www.reuters.com/legal/transactional/nvidia-talks-invest-anthropics-mega-ipo-sources-say-2026-09-11/"&gt;Reuters reported Friday.&lt;/a&gt; Nvidia could invest as much as $10 billion in Anthropic at the IPO price, according to the report. Anthropic last ...&lt;/p&gt;</content>
-    <author>
-      <name>Phoebe Liu</name>
     </author>
   </entry>
 </feed>
