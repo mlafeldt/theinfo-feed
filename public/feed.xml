@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed?cb=1789432518210</id>
+  <id>tag:www.theinformation.com,2005:/feed</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1789432518210"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-15T00:35:13Z</updated>
+  <updated>2026-09-15T05:04:52Z</updated>
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17818</id>
     <published>2026-09-15T00:00:33Z</published>
@@ -75,7 +75,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18037</id>
     <published>2026-09-14T13:00:55Z</published>
-    <updated>2026-09-14T16:43:10Z</updated>
+    <updated>2026-09-15T05:04:51Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/microsoft-joins-calls-ai-pacing-pledges-build-kill-switches-ai-products"/>
     <title>Microsoft Joins Calls for AI “Pacing,” Pledges to Build Kill Switches Into AI Products</title>
     <content type="html">&lt;p&gt;Microsoft on Monday published a new AI “code of conduct” promising to avoid building products that could evade human oversight, following CEO Satya Nadella’s call on Sunday for the tech industry to “pace” its progress in developing new AI.&lt;/p&gt; &lt;p&gt;The measures follow similar calls for pacing from ...&lt;/p&gt;</content>
@@ -100,7 +100,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18036</id>
     <published>2026-09-14T10:22:14Z</published>
-    <updated>2026-09-14T10:22:14Z</updated>
+    <updated>2026-09-15T05:04:52Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/china-rebuffs-u-s-fearmongering-light-ai-pacing-calls"/>
     <title>China Rebuffs U.S. “Fearmongering” in Light of AI Pacing Calls</title>
     <content type="html">&lt;p&gt;China on Monday rejected calls from top U.S. tech executives on pacing frontier AI development while maintaining a lead over China to ensure America’s national security.&lt;/p&gt; &lt;p&gt;“The development of artificial intelligence concerns the common well-being of all humanity. All parties should jointly promote ...&lt;/p&gt;</content>
@@ -111,7 +111,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18035</id>
     <published>2026-09-14T06:32:18Z</published>
-    <updated>2026-09-14T16:43:10Z</updated>
+    <updated>2026-09-15T05:04:52Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/z-ai-plans-5-billion-fundraising-compute-cost-grows"/>
     <title>Z.ai Plans $5 Billion Fundraising as Compute Cost Grows  </title>
     <content type="html">&lt;p&gt;Z.ai is raising about $5 billion through equity and convertible bond offerings, seeking to replenish its warchest in the increasingly costly race to develop frontier AI models.&lt;/p&gt; &lt;p&gt;Hong Kong-listed Z.ai said in a regulatory filing on Sunday that it plans to raise $2 billion through a share ...&lt;/p&gt;</content>
@@ -162,10 +162,10 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17804</id>
     <published>2026-09-13T15:00:46Z</published>
-    <updated>2026-09-14T01:14:46Z</updated>
+    <updated>2026-09-15T04:41:49Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/nvidias-growing-dependence-big-customers"/>
     <title>Nvidia’s Growing Dependence On a Few Big Customers</title>
-    <content type="html">&lt;p&gt;Nvidia CEO Jensen Huang has very good reason to try to develop new customers by investing in a variety of neocloud and AI firms. For all its success, Nvidia’s sales have become increasingly dependent on a handful of customers&amp;mdash;some of which may cut back their purchases over time.&lt;/p&gt;
+    <content type="html">&lt;p&gt;Nvidia CEO Jensen Huang has very good reasons to try to develop new customers by investing in a variety of neocloud and AI firms. For all its success, Nvidia’s sales have become increasingly dependent on a handful of customers&amp;mdash;some of which may cut back their purchases over time.&lt;/p&gt;
 
 &lt;p&gt;That becomes clear when you look at its own disclosures going back several years, which specify how many customers account for more than 10% of sales. In the first half of this fiscal year, ending in July, three such customers were responsible for 44% of total sales. Last fiscal year, two customers accounted for 36% of total sales. Going back to fiscal 2023, Nvidia had no customers accounting for 10% or more of sales (see the chart&amp;nbsp;below).&lt;/p&gt;</content>
     <author>
@@ -200,7 +200,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18033</id>
     <published>2026-09-12T19:18:53Z</published>
-    <updated>2026-09-14T16:43:10Z</updated>
+    <updated>2026-09-15T05:04:52Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/larry-ellison-cancels-plan-sell-7-5-billion-oracle-stock"/>
     <title>Larry Ellison Cancels Plan to Sell Up to $7.5 Billion of Oracle Stock </title>
     <content type="html">&lt;p&gt;Oracle founder Larry Ellison has canceled plans to sell up to 50 million of his shares in the company, worth around $7.5 billion at current prices, Oracle said on Saturday. The announcement came a day after Oracle disclosed that Ellison had adopted a trading plan to sell the shares by late ...&lt;/p&gt;</content>
@@ -211,7 +211,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18032</id>
     <published>2026-09-12T16:14:30Z</published>
-    <updated>2026-09-12T16:57:44Z</updated>
+    <updated>2026-09-15T05:04:52Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/amodei-calls-ai-companies-coordinate-safety"/>
     <title>Altman and Musk Back Amodei’s Call for AI Companies to Slow Down AI Development</title>
     <content type="html">&lt;p&gt;Anthropic CEO Dario Amodei on Saturday called for leading AI companies to slow the development of advanced AI, drawing supportive responses from &lt;a href="https://x.com/sama/status/2098811563415150910?s=46&amp;t=vHmkStoxaU0_DAAjLc-84A"&gt;OpenAI CEO Sam Altman&lt;/a&gt; and &lt;a href="https://x.com/elonmusk/status/2098789109980332057?s=20"&gt;SpaceX CEO Elon Musk.&lt;/a&gt;&lt;/p&gt; &lt;p&gt;In a 3,800-word &lt;a href="https://darioamodei.com/post/we-must-pace-the-frontier"&gt;essay&lt;/a&gt; Saturday morning,&amp;nbsp;Amodei said Anthropic would give “employee-like access” to ...&lt;/p&gt;</content>
@@ -248,7 +248,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18031</id>
     <published>2026-09-12T01:04:55Z</published>
-    <updated>2026-09-14T16:43:10Z</updated>
+    <updated>2026-09-15T05:04:52Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/nvidia-may-invest-10-billion-anthropics-ipo"/>
     <title>Nvidia May Invest Up to $10 Billion In Anthropic’s IPO</title>
     <content type="html">&lt;p&gt;Nvidia has discussed investing in Anthropic’s upcoming initial public offering that would raise as much as $100 billion at a valuation of around $2 trillion, &lt;a href="https://www.reuters.com/legal/transactional/nvidia-talks-invest-anthropics-mega-ipo-sources-say-2026-09-11/"&gt;Reuters reported Friday.&lt;/a&gt; Nvidia could invest as much as $10 billion in Anthropic at the IPO price, according to the report. Anthropic last ...&lt;/p&gt;</content>
