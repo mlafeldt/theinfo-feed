@@ -1,8 +1,8 @@
 {
   "upstream": "https://www.theinformation.com/feed",
-  "mirrored_at": "2026-09-15T16:06:15Z",
-  "last_modified": "Tue, 15 Sep 2026 15:14:12 GMT",
-  "etag": "W/\"e220e8dbd9fc2a8cd7077ecee4eee974\"",
-  "feed_updated": "2026-09-15T15:14:12Z",
+  "mirrored_at": "2026-09-15T17:05:16Z",
+  "last_modified": "Tue, 15 Sep 2026 16:31:39 GMT",
+  "etag": "W/\"e6fdbb6bd7c2372352aae6726814ca13\"",
+  "feed_updated": "2026-09-15T16:31:39Z",
   "entries": 20
 }
