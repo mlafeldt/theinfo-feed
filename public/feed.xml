@@ -5,7 +5,22 @@
   <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-16T20:00:25Z</updated>
+  <updated>2026-09-16T21:05:00Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17831</id>
+    <published>2026-09-16T20:53:37Z</published>
+    <updated>2026-09-16T21:01:02Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/zipline-talks-raise-funds-20-billion-valuation"/>
+    <title>Drone Delivery Startup Nears $20 Billion Valuation in New Funding Talks</title>
+    <content type="html">&lt;p&gt;Zipline, a startup making drones that can deliver small packages like meals and medical supplies, is in talks to raise new funds at a valuation of roughly $20 billion, according to two people with knowledge of the fundraise.&lt;/p&gt;
+
+&lt;p&gt;The funding round, if it closes, would more than double its valuation from its last funding round, which valued the company at $7.6 billion after the investment. It follows a partnership announced last month with Uber to expand delivery by drones across the U.S. and expectations by investors that the costs of drone delivery are falling, expanding what was once a niche market.&lt;/p&gt;
+
+&lt;p&gt;The funding indicates fresh excitement from venture capitalists in delivery startups, which have had mixed success over the last few years.&lt;/p&gt;</content>
+    <author>
+      <name>Julia Hornstein</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18055</id>
     <published>2026-09-16T19:47:41Z</published>
@@ -100,13 +115,13 @@
 
 &lt;p&gt;Apple has been developing the server with plans to sell it to AI developers, other businesses and governments, the people said. The product under consideration would come in two versions&amp;mdash;a smaller one with two of Apple’s planned M8 Ultra chips clustered together and a bigger one with four M8 Ultra chips. The M-series Ultra chips are Apple’s highest-performance chips and power products including the Mac Studio.&lt;/p&gt;</content>
     <author>
+      <name>Aaron Tilley</name>
+    </author>
+    <author>
       <name>Qianer Liu</name>
     </author>
     <author>
       <name>Phoebe Liu</name>
-    </author>
-    <author>
-      <name>Aaron Tilley</name>
     </author>
   </entry>
   <entry>
@@ -123,10 +138,10 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18052</id>
     <published>2026-09-16T09:49:00Z</published>
-    <updated>2026-09-16T17:42:59Z</updated>
+    <updated>2026-09-16T21:05:00Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/sk-hynix-talks-intel-make-memory-chips-u-s"/>
     <title>SK Hynix in Talks With Intel to Make Memory Chips in the U.S.</title>
-    <content type="html">&lt;p&gt;South Korean memory chipmaker SK Hynix is in talks with Intel about a deal to manufacture memory chips on U.S. soil for the first time, Reuters reported, citing three people familiar with the discussions.&lt;/p&gt; &lt;p&gt;SK Hynix would either lease part of Intel’s long-planned Ohio fab, or form a joint venture ...&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;South Korean memory chipmaker SK Hynix is in talks with Intel about a deal to manufacture memory chips on U.S. soil for the first time, &lt;a href="https://www.reuters.com/world/asia-pacific/sk-hynix-talks-with-intel-about-deal-make-memory-chips-us-first-time-sources-say-2026-09-16/"&gt;Reuters reported&lt;/a&gt;, citing three people familiar with the discussions.&lt;/p&gt; &lt;p&gt;SK Hynix would either lease part of Intel’s long-planned Ohio fab, or form a joint venture ...&lt;/p&gt;</content>
     <author>
       <name>Qianer Liu</name>
     </author>
@@ -268,17 +283,6 @@
     <content type="html">&lt;p&gt;At the opening of its annual Dreamforce customer conference, Salesforce signaled its involvement in two major trends in enterprise AI: Open-source AI models and software that helps corporate customers safely run AI agents on their data.&lt;/p&gt; &lt;p&gt;Salesforce &lt;a href="https://www.salesforce.com/news/press-releases/2026/09/15/koa-reasoning-model/"&gt;unveiled&lt;/a&gt; a new AI model, called Koa, which it ...&lt;/p&gt;</content>
     <author>
       <name>Kevin McLaughlin</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18043</id>
-    <published>2026-09-15T19:11:45Z</published>
-    <updated>2026-09-16T17:43:00Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/meta-rolls-new-meta-one-subscription-plans-higher-ai-usage-limits"/>
-    <title>Meta Rolls Out New ‘Meta One’ Subscription Plans With Higher AI Usage Limits</title>
-    <content type="html">&lt;p&gt;Meta Platforms is expanding its paid subscription offerings for its AI tools across Instagram, WhatsApp and Facebook as it looks to diversify revenue beyond digital advertising.&lt;/p&gt; &lt;p&gt;The company announced Tuesday in a blog post that it is introducing new tiers of its Meta One subscription plans, ...&lt;/p&gt;</content>
-    <author>
-      <name>Jyoti Mann</name>
     </author>
   </entry>
 </feed>
