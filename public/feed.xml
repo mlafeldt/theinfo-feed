@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed</id>
+  <id>tag:www.theinformation.com,2005:/feed?cb=1789577425450</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1789577425450"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-16T15:36:57Z</updated>
+  <updated>2026-09-16T16:50:05Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18054</id>
+    <published>2026-09-16T16:40:12Z</published>
+    <updated>2026-09-16T16:40:12Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/circle-launches-new-blockchain-stablecoins-assets"/>
+    <title>Circle Launches New Blockchain for Stablecoins, Other Assets</title>
+    <content type="html">&lt;p&gt;Stablecoin issuer Circle officially launched Arc blockchain, which will support the trading of stablecoins, tokenized equities, and other assets.&lt;/p&gt; &lt;p&gt;The blockchain will also support perpetuals, lending protocols, and social trading apps, Jeremy Allaire, CEO of Circle, said in a press briefing. ...&lt;/p&gt;</content>
+    <author>
+      <name>Yueqi Yang</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17822</id>
     <published>2026-09-16T15:36:57Z</published>
@@ -81,10 +92,10 @@
       <name>Qianer Liu</name>
     </author>
     <author>
-      <name>Aaron Tilley</name>
+      <name>Phoebe Liu</name>
     </author>
     <author>
-      <name>Phoebe Liu</name>
+      <name>Aaron Tilley</name>
     </author>
   </entry>
   <entry>
@@ -156,12 +167,12 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17827</id>
     <published>2026-09-16T01:50:49Z</published>
-    <updated>2026-09-16T02:53:45Z</updated>
+    <updated>2026-09-16T16:50:05Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/ai-agent-startup-instinct-talks-10-billion-valuation"/>
     <title>AI Agent Startup Instinct in Talks for $10 Billion Valuation</title>
-    <content type="html">&lt;p&gt;The startup behind personal AI assistant Instinct is in talks to raise $1 billion at a valuation of about $10 billion, a person with knowledge of the deal said.&amp;nbsp;Sequoia Capital and Benchmark have been in talks to lead the financing, the person added.&lt;/p&gt;
+    <content type="html">&lt;p&gt;The startup behind personal AI assistant Instinct is in talks to raise $1 billion at a valuation of about $10 billion, people with knowledge of the deal said. Sequoia Capital and Benchmark have been in talks to lead the financing, the people said. Coatue Management has also been in talks to lead, according to one of the people.&lt;/p&gt;
 
-&lt;p&gt;The Information &lt;a href="https://www.theinformation.com/articles/personal-ai-app-instinct-faces-compute-crunch-lead-new-funding"&gt;reported earlier this month&lt;/a&gt; that the startup is looking to raise new funding as the invitation-only agent faces&amp;nbsp;constraints in compute capacity. As Instinct’s service has become more widely available, the number of users has grown to more than 100,000, according to the person.&lt;/p&gt;</content>
+&lt;p&gt;The Information &lt;a href="https://www.theinformation.com/articles/personal-ai-app-instinct-faces-compute-crunch-lead-new-funding"&gt;reported earlier this month&lt;/a&gt; that the startup is looking to raise new funding as the invitation-only agent faces&amp;nbsp;constraints in compute capacity. As Instinct’s service has become more widely available, the number of users has grown to more than 100,000, according to one of the people.&lt;/p&gt;</content>
     <author>
       <name>Valida Pau</name>
     </author>
@@ -268,17 +279,6 @@
     <content type="html">&lt;p&gt;Major Anthropic customers are &lt;a href="https://www.theinformation.com/articles/anthropic-data-fears-prompt-nvidia-palantir-booz-allen-restrict-model-use"&gt;still waiting to get “zero data retention”&lt;/a&gt; for the newest Fable AI models, meaning the AI firm would not store data related to their usage of its models. In the meantime, some are turning to OpenAI.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Palantir and Booz Allen, for instance, are expanding their use of OpenAI’s Astra model, which they’ve been able to secure&lt;i&gt; with &lt;/i&gt;zero data retention. Both have restricted their use of Fable models because Anthropic said in June it would store customer data for those using Fable models for 30 days, for security reasons.&lt;/p&gt;&lt;p&gt;Before that June announcement, Anthropic offered zero data retention policies in deals negotiated with individual customers. Starting later this fall, the AI firm plans to roll out a new program called Enterprise Frontier Safeguards, which effectively gives “eligible” customers zero data retention.&amp;nbsp;&lt;/p&gt;</content>
     <author>
       <name>Laura Bratton</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18042</id>
-    <published>2026-09-15T18:18:36Z</published>
-    <updated>2026-09-16T09:59:49Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/elon-musk-hints-possible-tesla-spacex-merger"/>
-    <title>Elon Musk hints at possible Tesla-SpaceX merger</title>
-    <content type="html">&lt;p&gt;Elon Musk once again teased the potential of a merger between Tesla and SpaceX on Monday, saying it was a “great question” why Tesla and SpaceX were separate companies.&lt;/p&gt; &lt;p&gt;“With all this collaboration, on so many levels, who can imagine what action one might take when there’s so much close ...&lt;/p&gt;</content>
-    <author>
-      <name>Grace Kay</name>
     </author>
   </entry>
 </feed>
