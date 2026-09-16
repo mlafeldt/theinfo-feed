@@ -1,11 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed?cb=1789552838045</id>
+  <id>tag:www.theinformation.com,2005:/feed</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1789552838045"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-16T09:59:49Z</updated>
+  <updated>2026-09-16T13:01:03Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17825</id>
+    <published>2026-09-16T13:00:37Z</published>
+    <updated>2026-09-16T13:01:03Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/apple-considers-return-server-market-talked-nvidia-use-network-tech"/>
+    <title>Apple Considers Return to Server Market, Has Talked With Nvidia to Use Network Tech</title>
+    <content type="html">&lt;p&gt;&lt;a href="https://www.theinformation.com/org-charts/apple"&gt;Apple&lt;/a&gt; has been working on plans for an enterprise server using its own chips that could incorporate networking equipment from &lt;a href="https://www.theinformation.com/org-charts/nvidia"&gt;Nvidia&lt;/a&gt;, as the Mac maker looks to capitalize on surging interest in its computers for AI.&lt;/p&gt;
+
+&lt;p&gt;Apple has been developing the server with plans to sell it to AI developers, other businesses and governments, the people said. The product under consideration would come in two versions&amp;mdash;a smaller one with two of Apple’s planned M8 Ultra chips clustered together and a bigger one with four M8 Ultra chips. The M-series Ultra chips are Apple’s highest-performance chips and power products including the Mac Studio.&lt;/p&gt;</content>
+    <author>
+      <name>Aaron Tilley</name>
+    </author>
+    <author>
+      <name>Qianer Liu</name>
+    </author>
+    <author>
+      <name>Phoebe Liu</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18053</id>
+    <published>2026-09-16T12:36:11Z</published>
+    <updated>2026-09-16T12:36:11Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/nvidia-ceo-attend-trumps-state-dinner-xi"/>
+    <title>Nvidia CEO to Attend Trump’s State Dinner for Xi</title>
+    <content type="html">&lt;p&gt;Nvidia CEO Jensen Huang plans to attend President Donald Trump’s state dinner for Chinese leader Xi Jinping in Washington next week, according to a person familiar with the matter. His attendance comes as AI chips and the pace of AI development become growing sources of tension between the U.S. ...&lt;/p&gt;</content>
+    <author>
+      <name>Qianer Liu</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18052</id>
     <published>2026-09-16T09:49:00Z</published>
@@ -199,10 +229,10 @@
 
 &lt;p&gt;But Erebor wound up pulling the offer after several months, after sophisticated crypto trading firms sniffed out a way to make an easy profit out of the offer&amp;mdash;at a cost to Erebor. The episode demonstrates that the young bank is still figuring out how to manage the risks of serving the cryptocurrency industry, a world of fast-moving financial flows, colorful characters and unusual business models.&lt;/p&gt;</content>
     <author>
-      <name>Michael Roddan</name>
+      <name>Yueqi Yang</name>
     </author>
     <author>
-      <name>Yueqi Yang</name>
+      <name>Michael Roddan</name>
     </author>
   </entry>
   <entry>
@@ -214,33 +244,6 @@
     <content type="html">&lt;p&gt;&lt;b&gt;Boris Cherney&lt;/b&gt;, the head of &lt;b&gt;Anthropic’s&lt;/b&gt; coding tool &lt;b&gt;Claude Code&lt;/b&gt;, last month found himself in the middle of an online spat that highlighted how some developers are finding workarounds to using Claude Code with cheaper non-Anthropic models, including those of rival &lt;b&gt;OpenAI&lt;/b&gt;, to save costs.&lt;/p&gt;&lt;p&gt;Developer &lt;b&gt;Alex Getman&lt;/b&gt; used a proxy made up of lines of code to connect Claude Code to OpenAI’s&lt;b&gt; GPT-5.6 Sol&lt;/b&gt;. Fifteen minutes after Getman typed the first coding requests into Claude, Anthropic shut down the account, he said.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Claude Code is popular because it comes with all the tools assembled to read and run files, search codebases and run tasks in parallel. But it doesn’t need to run on Anthropic models. And developers are saving money by using cheaper models with the Claude Code harness. For that reason, Getman’s posts &lt;a href="https://x.com/alexgetmancom/status/2086092971024253117"&gt;about the ban&lt;/a&gt; drew a million views within hours.&amp;nbsp;&lt;/p&gt;</content>
     <author>
       <name>Alix Coutures</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18041</id>
-    <published>2026-09-15T13:23:53Z</published>
-    <updated>2026-09-16T09:59:49Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/doordash-invests-marc-lores-wonder"/>
-    <title>DoorDash Invests in Marc Lore’s Wonder</title>
-    <content type="html">&lt;p&gt;DoorDash is teaming up with Marc Lore’s restaurant meal business Wonder, putting $125 million into the company and&amp;nbsp;buying a campus dining business from Wonder for $300 million, the two companies said.&lt;/p&gt; &lt;p&gt;Wonder offers its own lineup of meals, made in its own kitchens, for delivery, which makes ...&lt;/p&gt;</content>
-    <author>
-      <name>Martin Peers</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Article/17820</id>
-    <published>2026-09-15T12:00:54Z</published>
-    <updated>2026-09-15T12:31:22Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/bytedances-first-half-profit-drops-20-billion-weighed-ai-spending"/>
-    <title>ByteDance’s First-Half Profit Drops to $20 Billion, Weighed Down by AI Spending</title>
-    <content type="html">&lt;p&gt;ByteDance’s net profit in the first half of this year declined by a single-digit percentage to $20 billion, as the Chinese tech giant ramped up its investments in AI, according to three people with knowledge of the financial results.&lt;/p&gt;
-
-&lt;p&gt;The company’s revenue for the period rose around 30% year on year to $120 billion, driven partly by robust growth of its international advertising and e-commerce revenue from TikTok, the people said. That suggests &lt;a href="https://www.theinformation.com/org-charts/bytedance"&gt;ByteDance’&lt;/a&gt;s growth rate is accelerating marginally from its rate of expansion in the past two years. ByteDance’s revenue grew 29% last year to about $200 billion, the people said, following a similar rate of growth in 2024.&amp;nbsp;The company’s net profit grew 27% to $42 billion last year.&lt;/p&gt;</content>
-    <author>
-      <name>Juro Osawa</name>
-    </author>
-    <author>
-      <name>Jing Yang</name>
     </author>
   </entry>
 </feed>
