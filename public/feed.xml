@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed?cb=1789529931641</id>
+  <id>tag:www.theinformation.com,2005:/feed?cb=1789534757810</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1789529931641"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1789534757810"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-16T03:37:52Z</updated>
+  <updated>2026-09-16T04:12:10Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18051</id>
+    <published>2026-09-16T04:12:10Z</published>
+    <updated>2026-09-16T04:12:10Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/zuckerberg-says-ai-safety-becoming-competitive-necessity"/>
+    <title>Zuckerberg Says AI Safety Is Becoming a Competitive Necessity</title>
+    <content type="html">&lt;p&gt;Meta Platforms chief Mark Zuckerberg said ensuring the safety of AI is a commercial necessity for the companies that make models, and took an implicit swipe at calls for a collective slowdown in the technology’s development.&lt;/p&gt; &lt;p&gt;“Every lab has the responsibility and incentive to move at the pace ...&lt;/p&gt;</content>
+    <author>
+      <name>Jason Dean</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18050</id>
     <published>2026-09-16T03:26:36Z</published>
@@ -230,17 +241,6 @@
     <content type="html">&lt;p&gt;Chinese AI chip designer Shanghai Biren Technology is considering raising around $1 billion through a stock offering, Bloomberg reported on Tuesday, citing people familiar with the situation.&lt;/p&gt; &lt;p&gt;Biren, which develops graphics processing units used to train and run AI models, debuted on the Hong ...&lt;/p&gt;</content>
     <author>
       <name>Claudia Chong</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18039</id>
-    <published>2026-09-15T06:13:49Z</published>
-    <updated>2026-09-15T22:37:16Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/trump-skewers-ai-leaders-calls-slowdown"/>
-    <title>Trump Skewers AI Leaders’ Calls for Slowdown</title>
-    <content type="html">&lt;p&gt;President Trump on Monday shot down calls by AI leaders to slow down the pace of development. In a series of social media posts, Trump called claims about AI’s risk to humanity a “hoax,” and equated it with other views he’s sharply criticized, such as climate change.&lt;/p&gt; &lt;p&gt;“There is a SICK conspiracy ...&lt;/p&gt;</content>
-    <author>
-      <name>Laura Mandaro</name>
     </author>
   </entry>
 </feed>
