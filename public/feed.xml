@@ -1,11 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed?cb=1789527279963</id>
+  <id>tag:www.theinformation.com,2005:/feed?cb=1789529931641</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1789527279963"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1789529931641"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-16T02:53:45Z</updated>
+  <updated>2026-09-16T03:37:52Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18050</id>
+    <published>2026-09-16T03:26:36Z</published>
+    <updated>2026-09-16T03:26:36Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/two-google-deepmind-ai-researchers-resign-safety"/>
+    <title>Two Google DeepMind AI Researchers Resign Over Safety</title>
+    <content type="html">&lt;p&gt;Two researchers who worked on AI safety left their roles at Google DeepMind, stating that they departed over concerns that powerful systems could endanger humans.&lt;/p&gt; &lt;p&gt;The two, Bilal Chughtai and Josh Engels, both of whom are joining organizations dedicated to AI safety, add their voices to those of ...&lt;/p&gt;</content>
+    <author>
+      <name>Tiffany Li</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18049</id>
+    <published>2026-09-16T03:24:12Z</published>
+    <updated>2026-09-16T03:24:12Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/elon-musk-says-ai-companies-test-others-models-safety"/>
+    <title>Elon Musk Says AI Companies Should Test Each Other’s Models for Safety</title>
+    <content type="html">&lt;p&gt;SpaceX CEO Elon Musk proposed that competing AI companies, including his own SpaceXAI, should “peer-review” each other’s models prior to release, as industry leaders acknowledge rising worries around AI safety.&lt;/p&gt; &lt;p&gt;“Instead of grading your own homework, you would at least have competitors grading ...&lt;/p&gt;</content>
+    <author>
+      <name>Tiffany Li</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18048</id>
+    <published>2026-09-16T03:09:42Z</published>
+    <updated>2026-09-16T03:37:52Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/anthropic-open-singapore-office-hires-regional-head-openai"/>
+    <title>Anthropic to Open Singapore Office, Hires Regional Head from OpenAI</title>
+    <content type="html">&lt;p&gt;Anthropic is opening its fifth Asia-Pacific office in Singapore to drive enterprise adoption of Claude, the company said on Wednesday. Anthropic plans to work with startups, large enterprises and the public sector in Singapore, where Claude usage per capita is among the highest globally.&lt;/p&gt; &lt;p&gt;Dale ...&lt;/p&gt;</content>
+    <author>
+      <name>Claudia Chong</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17827</id>
     <published>2026-09-16T01:50:49Z</published>
@@ -208,44 +241,6 @@
     <content type="html">&lt;p&gt;President Trump on Monday shot down calls by AI leaders to slow down the pace of development. In a series of social media posts, Trump called claims about AI’s risk to humanity a “hoax,” and equated it with other views he’s sharply criticized, such as climate change.&lt;/p&gt; &lt;p&gt;“There is a SICK conspiracy ...&lt;/p&gt;</content>
     <author>
       <name>Laura Mandaro</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18038</id>
-    <published>2026-09-15T05:09:02Z</published>
-    <updated>2026-09-15T22:37:17Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/openai-said-buy-startup-glass-imaging-300-million"/>
-    <title>OpenAI Said to Buy Startup Glass Imaging for $300 Million</title>
-    <content type="html">&lt;p&gt;OpenAI has bought Glass Imaging, a startup developing higher quality cameras for smartphones, in a deal valued at $300 million, according to the Wall Street Journal.&lt;/p&gt; &lt;p&gt;The startup, founded by ex-Apple employees, was valued at $100 million in a funding round last year. The acquisition could help ...&lt;/p&gt;</content>
-    <author>
-      <name>Laura Mandaro</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Article/17818</id>
-    <published>2026-09-15T00:00:33Z</published>
-    <updated>2026-09-15T20:18:08Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/wall-street-delivers-verdict-ai-slowdowns-winners-losers"/>
-    <title>Wall Street Delivers Verdict on AI Slowdown’s Winners and Losers</title>
-    <content type="html">&lt;p&gt;Guess who likes the idea of an AI development slowdown? Software investors! Stocks of enterprise software firms, such as Salesforce, Shopify, ServiceNow and Figma, all gained ground on Monday—ServiceNow jumped 7%, for instance, while Salesforce rose nearly 5%. Software firms, of course, have been seen as threatened by AI. Meanwhile, stocks of neoclouds and chip firms fell by similar proportions—and, these companies might be seriously hurting if the pace of AI development really slows.&lt;/p&gt;&lt;p&gt;Wall Street’s reaction gives some sense of the winners and losers in a real AI downturn, for what it’s worth. But this is likely to be a one-day investor reaction. The chances of a coordinated AI development slowdown, of the kind advocated by Anthropic’s Dario Amodei and others &lt;a href="https://darioamodei.com/post/we-must-pace-the-frontier"&gt;on Saturday&lt;/a&gt;, seems to be zero. You’ve got both &lt;a href="https://truthsocial.com/@realDonaldTrump/117270591511950591"&gt;President Donald Trump &lt;/a&gt;and &lt;a href="https://www.theinformation.com/briefings/china-rebuffs-u-s-fearmongering-light-ai-pacing-calls?rc=9byxri"&gt;the Chinese government&lt;/a&gt; dismissing the worries about AI safety as a “hoax” or “fearmongering” (it’s nice they agree on something!). Meanwhile, one major AI firm, Meta Platforms, has stayed conspicuously quiet, aside from this &lt;a href="https://x.com/alexandr_wang/status/2099015997525291211?s=20"&gt;indecipherable X post &lt;/a&gt;from Meta's Alexandr Wang.&amp;nbsp;&lt;/p&gt;</content>
-    <author>
-      <name>Martin Peers</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Article/17817</id>
-    <published>2026-09-14T20:44:39Z</published>
-    <updated>2026-09-14T21:15:22Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/defense-startup-shield-ai-talks-valuation-least-20-billion"/>
-    <title>Defense Startup Shield AI in Talks for Valuation of at Least $20 Billion</title>
-    <content type="html">&lt;p&gt;Shield AI, a startup building drones and AI-powered software for the military, is in talks to raise new funds at a valuation of at least $20 billion, according to a person with knowledge of the fundraise. The funding round, if it closes, would represent a roughly 60% increase to Shield’s valuation from just five months ago.&lt;/p&gt;
-
-&lt;p&gt;The planned funding round follows the 11-year-old company’s success winning contracts for its AI software that coordinates drones and aircrafts, called Hivemind, and comes as investors continue to pour money into startups that are building AI-powered weapons and defense systems.&lt;/p&gt;</content>
-    <author>
-      <name>Jemima McEvoy</name>
-    </author>
-    <author>
-      <name>Julia Hornstein</name>
     </author>
   </entry>
 </feed>
