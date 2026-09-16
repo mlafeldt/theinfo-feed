@@ -5,18 +5,29 @@
   <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-16T21:05:00Z</updated>
+  <updated>2026-09-16T21:52:04Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17832</id>
+    <published>2026-09-16T21:51:37Z</published>
+    <updated>2026-09-16T21:52:04Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/apollo-backs-ai-startups-bid-bankroll-hardware-boom"/>
+    <title>Apollo Backs AI Startups in Bid to Bankroll Hardware Boom</title>
+    <content type="html">&lt;p&gt;Apollo Global Management, known for leveraged buyouts and hefty financing deals, has started investing in AI and related hardware startups with the ambition to lend money to them in the future.&lt;/p&gt;
+
+&lt;p&gt;In one previously unreported deal, Apollo has already invested in the low tens of millions of dollars in Mercor’s latest funding round, which is set to value the data-labeling startup at $20 billion, according to people familiar with the matter. It has also invested in chip startup SiFive and in Hadrian, which says it’s building AI-powered factories, in transactions the companies disclosed earlier this year. It expects to make more investments in these categories, the people said.&lt;/p&gt;</content>
+    <author>
+      <name>Valida Pau</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17831</id>
     <published>2026-09-16T20:53:37Z</published>
-    <updated>2026-09-16T21:01:02Z</updated>
+    <updated>2026-09-16T21:24:04Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/zipline-talks-raise-funds-20-billion-valuation"/>
     <title>Drone Delivery Startup Nears $20 Billion Valuation in New Funding Talks</title>
-    <content type="html">&lt;p&gt;Zipline, a startup making drones that can deliver small packages like meals and medical supplies, is in talks to raise new funds at a valuation of roughly $20 billion, according to two people with knowledge of the fundraise.&lt;/p&gt;
+    <content type="html">&lt;p&gt;Zipline, a startup making drones that can deliver small packages like meals and medical supplies, is in talks to raise $1 billion at a valuation of roughly $20 billion, according to three people with knowledge of the fundraise.&lt;/p&gt;
 
-&lt;p&gt;The funding round, if it closes, would more than double its valuation from its last funding round, which valued the company at $7.6 billion after the investment. It follows a partnership announced last month with Uber to expand delivery by drones across the U.S. and expectations by investors that the costs of drone delivery are falling, expanding what was once a niche market.&lt;/p&gt;
-
-&lt;p&gt;The funding indicates fresh excitement from venture capitalists in delivery startups, which have had mixed success over the last few years.&lt;/p&gt;</content>
+&lt;p&gt;The funding round, if it closes, would more than double its valuation from its last funding round, which valued the company at $7.6 billion after the investment. It follows a partnership announced last month with Uber to expand delivery by drones across the U.S. and expectations by investors that the costs of drone delivery are falling, expanding what was once a niche market.&lt;/p&gt;</content>
     <author>
       <name>Julia Hornstein</name>
     </author>
@@ -24,7 +35,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18055</id>
     <published>2026-09-16T19:47:41Z</published>
-    <updated>2026-09-16T20:00:25Z</updated>
+    <updated>2026-09-16T21:05:52Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/openai-tests-sponsored-agents-adds-ai-tools-chatgpt-advertisers"/>
     <title>OpenAI Tests Sponsored Agents, Adds AI Tools for ChatGPT Advertisers </title>
     <content type="html">&lt;p&gt;OpenAI said Wednesday it is testing allowing some U.S. advertisers to sponsor AI agents working in ChatGPT, a move that would bring ChatGPT ads closer to what Google and Meta Platforms already offer.&lt;/p&gt; &lt;p&gt;ChatGPT users who click an ad can now start a conversation with an AI agent to ask follow-up ...&lt;/p&gt;</content>
@@ -149,7 +160,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18051</id>
     <published>2026-09-16T04:12:10Z</published>
-    <updated>2026-09-16T17:43:00Z</updated>
+    <updated>2026-09-16T21:06:02Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/zuckerberg-says-ai-safety-becoming-competitive-necessity"/>
     <title>Zuckerberg Says AI Safety Is Becoming a Competitive Necessity</title>
     <content type="html">&lt;p&gt;Meta Platforms chief Mark Zuckerberg said ensuring the safety of AI is a commercial necessity for the companies that make models, and took an implicit swipe at calls for a collective slowdown in the technology’s development.&lt;/p&gt; &lt;p&gt;“Every lab has the responsibility and incentive to move at the pace ...&lt;/p&gt;</content>
@@ -160,7 +171,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18050</id>
     <published>2026-09-16T03:26:36Z</published>
-    <updated>2026-09-16T17:43:00Z</updated>
+    <updated>2026-09-16T21:06:01Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/two-google-deepmind-ai-researchers-resign-safety"/>
     <title>Two Google DeepMind AI Researchers Resign Over Safety</title>
     <content type="html">&lt;p&gt;Two researchers who worked on AI safety left their roles at Google DeepMind, stating that they departed over concerns that powerful systems could endanger humans.&lt;/p&gt; &lt;p&gt;The two, Bilal Chughtai and Josh Engels, both of whom are joining organizations dedicated to AI safety, add their voices to those of ...&lt;/p&gt;</content>
@@ -171,7 +182,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18049</id>
     <published>2026-09-16T03:24:12Z</published>
-    <updated>2026-09-16T17:43:00Z</updated>
+    <updated>2026-09-16T21:05:52Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/elon-musk-says-ai-companies-test-others-models-safety"/>
     <title>Elon Musk Says AI Companies Should Test Each Other’s Models for Safety</title>
     <content type="html">&lt;p&gt;SpaceX CEO Elon Musk proposed that competing AI companies, including his own SpaceXAI, should “peer-review” each other’s models prior to release, as industry leaders acknowledge rising worries around AI safety.&lt;/p&gt; &lt;p&gt;“Instead of grading your own homework, you would at least have competitors grading ...&lt;/p&gt;</content>
@@ -228,7 +239,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18047</id>
     <published>2026-09-15T22:36:33Z</published>
-    <updated>2026-09-16T17:43:00Z</updated>
+    <updated>2026-09-16T21:05:52Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/openai-early-talks-new-funding-round-1-2-trillion-valuation"/>
     <title>OpenAI in Early Talks for New Funding Round at $1.2 Trillion Valuation</title>
     <content type="html">&lt;p&gt;OpenAI has held early conversations with investors about a new funding round that could lift its valuation to $1.2 trillion or higher, according to people familiar with the conversations. The conversations come as OpenAI has pushed off a planned initial public offering to next year or later.&lt;/p&gt; &lt;p&gt;The ...&lt;/p&gt;</content>
@@ -242,7 +253,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18046</id>
     <published>2026-09-15T22:22:52Z</published>
-    <updated>2026-09-16T17:43:00Z</updated>
+    <updated>2026-09-16T21:05:52Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/microsoft-raises-dividend-8"/>
     <title>Microsoft Raises Dividend 8%</title>
     <content type="html">&lt;p&gt;Microsoft said Tuesday it will raise its quarterly dividend to 98 cents per share, up from 91 cents, beginning in December. The company previously raised its dividend by 10% a year ago. Microsoft’s stock was roughly flat in after hours trading.&lt;/p&gt; &lt;p&gt;The company’s move to return more cash to ...&lt;/p&gt;</content>
@@ -266,23 +277,12 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18045</id>
     <published>2026-09-15T21:59:03Z</published>
-    <updated>2026-09-16T17:43:00Z</updated>
+    <updated>2026-09-16T21:06:02Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/crypto-stocks-fall-clarity-bill-fails-advance"/>
     <title>Crypto Stocks Fall After Clarity Bill Fails to Advance</title>
     <content type="html">&lt;p&gt;A landmark crypto legislation, the Clarity Act, failed to advance in the Senate in a procedural vote Tuesday, sending prices of crypto shares down as the bill became unlikely to pass under the Trump administration.&lt;/p&gt; &lt;p&gt;The Clarity Act, a comprehensive crypto market structure bill, would set explicit ...&lt;/p&gt;</content>
     <author>
       <name>Yueqi Yang</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18044</id>
-    <published>2026-09-15T19:38:55Z</published>
-    <updated>2026-09-16T17:43:00Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/salesforce-unveils-new-ai-model-agent-security-tools-dreamforce"/>
-    <title>Salesforce Unveils New AI Model, Agent Security Tools at Dreamforce </title>
-    <content type="html">&lt;p&gt;At the opening of its annual Dreamforce customer conference, Salesforce signaled its involvement in two major trends in enterprise AI: Open-source AI models and software that helps corporate customers safely run AI agents on their data.&lt;/p&gt; &lt;p&gt;Salesforce &lt;a href="https://www.salesforce.com/news/press-releases/2026/09/15/koa-reasoning-model/"&gt;unveiled&lt;/a&gt; a new AI model, called Koa, which it ...&lt;/p&gt;</content>
-    <author>
-      <name>Kevin McLaughlin</name>
     </author>
   </entry>
 </feed>
