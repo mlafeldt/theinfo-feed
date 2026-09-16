@@ -5,7 +5,58 @@
   <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-16T14:57:29Z</updated>
+  <updated>2026-09-16T15:36:57Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17822</id>
+    <published>2026-09-16T15:36:57Z</published>
+    <updated>2026-09-16T15:36:57Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/stay-top-tech-trends-google-gemini"/>
+    <title>How to Stay on Top of Tech Trends with Google Gemini</title>
+    <content type="html">&lt;p&gt;Even for technology leaders, it can feel impossible to keep up with constant advances in the field.&lt;/p&gt;
+
+&lt;p&gt;This is especially true in the age of AI, with vendors racing to roll out model updates with new capabilities. Even if technology leaders had time to attend every conference and read every tech publication, it would be a full-time job to simply figure out which trends represent real transformation opportunities, and which are merely hype.&lt;/p&gt;
+
+&lt;p&gt;With Google Gemini, you can generate a tailored digest that summarizes the developments most likely to have an impact on your specific industry and organization. Armed with this up-to-the-minute information, you can keep your leadership and workforce apprised of market shifts and technology breakthroughs, protect your organization from expensive distractions, and make high-stakes procurement decisions with confidence.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 1: Generate Your Tech Forecast&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Open up a new chat, and prompt Google Gemini to provide you with a summary of current technology trends. For a more tailored summary, provide as much information as possible about your company and industry. You might, for example, tell Gemini that you’re the CTO at a mid-sized regional commercial and retail bank in the Pacific Northwest, with a mix of legacy on-premises and modernized cloud infrastructure.&lt;/p&gt;
+
+&lt;p&gt;Here’s a sample prompt:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;I am the CTO of [company] in [industry]. I want to understand emerging technology trends. Summarize the top five emerging technologies with the most significant potential impact on [industry]. For each technology, list its potential benefits and challenges, and suggest how it could impact [company] in the next two to three years.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Gemini will quickly generate a list of technologies, broken down by their potential benefits, challenges, and overall impact. For the regional bank, Gemini might suggest using agentic AI for continuous risk assessment, pointing out the opportunity to proactively surface lending opportunities and flag potential risks.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 2: Refine the Output&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Gemini’s summary will be based on the information you provided. To generate a more custom tech forecast, add more information about your existing environment and current challenges.&lt;/p&gt;
+
+&lt;p&gt;For example: Gemini might suggest deploying API-led middleware to bridge the gap between your legacy core and your modern cloud app; but maybe you already have middleware running, and the problem is that its fragility is leading to downtime. By adding that context, you can help Gemini focus its output on your specific needs.&lt;/p&gt;
+
+&lt;p&gt;Go back and forth with Gemini, providing additional context and feedback until the tech trends summary is exactly what you’re looking for.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 3: Automate Delivery&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;If you have to manually enter a new prompt every time you want an update on tech trends, you might not be as consistent as you’d like. Instead, prompt Gemini once to automatically provide you with an update each day, week, or month.&lt;/p&gt;
+
+&lt;p&gt;These sorts of prompts work best when they are completely self-contained, rather than the result of a long, messy chat history. So, ask Gemini to look back at your conversation and synthesize all of your real-world feedback into a single master prompt. Then, paste that master prompt into a new chat and explicitly tell Gemini your desired delivery schedule.&lt;/p&gt;
+
+&lt;p&gt;Gemini’s Scheduled Actions feature will take over, allowing you to manage or pause the recurring prompt in your account settings.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 4: Move from Knowledge to Action&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Staying on top of tech trends is only really useful insofar as it spurs action. As you peruse Gemini’s scheduled summaries, consider where digging deeper into specific topics may help you optimize your operations, mitigate emerging risks, or prepare your IT environment for the future. Try this prompt:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Recommend three areas where [my company] can take proactive steps to stay ahead of the curve on [specific areas].&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The CTO of the regional bank might, for example, ask Gemini for specific tips on network-based fraud intelligence. In this step, the role of Gemini is shifting slightly, from industry analyst to strategic sounding board. Because Gemini already has detailed information about your organization’s challenges, goals, and existing environment, its insights will be grounded in your specific reality.&lt;/p&gt;
+
+&lt;p&gt;By moving from high-level summaries to tactical next steps, you can use your understanding of tech trends to guide your organization’s IT investments in a marketplace that never stops moving.&lt;/p&gt;</content>
+    <author>
+      <name>The Information Partnerships</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17828</id>
     <published>2026-09-16T14:02:01Z</published>
@@ -27,10 +78,10 @@
 
 &lt;p&gt;Apple has been developing the server with plans to sell it to AI developers, other businesses and governments, the people said. The product under consideration would come in two versions&amp;mdash;a smaller one with two of Apple’s planned M8 Ultra chips clustered together and a bigger one with four M8 Ultra chips. The M-series Ultra chips are Apple’s highest-performance chips and power products including the Mac Studio.&lt;/p&gt;</content>
     <author>
-      <name>Aaron Tilley</name>
+      <name>Qianer Liu</name>
     </author>
     <author>
-      <name>Qianer Liu</name>
+      <name>Aaron Tilley</name>
     </author>
     <author>
       <name>Phoebe Liu</name>
@@ -228,22 +279,6 @@
     <content type="html">&lt;p&gt;Elon Musk once again teased the potential of a merger between Tesla and SpaceX on Monday, saying it was a “great question” why Tesla and SpaceX were separate companies.&lt;/p&gt; &lt;p&gt;“With all this collaboration, on so many levels, who can imagine what action one might take when there’s so much close ...&lt;/p&gt;</content>
     <author>
       <name>Grace Kay</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Article/17819</id>
-    <published>2026-09-15T14:30:54Z</published>
-    <updated>2026-09-16T14:57:29Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/erebor-banks-sweet-stablecoin-deal-backfired"/>
-    <title>How Erebor Bank’s Sweet Stablecoin Deal Backfired</title>
-    <content type="html">&lt;p&gt;When Palmer Luckey’s Erebor Bank launched earlier this year, it made an attractive pitch to lure new crypto customers: It would convert their stablecoins to cash for free.&lt;/p&gt;
-
-&lt;p&gt;But Erebor wound up pulling the offer after several months, after sophisticated crypto trading firms sniffed out a way to make an easy profit out of the offer&amp;mdash;at a cost to Erebor. The episode demonstrates that the young bank is still figuring out how to manage the risks of serving the cryptocurrency industry, a world of fast-moving financial flows, colorful characters and unusual business models.&lt;/p&gt;</content>
-    <author>
-      <name>Yueqi Yang</name>
-    </author>
-    <author>
-      <name>Michael Roddan</name>
     </author>
   </entry>
 </feed>
