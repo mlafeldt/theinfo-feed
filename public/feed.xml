@@ -1,15 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed</id>
+  <id>tag:www.theinformation.com,2005:/feed?cb=1789552838045</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1789552838045"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-16T04:12:10Z</updated>
+  <updated>2026-09-16T09:59:49Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18052</id>
+    <published>2026-09-16T09:49:00Z</published>
+    <updated>2026-09-16T09:59:49Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/sk-hynix-talks-intel-make-memory-chips-u-s"/>
+    <title>SK Hynix in Talks With Intel to Make Memory Chips in the U.S.</title>
+    <content type="html">&lt;p&gt;South Korean memory chipmaker SK Hynix is in talks with Intel about a deal to manufacture memory chips on U.S. soil for the first time, Reuters reported, citing three people familiar with the discussions.&lt;/p&gt; &lt;p&gt;SK Hynix would either lease part of Intel’s long-planned Ohio fab, or form a joint venture ...&lt;/p&gt;</content>
+    <author>
+      <name>Qianer Liu</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18051</id>
     <published>2026-09-16T04:12:10Z</published>
-    <updated>2026-09-16T04:12:10Z</updated>
+    <updated>2026-09-16T09:59:49Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/zuckerberg-says-ai-safety-becoming-competitive-necessity"/>
     <title>Zuckerberg Says AI Safety Is Becoming a Competitive Necessity</title>
     <content type="html">&lt;p&gt;Meta Platforms chief Mark Zuckerberg said ensuring the safety of AI is a commercial necessity for the companies that make models, and took an implicit swipe at calls for a collective slowdown in the technology’s development.&lt;/p&gt; &lt;p&gt;“Every lab has the responsibility and incentive to move at the pace ...&lt;/p&gt;</content>
@@ -20,7 +31,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18050</id>
     <published>2026-09-16T03:26:36Z</published>
-    <updated>2026-09-16T03:26:36Z</updated>
+    <updated>2026-09-16T09:59:49Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/two-google-deepmind-ai-researchers-resign-safety"/>
     <title>Two Google DeepMind AI Researchers Resign Over Safety</title>
     <content type="html">&lt;p&gt;Two researchers who worked on AI safety left their roles at Google DeepMind, stating that they departed over concerns that powerful systems could endanger humans.&lt;/p&gt; &lt;p&gt;The two, Bilal Chughtai and Josh Engels, both of whom are joining organizations dedicated to AI safety, add their voices to those of ...&lt;/p&gt;</content>
@@ -31,7 +42,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18049</id>
     <published>2026-09-16T03:24:12Z</published>
-    <updated>2026-09-16T03:24:12Z</updated>
+    <updated>2026-09-16T09:59:49Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/elon-musk-says-ai-companies-test-others-models-safety"/>
     <title>Elon Musk Says AI Companies Should Test Each Other’s Models for Safety</title>
     <content type="html">&lt;p&gt;SpaceX CEO Elon Musk proposed that competing AI companies, including his own SpaceXAI, should “peer-review” each other’s models prior to release, as industry leaders acknowledge rising worries around AI safety.&lt;/p&gt; &lt;p&gt;“Instead of grading your own homework, you would at least have competitors grading ...&lt;/p&gt;</content>
@@ -42,7 +53,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18048</id>
     <published>2026-09-16T03:09:42Z</published>
-    <updated>2026-09-16T03:37:52Z</updated>
+    <updated>2026-09-16T09:52:07Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/anthropic-open-singapore-office-hires-regional-head-openai"/>
     <title>Anthropic to Open Singapore Office, Hires Regional Head from OpenAI</title>
     <content type="html">&lt;p&gt;Anthropic is opening its fifth Asia-Pacific office in Singapore to drive enterprise adoption of Claude, the company said on Wednesday. Anthropic plans to work with startups, large enterprises and the public sector in Singapore, where Claude usage per capita is among the highest globally.&lt;/p&gt; &lt;p&gt;Dale ...&lt;/p&gt;</content>
@@ -102,7 +113,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18046</id>
     <published>2026-09-15T22:22:52Z</published>
-    <updated>2026-09-15T22:37:16Z</updated>
+    <updated>2026-09-16T09:59:49Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/microsoft-raises-dividend-8"/>
     <title>Microsoft Raises Dividend 8%</title>
     <content type="html">&lt;p&gt;Microsoft said Tuesday it will raise its quarterly dividend to 98 cents per share, up from 91 cents, beginning in December. The company previously raised its dividend by 10% a year ago. Microsoft’s stock was roughly flat in after hours trading.&lt;/p&gt; &lt;p&gt;The company’s move to return more cash to ...&lt;/p&gt;</content>
@@ -126,7 +137,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18045</id>
     <published>2026-09-15T21:59:03Z</published>
-    <updated>2026-09-15T22:37:16Z</updated>
+    <updated>2026-09-16T09:52:06Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/crypto-stocks-fall-clarity-bill-fails-advance"/>
     <title>Crypto Stocks Fall After Clarity Bill Fails to Advance</title>
     <content type="html">&lt;p&gt;A landmark crypto legislation, the Clarity Act, failed to advance in the Senate in a procedural vote Tuesday, sending prices of crypto shares down as the bill became unlikely to pass under the Trump administration.&lt;/p&gt; &lt;p&gt;The Clarity Act, a comprehensive crypto market structure bill, would set explicit ...&lt;/p&gt;</content>
@@ -137,7 +148,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18044</id>
     <published>2026-09-15T19:38:55Z</published>
-    <updated>2026-09-16T00:25:05Z</updated>
+    <updated>2026-09-16T09:59:49Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/salesforce-unveils-new-ai-model-agent-security-tools-dreamforce"/>
     <title>Salesforce Unveils New AI Model, Agent Security Tools at Dreamforce </title>
     <content type="html">&lt;p&gt;At the opening of its annual Dreamforce customer conference, Salesforce signaled its involvement in two major trends in enterprise AI: Open-source AI models and software that helps corporate customers safely run AI agents on their data.&lt;/p&gt; &lt;p&gt;Salesforce &lt;a href="https://www.salesforce.com/news/press-releases/2026/09/15/koa-reasoning-model/"&gt;unveiled&lt;/a&gt; a new AI model, called Koa, which it ...&lt;/p&gt;</content>
@@ -148,7 +159,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18043</id>
     <published>2026-09-15T19:11:45Z</published>
-    <updated>2026-09-15T22:37:16Z</updated>
+    <updated>2026-09-16T09:59:49Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/meta-rolls-new-meta-one-subscription-plans-higher-ai-usage-limits"/>
     <title>Meta Rolls Out New ‘Meta One’ Subscription Plans With Higher AI Usage Limits</title>
     <content type="html">&lt;p&gt;Meta Platforms is expanding its paid subscription offerings for its AI tools across Instagram, WhatsApp and Facebook as it looks to diversify revenue beyond digital advertising.&lt;/p&gt; &lt;p&gt;The company announced Tuesday in a blog post that it is introducing new tiers of its Meta One subscription plans, ...&lt;/p&gt;</content>
@@ -170,7 +181,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18042</id>
     <published>2026-09-15T18:18:36Z</published>
-    <updated>2026-09-15T22:37:16Z</updated>
+    <updated>2026-09-16T09:59:49Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/elon-musk-hints-possible-tesla-spacex-merger"/>
     <title>Elon Musk hints at possible Tesla-SpaceX merger</title>
     <content type="html">&lt;p&gt;Elon Musk once again teased the potential of a merger between Tesla and SpaceX on Monday, saying it was a “great question” why Tesla and SpaceX were separate companies.&lt;/p&gt; &lt;p&gt;“With all this collaboration, on so many levels, who can imagine what action one might take when there’s so much close ...&lt;/p&gt;</content>
@@ -208,7 +219,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18041</id>
     <published>2026-09-15T13:23:53Z</published>
-    <updated>2026-09-15T22:37:16Z</updated>
+    <updated>2026-09-16T09:59:49Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/doordash-invests-marc-lores-wonder"/>
     <title>DoorDash Invests in Marc Lore’s Wonder</title>
     <content type="html">&lt;p&gt;DoorDash is teaming up with Marc Lore’s restaurant meal business Wonder, putting $125 million into the company and&amp;nbsp;buying a campus dining business from Wonder for $300 million, the two companies said.&lt;/p&gt; &lt;p&gt;Wonder offers its own lineup of meals, made in its own kitchens, for delivery, which makes ...&lt;/p&gt;</content>
@@ -230,17 +241,6 @@
     </author>
     <author>
       <name>Jing Yang</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18040</id>
-    <published>2026-09-15T08:48:11Z</published>
-    <updated>2026-09-15T22:37:16Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/chinese-ai-chip-firm-biren-plans-1-billion-fundraising"/>
-    <title>Chinese AI Chip Firm Biren Plans $1 Billion Fundraising</title>
-    <content type="html">&lt;p&gt;Chinese AI chip designer Shanghai Biren Technology is considering raising around $1 billion through a stock offering, Bloomberg reported on Tuesday, citing people familiar with the situation.&lt;/p&gt; &lt;p&gt;Biren, which develops graphics processing units used to train and run AI models, debuted on the Hong ...&lt;/p&gt;</content>
-    <author>
-      <name>Claudia Chong</name>
     </author>
   </entry>
 </feed>
