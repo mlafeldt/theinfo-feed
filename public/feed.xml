@@ -1,11 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed?cb=1789518353289</id>
+  <id>tag:www.theinformation.com,2005:/feed</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1789518353289"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-16T00:25:05Z</updated>
+  <updated>2026-09-16T01:52:48Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17827</id>
+    <published>2026-09-16T01:50:49Z</published>
+    <updated>2026-09-16T01:52:48Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/ai-agent-startup-instinct-talks-10-billion-valuation"/>
+    <title>AI Agent Startup Instinct in Talks for $10 Billion Valuation</title>
+    <content type="html">&lt;p&gt;The startup behind personal AI assistant Instinct is in talks to raise $1 billion at a valuation of about $10 billion, a person with knowledge of the deal said.&lt;/p&gt;
+
+&lt;p&gt;The Information &lt;a href="https://www.theinformation.com/articles/personal-ai-app-instinct-faces-compute-crunch-lead-new-funding"&gt;reported earlier this month&lt;/a&gt; that the startup is looking to raise new funding as the invitation-only agent faces capacity constraints. As its service became more available, the number of users has grown to more than 100,000, according to the person. Sequoia Capital and Benchmark have been in talks to lead the financing, the person added.&lt;/p&gt;</content>
+    <author>
+      <name>Valida Pau</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17826</id>
     <published>2026-09-16T00:00:41Z</published>
@@ -169,10 +182,10 @@
 
 &lt;p&gt;The company’s revenue for the period rose around 30% year on year to $120 billion, driven partly by robust growth of its international advertising and e-commerce revenue from TikTok, the people said. That suggests &lt;a href="https://www.theinformation.com/org-charts/bytedance"&gt;ByteDance’&lt;/a&gt;s growth rate is accelerating marginally from its rate of expansion in the past two years. ByteDance’s revenue grew 29% last year to about $200 billion, the people said, following a similar rate of growth in 2024.&amp;nbsp;The company’s net profit grew 27% to $42 billion last year.&lt;/p&gt;</content>
     <author>
-      <name>Jing Yang</name>
+      <name>Juro Osawa</name>
     </author>
     <author>
-      <name>Juro Osawa</name>
+      <name>Jing Yang</name>
     </author>
   </entry>
   <entry>
@@ -233,19 +246,6 @@
     </author>
     <author>
       <name>Julia Hornstein</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Article/17805</id>
-    <published>2026-09-14T20:08:50Z</published>
-    <updated>2026-09-14T21:16:02Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/openais-top-priority-ai-agents-automating-ai-research-says-noam-brown"/>
-    <title>OpenAI’s ‘Top Priority’ for AI Agents is Automating AI Research, Says Noam Brown</title>
-    <content type="html">&lt;p&gt;&lt;a href="https://www.theinformation.com/org-charts/openai"&gt;OpenAI&lt;/a&gt;’s latest AI model, GPT-6 Astra, notched improvements at a variety of professional tasks, from designing video games to transcribing sheet music. But OpenAI’s main goal when training new AI models is making them better at AI research and development, OpenAI research scientist Noam Brown told me. “The number one priority is recursive self-improvement, and by a pretty wide margin,” he said.&lt;/p&gt;
-
-&lt;p&gt;I sat down with Brown for a conversation for the &lt;a href="https://www.youtube.com/live/fqcy0xQATq0?si=POsdalvPKIGxxZE0"&gt;first episode of AI Deep Dive&lt;/a&gt;, The Information’s new show exploring the hard problems on tech’s frontier. We discussed the future of AI agents, which can work autonomously to carry out digital tasks. Brown has spent the last three years at OpenAI, where he has pushed advancements in enabling AI models to reason through problems and act as agents.&lt;/p&gt;</content>
-    <author>
-      <name>Rocket Drew</name>
     </author>
   </entry>
 </feed>
