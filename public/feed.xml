@@ -1,11 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed?cb=1789512787527</id>
+  <id>tag:www.theinformation.com,2005:/feed</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1789512787527"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-15T22:53:04Z</updated>
+  <updated>2026-09-16T00:07:31Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17826</id>
+    <published>2026-09-16T00:00:41Z</published>
+    <updated>2026-09-16T00:07:31Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/meta-joins-techs-ai-fueled-subscription-rush"/>
+    <title>Meta Joins Tech’s AI-Fueled Subscription Rush</title>
+    <content type="html">&lt;p&gt;When it comes to product names, companies tend to move in packs. In video streaming, almost every company included a plus sign in the name brands of their services (Disney+, Paramount+, Apple TV+—you get the picture). In tech, we’ve got &lt;a href="https://www.apple.com/apple-one/"&gt;Apple One&lt;/a&gt;, &lt;a href="https://one.google.com/intl/en_us/about/"&gt;Google One&lt;/a&gt; and &lt;a href="https://about.fb.com/news/2026/09/introducing-meta-one-subscription-service-more-features-ai/"&gt;now Meta One&lt;/a&gt; (we used to have &lt;a href="https://www.aboutamazon.com/news/innovation-at-amazon/introducing-amazon-one-a-new-innovation-to-make-everyday-activities-effortless"&gt;Amazon One&lt;/a&gt;, but that &lt;a href="https://www.geekwire.com/2026/amazon-is-ending-its-palm-id-system-for-retail-amazon-one-as-it-closes-physical-stores/"&gt;has been dropped&lt;/a&gt;). Does no one have any imagination?&amp;nbsp;&lt;/p&gt;&lt;p&gt;Aside from Amazon One, which was a palm-reader system for retail stores, all the other Ones are subscription services for various add-on offerings from the tech firms. Some of these have been around for years—Google One and Apple One have long offered extra amounts of digital storage, along with other perks—but AI is making subscriptions a far more important business model than it has ever been for tech. Google has added extra use of its AI service to its Google One offering. Meta One—unveiled on Tuesday—also offers extra AI usage, as well as some additional tools for using Meta’s social media apps.&amp;nbsp;&lt;/p&gt;</content>
+    <author>
+      <name>Martin Peers</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17729</id>
+    <published>2026-09-15T23:25:42Z</published>
+    <updated>2026-09-15T23:27:00Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/anthropic-openai-pacing-spooks-startup-customers"/>
+    <title>Anthropic, OpenAI ‘Pacing’ Spooks Some Startup Customers</title>
+    <content type="html">&lt;p&gt;It’s not clear what impact the pledges by Anthropic and OpenAI to slow the pace of AI development will have on their upcoming public offerings. But the comments &lt;i&gt;are&lt;/i&gt; having real effects already: more people outside Silicon Valley and Washington are now alert to potential risks from AI in a way they weren’t even very recently. That’s not great news for startups trying to convince consumers and businesses that the tech is worth it, some investors told me.&lt;/p&gt;&lt;p&gt;One venture capitalist, for example, told me about a startup that has recently found customers to be more wary of buying its AI app for small- and medium-sized businesses in the light of news stories about potentially catastrophic AI.&lt;/p&gt;</content>
+    <author>
+      <name>Julia Hornstein</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18047</id>
     <published>2026-09-15T22:36:33Z</published>
@@ -34,7 +56,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17824</id>
     <published>2026-09-15T22:22:39Z</published>
-    <updated>2026-09-15T22:53:04Z</updated>
+    <updated>2026-09-15T23:55:35Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/meta-launch-camera-free-smart-glasses-amid-mounting-privacy-concerns"/>
     <title>Meta to Launch Camera-Free Smart Glasses Amid Mounting Privacy Concerns</title>
     <content type="html">&lt;p&gt;&lt;a href="https://www.theinformation.com/org-charts/meta"&gt;Meta Platforms&lt;/a&gt; plans to release a camera-free pair of smart glasses this fall, according to people familiar with the matter, as it looks to expand its hardware lineup amid privacy concerns about cameras on its existing offerings.&lt;/p&gt;
@@ -224,32 +246,6 @@
 &lt;p&gt;I sat down with Brown for a conversation for the &lt;a href="https://www.youtube.com/live/fqcy0xQATq0?si=POsdalvPKIGxxZE0"&gt;first episode of AI Deep Dive&lt;/a&gt;, The Information’s new show exploring the hard problems on tech’s frontier. We discussed the future of AI agents, which can work autonomously to carry out digital tasks. Brown has spent the last three years at OpenAI, where he has pushed advancements in enabling AI models to reason through problems and act as agents.&lt;/p&gt;</content>
     <author>
       <name>Rocket Drew</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Article/17815</id>
-    <published>2026-09-14T16:01:07Z</published>
-    <updated>2026-09-15T16:31:39Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/refounding-america-tax-code-needs-change-age-ai"/>
-    <title>Refounding America: The Tax Code Needs to Change in the Age of AI</title>
-    <content type="html">&lt;p&gt;&lt;em&gt;Vinod Khosla is founder of Khosla Ventures and has spent the last 40 years in the business of innovation. He was the co-founder of Sun Microsystems. Khosla Ventures is an investor in OpenAI.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Major technological revolutions should force a renegotiation of society’s basic economic contract. AI will significantly diminish the requirement for labor at any given level of gross domestic product, and if we aren’t honest about that, we’ll stumble into a chaotic and suboptimal transition rather than engineer the optimal one. It’s not surprising that AI is scary to most people surveyed.&lt;/p&gt;
-
-&lt;p&gt;We need to create a strong social safety net, strong core government services and a focus on preserving the human element in the emerging world if American citizens are to accept AI. But we must protect people and transitions, not necessarily existing jobs. Human value need not depend on outperforming machines at intelligence. Meanwhile, we must maintain a strong safety and security posture while holding on to a lead against our AI nation-state adversaries.&lt;/p&gt;</content>
-    <author>
-      <name>Vinod Khosla</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Article/17816</id>
-    <published>2026-09-14T14:16:11Z</published>
-    <updated>2026-09-14T14:16:54Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/chinas-answer-surge-ai-got-1-billion-valuation-just-30-million-orders"/>
-    <title>Why China’s Answer to Surge AI Got a $1 Billion Valuation On Just $30 Million in Orders</title>
-    <content type="html">&lt;p&gt;Unless you’ve been under a rock over the weekend, you’d know that the debate about AI safety took a big leap forward, as &lt;b&gt;Anthropic&lt;/b&gt; CEO &lt;b&gt;Dario Amodei&lt;/b&gt; on Saturday &lt;a href="https://www.theinformation.com/briefings/amodei-calls-ai-companies-coordinate-safety"&gt;called for leading AI companies&lt;/a&gt; to slow the development of advanced AI, drawing supportive responses from &lt;b&gt;OpenAI&lt;/b&gt; CEO &lt;b&gt;Sam Altman&lt;/b&gt;, &lt;b&gt;Google&lt;/b&gt; &lt;b&gt;DeepMind&lt;/b&gt; chair &lt;b&gt;Demis Hassabis&lt;/b&gt; and &lt;b&gt;SpaceX&lt;/b&gt; CEO &lt;b&gt;Elon Musk&lt;/b&gt;.&amp;nbsp;&lt;/p&gt;&lt;p&gt;On Monday, &lt;b&gt;Microsoft&lt;/b&gt;&lt;a href="https://www.theinformation.com/briefings/microsoft-joins-calls-ai-pacing-pledges-build-kill-switches-ai-products?rc=9byxri"&gt; joined in&lt;/a&gt;, while &lt;a href="https://www.theinformation.com/briefings/china-rebuffs-u-s-fearmongering-light-ai-pacing-calls?rc=9byxri"&gt;Chinese authorities &lt;/a&gt;appeared skeptical. This is likely to dominate discussion in the AI sector and on Wall Street in the coming days. Stay tuned…&lt;/p&gt;&lt;p&gt;&lt;i&gt;Onto today’s news…&lt;/i&gt;&lt;/p&gt;&lt;p&gt;When representatives of Silicon Valley venture capital firm &lt;b&gt;Dimension Capital&lt;/b&gt; visited China on a research trip recently, one trend that grabbed their attention was the rise of local AI data and model evaluation startups akin to &lt;b&gt;Surge&lt;/b&gt;, &lt;b&gt;Mercor&lt;/b&gt; and &lt;b&gt;Scale&lt;/b&gt; in the U.S.&amp;nbsp;&lt;/p&gt;&lt;p&gt;The Chinese startups represent a new phase in the country’s AI advancement. Access to high-end data is increasingly critical for developers of cutting-edge models capable of handling complex tasks that require expert-level knowledge. The startups’ sophisticated benchmarks also help evaluate and refine these models’ capabilities for real-world tasks in different fields.&lt;/p&gt;</content>
-    <author>
-      <name>Juro Osawa</name>
     </author>
   </entry>
 </feed>
