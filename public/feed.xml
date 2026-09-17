@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed?cb=1789635952033</id>
+  <id>tag:www.theinformation.com,2005:/feed</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1789635952033"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-17T09:05:30Z</updated>
+  <updated>2026-09-17T09:32:35Z</updated>
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18058</id>
     <published>2026-09-17T09:05:30Z</published>
-    <updated>2026-09-17T09:05:30Z</updated>
+    <updated>2026-09-17T09:32:34Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/huawei-speeds-ai-chip-launch-challenge-nvidia"/>
     <title>Huawei Speeds Up AI Chip Launch to Challenge Nvidia</title>
     <content type="html">&lt;p&gt;Huawei Technologies plans to launch its new AI chip in the first quarter of 2027, nine months earlier than planned, as it steps up its efforts to challenge Nvidia.&lt;/p&gt; &lt;p&gt;Tao Wang, Huawei’s deputy chairman and rotating chairman, said at the Huawei Connect conference in Shanghai on Thursday that the new ...&lt;/p&gt;</content>
@@ -31,7 +31,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18057</id>
     <published>2026-09-16T23:52:39Z</published>
-    <updated>2026-09-16T23:52:39Z</updated>
+    <updated>2026-09-17T09:32:35Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/openai-discloses-safety-incidents-adopts-new-reporting-framework"/>
     <title>OpenAI Discloses More Safety Incidents and Adopts New Reporting Framework</title>
     <content type="html">&lt;p&gt;OpenAI released &lt;a href="https://openai.com/index/model-misalignment-reporting-framework/"&gt;a new framework&lt;/a&gt; on Wednesday for how it aims to report unsafe or concerning behavior in its models, and disclosed &lt;a href="https://alignment.openai.com/misalignment-reports/"&gt;six incidents of such behavior&lt;/a&gt; it had observed in the past six months.&lt;/p&gt; &lt;p&gt;The framework comes after &lt;a href="https://www.theinformation.com/articles/anthropic-researchers-terminator-style-warning-caught-fire"&gt;multiple employee warnings&lt;/a&gt; and &lt;a href="https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident"&gt;hacking incidents&lt;/a&gt; increased public ...&lt;/p&gt;</content>
@@ -42,7 +42,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18056</id>
     <published>2026-09-16T23:45:59Z</published>
-    <updated>2026-09-16T23:46:00Z</updated>
+    <updated>2026-09-17T09:32:35Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/google-must-make-tech-compatible-rivals-judge-rules"/>
     <title>Google Must Make Tech More Compatible With Rivals, Judge Rules</title>
     <content type="html">&lt;p&gt;Google must improve the ability of its advertising technology to integrate with the products of competitors, according to the decision of a federal judge made public Wednesday. The opinion follows a ruling last year that Google operated an illegal monopoly in parts of the market for advertising ...&lt;/p&gt;</content>
@@ -90,7 +90,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18055</id>
     <published>2026-09-16T19:47:41Z</published>
-    <updated>2026-09-16T23:45:46Z</updated>
+    <updated>2026-09-17T09:32:34Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/openai-tests-sponsored-agents-adds-ai-tools-chatgpt-advertisers"/>
     <title>OpenAI Tests Sponsored Agents, Adds AI Tools for ChatGPT Advertisers </title>
     <content type="html">&lt;p&gt;OpenAI said Wednesday it is testing allowing some U.S. advertisers to sponsor AI agents working in ChatGPT, a move that would bring ChatGPT ads closer to what Google and Meta Platforms already offer.&lt;/p&gt; &lt;p&gt;ChatGPT users who click an ad can now start a conversation with an AI agent to ask follow-up ...&lt;/p&gt;</content>
@@ -101,7 +101,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18054</id>
     <published>2026-09-16T16:40:12Z</published>
-    <updated>2026-09-16T17:43:00Z</updated>
+    <updated>2026-09-17T09:32:35Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/circle-launches-new-blockchain-stablecoins-assets"/>
     <title>Circle Launches New Blockchain for Stablecoins, Other Assets</title>
     <content type="html">&lt;p&gt;Stablecoin issuer Circle officially launched Arc blockchain, which will support the trading of stablecoins, tokenized equities, and other assets.&lt;/p&gt; &lt;p&gt;The blockchain will also support perpetuals, lending protocols, and social trading apps, Jeremy Allaire, CEO of Circle, said in a press briefing. ...&lt;/p&gt;</content>
@@ -204,7 +204,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18052</id>
     <published>2026-09-16T09:49:00Z</published>
-    <updated>2026-09-16T23:45:46Z</updated>
+    <updated>2026-09-17T09:32:35Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/sk-hynix-talks-intel-make-memory-chips-u-s"/>
     <title>SK Hynix in Talks With Intel to Make Memory Chips in the U.S.</title>
     <content type="html">&lt;p&gt;South Korean memory chipmaker SK Hynix is in talks with Intel about a deal to manufacture memory chips on U.S. soil for the first time, &lt;a href="https://www.reuters.com/world/asia-pacific/sk-hynix-talks-with-intel-about-deal-make-memory-chips-us-first-time-sources-say-2026-09-16/"&gt;Reuters reported&lt;/a&gt;, citing three people familiar with the discussions.&lt;/p&gt; &lt;p&gt;SK Hynix would either lease part of Intel’s long-planned Ohio fab, or form a joint venture ...&lt;/p&gt;</content>
@@ -237,7 +237,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18049</id>
     <published>2026-09-16T03:24:12Z</published>
-    <updated>2026-09-16T23:45:47Z</updated>
+    <updated>2026-09-17T09:32:35Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/elon-musk-says-ai-companies-test-others-models-safety"/>
     <title>Elon Musk Says AI Companies Should Test Each Other’s Models for Safety</title>
     <content type="html">&lt;p&gt;SpaceX CEO Elon Musk proposed that competing AI companies, including his own SpaceXAI, should “peer-review” each other’s models prior to release, as industry leaders acknowledge rising worries around AI safety.&lt;/p&gt; &lt;p&gt;“Instead of grading your own homework, you would at least have competitors grading ...&lt;/p&gt;</content>
