@@ -1,15 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed?cb=1789674321032</id>
+  <id>tag:www.theinformation.com,2005:/feed</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1789674321032"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-17T19:44:39Z</updated>
+  <updated>2026-09-17T20:53:32Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18063</id>
+    <published>2026-09-17T20:40:31Z</published>
+    <updated>2026-09-17T20:53:32Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/openai-hires-global-sales-chief-spacex-two-senior-snowflake-salespeople"/>
+    <title>Exclusive: OpenAI Hires Global Sales Chief From SpaceX and Two Senior Snowflake Salespeople </title>
+    <content type="html">&lt;p&gt;OpenAI has hired Brian McCarthy from SpaceX’s Cursor unit as its new global sales chief, reporting to recently hired Chief Revenue Officer Dali Rajic, the AI firm said Thursday.&lt;/p&gt; &lt;p&gt;In addition, two veteran sales executives from Snowflake, including a senior vice president who helped negotiate the ...&lt;/p&gt;</content>
+    <author>
+      <name>Kevin McLaughlin</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18062</id>
+    <published>2026-09-17T20:31:22Z</published>
+    <updated>2026-09-17T20:40:06Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/bridgewaters-jensen-says-hedge-fund-small-position-ai-build-trade"/>
+    <title>Bridgewater’s Jensen Says Hedge Fund Has “Very Small Position” in the AI Build Out Trade</title>
+    <content type="html">&lt;p&gt;Greg Jensen, the managing chief investment officer of Bridgewater Associates, one of the world’s largest hedge funds, said demand growth for AI infrastructure is largely priced into markets. As a result, Bridgewater has begun looking for investment opportunities elsewhere.&lt;/p&gt; &lt;p&gt;“We thought this was ...&lt;/p&gt;</content>
+    <author>
+      <name>Dakin Campbell</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18061</id>
+    <published>2026-09-17T20:13:59Z</published>
+    <updated>2026-09-17T20:40:06Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/sec-allow-tokenized-stocks-u-s"/>
+    <title>SEC to Allow Tokenized Stocks in U.S. </title>
+    <content type="html">&lt;p&gt;The U.S. Securities and Exchange Commission on Thursday &lt;a href="https://www.sec.gov/newsroom/press-releases/2026-90-sec-issues-innovation-exemption-facilitate-trading-tokenized-nms-stock-request-comment"&gt;issued&lt;/a&gt; a temporary order allowing certain types of tokenized stocks—crypto tokens that represent equities—to trade in the U.S., a crypto-friendly move that has &lt;a href="https://www.theinformation.com/articles/sec-moving-allow-stocks-trade-like-cryptocurrencies"&gt;drawn&lt;/a&gt; pushback from some traditional financial firms. Shares of tokenization ...&lt;/p&gt;</content>
+    <author>
+      <name>Yueqi Yang</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18060</id>
     <published>2026-09-17T19:22:56Z</published>
-    <updated>2026-09-17T19:44:39Z</updated>
+    <updated>2026-09-17T20:40:06Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/microsoft-execs-voiced-concern-openais-data-use-new-york-times-claims"/>
     <title>Microsoft Execs Voiced Concern About OpenAI’s Data Use, New York Times Claims</title>
     <content type="html">&lt;p&gt;Microsoft executives expressed concerns in recent years that OpenAI’s use of paywalled articles from the New York Times and other publishers to train its models could pose legal issues, and OpenAI executives discussed how doing so could threaten those publishers’ businesses—but OpenAI proceeded ...&lt;/p&gt;</content>
@@ -47,7 +80,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18059</id>
     <published>2026-09-17T15:26:51Z</published>
-    <updated>2026-09-17T19:22:21Z</updated>
+    <updated>2026-09-17T20:40:06Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/coreweave-unveils-new-atm-program-seeks-3-billion-convertible-bond-sale"/>
     <title> CoreWeave Unveils New ATM Program, Seeks $3 Billion in Convertible Bond Sale</title>
     <content type="html">&lt;p&gt;CoreWeave said on Thursday that it could sell up to 35 million shares, worth roughly $3 billion based on the prior day’s closing price, through a new at-the-market offering program. At the same time, the company announced plans to raise $3 billion in a convertible note issue, with an option for ...&lt;/p&gt;</content>
@@ -85,7 +118,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18058</id>
     <published>2026-09-17T09:05:30Z</published>
-    <updated>2026-09-17T19:38:11Z</updated>
+    <updated>2026-09-17T20:40:07Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/huawei-speeds-ai-chip-launch-challenge-nvidia"/>
     <title>Huawei Speeds Up AI Chip Launch to Challenge Nvidia</title>
     <content type="html">&lt;p&gt;Huawei Technologies plans to launch its new AI chip in the first quarter of 2027, nine months earlier than planned, as it steps up its efforts to challenge Nvidia.&lt;/p&gt; &lt;p&gt;Tao Wang, Huawei’s deputy chairman and rotating chairman, said at the Huawei Connect conference in Shanghai on Thursday that the new ...&lt;/p&gt;</content>
@@ -107,7 +140,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18057</id>
     <published>2026-09-16T23:52:39Z</published>
-    <updated>2026-09-17T19:22:22Z</updated>
+    <updated>2026-09-17T20:40:07Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/openai-discloses-safety-incidents-adopts-new-reporting-framework"/>
     <title>OpenAI Discloses More Safety Incidents and Adopts New Reporting Framework</title>
     <content type="html">&lt;p&gt;OpenAI released &lt;a href="https://openai.com/index/model-misalignment-reporting-framework/"&gt;a new framework&lt;/a&gt; on Wednesday for how it aims to report unsafe or concerning behavior in its models, and disclosed &lt;a href="https://alignment.openai.com/misalignment-reports/"&gt;six incidents of such behavior&lt;/a&gt; it had observed in the past six months.&lt;/p&gt; &lt;p&gt;The framework comes after &lt;a href="https://www.theinformation.com/articles/anthropic-researchers-terminator-style-warning-caught-fire"&gt;multiple employee warnings&lt;/a&gt; and &lt;a href="https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident"&gt;hacking incidents&lt;/a&gt; increased public ...&lt;/p&gt;</content>
@@ -118,7 +151,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18056</id>
     <published>2026-09-16T23:45:59Z</published>
-    <updated>2026-09-17T19:22:22Z</updated>
+    <updated>2026-09-17T20:40:07Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/google-must-make-tech-compatible-rivals-judge-rules"/>
     <title>Google Must Make Tech More Compatible With Rivals, Judge Rules</title>
     <content type="html">&lt;p&gt;Google must improve the ability of its advertising technology to integrate with the products of competitors, according to the decision of a federal judge made public Wednesday. The opinion follows a ruling last year that Google operated an illegal monopoly in parts of the market for advertising ...&lt;/p&gt;</content>
@@ -166,7 +199,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18055</id>
     <published>2026-09-16T19:47:41Z</published>
-    <updated>2026-09-17T19:22:21Z</updated>
+    <updated>2026-09-17T20:40:07Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/openai-tests-sponsored-agents-adds-ai-tools-chatgpt-advertisers"/>
     <title>OpenAI Tests Sponsored Agents, Adds AI Tools for ChatGPT Advertisers </title>
     <content type="html">&lt;p&gt;OpenAI said Wednesday it is testing allowing some U.S. advertisers to sponsor AI agents working in ChatGPT, a move that would bring ChatGPT ads closer to what Google and Meta Platforms already offer.&lt;/p&gt; &lt;p&gt;ChatGPT users who click an ad can now start a conversation with an AI agent to ask follow-up ...&lt;/p&gt;</content>
@@ -177,7 +210,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18054</id>
     <published>2026-09-16T16:40:12Z</published>
-    <updated>2026-09-17T19:22:22Z</updated>
+    <updated>2026-09-17T20:40:07Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/circle-launches-new-blockchain-stablecoins-assets"/>
     <title>Circle Launches New Blockchain for Stablecoins, Other Assets</title>
     <content type="html">&lt;p&gt;Stablecoin issuer Circle officially launched Arc blockchain, which will support the trading of stablecoins, tokenized equities, and other assets.&lt;/p&gt; &lt;p&gt;The blockchain will also support perpetuals, lending protocols, and social trading apps, Jeremy Allaire, CEO of Circle, said in a press briefing. ...&lt;/p&gt;</content>
@@ -245,47 +278,6 @@
     <content type="html">&lt;p&gt;&lt;b&gt;Anthropic’s&lt;/b&gt; call to slow down AI development to keep humans safe has dominated the news cycle and drew similar calls from the leaders of &lt;b&gt;OpenAI&lt;/b&gt;, &lt;b&gt;Microsoft&lt;/b&gt; and others (and &lt;a href="https://www.theinformation.com/briefings/zuckerberg-says-ai-safety-becoming-competitive-necessity?rc=geicgp"&gt;subtle disagreement&lt;/a&gt; from &lt;b&gt;Mark Zuckerberg&lt;/b&gt;).&amp;nbsp;&lt;/p&gt;&lt;p&gt;But &lt;b&gt;Mustafa Suleyman&lt;/b&gt;, who runs Microsoft’s AI model development, has a warning about Anthropic itself.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Suleyman, who co-founded &lt;b&gt;DeepMind&lt;/b&gt; (now part of &lt;b&gt;Google&lt;/b&gt;), says Anthropic’s approach of treating its &lt;b&gt;Claude&lt;/b&gt; models as if they were sentient, similar to humans, could produce a dangerous outcome. He called out Anthropic’s &lt;a href="https://www.anthropic.com/constitution"&gt;Claude Constitution&lt;/a&gt;, a document that treats the model as an intelligent entity and offers guidelines for how it should handle ethical dilemmas. Suleyman said that by incorporating the document into its training, Anthropic could make Claude harder to control.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Suleyman’s concerns emerged when Anthropic updated the constitution at the start of this year to leave room for the possibility that Claude has some sort of “consciousness” or “moral status,” a change from the original document.&lt;/p&gt;</content>
     <author>
       <name>Aaron Holmes</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Article/17825</id>
-    <published>2026-09-16T13:00:37Z</published>
-    <updated>2026-09-16T14:18:23Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/apple-considers-return-server-market-talked-nvidia-use-network-tech"/>
-    <title>Apple Considers Return to Server Market, Has Talked With Nvidia to Use Network Tech</title>
-    <content type="html">&lt;p&gt;&lt;a href="https://www.theinformation.com/org-charts/apple"&gt;Apple&lt;/a&gt; has been working on plans for an enterprise server using its own chips that could incorporate networking equipment from &lt;a href="https://www.theinformation.com/org-charts/nvidia"&gt;Nvidia&lt;/a&gt;, people familiar with the project said, as the Mac maker looks to capitalize on surging interest in its computers for AI.&lt;/p&gt;
-
-&lt;p&gt;Apple has been developing the server with plans to sell it to AI developers, other businesses and governments, the people said. The product under consideration would come in two versions&amp;mdash;a smaller one with two of Apple’s planned M8 Ultra chips clustered together and a bigger one with four M8 Ultra chips. The M-series Ultra chips are Apple’s highest-performance chips and power products including the Mac Studio.&lt;/p&gt;</content>
-    <author>
-      <name>Aaron Tilley</name>
-    </author>
-    <author>
-      <name>Phoebe Liu</name>
-    </author>
-    <author>
-      <name>Qianer Liu</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18053</id>
-    <published>2026-09-16T12:36:11Z</published>
-    <updated>2026-09-17T19:38:11Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/nvidia-ceo-attend-trumps-state-dinner-xi"/>
-    <title>Nvidia CEO to Attend Trump’s State Dinner for Xi</title>
-    <content type="html">&lt;p&gt;Nvidia CEO Jensen Huang plans to attend President Donald Trump’s state dinner for Chinese leader Xi Jinping in Washington next week, according to a person familiar with the matter. His attendance comes as AI chips and the pace of AI development become growing sources of tension between the U.S. ...&lt;/p&gt;</content>
-    <author>
-      <name>Qianer Liu</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18052</id>
-    <published>2026-09-16T09:49:00Z</published>
-    <updated>2026-09-17T19:22:22Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/sk-hynix-talks-intel-make-memory-chips-u-s"/>
-    <title>SK Hynix in Talks With Intel to Make Memory Chips in the U.S.</title>
-    <content type="html">&lt;p&gt;South Korean memory chipmaker SK Hynix is in talks with Intel about a deal to manufacture memory chips on U.S. soil for the first time, &lt;a href="https://www.reuters.com/world/asia-pacific/sk-hynix-talks-with-intel-about-deal-make-memory-chips-us-first-time-sources-say-2026-09-16/"&gt;Reuters reported&lt;/a&gt;, citing three people familiar with the discussions.&lt;/p&gt; &lt;p&gt;SK Hynix would either lease part of Intel’s long-planned Ohio fab, or form a joint venture ...&lt;/p&gt;</content>
-    <author>
-      <name>Qianer Liu</name>
     </author>
   </entry>
 </feed>
