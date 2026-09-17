@@ -1,11 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed</id>
+  <id>tag:www.theinformation.com,2005:/feed?cb=1789653757745</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1789653757745"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-17T11:42:38Z</updated>
+  <updated>2026-09-17T14:02:18Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17837</id>
+    <published>2026-09-17T14:01:35Z</published>
+    <updated>2026-09-17T14:02:18Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/openai-close-solving-another-millennium-prize-math-problem"/>
+    <title>OpenAI Is Close To Solving Another Millennium Prize Math Problem</title>
+    <content type="html">&lt;p&gt;Remember when &lt;b&gt;OpenAI&lt;/b&gt; &lt;a href="https://www.theinformation.com/newsletters/ai-agenda/openai-math-result-stokes-data-sharing-concerns"&gt;landed in hot water earlier this month&lt;/a&gt; after mathematicians accused the company of trying to steal their thunder for solving an ultra-difficult math problem? (I know it feels like a million years ago given all the news cycles since then.)&lt;/p&gt;&lt;p&gt;Well, it turns out OpenAI is close to solving another math problem from the &lt;b&gt;Millennium Prize Problems&lt;/b&gt;, a set of seven famous math challenges including that earlier &lt;b&gt;“Navier-Stokes existence and smoothness problem,”&lt;/b&gt; according to a person with knowledge of the solution.&lt;/p&gt;&lt;p&gt;Employees expect the next problem, known as the &lt;b&gt;Hodge Conjecture&lt;/b&gt;, to be solved relatively soon, the person said. The &lt;a href="https://www.claymath.org/millennium/hodge-conjecture/"&gt;Hodge Conjecture&lt;/a&gt; asks whether certain geometric features of shapes defined by polynomial equations can always be described using simpler algebraic pieces. It could take the company longer to announce the solution, though, because it’s trying to figure out how to collaborate with the math community to make the announcement without triggering another PR nightmare, the person said.&amp;nbsp;&lt;/p&gt;</content>
+    <author>
+      <name>Stephanie Palazzolo</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17834</id>
+    <published>2026-09-17T13:09:46Z</published>
+    <updated>2026-09-17T13:53:26Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/introducing-informations-50-influential-people-tech"/>
+    <title>Introducing The Information’s 50 Most Influential People in Tech</title>
+    <content type="html">&lt;p&gt;Money, technical savvy and disruptive ideas all matter within the technology industry. But the most seismic force is influence. Those who have it build, fund and steer the companies that alter the world&amp;mdash;again and again. Those without it can only rise so far.&lt;/p&gt;
+
+&lt;p&gt;So who’s got that clout? You’ll find the answer by poring over our new list: &lt;a href="https://www.theinformation.com/projects/50-most-influential-people-in-tech"&gt;the 50 Most Influential People in Tech&lt;/a&gt;. It isn’t just a snapshot of influence today. Coming up with such a list would be a relatively simple exercise. Rather, we’re providing a roster of the people we believe will have the most influence over the next decade, a more complex task that The Information is uniquely well positioned to pull off.&lt;/p&gt;</content>
+    <author>
+      <name>Jessica E. Lessin</name>
+    </author>
+    <author>
+      <name>Jemima McEvoy</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18058</id>
     <published>2026-09-17T09:05:30Z</published>
@@ -181,13 +208,13 @@
 
 &lt;p&gt;Apple has been developing the server with plans to sell it to AI developers, other businesses and governments, the people said. The product under consideration would come in two versions&amp;mdash;a smaller one with two of Apple’s planned M8 Ultra chips clustered together and a bigger one with four M8 Ultra chips. The M-series Ultra chips are Apple’s highest-performance chips and power products including the Mac Studio.&lt;/p&gt;</content>
     <author>
-      <name>Phoebe Liu</name>
-    </author>
-    <author>
       <name>Qianer Liu</name>
     </author>
     <author>
       <name>Aaron Tilley</name>
+    </author>
+    <author>
+      <name>Phoebe Liu</name>
     </author>
   </entry>
   <entry>
@@ -254,30 +281,6 @@
     <content type="html">&lt;p&gt;Anthropic is opening its fifth Asia-Pacific office in Singapore to drive enterprise adoption of Claude, the company said on Wednesday. Anthropic plans to work with startups, large enterprises and the public sector in Singapore, where Claude usage per capita is among the highest globally.&lt;/p&gt; &lt;p&gt;Dale ...&lt;/p&gt;</content>
     <author>
       <name>Claudia Chong</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Article/17827</id>
-    <published>2026-09-16T01:50:49Z</published>
-    <updated>2026-09-16T16:50:05Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/ai-agent-startup-instinct-talks-10-billion-valuation"/>
-    <title>AI Agent Startup Instinct in Talks for $10 Billion Valuation</title>
-    <content type="html">&lt;p&gt;The startup behind personal AI assistant Instinct is in talks to raise $1 billion at a valuation of about $10 billion, people with knowledge of the deal said. Sequoia Capital and Benchmark have been in talks to lead the financing, the people said. Coatue Management has also been in talks to lead, according to one of the people.&lt;/p&gt;
-
-&lt;p&gt;The Information &lt;a href="https://www.theinformation.com/articles/personal-ai-app-instinct-faces-compute-crunch-lead-new-funding"&gt;reported earlier this month&lt;/a&gt; that the startup is looking to raise new funding as the invitation-only agent faces&amp;nbsp;constraints in compute capacity. As Instinct’s service has become more widely available, the number of users has grown to more than 100,000, according to one of the people.&lt;/p&gt;</content>
-    <author>
-      <name>Valida Pau</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Article/17826</id>
-    <published>2026-09-16T00:00:41Z</published>
-    <updated>2026-09-16T14:07:08Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/meta-joins-techs-ai-fueled-subscription-rush"/>
-    <title>Meta Joins Tech’s AI-Fueled Subscription Rush</title>
-    <content type="html">&lt;p&gt;When it comes to product names, companies tend to move in packs. In video streaming, almost every company included a plus sign in the name brands of their services (Disney+, Paramount+, Apple TV+—you get the picture). In tech, we’ve got &lt;a href="https://www.apple.com/apple-one/"&gt;Apple One&lt;/a&gt;, &lt;a href="https://one.google.com/intl/en_us/about/"&gt;Google One&lt;/a&gt; and &lt;a href="https://about.fb.com/news/2026/09/introducing-meta-one-subscription-service-more-features-ai/"&gt;now Meta One&lt;/a&gt; (we used to have &lt;a href="https://www.aboutamazon.com/news/innovation-at-amazon/introducing-amazon-one-a-new-innovation-to-make-everyday-activities-effortless"&gt;Amazon One&lt;/a&gt;, but that &lt;a href="https://www.geekwire.com/2026/amazon-is-ending-its-palm-id-system-for-retail-amazon-one-as-it-closes-physical-stores/"&gt;has been dropped&lt;/a&gt;). Does no one have any imagination?&amp;nbsp;&lt;/p&gt;&lt;p&gt;Aside from Amazon One, which was a palm-reader system for retail stores, all the other Ones are subscription services for various add-on offerings from the tech firms. Some of these have been around for years—Google One and Apple One have long offered extra amounts of digital storage, along with other perks—but AI is making subscriptions a far more important business model than it has ever been for tech. Google has added extra use of its AI service to its Google One offering. Meta One—unveiled on Tuesday—also offers extra AI usage, as well as some additional tools for using Meta’s social media apps.&amp;nbsp;&lt;/p&gt;</content>
-    <author>
-      <name>Martin Peers</name>
     </author>
   </entry>
 </feed>
