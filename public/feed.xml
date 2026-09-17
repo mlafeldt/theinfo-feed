@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed</id>
+  <id>tag:www.theinformation.com,2005:/feed?cb=1789635952033</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1789635952033"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-17T00:08:12Z</updated>
+  <updated>2026-09-17T09:05:30Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18058</id>
+    <published>2026-09-17T09:05:30Z</published>
+    <updated>2026-09-17T09:05:30Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/huawei-speeds-ai-chip-launch-challenge-nvidia"/>
+    <title>Huawei Speeds Up AI Chip Launch to Challenge Nvidia</title>
+    <content type="html">&lt;p&gt;Huawei Technologies plans to launch its new AI chip in the first quarter of 2027, nine months earlier than planned, as it steps up its efforts to challenge Nvidia.&lt;/p&gt; &lt;p&gt;Tao Wang, Huawei’s deputy chairman and rotating chairman, said at the Huawei Connect conference in Shanghai on Thursday that the new ...&lt;/p&gt;</content>
+    <author>
+      <name>Qianer Liu</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17833</id>
     <published>2026-09-17T00:01:24Z</published>
@@ -267,17 +278,6 @@
     <content type="html">&lt;p&gt;When it comes to product names, companies tend to move in packs. In video streaming, almost every company included a plus sign in the name brands of their services (Disney+, Paramount+, Apple TV+—you get the picture). In tech, we’ve got &lt;a href="https://www.apple.com/apple-one/"&gt;Apple One&lt;/a&gt;, &lt;a href="https://one.google.com/intl/en_us/about/"&gt;Google One&lt;/a&gt; and &lt;a href="https://about.fb.com/news/2026/09/introducing-meta-one-subscription-service-more-features-ai/"&gt;now Meta One&lt;/a&gt; (we used to have &lt;a href="https://www.aboutamazon.com/news/innovation-at-amazon/introducing-amazon-one-a-new-innovation-to-make-everyday-activities-effortless"&gt;Amazon One&lt;/a&gt;, but that &lt;a href="https://www.geekwire.com/2026/amazon-is-ending-its-palm-id-system-for-retail-amazon-one-as-it-closes-physical-stores/"&gt;has been dropped&lt;/a&gt;). Does no one have any imagination?&amp;nbsp;&lt;/p&gt;&lt;p&gt;Aside from Amazon One, which was a palm-reader system for retail stores, all the other Ones are subscription services for various add-on offerings from the tech firms. Some of these have been around for years—Google One and Apple One have long offered extra amounts of digital storage, along with other perks—but AI is making subscriptions a far more important business model than it has ever been for tech. Google has added extra use of its AI service to its Google One offering. Meta One—unveiled on Tuesday—also offers extra AI usage, as well as some additional tools for using Meta’s social media apps.&amp;nbsp;&lt;/p&gt;</content>
     <author>
       <name>Martin Peers</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Article/17729</id>
-    <published>2026-09-15T23:25:42Z</published>
-    <updated>2026-09-15T23:27:00Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/anthropic-openai-pacing-spooks-startup-customers"/>
-    <title>Anthropic, OpenAI ‘Pacing’ Spooks Some Startup Customers</title>
-    <content type="html">&lt;p&gt;It’s not clear what impact the pledges by Anthropic and OpenAI to slow the pace of AI development will have on their upcoming public offerings. But the comments &lt;i&gt;are&lt;/i&gt; having real effects already: more people outside Silicon Valley and Washington are now alert to potential risks from AI in a way they weren’t even very recently. That’s not great news for startups trying to convince consumers and businesses that the tech is worth it, some investors told me.&lt;/p&gt;&lt;p&gt;One venture capitalist, for example, told me about a startup that has recently found customers to be more wary of buying its AI app for small- and medium-sized businesses in the light of news stories about potentially catastrophic AI.&lt;/p&gt;</content>
-    <author>
-      <name>Julia Hornstein</name>
     </author>
   </entry>
 </feed>
