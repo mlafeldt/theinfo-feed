@@ -5,11 +5,24 @@
   <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-17T15:31:24Z</updated>
+  <updated>2026-09-17T16:59:10Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17835</id>
+    <published>2026-09-17T16:58:45Z</published>
+    <updated>2026-09-17T16:59:10Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/bridgewaters-greg-jensen-calls-regulating-ai-firms-like-systemically-important-banks"/>
+    <title>Bridgewater’s Greg Jensen Calls for Regulating AI Firms Like Systemically Important Banks</title>
+    <content type="html">&lt;p&gt;Greg Jensen, co&amp;ndash;chief investment officer at Bridgewater Associates, thinks the top holders of AI compute warrant extra regulation, similar to what governs the world’s biggest financial institutions.&lt;/p&gt;
+
+&lt;p&gt;If a company controls more than, say, 5% of U.S. or global compute, it should be subject to heightened oversight, “like we do with systemically important banks,” Jensen said. In a wide-ranging interview, he also discussed Bridgewater’s growing use of AI in investing and where it still remains cautious, including leaving risk controls and trade execution to what he called “human-driven algorithms.”&lt;/p&gt;</content>
+    <author>
+      <name>Dakin Campbell</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18059</id>
     <published>2026-09-17T15:26:51Z</published>
-    <updated>2026-09-17T15:26:51Z</updated>
+    <updated>2026-09-17T16:12:55Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/coreweave-unveils-new-atm-program-seeks-3-billion-convertible-bond-sale"/>
     <title> CoreWeave Unveils New ATM Program, Seeks $3 Billion in Convertible Bond Sale</title>
     <content type="html">&lt;p&gt;CoreWeave said on Thursday that it could sell up to 35 million shares, worth roughly $3 billion based on the prior day’s closing price, through a new at-the-market offering program. At the same time, the company announced plans to raise $3 billion in a convertible note issue, with an option for ...&lt;/p&gt;</content>
@@ -31,7 +44,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17834</id>
     <published>2026-09-17T13:09:46Z</published>
-    <updated>2026-09-17T15:31:24Z</updated>
+    <updated>2026-09-17T16:58:56Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/introducing-informations-50-influential-people-tech"/>
     <title>Introducing The Information’s 50 Most Influential People in Tech</title>
     <content type="html">&lt;p&gt;Money, technical savvy and disruptive ideas all matter within the technology industry. But the most seismic force is influence. Those who have it build, fund and steer the companies that alter the world&amp;mdash;again and again. Those without it can only rise so far.&lt;/p&gt;
@@ -47,7 +60,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18058</id>
     <published>2026-09-17T09:05:30Z</published>
-    <updated>2026-09-17T09:32:34Z</updated>
+    <updated>2026-09-17T16:12:56Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/huawei-speeds-ai-chip-launch-challenge-nvidia"/>
     <title>Huawei Speeds Up AI Chip Launch to Challenge Nvidia</title>
     <content type="html">&lt;p&gt;Huawei Technologies plans to launch its new AI chip in the first quarter of 2027, nine months earlier than planned, as it steps up its efforts to challenge Nvidia.&lt;/p&gt; &lt;p&gt;Tao Wang, Huawei’s deputy chairman and rotating chairman, said at the Huawei Connect conference in Shanghai on Thursday that the new ...&lt;/p&gt;</content>
@@ -69,7 +82,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18057</id>
     <published>2026-09-16T23:52:39Z</published>
-    <updated>2026-09-17T09:32:35Z</updated>
+    <updated>2026-09-17T16:12:56Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/openai-discloses-safety-incidents-adopts-new-reporting-framework"/>
     <title>OpenAI Discloses More Safety Incidents and Adopts New Reporting Framework</title>
     <content type="html">&lt;p&gt;OpenAI released &lt;a href="https://openai.com/index/model-misalignment-reporting-framework/"&gt;a new framework&lt;/a&gt; on Wednesday for how it aims to report unsafe or concerning behavior in its models, and disclosed &lt;a href="https://alignment.openai.com/misalignment-reports/"&gt;six incidents of such behavior&lt;/a&gt; it had observed in the past six months.&lt;/p&gt; &lt;p&gt;The framework comes after &lt;a href="https://www.theinformation.com/articles/anthropic-researchers-terminator-style-warning-caught-fire"&gt;multiple employee warnings&lt;/a&gt; and &lt;a href="https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident"&gt;hacking incidents&lt;/a&gt; increased public ...&lt;/p&gt;</content>
@@ -80,7 +93,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18056</id>
     <published>2026-09-16T23:45:59Z</published>
-    <updated>2026-09-17T09:32:35Z</updated>
+    <updated>2026-09-17T16:12:56Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/google-must-make-tech-compatible-rivals-judge-rules"/>
     <title>Google Must Make Tech More Compatible With Rivals, Judge Rules</title>
     <content type="html">&lt;p&gt;Google must improve the ability of its advertising technology to integrate with the products of competitors, according to the decision of a federal judge made public Wednesday. The opinion follows a ruling last year that Google operated an illegal monopoly in parts of the market for advertising ...&lt;/p&gt;</content>
@@ -128,7 +141,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18055</id>
     <published>2026-09-16T19:47:41Z</published>
-    <updated>2026-09-17T09:32:34Z</updated>
+    <updated>2026-09-17T16:12:56Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/openai-tests-sponsored-agents-adds-ai-tools-chatgpt-advertisers"/>
     <title>OpenAI Tests Sponsored Agents, Adds AI Tools for ChatGPT Advertisers </title>
     <content type="html">&lt;p&gt;OpenAI said Wednesday it is testing allowing some U.S. advertisers to sponsor AI agents working in ChatGPT, a move that would bring ChatGPT ads closer to what Google and Meta Platforms already offer.&lt;/p&gt; &lt;p&gt;ChatGPT users who click an ad can now start a conversation with an AI agent to ask follow-up ...&lt;/p&gt;</content>
@@ -139,7 +152,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18054</id>
     <published>2026-09-16T16:40:12Z</published>
-    <updated>2026-09-17T09:32:35Z</updated>
+    <updated>2026-09-17T16:12:56Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/circle-launches-new-blockchain-stablecoins-assets"/>
     <title>Circle Launches New Blockchain for Stablecoins, Other Assets</title>
     <content type="html">&lt;p&gt;Stablecoin issuer Circle officially launched Arc blockchain, which will support the trading of stablecoins, tokenized equities, and other assets.&lt;/p&gt; &lt;p&gt;The blockchain will also support perpetuals, lending protocols, and social trading apps, Jeremy Allaire, CEO of Circle, said in a press briefing. ...&lt;/p&gt;</content>
@@ -219,19 +232,19 @@
 
 &lt;p&gt;Apple has been developing the server with plans to sell it to AI developers, other businesses and governments, the people said. The product under consideration would come in two versions&amp;mdash;a smaller one with two of Apple’s planned M8 Ultra chips clustered together and a bigger one with four M8 Ultra chips. The M-series Ultra chips are Apple’s highest-performance chips and power products including the Mac Studio.&lt;/p&gt;</content>
     <author>
+      <name>Phoebe Liu</name>
+    </author>
+    <author>
       <name>Qianer Liu</name>
     </author>
     <author>
       <name>Aaron Tilley</name>
     </author>
-    <author>
-      <name>Phoebe Liu</name>
-    </author>
   </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18053</id>
     <published>2026-09-16T12:36:11Z</published>
-    <updated>2026-09-17T11:42:38Z</updated>
+    <updated>2026-09-17T16:12:55Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/nvidia-ceo-attend-trumps-state-dinner-xi"/>
     <title>Nvidia CEO to Attend Trump’s State Dinner for Xi</title>
     <content type="html">&lt;p&gt;Nvidia CEO Jensen Huang plans to attend President Donald Trump’s state dinner for Chinese leader Xi Jinping in Washington next week, according to a person familiar with the matter. His attendance comes as AI chips and the pace of AI development become growing sources of tension between the U.S. ...&lt;/p&gt;</content>
@@ -242,7 +255,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18052</id>
     <published>2026-09-16T09:49:00Z</published>
-    <updated>2026-09-17T09:32:35Z</updated>
+    <updated>2026-09-17T16:12:56Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/sk-hynix-talks-intel-make-memory-chips-u-s"/>
     <title>SK Hynix in Talks With Intel to Make Memory Chips in the U.S.</title>
     <content type="html">&lt;p&gt;South Korean memory chipmaker SK Hynix is in talks with Intel about a deal to manufacture memory chips on U.S. soil for the first time, &lt;a href="https://www.reuters.com/world/asia-pacific/sk-hynix-talks-with-intel-about-deal-make-memory-chips-us-first-time-sources-say-2026-09-16/"&gt;Reuters reported&lt;/a&gt;, citing three people familiar with the discussions.&lt;/p&gt; &lt;p&gt;SK Hynix would either lease part of Intel’s long-planned Ohio fab, or form a joint venture ...&lt;/p&gt;</content>
@@ -268,17 +281,6 @@
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/two-google-deepmind-ai-researchers-resign-safety"/>
     <title>Two Google DeepMind AI Researchers Resign Over Safety</title>
     <content type="html">&lt;p&gt;Two researchers who worked on AI safety left their roles at Google DeepMind, stating that they departed over concerns that powerful systems could endanger humans.&lt;/p&gt; &lt;p&gt;The two, Bilal Chughtai and Josh Engels, both of whom are joining organizations dedicated to AI safety, add their voices to those of ...&lt;/p&gt;</content>
-    <author>
-      <name>Tiffany Li</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18049</id>
-    <published>2026-09-16T03:24:12Z</published>
-    <updated>2026-09-17T09:32:35Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/elon-musk-says-ai-companies-test-others-models-safety"/>
-    <title>Elon Musk Says AI Companies Should Test Each Other’s Models for Safety</title>
-    <content type="html">&lt;p&gt;SpaceX CEO Elon Musk proposed that competing AI companies, including his own SpaceXAI, should “peer-review” each other’s models prior to release, as industry leaders acknowledge rising worries around AI safety.&lt;/p&gt; &lt;p&gt;“Instead of grading your own homework, you would at least have competitors grading ...&lt;/p&gt;</content>
     <author>
       <name>Tiffany Li</name>
     </author>
