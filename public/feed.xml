@@ -5,7 +5,7 @@
   <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-17T20:53:32Z</updated>
+  <updated>2026-09-17T21:26:01Z</updated>
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18063</id>
     <published>2026-09-17T20:40:31Z</published>
@@ -20,9 +20,9 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18062</id>
     <published>2026-09-17T20:31:22Z</published>
-    <updated>2026-09-17T20:40:06Z</updated>
+    <updated>2026-09-17T21:14:26Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/bridgewaters-jensen-says-hedge-fund-small-position-ai-build-trade"/>
-    <title>Bridgewater’s Jensen Says Hedge Fund Has “Very Small Position” in the AI Build Out Trade</title>
+    <title>Bridgewater’s Jensen Says Hedge Fund Has “Very Small Position” in AI Build Out Trade</title>
     <content type="html">&lt;p&gt;Greg Jensen, the managing chief investment officer of Bridgewater Associates, one of the world’s largest hedge funds, said demand growth for AI infrastructure is largely priced into markets. As a result, Bridgewater has begun looking for investment opportunities elsewhere.&lt;/p&gt; &lt;p&gt;“We thought this was ...&lt;/p&gt;</content>
     <author>
       <name>Dakin Campbell</name>
@@ -210,7 +210,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18054</id>
     <published>2026-09-16T16:40:12Z</published>
-    <updated>2026-09-17T20:40:07Z</updated>
+    <updated>2026-09-17T21:26:01Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/circle-launches-new-blockchain-stablecoins-assets"/>
     <title>Circle Launches New Blockchain for Stablecoins, Other Assets</title>
     <content type="html">&lt;p&gt;Stablecoin issuer Circle officially launched Arc blockchain, which will support the trading of stablecoins, tokenized equities, and other assets.&lt;/p&gt; &lt;p&gt;The blockchain will also support perpetuals, lending protocols, and social trading apps, Jeremy Allaire, CEO of Circle, said in a press briefing. ...&lt;/p&gt;</content>
