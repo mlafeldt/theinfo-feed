@@ -1,11 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed?cb=1789597422255</id>
+  <id>tag:www.theinformation.com,2005:/feed</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1789597422255"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-16T22:22:49Z</updated>
+  <updated>2026-09-17T00:08:12Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17833</id>
+    <published>2026-09-17T00:01:24Z</published>
+    <updated>2026-09-17T00:08:12Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/fed-hike-changes-ai-funding-story"/>
+    <title>Fed Hike Changes AI Funding Story</title>
+    <content type="html">&lt;p&gt;Put aside, for just a moment, all the arguments about AI safety. Today’s decision by the Federal Reserve to raise interest rates may be a bigger issue for the AI sector in the short term. Long-term bond yields had already risen, of course. But the Fed’s action—pushing up short- and medium-term borrowing costs—seems sure to crimp the debt-fueled AI boom, particularly given the prospects that &lt;a href="https://www.nytimes.com/2026/09/16/business/fed-interest-rates-dot-plot.html"&gt;another rate hike&lt;/a&gt; is possible later in the year.&amp;nbsp;&lt;/p&gt;&lt;p&gt;The most vulnerable to higher rates are surely small companies that have weak or no credit ratings but need to raise money, such as would-be neoclouds hoping to finance data center projects. Think Rum Group, which &lt;a href="https://www.theinformation.com/articles/anthropic-strikes-13-7-billion-compute-deal-trump-linked-rum-group?rc=9byxri"&gt;plans a big data center in Georgia&lt;/a&gt; for a deal with Anthropic but doesn’t have financing for the project yet. (For more on startups’ financing challenges, &lt;a href="https://www.theinformation.com/newsletters/the-information-finance/compute-needs-big-payment?rc=9byxri"&gt;see here&lt;/a&gt;). But the ripple effects of higher interest rates will eventually affect everyone, including big tech firms spending a fortune to expand their data centers for AI.&lt;/p&gt;</content>
+    <author>
+      <name>Martin Peers</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18057</id>
+    <published>2026-09-16T23:52:39Z</published>
+    <updated>2026-09-16T23:52:39Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/openai-discloses-safety-incidents-adopts-new-reporting-framework"/>
+    <title>OpenAI Discloses More Safety Incidents and Adopts New Reporting Framework</title>
+    <content type="html">&lt;p&gt;OpenAI released &lt;a href="https://openai.com/index/model-misalignment-reporting-framework/"&gt;a new framework&lt;/a&gt; on Wednesday for how it aims to report unsafe or concerning behavior in its models, and disclosed &lt;a href="https://alignment.openai.com/misalignment-reports/"&gt;six incidents of such behavior&lt;/a&gt; it had observed in the past six months.&lt;/p&gt; &lt;p&gt;The framework comes after &lt;a href="https://www.theinformation.com/articles/anthropic-researchers-terminator-style-warning-caught-fire"&gt;multiple employee warnings&lt;/a&gt; and &lt;a href="https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident"&gt;hacking incidents&lt;/a&gt; increased public ...&lt;/p&gt;</content>
+    <author>
+      <name>Tiffany Li</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18056</id>
+    <published>2026-09-16T23:45:59Z</published>
+    <updated>2026-09-16T23:46:00Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/google-must-make-tech-compatible-rivals-judge-rules"/>
+    <title>Google Must Make Tech More Compatible With Rivals, Judge Rules</title>
+    <content type="html">&lt;p&gt;Google must improve the ability of its advertising technology to integrate with the products of competitors, according to the decision of a federal judge made public Wednesday. The opinion follows a ruling last year that Google operated an illegal monopoly in parts of the market for advertising ...&lt;/p&gt;</content>
+    <author>
+      <name>Catherine Perloff</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17829</id>
     <published>2026-09-16T22:22:12Z</published>
@@ -46,7 +79,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18055</id>
     <published>2026-09-16T19:47:41Z</published>
-    <updated>2026-09-16T21:05:52Z</updated>
+    <updated>2026-09-16T23:45:46Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/openai-tests-sponsored-agents-adds-ai-tools-chatgpt-advertisers"/>
     <title>OpenAI Tests Sponsored Agents, Adds AI Tools for ChatGPT Advertisers </title>
     <content type="html">&lt;p&gt;OpenAI said Wednesday it is testing allowing some U.S. advertisers to sponsor AI agents working in ChatGPT, a move that would bring ChatGPT ads closer to what Google and Meta Platforms already offer.&lt;/p&gt; &lt;p&gt;ChatGPT users who click an ad can now start a conversation with an AI agent to ask follow-up ...&lt;/p&gt;</content>
@@ -137,10 +170,10 @@
 
 &lt;p&gt;Apple has been developing the server with plans to sell it to AI developers, other businesses and governments, the people said. The product under consideration would come in two versions&amp;mdash;a smaller one with two of Apple’s planned M8 Ultra chips clustered together and a bigger one with four M8 Ultra chips. The M-series Ultra chips are Apple’s highest-performance chips and power products including the Mac Studio.&lt;/p&gt;</content>
     <author>
-      <name>Qianer Liu</name>
+      <name>Phoebe Liu</name>
     </author>
     <author>
-      <name>Phoebe Liu</name>
+      <name>Qianer Liu</name>
     </author>
     <author>
       <name>Aaron Tilley</name>
@@ -149,7 +182,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18053</id>
     <published>2026-09-16T12:36:11Z</published>
-    <updated>2026-09-16T17:42:59Z</updated>
+    <updated>2026-09-16T23:45:46Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/nvidia-ceo-attend-trumps-state-dinner-xi"/>
     <title>Nvidia CEO to Attend Trump’s State Dinner for Xi</title>
     <content type="html">&lt;p&gt;Nvidia CEO Jensen Huang plans to attend President Donald Trump’s state dinner for Chinese leader Xi Jinping in Washington next week, according to a person familiar with the matter. His attendance comes as AI chips and the pace of AI development become growing sources of tension between the U.S. ...&lt;/p&gt;</content>
@@ -160,7 +193,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18052</id>
     <published>2026-09-16T09:49:00Z</published>
-    <updated>2026-09-16T21:05:00Z</updated>
+    <updated>2026-09-16T23:45:46Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/sk-hynix-talks-intel-make-memory-chips-u-s"/>
     <title>SK Hynix in Talks With Intel to Make Memory Chips in the U.S.</title>
     <content type="html">&lt;p&gt;South Korean memory chipmaker SK Hynix is in talks with Intel about a deal to manufacture memory chips on U.S. soil for the first time, &lt;a href="https://www.reuters.com/world/asia-pacific/sk-hynix-talks-with-intel-about-deal-make-memory-chips-us-first-time-sources-say-2026-09-16/"&gt;Reuters reported&lt;/a&gt;, citing three people familiar with the discussions.&lt;/p&gt; &lt;p&gt;SK Hynix would either lease part of Intel’s long-planned Ohio fab, or form a joint venture ...&lt;/p&gt;</content>
@@ -193,7 +226,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18049</id>
     <published>2026-09-16T03:24:12Z</published>
-    <updated>2026-09-16T21:05:52Z</updated>
+    <updated>2026-09-16T23:45:47Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/elon-musk-says-ai-companies-test-others-models-safety"/>
     <title>Elon Musk Says AI Companies Should Test Each Other’s Models for Safety</title>
     <content type="html">&lt;p&gt;SpaceX CEO Elon Musk proposed that competing AI companies, including his own SpaceXAI, should “peer-review” each other’s models prior to release, as industry leaders acknowledge rising worries around AI safety.&lt;/p&gt; &lt;p&gt;“Instead of grading your own homework, you would at least have competitors grading ...&lt;/p&gt;</content>
@@ -245,44 +278,6 @@
     <content type="html">&lt;p&gt;It’s not clear what impact the pledges by Anthropic and OpenAI to slow the pace of AI development will have on their upcoming public offerings. But the comments &lt;i&gt;are&lt;/i&gt; having real effects already: more people outside Silicon Valley and Washington are now alert to potential risks from AI in a way they weren’t even very recently. That’s not great news for startups trying to convince consumers and businesses that the tech is worth it, some investors told me.&lt;/p&gt;&lt;p&gt;One venture capitalist, for example, told me about a startup that has recently found customers to be more wary of buying its AI app for small- and medium-sized businesses in the light of news stories about potentially catastrophic AI.&lt;/p&gt;</content>
     <author>
       <name>Julia Hornstein</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18047</id>
-    <published>2026-09-15T22:36:33Z</published>
-    <updated>2026-09-16T21:05:52Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/openai-early-talks-new-funding-round-1-2-trillion-valuation"/>
-    <title>OpenAI in Early Talks for New Funding Round at $1.2 Trillion Valuation</title>
-    <content type="html">&lt;p&gt;OpenAI has held early conversations with investors about a new funding round that could lift its valuation to $1.2 trillion or higher, according to people familiar with the conversations. The conversations come as OpenAI has pushed off a planned initial public offering to next year or later.&lt;/p&gt; &lt;p&gt;The ...&lt;/p&gt;</content>
-    <author>
-      <name>Laura Mandaro</name>
-    </author>
-    <author>
-      <name>Cory Weinberg</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18046</id>
-    <published>2026-09-15T22:22:52Z</published>
-    <updated>2026-09-16T21:05:52Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/microsoft-raises-dividend-8"/>
-    <title>Microsoft Raises Dividend 8%</title>
-    <content type="html">&lt;p&gt;Microsoft said Tuesday it will raise its quarterly dividend to 98 cents per share, up from 91 cents, beginning in December. The company previously raised its dividend by 10% a year ago. Microsoft’s stock was roughly flat in after hours trading.&lt;/p&gt; &lt;p&gt;The company’s move to return more cash to ...&lt;/p&gt;</content>
-    <author>
-      <name>Aaron Holmes</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Article/17824</id>
-    <published>2026-09-15T22:22:39Z</published>
-    <updated>2026-09-15T23:55:35Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/meta-launch-camera-free-smart-glasses-amid-mounting-privacy-concerns"/>
-    <title>Meta to Launch Camera-Free Smart Glasses Amid Mounting Privacy Concerns</title>
-    <content type="html">&lt;p&gt;&lt;a href="https://www.theinformation.com/org-charts/meta"&gt;Meta Platforms&lt;/a&gt; plans to release a camera-free pair of smart glasses this fall, according to people familiar with the matter, as it looks to expand its hardware lineup amid privacy concerns about cameras on its existing offerings.&lt;/p&gt;
-
-&lt;p&gt;The new glasses model, internally code-named Luna, has six built-in microphones that will allow users to speak with Meta’s AI chatbot and its recently launched consumer AI agent, Muse, one of the people said. It also has a button on the side that can be used to quickly activate Meta AI, and speakers like those in its existing models that direct sound toward the user’s ears without covering them. In addition, the glasses have slimmer temple arms than previous Meta smart glasses such as its Ray-Ban models, making them look more like ordinary eyewear.&lt;/p&gt;</content>
-    <author>
-      <name>Jyoti Mann</name>
     </author>
   </entry>
 </feed>
