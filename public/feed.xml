@@ -1,11 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed?cb=1789680409604</id>
+  <id>tag:www.theinformation.com,2005:/feed</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1789680409604"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-17T21:26:01Z</updated>
+  <updated>2026-09-18T00:07:51Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17839</id>
+    <published>2026-09-18T00:00:58Z</published>
+    <updated>2026-09-18T00:07:51Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/ai-executives-fret-existential-threat-ai-poses-publishers"/>
+    <title>AI Executives Fret About Existential Threat AI Poses—to Publishers</title>
+    <content type="html">&lt;p&gt;It’s not just humanity that AI folks worry the new technology could wipe out—it’s publishers as well! (Publishers are, of course, people!) That’s what we learned from a court filing today by a group of news publishers including The New York Times Co. in a copyright infringement lawsuit against OpenAI and Microsoft. The filing cited an OpenAI executive writing—presumably in an internal memo—that publishers face “an existential threat” from AI products.&lt;/p&gt;&lt;p&gt;We knew the publishers worried that AI threatened their existence—The New York Times Co. made that point when it sued OpenAI and Microsoft back in 2023 (the case has since been consolidated with similar lawsuits filed by other publishers). What’s striking is that OpenAI and Microsoft internally acknowledge the threat—and recognize the implications for them as well. “Our AI content strategy has started a ‘doom loop’ that will hurt the performance of our models and the entire web at the same time. It is highly unusual that an end-product threatens the economic foundations of its essential suppliers,” according to a Microsoft document cited in the filing.&lt;/p&gt;</content>
+    <author>
+      <name>Martin Peers</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18064</id>
+    <published>2026-09-17T23:38:18Z</published>
+    <updated>2026-09-17T23:38:19Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/cooley-partners-openai-legal-tool-drafting-sec-filings"/>
+    <title>Cooley Partners with OpenAI on Legal Tool For Drafting SEC Filings</title>
+    <content type="html">&lt;p&gt;OpenAI and law firm Cooley co-launched a product, called GO Public, that can draft S-1 filings, the document companies must submit to the Securities and Exchange Commission before they can go public, Cooley said Thursday.&lt;/p&gt; &lt;p&gt;Lawyers at Cooley can prompt GO Public, which also has access to Cooley ...&lt;/p&gt;</content>
+    <author>
+      <name>Julia Hornstein</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18063</id>
     <published>2026-09-17T20:40:31Z</published>
@@ -216,68 +238,6 @@
     <content type="html">&lt;p&gt;Stablecoin issuer Circle officially launched Arc blockchain, which will support the trading of stablecoins, tokenized equities, and other assets.&lt;/p&gt; &lt;p&gt;The blockchain will also support perpetuals, lending protocols, and social trading apps, Jeremy Allaire, CEO of Circle, said in a press briefing. ...&lt;/p&gt;</content>
     <author>
       <name>Yueqi Yang</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Article/17822</id>
-    <published>2026-09-16T15:36:57Z</published>
-    <updated>2026-09-16T15:36:57Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/stay-top-tech-trends-google-gemini"/>
-    <title>How to Stay on Top of Tech Trends with Google Gemini</title>
-    <content type="html">&lt;p&gt;Even for technology leaders, it can feel impossible to keep up with constant advances in the field.&lt;/p&gt;
-
-&lt;p&gt;This is especially true in the age of AI, with vendors racing to roll out model updates with new capabilities. Even if technology leaders had time to attend every conference and read every tech publication, it would be a full-time job to simply figure out which trends represent real transformation opportunities, and which are merely hype.&lt;/p&gt;
-
-&lt;p&gt;With Google Gemini, you can generate a tailored digest that summarizes the developments most likely to have an impact on your specific industry and organization. Armed with this up-to-the-minute information, you can keep your leadership and workforce apprised of market shifts and technology breakthroughs, protect your organization from expensive distractions, and make high-stakes procurement decisions with confidence.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Step 1: Generate Your Tech Forecast&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Open up a new chat, and prompt Google Gemini to provide you with a summary of current technology trends. For a more tailored summary, provide as much information as possible about your company and industry. You might, for example, tell Gemini that you’re the CTO at a mid-sized regional commercial and retail bank in the Pacific Northwest, with a mix of legacy on-premises and modernized cloud infrastructure.&lt;/p&gt;
-
-&lt;p&gt;Here’s a sample prompt:&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;I am the CTO of [company] in [industry]. I want to understand emerging technology trends. Summarize the top five emerging technologies with the most significant potential impact on [industry]. For each technology, list its potential benefits and challenges, and suggest how it could impact [company] in the next two to three years.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Gemini will quickly generate a list of technologies, broken down by their potential benefits, challenges, and overall impact. For the regional bank, Gemini might suggest using agentic AI for continuous risk assessment, pointing out the opportunity to proactively surface lending opportunities and flag potential risks.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Step 2: Refine the Output&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Gemini’s summary will be based on the information you provided. To generate a more custom tech forecast, add more information about your existing environment and current challenges.&lt;/p&gt;
-
-&lt;p&gt;For example: Gemini might suggest deploying API-led middleware to bridge the gap between your legacy core and your modern cloud app; but maybe you already have middleware running, and the problem is that its fragility is leading to downtime. By adding that context, you can help Gemini focus its output on your specific needs.&lt;/p&gt;
-
-&lt;p&gt;Go back and forth with Gemini, providing additional context and feedback until the tech trends summary is exactly what you’re looking for.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Step 3: Automate Delivery&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;If you have to manually enter a new prompt every time you want an update on tech trends, you might not be as consistent as you’d like. Instead, prompt Gemini once to automatically provide you with an update each day, week, or month.&lt;/p&gt;
-
-&lt;p&gt;These sorts of prompts work best when they are completely self-contained, rather than the result of a long, messy chat history. So, ask Gemini to look back at your conversation and synthesize all of your real-world feedback into a single master prompt. Then, paste that master prompt into a new chat and explicitly tell Gemini your desired delivery schedule.&lt;/p&gt;
-
-&lt;p&gt;Gemini’s Scheduled Actions feature will take over, allowing you to manage or pause the recurring prompt in your account settings.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Step 4: Move from Knowledge to Action&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Staying on top of tech trends is only really useful insofar as it spurs action. As you peruse Gemini’s scheduled summaries, consider where digging deeper into specific topics may help you optimize your operations, mitigate emerging risks, or prepare your IT environment for the future. Try this prompt:&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Recommend three areas where [my company] can take proactive steps to stay ahead of the curve on [specific areas].&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;The CTO of the regional bank might, for example, ask Gemini for specific tips on network-based fraud intelligence. In this step, the role of Gemini is shifting slightly, from industry analyst to strategic sounding board. Because Gemini already has detailed information about your organization’s challenges, goals, and existing environment, its insights will be grounded in your specific reality.&lt;/p&gt;
-
-&lt;p&gt;By moving from high-level summaries to tactical next steps, you can use your understanding of tech trends to guide your organization’s IT investments in a marketplace that never stops moving.&lt;/p&gt;</content>
-    <author>
-      <name>The Information Partnerships</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Article/17828</id>
-    <published>2026-09-16T14:02:01Z</published>
-    <updated>2026-09-16T14:07:20Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/anthropic-making-claude-human-control"/>
-    <title>Is Anthropic Making Claude Too Human to Control?</title>
-    <content type="html">&lt;p&gt;&lt;b&gt;Anthropic’s&lt;/b&gt; call to slow down AI development to keep humans safe has dominated the news cycle and drew similar calls from the leaders of &lt;b&gt;OpenAI&lt;/b&gt;, &lt;b&gt;Microsoft&lt;/b&gt; and others (and &lt;a href="https://www.theinformation.com/briefings/zuckerberg-says-ai-safety-becoming-competitive-necessity?rc=geicgp"&gt;subtle disagreement&lt;/a&gt; from &lt;b&gt;Mark Zuckerberg&lt;/b&gt;).&amp;nbsp;&lt;/p&gt;&lt;p&gt;But &lt;b&gt;Mustafa Suleyman&lt;/b&gt;, who runs Microsoft’s AI model development, has a warning about Anthropic itself.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Suleyman, who co-founded &lt;b&gt;DeepMind&lt;/b&gt; (now part of &lt;b&gt;Google&lt;/b&gt;), says Anthropic’s approach of treating its &lt;b&gt;Claude&lt;/b&gt; models as if they were sentient, similar to humans, could produce a dangerous outcome. He called out Anthropic’s &lt;a href="https://www.anthropic.com/constitution"&gt;Claude Constitution&lt;/a&gt;, a document that treats the model as an intelligent entity and offers guidelines for how it should handle ethical dilemmas. Suleyman said that by incorporating the document into its training, Anthropic could make Claude harder to control.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Suleyman’s concerns emerged when Anthropic updated the constitution at the start of this year to leave room for the possibility that Claude has some sort of “consciousness” or “moral status,” a change from the original document.&lt;/p&gt;</content>
-    <author>
-      <name>Aaron Holmes</name>
     </author>
   </entry>
 </feed>
