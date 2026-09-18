@@ -1,31 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed</id>
+  <id>tag:www.theinformation.com,2005:/feed?cb=1789740120790</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1789740120790"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-18T13:01:06Z</updated>
+  <updated>2026-09-18T14:01:39Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17836</id>
+    <published>2026-09-18T14:01:39Z</published>
+    <updated>2026-09-18T14:01:39Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/communicate-technical-topics-non-technical-audience-google-gemini"/>
+    <title>Communicate Technical Topics to a Non-Technical Audience with Google Gemini</title>
+    <content type="html">&lt;p&gt;In a room full of IT professionals, words and phrases like “tokenization,” “retrieval-augmented generation,” and “context window” need no explanation. But when technology leaders present to their CEOs and other company leaders about topics like AI, they often find that they need to translate these terms into everyday business language, or else risk being met by blank stares.&lt;/p&gt;
+
+&lt;p&gt;In the moment, this can be maddening. You know the opportunities and challenges that a technology like generative AI presents for your company. And you know that the organization’s other leaders will likely see things the same way you do, if only you can make yourself understood.&lt;/p&gt;
+
+&lt;p&gt;Instead of trying to bridge this communication gap on the fly, use Google Gemini to help translate your technical vision into bottom-line business value.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 1: Figure Out What You Want to Say&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Your CEO might not speak “tech,” but Google Gemini does. Open up a new chat and explain exactly what it is you hope to communicate to leadership. Here, you can feel free to be as technical as you wish. Maybe you’ll tell Gemini that you’re thinking of building a RAG pipeline to vectorize your company’s proprietary data. Or, maybe you’ll float the idea of using parameter-efficient fine-tuning methods like LoRA to deploy open-weight models on-premises, without exploding your cloud inference costs. You can even upload your technical documents to Gemini, directly in the chat window.&lt;/p&gt;
+
+&lt;p&gt;No matter how in-the-weeds you get, Gemini will follow your train of thought, parsing the complexity to find the business value at the core of your plans.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 2: Let Gemini Be Your Translator&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Now that you’ve captured your vision in your own words, let Gemini help you translate those words into language that will connect with your audience. Use this sample prompt, along with your brainstorming from Step 1:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;I am the CIO at [company], and I am trying to build the case to [adopt generative AI solutions]. I need to explain the technical concept of generative AI to a non-technical audience (the CEO and board). Help me write talking points that will help me convey what generative AI is, ways it could help us digitally transform, and why it’s important to our growth as a company. Include details about how it could potentially re-focus our technical talent on more strategic work, help enhance our workforce’s productivity, and help us better serve our global workforce and customers.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;In just a few moments, you’ll have a set of boardroom-ready talking points. Gemini might, for instance, break down the benefits of RAG in simple terms by noting that it anchors AI to internal data like HR policies and technical manuals. Or, it might point out the business benefits of arming IT staff and engineers with generative AI tools, noting the opportunity to shift employees’ focus from low-value, repetitive tasks to innovation.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 3: Create Content&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;Now that you have your core narrative and language nailed down, Gemini can help you create a more structured pitch. Instead of staring at a blank slide deck, prompt Gemini for ideas on how to build out a presentation that will sway your peers in the C-suite. Try this prompt:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;I need to build a presentation to deliver this information to the board. Turn these talking points into a 10-slide presentation. For each slide, write a headline, three to four short bullet points for the slide itself, and the speaker notes I should use to explain the concept out loud.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Gemini will generate a full, downloadable presentation deck directly in the chat. If you like, you can export the presentation to Google Slides and make your own edits. Or, you can command Gemini to generate a new version with changes to elements like design, language, and narrative flow.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 4: Make Gemini Your Sparring Partner&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Before you go into your meeting, open a new chat in Gemini, providing your speaker notes and a link to your presentation, and then ask it to act as a skeptical executive: &lt;em&gt;You are my CEO. Review this presentation and grill me on cost, security, and ROI. Ask your toughest questions, one at a time.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Even though Gemini helped you prepare your presentation, it will seamlessly pivot to the role of rigorous executive or tough board member, pressing for more details on project payback, hidden risks, and timeline. By practicing your pitch in this low-stakes environment, you can make certain that you’ll be confident when it’s time for the real thing.&lt;/p&gt;</content>
+    <author>
+      <name>The Information Partnerships</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18067</id>
+    <published>2026-09-18T13:47:47Z</published>
+    <updated>2026-09-18T13:47:47Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/coreweave-prices-3-7-billion-convertible-bond-offering"/>
+    <title>CoreWeave Prices $3.7 Billion Convertible Bond Offering </title>
+    <content type="html">&lt;p&gt;CoreWeave said on Friday it had priced $3.7 billion in convertible bonds, more than the AI cloud provider had previously said it was targeting.&lt;/p&gt; &lt;p&gt;The convertible senior notes will be due in 2033 and carry a coupon of 2.875%, at the top of the pricing range marketed to investors and up from the ...&lt;/p&gt;</content>
+    <author>
+      <name>Meredith Mazzilli</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17840</id>
     <published>2026-09-18T13:00:41Z</published>
-    <updated>2026-09-18T13:01:06Z</updated>
+    <updated>2026-09-18T13:07:53Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/ai-safety-push-sparks-demand-watchdog-groups-critics-doubt-independence"/>
     <title>AI Safety Push Sparks Demand for Watchdog Groups. Critics Doubt Their Independence.</title>
     <content type="html">&lt;p&gt;Rising alarm about AI’s perils is thrusting into the spotlight a collection of little-known research groups focused on the technology’s safety&amp;mdash;and fueling questions about their ability to effectively monitor the industry’s biggest companies.&lt;/p&gt;
 
 &lt;p&gt;Both &lt;a href="https://www.theinformation.com/org-charts/anthropic"&gt;Anthropic&lt;/a&gt; Chief Executive Dario Amodei and &lt;a href="https://www.theinformation.com/org-charts/openai"&gt;OpenAI&lt;/a&gt; CEO Sam Altman promised in recent days to embed evaluators from such outside research organizations inside their companies to help ensure they develop AI at a safe pace. Other executives including&amp;nbsp;&lt;a href="https://x.com/satyanadella/status/2099220712024408084"&gt;Microsoft CEO Satya Nadella&lt;/a&gt; also endorsed the idea of embedding independent evaluators in companies.&lt;/p&gt;</content>
     <author>
-      <name>Tiffany Li</name>
+      <name>Rocket Drew</name>
     </author>
     <author>
-      <name>Rocket Drew</name>
+      <name>Tiffany Li</name>
     </author>
   </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17841</id>
     <published>2026-09-18T12:10:44Z</published>
-    <updated>2026-09-18T12:11:16Z</updated>
+    <updated>2026-09-18T13:22:53Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/tsinghua-professors-stealth-llm-startup-hits-1-4-billion-valuation"/>
     <title>A Tsinghua Professor’s Stealth LLM Startup Hits $1.4 Billion Valuation</title>
     <content type="html">&lt;p&gt;A secretive Chinese AI model startup founded in February by a Tsinghua University professor is now valued at more than $1.4 billion, after raising $400 million in three funding rounds from investors including &lt;a href="https://www.theinformation.com/org-charts/tencent"&gt;Tencent&lt;/a&gt;, according to a person with direct knowledge of the matter.&lt;/p&gt;
@@ -142,10 +196,10 @@
     <title>Same Flaw Found in Claude Code, Codex, Gemini CLI and GitHub Copilot</title>
     <content type="html">&lt;p&gt;While the AI industry ties itself in knots over models it thinks will pose security threats to the internet and perhaps to humanity itself, researchers are warning about flaws in AI coding agents from Anthropic, OpenAI, Google and Microsoft that pose &lt;i&gt;immediate&lt;/i&gt; risk to businesses.&lt;/p&gt;&lt;p&gt;For instance, a recently discovered (and now largely fixed) software flaw in Claude Code, Codex, Gemini CLI and GitHub Copilot would have let attackers hijack other people’s coding agents without them noticing, according to new research shared exclusively with The Information.&lt;/p&gt;&lt;p&gt;The research, published by Sequoia Capital-backed cybersecurity startup Air, discovered the same flaws in the way all four of those coding agents handle “skills” that direct agents to refer to a set of instructions and files to execute specific tasks.&lt;/p&gt;</content>
     <author>
-      <name>Aaron Holmes</name>
+      <name>Laura Bratton</name>
     </author>
     <author>
-      <name>Laura Bratton</name>
+      <name>Aaron Holmes</name>
     </author>
   </entry>
   <entry>
@@ -219,28 +273,6 @@
     <content type="html">&lt;p&gt;Put aside, for just a moment, all the arguments about AI safety. Today’s decision by the Federal Reserve to raise interest rates may be a bigger issue for the AI sector in the short term. Long-term bond yields had already risen, of course. But the Fed’s action—pushing up short- and medium-term borrowing costs—seems sure to crimp the debt-fueled AI boom, particularly given the prospects that &lt;a href="https://www.nytimes.com/2026/09/16/business/fed-interest-rates-dot-plot.html"&gt;another rate hike&lt;/a&gt; is possible later in the year.&amp;nbsp;&lt;/p&gt;&lt;p&gt;The most vulnerable to higher rates are surely small companies that have weak or no credit ratings but need to raise money, such as would-be neoclouds hoping to finance data center projects. Think Rum Group, which &lt;a href="https://www.theinformation.com/articles/anthropic-strikes-13-7-billion-compute-deal-trump-linked-rum-group?rc=9byxri"&gt;plans a big data center in Georgia&lt;/a&gt; for a deal with Anthropic but doesn’t have financing for the project yet. (For more on startups’ financing challenges, &lt;a href="https://www.theinformation.com/newsletters/the-information-finance/compute-needs-big-payment?rc=9byxri"&gt;see here&lt;/a&gt;). But the ripple effects of higher interest rates will eventually affect everyone, including big tech firms spending a fortune to expand their data centers for AI.&lt;/p&gt;</content>
     <author>
       <name>Martin Peers</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18057</id>
-    <published>2026-09-16T23:52:39Z</published>
-    <updated>2026-09-18T08:33:06Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/openai-discloses-safety-incidents-adopts-new-reporting-framework"/>
-    <title>OpenAI Discloses More Safety Incidents and Adopts New Reporting Framework</title>
-    <content type="html">&lt;p&gt;OpenAI released &lt;a href="https://openai.com/index/model-misalignment-reporting-framework/"&gt;a new framework&lt;/a&gt; on Wednesday for how it aims to report unsafe or concerning behavior in its models, and disclosed &lt;a href="https://alignment.openai.com/misalignment-reports/"&gt;six incidents of such behavior&lt;/a&gt; it had observed in the past six months.&lt;/p&gt; &lt;p&gt;The framework comes after &lt;a href="https://www.theinformation.com/articles/anthropic-researchers-terminator-style-warning-caught-fire"&gt;multiple employee warnings&lt;/a&gt; and &lt;a href="https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident"&gt;hacking incidents&lt;/a&gt; increased public ...&lt;/p&gt;</content>
-    <author>
-      <name>Tiffany Li</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18056</id>
-    <published>2026-09-16T23:45:59Z</published>
-    <updated>2026-09-18T08:33:24Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/google-must-make-tech-compatible-rivals-judge-rules"/>
-    <title>Google Must Make Tech More Compatible With Rivals, Judge Rules</title>
-    <content type="html">&lt;p&gt;Google must improve the ability of its advertising technology to integrate with the products of competitors, according to the decision of a federal judge made public Wednesday. The opinion follows a ruling last year that Google operated an illegal monopoly in parts of the market for advertising ...&lt;/p&gt;</content>
-    <author>
-      <name>Catherine Perloff</name>
     </author>
   </entry>
 </feed>
