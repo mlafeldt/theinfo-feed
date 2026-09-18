@@ -5,7 +5,20 @@
   <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-18T21:00:13Z</updated>
+  <updated>2026-09-18T21:56:20Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17844</id>
+    <published>2026-09-18T21:55:54Z</published>
+    <updated>2026-09-18T21:56:20Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/anthropic-ipo-waiting-game-puts-wall-street-edge"/>
+    <title>Anthropic IPO Waiting Game Puts Wall Street on Edge</title>
+    <content type="html">&lt;p&gt;&lt;a href="https://www.theinformation.com/org-charts/anthropic"&gt;Anthropic&lt;/a&gt; finance chief Krishna Rao and other executives met with groups of prospective public investors last month with his company’s numbers looking spiffier than ever. The company had gone from spending about $2.30 on operations for every $1 of revenue in spring of 2025 to turning a slight profit on that basis in the June quarter&amp;mdash;bucking the stereotype of money-losing AI companies that are addicted to spending.&lt;/p&gt;
+
+&lt;p&gt;But some investors walked away from meetings with the understanding from executives that the profits would likely be short-lived. Anthropic would take advantage of its sudden growth and deep cash reserves to aggressively sign data center deals, executives told them, which would increase how much they spend on computing infrastructure and could shrink operating profits.&lt;/p&gt;</content>
+    <author>
+      <name>Cory Weinberg</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18068</id>
     <published>2026-09-18T20:56:41Z</published>
@@ -207,10 +220,10 @@
     <title>Same Flaw Found in Claude Code, Codex, Gemini CLI and GitHub Copilot</title>
     <content type="html">&lt;p&gt;While the AI industry ties itself in knots over models it thinks will pose security threats to the internet and perhaps to humanity itself, researchers are warning about flaws in AI coding agents from Anthropic, OpenAI, Google and Microsoft that pose &lt;i&gt;immediate&lt;/i&gt; risk to businesses.&lt;/p&gt;&lt;p&gt;For instance, a recently discovered (and now largely fixed) software flaw in Claude Code, Codex, Gemini CLI and GitHub Copilot would have let attackers hijack other people’s coding agents without them noticing, according to new research shared exclusively with The Information.&lt;/p&gt;&lt;p&gt;The research, published by Sequoia Capital-backed cybersecurity startup Air, discovered the same flaws in the way all four of those coding agents handle “skills” that direct agents to refer to a set of instructions and files to execute specific tasks.&lt;/p&gt;</content>
     <author>
-      <name>Laura Bratton</name>
+      <name>Aaron Holmes</name>
     </author>
     <author>
-      <name>Aaron Holmes</name>
+      <name>Laura Bratton</name>
     </author>
   </entry>
   <entry>
@@ -262,17 +275,6 @@
     </author>
     <author>
       <name>Jemima McEvoy</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18058</id>
-    <published>2026-09-17T09:05:30Z</published>
-    <updated>2026-09-18T16:57:18Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/huawei-speeds-ai-chip-launch-challenge-nvidia"/>
-    <title>Huawei Speeds Up AI Chip Launch to Challenge Nvidia</title>
-    <content type="html">&lt;p&gt;Huawei Technologies plans to launch its new AI chip in the first quarter of 2027, nine months earlier than planned, as it steps up its efforts to challenge Nvidia.&lt;/p&gt; &lt;p&gt;Tao Wang, Huawei’s deputy chairman and rotating chairman, said at the Huawei Connect conference in Shanghai on Thursday that the new ...&lt;/p&gt;</content>
-    <author>
-      <name>Qianer Liu</name>
     </author>
   </entry>
 </feed>
