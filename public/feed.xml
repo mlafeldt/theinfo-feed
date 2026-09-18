@@ -5,7 +5,18 @@
   <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-18T17:12:24Z</updated>
+  <updated>2026-09-18T21:00:13Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18068</id>
+    <published>2026-09-18T20:56:41Z</published>
+    <updated>2026-09-18T21:00:13Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/nscale-ipo-files-go-public-shows-huge-revenue-jump-steep-losses"/>
+    <title>Nscale IPO Files to Go Public, Shows Huge Revenue Jump And Steep Losses </title>
+    <content type="html">&lt;p&gt;Nvidia-backed startup Nscale disclosed Friday that revenue had surged 10 times in the first half of this year from the year-ago period, but losses mounted as the cloud startup spent billions on data centers and the AI chips they’ll house.&lt;/p&gt; &lt;p&gt;The two-year-old UK startup, a spinout of an Australian ...&lt;/p&gt;</content>
+    <author>
+      <name>Valida Pau</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17836</id>
     <published>2026-09-18T14:01:39Z</published>
@@ -70,10 +81,10 @@
 
 &lt;p&gt;Both &lt;a href="https://www.theinformation.com/org-charts/anthropic"&gt;Anthropic&lt;/a&gt; Chief Executive Dario Amodei and &lt;a href="https://www.theinformation.com/org-charts/openai"&gt;OpenAI&lt;/a&gt; CEO Sam Altman promised in recent days to embed evaluators from such outside research organizations inside their companies to help ensure they develop AI at a safe pace. Other executives including&amp;nbsp;&lt;a href="https://x.com/satyanadella/status/2099220712024408084"&gt;Microsoft CEO Satya Nadella&lt;/a&gt; also endorsed the idea of embedding independent evaluators in companies.&lt;/p&gt;</content>
     <author>
-      <name>Rocket Drew</name>
+      <name>Tiffany Li</name>
     </author>
     <author>
-      <name>Tiffany Li</name>
+      <name>Rocket Drew</name>
     </author>
   </entry>
   <entry>
@@ -114,7 +125,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17696</id>
     <published>2026-09-18T00:53:56Z</published>
-    <updated>2026-09-18T00:54:56Z</updated>
+    <updated>2026-09-18T20:05:01Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/openais-next-round"/>
     <title>OpenAI’s Next Round</title>
     <content type="html">&lt;p&gt;This week, we and others reported that OpenAI &lt;a href="https://www.theinformation.com/briefings/openai-early-talks-new-funding-round-1-2-trillion-valuation?rc=zjctrx"&gt;has been in early talks with investors&lt;/a&gt; about a new private round that could value it at $1.2 trillion or more. That follows CEO Sam Altman’s recent statement &lt;a href="https://fortune.com/2026/09/12/sam-altman-openai-ipo-delay-ill-advised-moment-safety-concerns/"&gt;that an initial public offering wouldn’t happen this year&lt;/a&gt;, not that anyone was actually expecting that!&lt;/p&gt;&lt;p&gt;There are plenty of unanswered questions about the recent turn of events. But the biggest—why stay private?—seems obvious. It buys the company more time to rev up sales without the pressure of disclosing on how much it’s paying for that growth, such as offering margin-crushing discounts to lure business from rival Anthropic.&amp;nbsp;&lt;/p&gt;</content>
@@ -262,17 +273,6 @@
     <content type="html">&lt;p&gt;Huawei Technologies plans to launch its new AI chip in the first quarter of 2027, nine months earlier than planned, as it steps up its efforts to challenge Nvidia.&lt;/p&gt; &lt;p&gt;Tao Wang, Huawei’s deputy chairman and rotating chairman, said at the Huawei Connect conference in Shanghai on Thursday that the new ...&lt;/p&gt;</content>
     <author>
       <name>Qianer Liu</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Article/17833</id>
-    <published>2026-09-17T00:01:24Z</published>
-    <updated>2026-09-17T00:08:12Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/fed-hike-changes-ai-funding-story"/>
-    <title>Fed Hike Changes AI Funding Story</title>
-    <content type="html">&lt;p&gt;Put aside, for just a moment, all the arguments about AI safety. Today’s decision by the Federal Reserve to raise interest rates may be a bigger issue for the AI sector in the short term. Long-term bond yields had already risen, of course. But the Fed’s action—pushing up short- and medium-term borrowing costs—seems sure to crimp the debt-fueled AI boom, particularly given the prospects that &lt;a href="https://www.nytimes.com/2026/09/16/business/fed-interest-rates-dot-plot.html"&gt;another rate hike&lt;/a&gt; is possible later in the year.&amp;nbsp;&lt;/p&gt;&lt;p&gt;The most vulnerable to higher rates are surely small companies that have weak or no credit ratings but need to raise money, such as would-be neoclouds hoping to finance data center projects. Think Rum Group, which &lt;a href="https://www.theinformation.com/articles/anthropic-strikes-13-7-billion-compute-deal-trump-linked-rum-group?rc=9byxri"&gt;plans a big data center in Georgia&lt;/a&gt; for a deal with Anthropic but doesn’t have financing for the project yet. (For more on startups’ financing challenges, &lt;a href="https://www.theinformation.com/newsletters/the-information-finance/compute-needs-big-payment?rc=9byxri"&gt;see here&lt;/a&gt;). But the ripple effects of higher interest rates will eventually affect everyone, including big tech firms spending a fortune to expand their data centers for AI.&lt;/p&gt;</content>
-    <author>
-      <name>Martin Peers</name>
     </author>
   </entry>
 </feed>
