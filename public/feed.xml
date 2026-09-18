@@ -1,11 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed?cb=1789732824095</id>
+  <id>tag:www.theinformation.com,2005:/feed</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1789732824095"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-18T11:59:47Z</updated>
+  <updated>2026-09-18T13:01:06Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17840</id>
+    <published>2026-09-18T13:00:41Z</published>
+    <updated>2026-09-18T13:01:06Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/ai-safety-push-sparks-demand-watchdog-groups-critics-doubt-independence"/>
+    <title>AI Safety Push Sparks Demand for Watchdog Groups. Critics Doubt Their Independence.</title>
+    <content type="html">&lt;p&gt;Rising alarm about AI’s perils is thrusting into the spotlight a collection of little-known research groups focused on the technology’s safety&amp;mdash;and fueling questions about their ability to effectively monitor the industry’s biggest companies.&lt;/p&gt;
+
+&lt;p&gt;Both &lt;a href="https://www.theinformation.com/org-charts/anthropic"&gt;Anthropic&lt;/a&gt; Chief Executive Dario Amodei and &lt;a href="https://www.theinformation.com/org-charts/openai"&gt;OpenAI&lt;/a&gt; CEO Sam Altman promised in recent days to embed evaluators from such outside research organizations inside their companies to help ensure they develop AI at a safe pace. Other executives including&amp;nbsp;&lt;a href="https://x.com/satyanadella/status/2099220712024408084"&gt;Microsoft CEO Satya Nadella&lt;/a&gt; also endorsed the idea of embedding independent evaluators in companies.&lt;/p&gt;</content>
+    <author>
+      <name>Tiffany Li</name>
+    </author>
+    <author>
+      <name>Rocket Drew</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17841</id>
+    <published>2026-09-18T12:10:44Z</published>
+    <updated>2026-09-18T12:11:16Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/tsinghua-professors-stealth-llm-startup-hits-1-4-billion-valuation"/>
+    <title>A Tsinghua Professor’s Stealth LLM Startup Hits $1.4 Billion Valuation</title>
+    <content type="html">&lt;p&gt;A secretive Chinese AI model startup founded in February by a Tsinghua University professor is now valued at more than $1.4 billion, after raising $400 million in three funding rounds from investors including &lt;a href="https://www.theinformation.com/org-charts/tencent"&gt;Tencent&lt;/a&gt;, according to a person with direct knowledge of the matter.&lt;/p&gt;
+
+&lt;p&gt;Beijing-based Naive AI is preparing to release its first large language model as early as&amp;nbsp;this month, joining the country’s fierce LLM competition as a newcomer, according to the person. The startup plans to release it as an open-weight model, similar to offerings from DeepSeek, Moonshot and Alibaba that people can download for free and customize to their liking.&lt;/p&gt;</content>
+    <author>
+      <name>Juro Osawa</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18066</id>
     <published>2026-09-18T02:41:59Z</published>
@@ -113,10 +142,10 @@
     <title>Same Flaw Found in Claude Code, Codex, Gemini CLI and GitHub Copilot</title>
     <content type="html">&lt;p&gt;While the AI industry ties itself in knots over models it thinks will pose security threats to the internet and perhaps to humanity itself, researchers are warning about flaws in AI coding agents from Anthropic, OpenAI, Google and Microsoft that pose &lt;i&gt;immediate&lt;/i&gt; risk to businesses.&lt;/p&gt;&lt;p&gt;For instance, a recently discovered (and now largely fixed) software flaw in Claude Code, Codex, Gemini CLI and GitHub Copilot would have let attackers hijack other people’s coding agents without them noticing, according to new research shared exclusively with The Information.&lt;/p&gt;&lt;p&gt;The research, published by Sequoia Capital-backed cybersecurity startup Air, discovered the same flaws in the way all four of those coding agents handle “skills” that direct agents to refer to a set of instructions and files to execute specific tasks.&lt;/p&gt;</content>
     <author>
-      <name>Laura Bratton</name>
+      <name>Aaron Holmes</name>
     </author>
     <author>
-      <name>Aaron Holmes</name>
+      <name>Laura Bratton</name>
     </author>
   </entry>
   <entry>
@@ -212,30 +241,6 @@
     <content type="html">&lt;p&gt;Google must improve the ability of its advertising technology to integrate with the products of competitors, according to the decision of a federal judge made public Wednesday. The opinion follows a ruling last year that Google operated an illegal monopoly in parts of the market for advertising ...&lt;/p&gt;</content>
     <author>
       <name>Catherine Perloff</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Article/17829</id>
-    <published>2026-09-16T22:22:12Z</published>
-    <updated>2026-09-16T22:22:49Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/compute-needs-big-payment"/>
-    <title>Why Compute Needs a Big Down Payment</title>
-    <content type="html">&lt;p&gt;Greetings!&lt;/p&gt;&lt;p&gt;If it suddenly feels like every startup is trying to raise money to throw at some kind of AI infrastructure shortage, you’re probably onto something.&amp;nbsp;&lt;/p&gt;&lt;p&gt;We reported last night that the startup behind AI assistant Instinct &lt;a href="https://www.theinformation.com/articles/ai-agent-startup-instinct-talks-10-billion-valuation"&gt;is in talks to raise&lt;/a&gt; $1 billion, as it faces compute capacity constraints after growing to more than 100,000 users on an invite-only basis. Meanwhile Coatue Management &lt;a href="https://www.theinformation.com/articles/coatue-matx-talks-new-multibillion-chip-financing-venture"&gt;has been discussing&lt;/a&gt; a multibillion-dollar joint venture involving chip startup MatX, to finance purchases of memory and logic dies and the reservation of manufacturing capacity.&amp;nbsp;&lt;/p&gt;&lt;p&gt;There’s more going on than simply scrounging up a few spare servers or chip components. Getting access to AI infrastructure increasingly means making big, long-term commitments—it’s cheaper for providers to finance new cloud capacity that way, while manufacturers are more willing to allocate scarce capacity to large, established customers. That’s making it tougher for young but fast-growing companies to get a place in line.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Smaller cloud companies often borrow heavily to finance data center capacity and purchases of graphics processing units, while even the biggest are increasingly using debt to supplement balance sheet cash. On top of that, borrowing costs have risen sharply across the economy, with benchmark yields on both long- and short-term debt climbing.&lt;/p&gt;&lt;p&gt;It’s generally cheaper to borrow money with established, long-term customers lined up, especially ones with good credit ratings, than to finance compute capacity to serve less-proven customers. Iren, for instance, said in August that roughly $3.6 billion in financing for GPUs for Microsoft carried an interest rate of around 6%. But a separate $2.4 billion in financing for GPUs for non–investment-grade customers had a rate around 3 percentage points higher.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Some cloud providers are also demanding more up-front payments, which helps lower the amount they have to raise. Iren said recent customers were paying as much as 55% of the cost of GPUs and related equipment up front. Nebius, similarly, said that the share of deals with prepayments reached an all-time high in the second quarter, with roughly 70% of newly inked deals requiring money up front.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Nebius expects to receive more than $9 billion in prepayments this year, compared with projected 2026 revenue of up to $3.4 billion, and called them the “market standard for securing capacity in a supply-constrained environment.”&amp;nbsp;&lt;/p&gt;&lt;p&gt;Renting GPU capacity as needed from startups like Runpod&amp;nbsp;&lt;a href="https://www.theinformation.com/articles/startups-try-new-cloud-companies-aws-faces-heavy-demand"&gt;is another option&lt;/a&gt;, while larger providers like CoreWeave are &lt;a href="https://www.theinformation.com/articles/nebius-coreweave-tout-short-term-cloud-deals-aws-goes-long"&gt;introducing flexible ways&lt;/a&gt; to buy inference capacity. But that approach can be expensive, and needed capacity might not always be available. Either way, scaling up can get pricey fast for AI-heavy startups, and they might need to reserve capacity before knowing exactly how usage growth will pan out.&lt;/p&gt;&lt;p&gt;In the pre–AI craze days, a consumer app might chase user growth without worrying about revenue, while computing needs were generally less intensive and cheaper, so didn’t require the same kind of hefty upfront payments. Photo sharing app BeReal, for instance, grew to nearly 8 million daily users within months of &lt;a href="https://www.theinformation.com/articles/why-investors-think-value-of-a-bereal-user-is-worth-double-that-of-snap"&gt;taking off &lt;/a&gt;in 2022, having raised roughly $90 million, though growth later fizzled.&amp;nbsp;&lt;/p&gt;&lt;p&gt;On the chipmaking side, startups are also facing challenges in securing resources ahead of growth, in that manufacturers are more likely to allocate capacity to customers that can make large commitments and have the financial resources to back them up. The joint-venture financing for MatX, which doesn’t expect to have its chip design ready for trial production until next year, would be aimed partly at helping it reserve capacity like customers such as Broadcom or Marvell Technology do.&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p&gt;It’s not clear how much money Coatue would put into a joint venture, which remains in the early stages of discussion, and whether the venture could also pull in outside financing. But Coatue already has some experience helping finance capital-heavy infrastructure deals on the data center side, sometimes in creative setups.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Coatue’s Next Frontier venture participated in a joint venture with AI infrastructure startup Fluidstack to finance a planned Indiana data center campus. A subsidiary of that JV raised $5.7 billion of debt to help buy land and build the facilities and related power infrastructure. (The financing doesn’t cover chips.) Fluidstack will lease those planned facilities to provide AI cloud services, but there’s yet another company involved—Google, &lt;a href="https://www.theinformation.com/articles/google-using-wall-street-financing-techniques-expand-chip-sales"&gt;which is guaranteeing&lt;/a&gt; Fluidstack’s lease obligations. &lt;/p&gt;&lt;article class="newFromOurReporters mb-32"&gt;&lt;h3 class="font-suisse-works text-headline-xs text-black font-medium"&gt;New From Our Reporters&lt;/h3&gt;&lt;article&gt;&lt;a href="https://www.theinformation.com/articles/inside-blackstones-bid-rule-ai-financing"&gt;&lt;img src="https://tii.imgix.net/production/articles/17799/d7d3691f-f0c2-4ed9-96fe-287965de0459.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;w=560" srcset="https://tii.imgix.net/production/articles/17799/d7d3691f-f0c2-4ed9-96fe-287965de0459.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;w=168 168w, https://tii.imgix.net/production/articles/17799/d7d3691f-f0c2-4ed9-96fe-287965de0459.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;w=336 336w, https://tii.imgix.net/production/articles/17799/d7d3691f-f0c2-4ed9-96fe-287965de0459.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;w=560 560w, https://tii.imgix.net/production/articles/17799/d7d3691f-f0c2-4ed9-96fe-287965de0459.jpg?auto=compress,format&amp;amp;fit=crop&amp;amp;w=767 767w" sizes="(min-width: 480px and max-width: 767px) 560px, (min-width: 768px) 168px, 100vw" loading="lazy"&gt;&lt;/a&gt;&lt;div&gt;&lt;span class="font-suisse-intl-mono text-overline-md text-black block mb-8"&gt;Exclusive&lt;/span&gt;&lt;h4 class="my-0 font-suisse-intl font-normal text-body-lg"&gt;&lt;a href="https://www.theinformation.com/articles/inside-blackstones-bid-rule-ai-financing" class="no-underline" style="text-decoration: none !important;"&gt;Inside Blackstone’s Bid to Rule Over AI Financing&lt;/a&gt;&lt;/h4&gt;&lt;span class="font-suisse-screen text-grayscale-gray text-byline-md mt-8 block"&gt;By Dakin Campbell&lt;/span&gt;&lt;/div&gt;&lt;/article&gt;&lt;article&gt;&lt;a href="https://www.theinformation.com/articles/erebor-banks-sweet-stablecoin-deal-backfired"&gt;&lt;img src="https://tii.imgix.net/production/articles/17819/6e436cae-8954-4f22-9b6e-eb3fb0ac4ae0.png?auto=compress,format&amp;amp;fit=crop&amp;amp;w=560" srcset="https://tii.imgix.net/production/articles/17819/6e436cae-8954-4f22-9b6e-eb3fb0ac4ae0.png?auto=compress,format&amp;amp;fit=crop&amp;amp;w=168 168w, https://tii.imgix.net/production/articles/17819/6e436cae-8954-4f22-9b6e-eb3fb0ac4ae0.png?auto=compress,format&amp;amp;fit=crop&amp;amp;w=336 336w, https://tii.imgix.net/production/articles/17819/6e436cae-8954-4f22-9b6e-eb3fb0ac4ae0.png?auto=compress,format&amp;amp;fit=crop&amp;amp;w=560 560w, https://tii.imgix.net/production/articles/17819/6e436cae-8954-4f22-9b6e-eb3fb0ac4ae0.png?auto=compress,format&amp;amp;fit=crop&amp;amp;w=767 767w" sizes="(min-width: 480px and max-width: 767px) 560px, (min-width: 768px) 168px, 100vw" loading="lazy"&gt;&lt;/a&gt;&lt;div&gt;&lt;span class="font-suisse-intl-mono text-overline-md text-black block mb-8"&gt;Exclusive&lt;/span&gt;&lt;h4 class="my-0 font-suisse-intl font-normal text-body-lg"&gt;&lt;a href="https://www.theinformation.com/articles/erebor-banks-sweet-stablecoin-deal-backfired" class="no-underline" style="text-decoration: none !important;"&gt;How Erebor Bank’s Sweet Stablecoin Deal Backfired&lt;/a&gt;&lt;/h4&gt;&lt;span class="font-suisse-screen text-grayscale-gray text-byline-md mt-8 block"&gt;By Michael Roddan and Yueqi Yang&lt;/span&gt;&lt;/div&gt;&lt;/article&gt;&lt;article&gt;&lt;a href="https://www.theinformation.com/articles/apollo-backs-ai-startups-bid-bankroll-hardware-boom"&gt;&lt;img src="https://tii.imgix.net/production/articles/17832/31a95ba9-cd7c-4bd9-bd83-b3e6784d7e6a.png?auto=compress,format&amp;amp;fit=crop&amp;amp;w=560" srcset="https://tii.imgix.net/production/articles/17832/31a95ba9-cd7c-4bd9-bd83-b3e6784d7e6a.png?auto=compress,format&amp;amp;fit=crop&amp;amp;w=168 168w, https://tii.imgix.net/production/articles/17832/31a95ba9-cd7c-4bd9-bd83-b3e6784d7e6a.png?auto=compress,format&amp;amp;fit=crop&amp;amp;w=336 336w, https://tii.imgix.net/production/articles/17832/31a95ba9-cd7c-4bd9-bd83-b3e6784d7e6a.png?auto=compress,format&amp;amp;fit=crop&amp;amp;w=560 560w, https://tii.imgix.net/production/articles/17832/31a95ba9-cd7c-4bd9-bd83-b3e6784d7e6a.png?auto=compress,format&amp;amp;fit=crop&amp;amp;w=767 767w" sizes="(min-width: 480px and max-width: 767px) 560px, (min-width: 768px) 168px, 100vw" loading="lazy"&gt;&lt;/a&gt;&lt;div&gt;&lt;span class="font-suisse-intl-mono text-overline-md text-black block mb-8"&gt;Exclusive&lt;/span&gt;&lt;h4 class="my-0 font-suisse-intl font-normal text-body-lg"&gt;&lt;a href="https://www.theinformation.com/articles/apollo-backs-ai-startups-bid-bankroll-hardware-boom" class="no-underline" style="text-decoration: none !important;"&gt;Apollo Backs AI Startups in Bid to Bankroll Hardware Boom&lt;/a&gt;&lt;/h4&gt;&lt;span class="font-suisse-screen text-grayscale-gray text-byline-md mt-8 block"&gt;By Valida Pau&lt;/span&gt;&lt;/div&gt;&lt;/article&gt;&lt;/article&gt;</content>
-    <author>
-      <name>Meredith Mazzilli</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Article/17832</id>
-    <published>2026-09-16T21:51:37Z</published>
-    <updated>2026-09-16T22:22:10Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/apollo-backs-ai-startups-bid-bankroll-hardware-boom"/>
-    <title>Apollo Backs AI Startups in Bid to Bankroll Hardware Boom</title>
-    <content type="html">&lt;p&gt;Apollo Global Management, known for leveraged buyouts and hefty financing deals, has started investing in AI and related hardware startups with the ambition to lend money to them in the future.&lt;/p&gt;
-
-&lt;p&gt;In one previously unreported deal, Apollo has already invested in the low tens of millions of dollars in Mercor’s latest funding round, which is set to value the data-labeling startup at $20 billion, according to people familiar with the matter. It has also invested in chip startup SiFive and in Hadrian, which says it’s building AI-powered factories, in transactions the companies disclosed earlier this year. It expects to make more investments in these categories, the people said.&lt;/p&gt;</content>
-    <author>
-      <name>Valida Pau</name>
     </author>
   </entry>
 </feed>
