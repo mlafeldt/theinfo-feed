@@ -1,11 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed</id>
+  <id>tag:www.theinformation.com,2005:/feed?cb=1789699341131</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1789699341131"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-18T00:54:56Z</updated>
+  <updated>2026-09-18T02:41:59Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18066</id>
+    <published>2026-09-18T02:41:59Z</published>
+    <updated>2026-09-18T02:41:59Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/u-s-lawmaker-ro-khanna-urges-chinese-labs-help-pace-frontier-ai"/>
+    <title>U.S. Lawmaker Ro Khanna Urges Chinese Labs to Help Pace Frontier AI</title>
+    <content type="html">&lt;p&gt;Ro Khanna, a Democratic congressman for Silicon Valley, has sent letters to Chinese AI companies including Alibaba Group, DeepSeek and Moonshot, requesting their commitments to join American AI labs in a binding international agreement to pace the development of the technology.&lt;/p&gt; &lt;p&gt;Khanna, a ranking ...&lt;/p&gt;</content>
+    <author>
+      <name>Juro Osawa</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18065</id>
+    <published>2026-09-18T02:37:59Z</published>
+    <updated>2026-09-18T02:37:59Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/bug-hunters-used-claude-hack-openai"/>
+    <title>Bug Hunters Used Claude to Hack OpenAI</title>
+    <content type="html">&lt;p&gt;A team of cybersecurity researchers with startup Hacktron AI used Anthropic’s Claude to hack into OpenAI, gaining access to a key repository of OpenAI’s software, &lt;a href="https://www.hacktron.ai/blog/hacking-openai"&gt;the researchers revealed Thursday&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;The hack, which occurred on July 25, further demonstrates AI companies’ vulnerability to ...&lt;/p&gt;</content>
+    <author>
+      <name>Rocket Drew</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17696</id>
     <published>2026-09-18T00:53:56Z</published>
@@ -214,30 +236,6 @@
 &lt;p&gt;In one previously unreported deal, Apollo has already invested in the low tens of millions of dollars in Mercor’s latest funding round, which is set to value the data-labeling startup at $20 billion, according to people familiar with the matter. It has also invested in chip startup SiFive and in Hadrian, which says it’s building AI-powered factories, in transactions the companies disclosed earlier this year. It expects to make more investments in these categories, the people said.&lt;/p&gt;</content>
     <author>
       <name>Valida Pau</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Article/17831</id>
-    <published>2026-09-16T20:53:37Z</published>
-    <updated>2026-09-16T21:24:04Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/zipline-talks-raise-funds-20-billion-valuation"/>
-    <title>Drone Delivery Startup Nears $20 Billion Valuation in New Funding Talks</title>
-    <content type="html">&lt;p&gt;Zipline, a startup making drones that can deliver small packages like meals and medical supplies, is in talks to raise $1 billion at a valuation of roughly $20 billion, according to three people with knowledge of the fundraise.&lt;/p&gt;
-
-&lt;p&gt;The funding round, if it closes, would more than double its valuation from its last funding round, which valued the company at $7.6 billion after the investment. It follows a partnership announced last month with Uber to expand delivery by drones across the U.S. and expectations by investors that the costs of drone delivery are falling, expanding what was once a niche market.&lt;/p&gt;</content>
-    <author>
-      <name>Julia Hornstein</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18055</id>
-    <published>2026-09-16T19:47:41Z</published>
-    <updated>2026-09-17T20:40:07Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/openai-tests-sponsored-agents-adds-ai-tools-chatgpt-advertisers"/>
-    <title>OpenAI Tests Sponsored Agents, Adds AI Tools for ChatGPT Advertisers </title>
-    <content type="html">&lt;p&gt;OpenAI said Wednesday it is testing allowing some U.S. advertisers to sponsor AI agents working in ChatGPT, a move that would bring ChatGPT ads closer to what Google and Meta Platforms already offer.&lt;/p&gt; &lt;p&gt;ChatGPT users who click an ad can now start a conversation with an AI agent to ask follow-up ...&lt;/p&gt;</content>
-    <author>
-      <name>Alix Coutures</name>
     </author>
   </entry>
 </feed>
