@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed?cb=1789704469829</id>
+  <id>tag:www.theinformation.com,2005:/feed?cb=1789721907356</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1789704469829"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1789721907356"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-18T04:07:35Z</updated>
+  <updated>2026-09-18T08:58:05Z</updated>
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18066</id>
     <published>2026-09-18T02:41:59Z</published>
-    <updated>2026-09-18T02:41:59Z</updated>
+    <updated>2026-09-18T08:58:05Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/u-s-lawmaker-ro-khanna-urges-chinese-labs-help-pace-frontier-ai"/>
     <title>U.S. Lawmaker Ro Khanna Urges Chinese Labs to Help Pace Frontier AI</title>
     <content type="html">&lt;p&gt;Ro Khanna, a Democratic congressman for Silicon Valley, has sent letters to Chinese AI companies including Alibaba Group, DeepSeek and Moonshot, requesting their commitments to join American AI labs in a binding international agreement to pace the development of the technology.&lt;/p&gt; &lt;p&gt;Khanna, a ranking ...&lt;/p&gt;</content>
@@ -20,7 +20,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18065</id>
     <published>2026-09-18T02:37:59Z</published>
-    <updated>2026-09-18T04:07:35Z</updated>
+    <updated>2026-09-18T08:48:37Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/bug-hunters-used-claude-hack-openai"/>
     <title>Bug Hunters Used Claude to Hack OpenAI</title>
     <content type="html">&lt;p&gt;A team of cybersecurity researchers with startup Hacktron AI used Anthropic’s Claude to hack into OpenAI, gaining access to a key repository of OpenAI’s software, &lt;a href="https://www.hacktron.ai/blog/hacking-openai"&gt;the researchers revealed Thursday&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;The hack, which occurred on July 25, further demonstrates AI companies’ vulnerability to ...&lt;/p&gt;</content>
@@ -53,7 +53,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18064</id>
     <published>2026-09-17T23:38:18Z</published>
-    <updated>2026-09-17T23:38:19Z</updated>
+    <updated>2026-09-18T08:33:24Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/cooley-partners-openai-legal-tool-drafting-sec-filings"/>
     <title>Cooley Partners with OpenAI on Legal Tool For Drafting SEC Filings</title>
     <content type="html">&lt;p&gt;OpenAI and law firm Cooley co-launched a product, called GO Public, that can draft S-1 filings, the document companies must submit to the Securities and Exchange Commission before they can go public, Cooley said Thursday.&lt;/p&gt; &lt;p&gt;Lawyers at Cooley can prompt GO Public, which also has access to Cooley ...&lt;/p&gt;</content>
@@ -75,7 +75,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18062</id>
     <published>2026-09-17T20:31:22Z</published>
-    <updated>2026-09-17T21:14:26Z</updated>
+    <updated>2026-09-18T08:48:37Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/bridgewaters-jensen-says-hedge-fund-small-position-ai-build-trade"/>
     <title>Bridgewater’s Jensen Says Hedge Fund Has “Very Small Position” in AI Build Out Trade</title>
     <content type="html">&lt;p&gt;Greg Jensen, the managing chief investment officer of Bridgewater Associates, one of the world’s largest hedge funds, said demand growth for AI infrastructure is largely priced into markets. As a result, Bridgewater has begun looking for investment opportunities elsewhere.&lt;/p&gt; &lt;p&gt;“We thought this was ...&lt;/p&gt;</content>
@@ -86,7 +86,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18061</id>
     <published>2026-09-17T20:13:59Z</published>
-    <updated>2026-09-17T20:40:06Z</updated>
+    <updated>2026-09-18T08:39:41Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/sec-allow-tokenized-stocks-u-s"/>
     <title>SEC to Allow Tokenized Stocks in U.S. </title>
     <content type="html">&lt;p&gt;The U.S. Securities and Exchange Commission on Thursday &lt;a href="https://www.sec.gov/newsroom/press-releases/2026-90-sec-issues-innovation-exemption-facilitate-trading-tokenized-nms-stock-request-comment"&gt;issued&lt;/a&gt; a temporary order allowing certain types of tokenized stocks—crypto tokens that represent equities—to trade in the U.S., a crypto-friendly move that has &lt;a href="https://www.theinformation.com/articles/sec-moving-allow-stocks-trade-like-cryptocurrencies"&gt;drawn&lt;/a&gt; pushback from some traditional financial firms. Shares of tokenization ...&lt;/p&gt;</content>
@@ -97,7 +97,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18060</id>
     <published>2026-09-17T19:22:56Z</published>
-    <updated>2026-09-17T20:40:06Z</updated>
+    <updated>2026-09-18T08:58:05Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/microsoft-execs-voiced-concern-openais-data-use-new-york-times-claims"/>
     <title>Microsoft Execs Voiced Concern About OpenAI’s Data Use, New York Times Claims</title>
     <content type="html">&lt;p&gt;Microsoft executives expressed concerns in recent years that OpenAI’s use of paywalled articles from the New York Times and other publishers to train its models could pose legal issues, and OpenAI executives discussed how doing so could threaten those publishers’ businesses—but OpenAI proceeded ...&lt;/p&gt;</content>
@@ -135,7 +135,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18059</id>
     <published>2026-09-17T15:26:51Z</published>
-    <updated>2026-09-17T20:40:06Z</updated>
+    <updated>2026-09-18T08:48:37Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/coreweave-unveils-new-atm-program-seeks-3-billion-convertible-bond-sale"/>
     <title> CoreWeave Unveils New ATM Program, Seeks $3 Billion in Convertible Bond Sale</title>
     <content type="html">&lt;p&gt;CoreWeave said on Thursday that it could sell up to 35 million shares, worth roughly $3 billion based on the prior day’s closing price, through a new at-the-market offering program. At the same time, the company announced plans to raise $3 billion in a convertible note issue, with an option for ...&lt;/p&gt;</content>
@@ -173,7 +173,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18058</id>
     <published>2026-09-17T09:05:30Z</published>
-    <updated>2026-09-17T20:40:07Z</updated>
+    <updated>2026-09-18T08:33:24Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/huawei-speeds-ai-chip-launch-challenge-nvidia"/>
     <title>Huawei Speeds Up AI Chip Launch to Challenge Nvidia</title>
     <content type="html">&lt;p&gt;Huawei Technologies plans to launch its new AI chip in the first quarter of 2027, nine months earlier than planned, as it steps up its efforts to challenge Nvidia.&lt;/p&gt; &lt;p&gt;Tao Wang, Huawei’s deputy chairman and rotating chairman, said at the Huawei Connect conference in Shanghai on Thursday that the new ...&lt;/p&gt;</content>
@@ -195,7 +195,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18057</id>
     <published>2026-09-16T23:52:39Z</published>
-    <updated>2026-09-17T20:40:07Z</updated>
+    <updated>2026-09-18T08:33:06Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/openai-discloses-safety-incidents-adopts-new-reporting-framework"/>
     <title>OpenAI Discloses More Safety Incidents and Adopts New Reporting Framework</title>
     <content type="html">&lt;p&gt;OpenAI released &lt;a href="https://openai.com/index/model-misalignment-reporting-framework/"&gt;a new framework&lt;/a&gt; on Wednesday for how it aims to report unsafe or concerning behavior in its models, and disclosed &lt;a href="https://alignment.openai.com/misalignment-reports/"&gt;six incidents of such behavior&lt;/a&gt; it had observed in the past six months.&lt;/p&gt; &lt;p&gt;The framework comes after &lt;a href="https://www.theinformation.com/articles/anthropic-researchers-terminator-style-warning-caught-fire"&gt;multiple employee warnings&lt;/a&gt; and &lt;a href="https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident"&gt;hacking incidents&lt;/a&gt; increased public ...&lt;/p&gt;</content>
@@ -206,7 +206,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18056</id>
     <published>2026-09-16T23:45:59Z</published>
-    <updated>2026-09-17T20:40:07Z</updated>
+    <updated>2026-09-18T08:33:24Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/google-must-make-tech-compatible-rivals-judge-rules"/>
     <title>Google Must Make Tech More Compatible With Rivals, Judge Rules</title>
     <content type="html">&lt;p&gt;Google must improve the ability of its advertising technology to integrate with the products of competitors, according to the decision of a federal judge made public Wednesday. The opinion follows a ruling last year that Google operated an illegal monopoly in parts of the market for advertising ...&lt;/p&gt;</content>
