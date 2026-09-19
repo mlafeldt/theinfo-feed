@@ -5,7 +5,18 @@
   <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-18T22:26:07Z</updated>
+  <updated>2026-09-18T23:33:37Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18069</id>
+    <published>2026-09-18T23:22:32Z</published>
+    <updated>2026-09-18T23:33:37Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/googles-gemini-model-hacks-companies-test"/>
+    <title>Google’s Gemini Model Hacks Companies During Test</title>
+    <content type="html">&lt;p&gt;Google acknowledged that its Gemini AI model unexpectedly breached the networks of three outside companies during safety evaluations conducted by third-party testing firm Irregular last May, The Wall Street Journal reported.&lt;/p&gt; &lt;p&gt;During the exercise, Gemini gained entry to the companies’ systems by ...&lt;/p&gt;</content>
+    <author>
+      <name>Nick Wingfield</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17844</id>
     <published>2026-09-18T21:55:54Z</published>
@@ -116,7 +127,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18066</id>
     <published>2026-09-18T02:41:59Z</published>
-    <updated>2026-09-18T16:57:34Z</updated>
+    <updated>2026-09-18T23:33:08Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/u-s-lawmaker-ro-khanna-urges-chinese-labs-help-pace-frontier-ai"/>
     <title>U.S. Lawmaker Ro Khanna Urges Chinese Labs to Help Pace Frontier AI</title>
     <content type="html">&lt;p&gt;Ro Khanna, a Democratic congressman for Silicon Valley, has sent letters to Chinese AI companies including Alibaba Group, DeepSeek and Moonshot, requesting their commitments to join American AI labs in a binding international agreement to pace the development of the technology.&lt;/p&gt; &lt;p&gt;Khanna, a ranking ...&lt;/p&gt;</content>
@@ -127,7 +138,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18065</id>
     <published>2026-09-18T02:37:59Z</published>
-    <updated>2026-09-18T16:57:34Z</updated>
+    <updated>2026-09-18T23:33:09Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/bug-hunters-used-claude-hack-openai"/>
     <title>Bug Hunters Used Claude to Hack OpenAI</title>
     <content type="html">&lt;p&gt;A team of cybersecurity researchers with startup Hacktron AI used Anthropic’s Claude to hack into OpenAI, gaining access to a key repository of OpenAI’s software, &lt;a href="https://www.hacktron.ai/blog/hacking-openai"&gt;the researchers revealed Thursday&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;The hack, which occurred on July 25, further demonstrates AI companies’ vulnerability to ...&lt;/p&gt;</content>
@@ -160,7 +171,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18064</id>
     <published>2026-09-17T23:38:18Z</published>
-    <updated>2026-09-18T16:57:35Z</updated>
+    <updated>2026-09-18T23:33:37Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/cooley-partners-openai-legal-tool-drafting-sec-filings"/>
     <title>Cooley Partners with OpenAI on Legal Tool For Drafting SEC Filings</title>
     <content type="html">&lt;p&gt;OpenAI and law firm Cooley co-launched a product, called GO Public, that can draft S-1 filings, the document companies must submit to the Securities and Exchange Commission before they can go public, Cooley said Thursday.&lt;/p&gt; &lt;p&gt;Lawyers at Cooley can prompt GO Public, which also has access to Cooley ...&lt;/p&gt;</content>
@@ -171,7 +182,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18063</id>
     <published>2026-09-17T20:40:31Z</published>
-    <updated>2026-09-18T16:57:34Z</updated>
+    <updated>2026-09-18T23:33:08Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/openai-hires-global-sales-chief-spacex-two-senior-snowflake-salespeople"/>
     <title>Exclusive: OpenAI Hires Global Sales Chief From SpaceX and Two Senior Snowflake Salespeople </title>
     <content type="html">&lt;p&gt;OpenAI has hired Brian McCarthy from SpaceX’s Cursor unit as its new global sales chief, reporting to recently hired Chief Revenue Officer Dali Rajic, the AI firm said Thursday.&lt;/p&gt; &lt;p&gt;In addition, two veteran sales executives from Snowflake, including a senior vice president who helped negotiate the ...&lt;/p&gt;</content>
@@ -182,7 +193,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18062</id>
     <published>2026-09-17T20:31:22Z</published>
-    <updated>2026-09-18T16:57:34Z</updated>
+    <updated>2026-09-18T23:33:09Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/bridgewaters-jensen-says-hedge-fund-small-position-ai-build-trade"/>
     <title>Bridgewater’s Jensen Says Hedge Fund Has “Very Small Position” in AI Build Out Trade</title>
     <content type="html">&lt;p&gt;Greg Jensen, the managing chief investment officer of Bridgewater Associates, one of the world’s largest hedge funds, said demand growth for AI infrastructure is largely priced into markets. As a result, Bridgewater has begun looking for investment opportunities elsewhere.&lt;/p&gt; &lt;p&gt;“We thought this was ...&lt;/p&gt;</content>
@@ -193,7 +204,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18061</id>
     <published>2026-09-17T20:13:59Z</published>
-    <updated>2026-09-18T16:57:34Z</updated>
+    <updated>2026-09-18T23:33:08Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/sec-allow-tokenized-stocks-u-s"/>
     <title>SEC to Allow Tokenized Stocks in U.S. </title>
     <content type="html">&lt;p&gt;The U.S. Securities and Exchange Commission on Thursday &lt;a href="https://www.sec.gov/newsroom/press-releases/2026-90-sec-issues-innovation-exemption-facilitate-trading-tokenized-nms-stock-request-comment"&gt;issued&lt;/a&gt; a temporary order allowing certain types of tokenized stocks—crypto tokens that represent equities—to trade in the U.S., a crypto-friendly move that has &lt;a href="https://www.theinformation.com/articles/sec-moving-allow-stocks-trade-like-cryptocurrencies"&gt;drawn&lt;/a&gt; pushback from some traditional financial firms. Shares of tokenization ...&lt;/p&gt;</content>
@@ -204,7 +215,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18060</id>
     <published>2026-09-17T19:22:56Z</published>
-    <updated>2026-09-18T16:57:34Z</updated>
+    <updated>2026-09-18T23:33:08Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/microsoft-execs-voiced-concern-openais-data-use-new-york-times-claims"/>
     <title>Microsoft Execs Voiced Concern About OpenAI’s Data Use, New York Times Claims</title>
     <content type="html">&lt;p&gt;Microsoft executives expressed concerns in recent years that OpenAI’s use of paywalled articles from the New York Times and other publishers to train its models could pose legal issues, and OpenAI executives discussed how doing so could threaten those publishers’ businesses—but OpenAI proceeded ...&lt;/p&gt;</content>
@@ -242,7 +253,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18059</id>
     <published>2026-09-17T15:26:51Z</published>
-    <updated>2026-09-18T16:57:35Z</updated>
+    <updated>2026-09-18T23:33:37Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/coreweave-unveils-new-atm-program-seeks-3-billion-convertible-bond-sale"/>
     <title> CoreWeave Unveils New ATM Program, Seeks $3 Billion in Convertible Bond Sale</title>
     <content type="html">&lt;p&gt;CoreWeave said on Thursday that it could sell up to 35 million shares, worth roughly $3 billion based on the prior day’s closing price, through a new at-the-market offering program. At the same time, the company announced plans to raise $3 billion in a convertible note issue, with an option for ...&lt;/p&gt;</content>
@@ -259,22 +270,6 @@
     <content type="html">&lt;p&gt;Remember when &lt;b&gt;OpenAI&lt;/b&gt; &lt;a href="https://www.theinformation.com/newsletters/ai-agenda/openai-math-result-stokes-data-sharing-concerns"&gt;landed in hot water earlier this month&lt;/a&gt; after mathematicians accused the company of trying to steal their thunder for solving an ultra-difficult math problem? (I know it feels like a million years ago given all the news cycles since then.)&lt;/p&gt;&lt;p&gt;Well, it turns out OpenAI is close to solving another math problem from the &lt;b&gt;Millennium Prize Problems&lt;/b&gt;, a set of seven famous math challenges including that earlier &lt;b&gt;“Navier-Stokes existence and smoothness problem,”&lt;/b&gt; according to a person with knowledge of the solution.&lt;/p&gt;&lt;p&gt;Employees expect the next problem, known as the &lt;b&gt;Hodge Conjecture&lt;/b&gt;, to be solved relatively soon, the person said. The &lt;a href="https://www.claymath.org/millennium/hodge-conjecture/"&gt;Hodge Conjecture&lt;/a&gt; asks whether certain geometric features of shapes defined by polynomial equations can always be described using simpler algebraic pieces. It could take the company longer to announce the solution, though, because it’s trying to figure out how to collaborate with the math community to make the announcement without triggering another PR nightmare, the person said.&amp;nbsp;&lt;/p&gt;</content>
     <author>
       <name>Stephanie Palazzolo</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Article/17834</id>
-    <published>2026-09-17T13:09:46Z</published>
-    <updated>2026-09-17T16:58:56Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/introducing-informations-50-influential-people-tech"/>
-    <title>Introducing The Information’s 50 Most Influential People in Tech</title>
-    <content type="html">&lt;p&gt;Money, technical savvy and disruptive ideas all matter within the technology industry. But the most seismic force is influence. Those who have it build, fund and steer the companies that alter the world&amp;mdash;again and again. Those without it can only rise so far.&lt;/p&gt;
-
-&lt;p&gt;So who’s got that clout? You’ll find the answer by poring over our new list: &lt;a href="https://www.theinformation.com/projects/50-most-influential-people-in-tech"&gt;the 50 Most Influential People in Tech&lt;/a&gt;. It isn’t just a snapshot of influence today. Coming up with such a list would be a relatively simple exercise. Rather, we’re providing a roster of the people we believe will have the most influence over the next decade, a more complex task that The Information is uniquely well positioned to pull off.&lt;/p&gt;</content>
-    <author>
-      <name>Jessica E. Lessin</name>
-    </author>
-    <author>
-      <name>Jemima McEvoy</name>
     </author>
   </entry>
 </feed>
