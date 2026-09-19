@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed?cb=1789844170966</id>
+  <id>tag:www.theinformation.com,2005:/feed?cb=1789848151315</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1789844170966"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1789848151315"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-19T18:55:26Z</updated>
+  <updated>2026-09-19T20:01:40Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18071</id>
+    <published>2026-09-19T20:01:40Z</published>
+    <updated>2026-09-19T20:01:40Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/president-trump-announces-ai-force-will-appoint-new-czar"/>
+    <title>President Trump Announces ‘AI Force,’ Will Appoint New Czar</title>
+    <content type="html">&lt;p&gt;President Donald Trump on Saturday said he was creating a new “AI Force,” that would be similar to his Space Force—the arm of the Defense Department focused on space combat started by Trump during his first administration—and he planned to appoint a new AI czar to lead it.&lt;/p&gt; &lt;p&gt;On his Truth Social ...&lt;/p&gt;</content>
+    <author>
+      <name>Laura Mandaro</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17842</id>
     <published>2026-09-19T15:05:13Z</published>
@@ -20,7 +31,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18070</id>
     <published>2026-09-19T02:32:44Z</published>
-    <updated>2026-09-19T03:54:28Z</updated>
+    <updated>2026-09-19T19:48:50Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/openai-said-forecast-nearly-280-billion-cash-burn-end-2030"/>
     <title>OpenAI Said to Forecast Nearly $280 Billion in Cash Burn Through End 2030</title>
     <content type="html">&lt;p&gt;OpenAI has told some investors that it expects to burn $278 billion by the end of 2030, the Financial Times reported, as it spends more on cloud computing and chips to run and train its AI. The forecast, based on a recent presentation, is higher than the one it gave investors early this year, &lt;a href="https://www.theinformation.com/articles/openai-boost-revenue-forecasts-predicts-112-billion-cash-burn-2030?rc=zjctrx"&gt; ...&lt;/a&gt;&lt;/p&gt;</content>
@@ -31,7 +42,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18069</id>
     <published>2026-09-18T23:22:32Z</published>
-    <updated>2026-09-19T18:55:26Z</updated>
+    <updated>2026-09-19T19:48:50Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/googles-gemini-model-hacks-companies-test"/>
     <title>Google’s Gemini Model Hacks Companies During Test</title>
     <content type="html">&lt;p&gt;Google acknowledged that its Gemini AI model unexpectedly breached the networks of three outside companies during safety evaluations conducted by third-party testing firm Irregular last May, The Wall Street Journal reported.&lt;/p&gt; &lt;p&gt;During the exercise, Gemini gained entry to the companies’ systems by ...&lt;/p&gt;</content>
@@ -55,7 +66,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18068</id>
     <published>2026-09-18T20:56:41Z</published>
-    <updated>2026-09-18T21:00:13Z</updated>
+    <updated>2026-09-19T19:48:50Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/nscale-ipo-files-go-public-shows-huge-revenue-jump-steep-losses"/>
     <title>Nscale IPO Files to Go Public, Shows Huge Revenue Jump And Steep Losses </title>
     <content type="html">&lt;p&gt;Nvidia-backed startup Nscale disclosed Friday that revenue had surged 10 times in the first half of this year from the year-ago period, but losses mounted as the cloud startup spent billions on data centers and the AI chips they’ll house.&lt;/p&gt; &lt;p&gt;The two-year-old UK startup, a spinout of an Australian ...&lt;/p&gt;</content>
@@ -109,7 +120,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18067</id>
     <published>2026-09-18T13:47:47Z</published>
-    <updated>2026-09-18T16:57:17Z</updated>
+    <updated>2026-09-19T19:48:50Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/coreweave-prices-3-7-billion-convertible-bond-offering"/>
     <title>CoreWeave Prices $3.7 Billion Convertible Bond Offering </title>
     <content type="html">&lt;p&gt;CoreWeave said on Friday it had priced $3.7 billion in convertible bonds, more than the AI cloud provider had previously said it was targeting.&lt;/p&gt; &lt;p&gt;The convertible senior notes will be due in 2033 and carry a coupon of 2.875%, at the top of the pricing range marketed to investors and up from the ...&lt;/p&gt;</content>
@@ -149,7 +160,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18066</id>
     <published>2026-09-18T02:41:59Z</published>
-    <updated>2026-09-18T23:33:08Z</updated>
+    <updated>2026-09-19T19:48:51Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/u-s-lawmaker-ro-khanna-urges-chinese-labs-help-pace-frontier-ai"/>
     <title>U.S. Lawmaker Ro Khanna Urges Chinese Labs to Help Pace Frontier AI</title>
     <content type="html">&lt;p&gt;Ro Khanna, a Democratic congressman for Silicon Valley, has sent letters to Chinese AI companies including Alibaba Group, DeepSeek and Moonshot, requesting their commitments to join American AI labs in a binding international agreement to pace the development of the technology.&lt;/p&gt; &lt;p&gt;Khanna, a ranking ...&lt;/p&gt;</content>
@@ -160,7 +171,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18065</id>
     <published>2026-09-18T02:37:59Z</published>
-    <updated>2026-09-18T23:33:09Z</updated>
+    <updated>2026-09-19T19:48:51Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/bug-hunters-used-claude-hack-openai"/>
     <title>Bug Hunters Used Claude to Hack OpenAI</title>
     <content type="html">&lt;p&gt;A team of cybersecurity researchers with startup Hacktron AI used Anthropic’s Claude to hack into OpenAI, gaining access to a key repository of OpenAI’s software, &lt;a href="https://www.hacktron.ai/blog/hacking-openai"&gt;the researchers revealed Thursday&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;The hack, which occurred on July 25, further demonstrates AI companies’ vulnerability to ...&lt;/p&gt;</content>
@@ -204,7 +215,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18063</id>
     <published>2026-09-17T20:40:31Z</published>
-    <updated>2026-09-18T23:33:08Z</updated>
+    <updated>2026-09-19T19:48:50Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/openai-hires-global-sales-chief-spacex-two-senior-snowflake-salespeople"/>
     <title>Exclusive: OpenAI Hires Global Sales Chief From SpaceX and Two Senior Snowflake Salespeople </title>
     <content type="html">&lt;p&gt;OpenAI has hired Brian McCarthy from SpaceX’s Cursor unit as its new global sales chief, reporting to recently hired Chief Revenue Officer Dali Rajic, the AI firm said Thursday.&lt;/p&gt; &lt;p&gt;In addition, two veteran sales executives from Snowflake, including a senior vice president who helped negotiate the ...&lt;/p&gt;</content>
@@ -226,7 +237,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18061</id>
     <published>2026-09-17T20:13:59Z</published>
-    <updated>2026-09-18T23:33:08Z</updated>
+    <updated>2026-09-19T19:48:50Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/sec-allow-tokenized-stocks-u-s"/>
     <title>SEC to Allow Tokenized Stocks in U.S. </title>
     <content type="html">&lt;p&gt;The U.S. Securities and Exchange Commission on Thursday &lt;a href="https://www.sec.gov/newsroom/press-releases/2026-90-sec-issues-innovation-exemption-facilitate-trading-tokenized-nms-stock-request-comment"&gt;issued&lt;/a&gt; a temporary order allowing certain types of tokenized stocks—crypto tokens that represent equities—to trade in the U.S., a crypto-friendly move that has &lt;a href="https://www.theinformation.com/articles/sec-moving-allow-stocks-trade-like-cryptocurrencies"&gt;drawn&lt;/a&gt; pushback from some traditional financial firms. Shares of tokenization ...&lt;/p&gt;</content>
@@ -237,7 +248,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18060</id>
     <published>2026-09-17T19:22:56Z</published>
-    <updated>2026-09-18T23:33:08Z</updated>
+    <updated>2026-09-19T19:48:51Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/microsoft-execs-voiced-concern-openais-data-use-new-york-times-claims"/>
     <title>Microsoft Execs Voiced Concern About OpenAI’s Data Use, New York Times Claims</title>
     <content type="html">&lt;p&gt;Microsoft executives expressed concerns in recent years that OpenAI’s use of paywalled articles from the New York Times and other publishers to train its models could pose legal issues, and OpenAI executives discussed how doing so could threaten those publishers’ businesses—but OpenAI proceeded ...&lt;/p&gt;</content>
@@ -257,19 +268,6 @@
     </author>
     <author>
       <name>Aaron Holmes</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Article/17835</id>
-    <published>2026-09-17T16:58:45Z</published>
-    <updated>2026-09-18T17:12:24Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/bridgewaters-greg-jensen-calls-regulating-ai-firms-like-systemically-important-banks"/>
-    <title>Bridgewater’s Jensen Wants AI Compute Giants Regulated Like Big Banks</title>
-    <content type="html">&lt;p&gt;Greg Jensen,&amp;nbsp;managing chief investment officer at Bridgewater Associates, thinks the top holders of AI compute warrant extra regulation, similar to what governs the world’s biggest financial institutions.&lt;/p&gt;
-
-&lt;p&gt;If a company controls more than, say, 5% of U.S. or global compute, it should be subject to heightened oversight, “like we do with systemically important banks,” Jensen said. In a wide-ranging interview, he also discussed Bridgewater’s growing use of AI in investing and where it still remains cautious, including leaving risk controls and trade execution to what he called “human-driven algorithms.”&lt;/p&gt;</content>
-    <author>
-      <name>Dakin Campbell</name>
     </author>
   </entry>
 </feed>
