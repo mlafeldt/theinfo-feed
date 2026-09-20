@@ -1,15 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed?cb=1789912881853</id>
+  <id>tag:www.theinformation.com,2005:/feed?cb=1789916500897</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1789912881853"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1789916500897"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-20T14:01:26Z</updated>
+  <updated>2026-09-20T15:01:35Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17849</id>
+    <published>2026-09-20T15:01:10Z</published>
+    <updated>2026-09-20T15:01:35Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/apple-betting-foldable-iphones"/>
+    <title>Why Apple Is Betting on Foldable iPhones</title>
+    <content type="html">&lt;p&gt;When new Apple CEO John Ternus showed off the first version of a foldable iPhone at an event earlier this month, there was a good chance many Americans watching clips of the video stream had never thought hard about buying such a device.&lt;/p&gt;
+
+&lt;p&gt;But &lt;a href="https://www.theinformation.com/org-charts/apple"&gt;Apple&lt;/a&gt; is betting that the same demand that’s driven double-digit growth of such phones outside North America for Huawei, Samsung and others will boost sales of its flagship iPhones. Demand for such smartphones, whose hinged sides open to one large glass screen, should also make an expected drop in global smartphone shipments this year less severe than it otherwise would have been.&lt;/p&gt;</content>
+    <author>
+      <name>Tiffany Li</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17848</id>
     <published>2026-09-20T14:01:00Z</published>
-    <updated>2026-09-20T14:01:26Z</updated>
+    <updated>2026-09-20T14:31:56Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/jane-street-linked-data-center-debt-sours"/>
     <title>Jane Street-Linked Data Center Debt Sours</title>
     <content type="html">&lt;p&gt;Secretive Wall Street trading firm Jane Street has become famous in the past couple of years for its sizable AI-related spending, as it has struck big cloud deals to handle its AI computing needs and made investments in neocloud CoreWeave. Yet even a Jane Street&amp;ndash;related deal for data center debt hasn’t won over investors.&lt;/p&gt;
@@ -151,10 +164,10 @@
 
 &lt;p&gt;Both &lt;a href="https://www.theinformation.com/org-charts/anthropic"&gt;Anthropic&lt;/a&gt; Chief Executive Dario Amodei and &lt;a href="https://www.theinformation.com/org-charts/openai"&gt;OpenAI&lt;/a&gt; CEO Sam Altman promised in recent days to embed evaluators from such outside research organizations inside their companies to help ensure they develop AI at a safe pace. Other executives including&amp;nbsp;&lt;a href="https://x.com/satyanadella/status/2099220712024408084"&gt;Microsoft CEO Satya Nadella&lt;/a&gt; also endorsed the idea of embedding independent evaluators in companies.&lt;/p&gt;</content>
     <author>
-      <name>Rocket Drew</name>
+      <name>Tiffany Li</name>
     </author>
     <author>
-      <name>Tiffany Li</name>
+      <name>Rocket Drew</name>
     </author>
   </entry>
   <entry>
@@ -256,17 +269,6 @@
     <content type="html">&lt;p&gt;The U.S. Securities and Exchange Commission on Thursday &lt;a href="https://www.sec.gov/newsroom/press-releases/2026-90-sec-issues-innovation-exemption-facilitate-trading-tokenized-nms-stock-request-comment"&gt;issued&lt;/a&gt; a temporary order allowing certain types of tokenized stocks—crypto tokens that represent equities—to trade in the U.S., a crypto-friendly move that has &lt;a href="https://www.theinformation.com/articles/sec-moving-allow-stocks-trade-like-cryptocurrencies"&gt;drawn&lt;/a&gt; pushback from some traditional financial firms. Shares of tokenization ...&lt;/p&gt;</content>
     <author>
       <name>Yueqi Yang</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18060</id>
-    <published>2026-09-17T19:22:56Z</published>
-    <updated>2026-09-19T19:48:51Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/microsoft-execs-voiced-concern-openais-data-use-new-york-times-claims"/>
-    <title>Microsoft Execs Voiced Concern About OpenAI’s Data Use, New York Times Claims</title>
-    <content type="html">&lt;p&gt;Microsoft executives expressed concerns in recent years that OpenAI’s use of paywalled articles from the New York Times and other publishers to train its models could pose legal issues, and OpenAI executives discussed how doing so could threaten those publishers’ businesses—but OpenAI proceeded ...&lt;/p&gt;</content>
-    <author>
-      <name>Aaron Holmes</name>
     </author>
   </entry>
 </feed>
