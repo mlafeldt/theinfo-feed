@@ -1,15 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed?cb=1789916500897</id>
+  <id>tag:www.theinformation.com,2005:/feed</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1789916500897"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-20T15:01:35Z</updated>
+  <updated>2026-09-20T16:01:44Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17851</id>
+    <published>2026-09-20T16:01:03Z</published>
+    <updated>2026-09-20T16:01:44Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/nvidia-trying-solve-data-center-power-bottleneck"/>
+    <title>How Nvidia Is Trying to Solve the Data Center Power Bottleneck</title>
+    <content type="html">&lt;p&gt;Nvidia is tracking “every single gigawatt of land, power and shell around the world, literally everything on the planet,” CEO Jensen Huang said at Goldman Sachs’ annual tech conference earlier this month. “We know where everything is.”&lt;/p&gt;&lt;p&gt;Why track power so intently?&lt;/p&gt;&lt;p&gt;Nvidia sees power availability as a key barrier to getting its AI server chips online as soon as they ship, as we’ve chronicled in this column &lt;a href="https://www.theinformation.com/newsletters/ai-infrastructure/exclusive-spacex-lays-groundwork-turbine-blade-factory-solve-data-center-power-crunch"&gt;over&lt;/a&gt; and &lt;a href="https://www.theinformation.com/newsletters/ai-infrastructure/fearing-ai-chip-glut-data-center-developers-choosin-texas"&gt;over&lt;/a&gt;. While securing power is the first step to any AI data center project, even before getting the land or chips, developers that work with Google, Microsoft, Oracle and others fear a glut of unused chips due to an eventual power shortage.&lt;/p&gt;</content>
+    <author>
+      <name>Phoebe Liu</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17849</id>
     <published>2026-09-20T15:01:10Z</published>
-    <updated>2026-09-20T15:01:35Z</updated>
+    <updated>2026-09-20T15:31:56Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/apple-betting-foldable-iphones"/>
     <title>Why Apple Is Betting on Foldable iPhones</title>
     <content type="html">&lt;p&gt;When new Apple CEO John Ternus showed off the first version of a foldable iPhone at an event earlier this month, there was a good chance many Americans watching clips of the video stream had never thought hard about buying such a device.&lt;/p&gt;
@@ -164,10 +175,10 @@
 
 &lt;p&gt;Both &lt;a href="https://www.theinformation.com/org-charts/anthropic"&gt;Anthropic&lt;/a&gt; Chief Executive Dario Amodei and &lt;a href="https://www.theinformation.com/org-charts/openai"&gt;OpenAI&lt;/a&gt; CEO Sam Altman promised in recent days to embed evaluators from such outside research organizations inside their companies to help ensure they develop AI at a safe pace. Other executives including&amp;nbsp;&lt;a href="https://x.com/satyanadella/status/2099220712024408084"&gt;Microsoft CEO Satya Nadella&lt;/a&gt; also endorsed the idea of embedding independent evaluators in companies.&lt;/p&gt;</content>
     <author>
-      <name>Tiffany Li</name>
+      <name>Rocket Drew</name>
     </author>
     <author>
-      <name>Rocket Drew</name>
+      <name>Tiffany Li</name>
     </author>
   </entry>
   <entry>
@@ -258,17 +269,6 @@
     <content type="html">&lt;p&gt;Greg Jensen, the managing chief investment officer of Bridgewater Associates, one of the world’s largest hedge funds, said demand growth for AI infrastructure is largely priced into markets. As a result, Bridgewater has begun looking for investment opportunities elsewhere.&lt;/p&gt; &lt;p&gt;“We thought this was ...&lt;/p&gt;</content>
     <author>
       <name>Dakin Campbell</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18061</id>
-    <published>2026-09-17T20:13:59Z</published>
-    <updated>2026-09-19T19:48:50Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/sec-allow-tokenized-stocks-u-s"/>
-    <title>SEC to Allow Tokenized Stocks in U.S. </title>
-    <content type="html">&lt;p&gt;The U.S. Securities and Exchange Commission on Thursday &lt;a href="https://www.sec.gov/newsroom/press-releases/2026-90-sec-issues-innovation-exemption-facilitate-trading-tokenized-nms-stock-request-comment"&gt;issued&lt;/a&gt; a temporary order allowing certain types of tokenized stocks—crypto tokens that represent equities—to trade in the U.S., a crypto-friendly move that has &lt;a href="https://www.theinformation.com/articles/sec-moving-allow-stocks-trade-like-cryptocurrencies"&gt;drawn&lt;/a&gt; pushback from some traditional financial firms. Shares of tokenization ...&lt;/p&gt;</content>
-    <author>
-      <name>Yueqi Yang</name>
     </author>
   </entry>
 </feed>
