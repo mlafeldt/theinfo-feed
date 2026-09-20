@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed?cb=1789904977432</id>
+  <id>tag:www.theinformation.com,2005:/feed</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1789904977432"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-20T11:49:26Z</updated>
+  <updated>2026-09-20T12:55:44Z</updated>
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18071</id>
     <published>2026-09-19T20:01:40Z</published>
@@ -31,7 +31,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18070</id>
     <published>2026-09-19T02:32:44Z</published>
-    <updated>2026-09-19T19:48:50Z</updated>
+    <updated>2026-09-20T12:43:30Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/openai-said-forecast-nearly-280-billion-cash-burn-end-2030"/>
     <title>OpenAI Said to Forecast Nearly $280 Billion in Cash Burn Through End 2030</title>
     <content type="html">&lt;p&gt;OpenAI has told some investors that it expects to burn $278 billion by the end of 2030, the Financial Times reported, as it spends more on cloud computing and chips to run and train its AI. The forecast, based on a recent presentation, is higher than the one it gave investors early this year, &lt;a href="https://www.theinformation.com/articles/openai-boost-revenue-forecasts-predicts-112-billion-cash-burn-2030?rc=zjctrx"&gt; ...&lt;/a&gt;&lt;/p&gt;</content>
@@ -53,7 +53,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17844</id>
     <published>2026-09-18T21:55:54Z</published>
-    <updated>2026-09-18T22:26:07Z</updated>
+    <updated>2026-09-20T12:55:44Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/anthropic-ipo-waiting-game-puts-wall-street-edge"/>
     <title>Anthropic IPO Waiting Game Puts Wall Street on Edge</title>
     <content type="html">&lt;p&gt;&lt;a href="https://www.theinformation.com/org-charts/anthropic"&gt;Anthropic&lt;/a&gt; finance chief Krishna Rao and other executives met with groups of prospective public investors last month with his company’s numbers looking spiffier than ever. The company had gone from spending about $2.30 on operations for every $1 of revenue in spring of 2025 to turning a slight profit on that basis in the June quarter&amp;mdash;bucking the stereotype of money-losing AI companies that are addicted to spending.&lt;/p&gt;
@@ -264,10 +264,10 @@
     <title>Same Flaw Found in Claude Code, Codex, Gemini CLI and GitHub Copilot</title>
     <content type="html">&lt;p&gt;While the AI industry ties itself in knots over models it thinks will pose security threats to the internet and perhaps to humanity itself, researchers are warning about flaws in AI coding agents from Anthropic, OpenAI, Google and Microsoft that pose &lt;i&gt;immediate&lt;/i&gt; risk to businesses.&lt;/p&gt;&lt;p&gt;For instance, a recently discovered (and now largely fixed) software flaw in Claude Code, Codex, Gemini CLI and GitHub Copilot would have let attackers hijack other people’s coding agents without them noticing, according to new research shared exclusively with The Information.&lt;/p&gt;&lt;p&gt;The research, published by Sequoia Capital-backed cybersecurity startup Air, discovered the same flaws in the way all four of those coding agents handle “skills” that direct agents to refer to a set of instructions and files to execute specific tasks.&lt;/p&gt;</content>
     <author>
-      <name>Laura Bratton</name>
+      <name>Aaron Holmes</name>
     </author>
     <author>
-      <name>Aaron Holmes</name>
+      <name>Laura Bratton</name>
     </author>
   </entry>
 </feed>
