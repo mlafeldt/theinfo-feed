@@ -1,11 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed?cb=1790023192255</id>
+  <id>tag:www.theinformation.com,2005:/feed?cb=1790030846926</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1790023192255"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1790030846926"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-21T20:39:13Z</updated>
+  <updated>2026-09-21T22:47:05Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17855</id>
+    <published>2026-09-21T22:46:47Z</published>
+    <updated>2026-09-21T22:47:05Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/world-models-need-intelligence-says-luma-ceo-amit-jain"/>
+    <title>World Models Need More Intelligence, Says Luma CEO Amit Jain</title>
+    <content type="html">&lt;p&gt;The AI boom has been built largely on progress in language models, but a different approach has gained enormous attention in the industry this year: world models, which are designed to generate accurate predictions about the physical world, rather than words and numbers.&lt;/p&gt;
+
+&lt;p&gt;I sat down with Amit Jain, co-founder and CEO of Luma AI, to discuss the promise of world models&amp;mdash;and where current approaches to training them still fall short&amp;mdash;on the &lt;a href="https://www.youtube.com/watch?v=_0gu94SZGlk"&gt;latest episode of AI Deep Dive&lt;/a&gt;, The Information’s&amp;nbsp;new show exploring the hard problems on tech’s frontier.&lt;/p&gt;</content>
+    <author>
+      <name>Rocket Drew</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18077</id>
+    <published>2026-09-21T22:40:08Z</published>
+    <updated>2026-09-21T22:40:08Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/smart-ring-maker-oura-files-sell-2-2-billion-ipo"/>
+    <title>Smart-ring Maker Oura Files to Sell $2.2 Billion in IPO</title>
+    <content type="html">&lt;p&gt;Oura is looking to sell $2.2 billion in shares during its initial public offering, the company said in its &lt;a href="https://www.sec.gov/Archives/edgar/data/2133022/000119312526396051/d119865ds1a.htm"&gt;updated S-1 filing&lt;/a&gt; on Monday. Oura, which makes smart rings that track biometrics including sleep quality and heart health, could reach a $15.6 billion fully-diluted valuation from the ...&lt;/p&gt;</content>
+    <author>
+      <name>Tiffany Li</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18076</id>
     <published>2026-09-21T20:39:13Z</published>
@@ -108,10 +132,10 @@
     <title>OpenAI Develops Features to Counter Grok Bot, Mulls Response to Meta’s Muse</title>
     <content type="html">&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; pioneered AI that can take over web browsers and other applications on people’s behalf, and its &lt;b&gt;ChatGPT&lt;/b&gt; app brought generative AI to consumers. Now that rivals like &lt;b&gt;SpaceX&lt;/b&gt; and &lt;b&gt;Meta&lt;/b&gt; are pushing the boundaries by launching personal AI agents that handle multistep tasks, OpenAI is playing catch-up.&lt;/p&gt;&lt;p&gt;For instance, OpenAI is developing features to compete more directly with SpaceX’s recently launched &lt;b&gt;Grok Bot&lt;/b&gt;, which helps customers create always-on AI “teammates” to handle routine tasks, manage software, and collaborate in the background, according to a person with knowledge of the effort. OpenAI also has discussed developing a personal AI assistant to compete with one that Meta Platforms recently launched, according to another person with knowledge of the situation.&lt;/p&gt;&lt;p&gt;In developing such products, OpenAI would be repurposing and rebranding some of the existing “agentic” technology it already offers through &lt;b&gt;Codex&lt;/b&gt; and ChatGPT. Some customers of these OpenAI apps have already connected them to their email, calendar and other applications so they can automate tasks such as scheduling appointments or communicating with businesses by email, sometimes over multiple days.&amp;nbsp;&lt;/p&gt;</content>
     <author>
-      <name>Amir Efrati</name>
+      <name>Stephanie Palazzolo</name>
     </author>
     <author>
-      <name>Stephanie Palazzolo</name>
+      <name>Amir Efrati</name>
     </author>
   </entry>
   <entry>
@@ -282,30 +306,6 @@
     <content type="html">&lt;p&gt;Google acknowledged that its Gemini AI model unexpectedly breached the networks of three outside companies during safety evaluations conducted by third-party testing firm Irregular last May, &lt;a href="https://www.wsj.com/tech/ai/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-5c0baba2"&gt;The Wall Street Journal reported.&lt;/a&gt;&lt;/p&gt; &lt;p&gt;During the exercise, Gemini gained entry to the companies’ systems by ...&lt;/p&gt;</content>
     <author>
       <name>Nick Wingfield</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Article/17844</id>
-    <published>2026-09-18T21:55:54Z</published>
-    <updated>2026-09-21T03:35:04Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/anthropic-ipo-waiting-game-puts-wall-street-edge"/>
-    <title>Anthropic IPO Waiting Game Puts Wall Street on Edge</title>
-    <content type="html">&lt;p&gt;&lt;a href="https://www.theinformation.com/org-charts/anthropic"&gt;Anthropic&lt;/a&gt; finance chief Krishna Rao and other executives met with groups of prospective public investors last month with his company’s numbers looking spiffier than ever. The company had gone from spending about $2.30 on operations for every $1 of revenue in spring of 2025 to turning a slight profit on that basis in the June quarter&amp;mdash;bucking the stereotype of money-losing AI companies that are addicted to spending.&lt;/p&gt;
-
-&lt;p&gt;But some investors walked away from meetings with the understanding from executives that the profits would likely be short-lived. Anthropic would take advantage of its sudden growth and deep cash reserves to aggressively sign data center deals, executives told them, which would increase how much they spend on computing infrastructure and could shrink operating profits.&lt;/p&gt;</content>
-    <author>
-      <name>Cory Weinberg</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18068</id>
-    <published>2026-09-18T20:56:41Z</published>
-    <updated>2026-09-21T20:38:44Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/nscale-ipo-files-go-public-shows-huge-revenue-jump-steep-losses"/>
-    <title>Nscale IPO Files to Go Public, Shows Huge Revenue Jump And Steep Losses </title>
-    <content type="html">&lt;p&gt;Nvidia-backed startup Nscale disclosed Friday that revenue had surged 10 times in the first half of this year from the year-ago period, but losses mounted as the cloud startup spent billions on data centers and the AI chips they’ll house.&lt;/p&gt; &lt;p&gt;The two-year-old UK startup, a spinout of an Australian ...&lt;/p&gt;</content>
-    <author>
-      <name>Valida Pau</name>
     </author>
   </entry>
 </feed>
