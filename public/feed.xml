@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed?cb=1789961727292</id>
+  <id>tag:www.theinformation.com,2005:/feed</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1789961727292"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-21T03:35:04Z</updated>
+  <updated>2026-09-21T06:29:46Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18073</id>
+    <published>2026-09-21T06:29:46Z</published>
+    <updated>2026-09-21T06:29:46Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/alibaba-appoints-new-head-qwen-llm-team"/>
+    <title>Alibaba Appoints New Head of Qwen LLM Team </title>
+    <content type="html">&lt;p&gt;Alibaba Group has appointed Dayiheng Liu, one of its senior AI researchers, as the head of its Qwen large language models, according to two employees with knowledge of the matter.&lt;/p&gt; &lt;p&gt;Liu’s appointment has brought more clarity to the Qwen team’s leadership after multiple rounds of reorganization ...&lt;/p&gt;</content>
+    <author>
+      <name>Juro Osawa</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18072</id>
     <published>2026-09-21T01:18:17Z</published>
@@ -258,17 +269,6 @@
     <content type="html">&lt;p&gt;It’s not just humanity that AI folks worry the new technology could wipe out—it’s publishers as well! (Publishers are, of course, people!) That’s what we learned from a court filing today by a group of news publishers including The New York Times Co. in a copyright infringement lawsuit against OpenAI and Microsoft. The filing cited an OpenAI executive writing—presumably in an internal memo—that publishers face “an existential threat” from AI products.&lt;/p&gt;&lt;p&gt;We knew the publishers worried that AI threatened their existence—The New York Times Co. made that point when it sued OpenAI and Microsoft back in 2023 (the case has since been consolidated with similar lawsuits filed by other publishers). What’s striking is that OpenAI and Microsoft internally acknowledge the threat—and recognize the implications for them as well. “Our AI content strategy has started a ‘doom loop’ that will hurt the performance of our models and the entire web at the same time. It is highly unusual that an end-product threatens the economic foundations of its essential suppliers,” according to a Microsoft document cited in the filing.&lt;/p&gt;</content>
     <author>
       <name>Martin Peers</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18064</id>
-    <published>2026-09-17T23:38:18Z</published>
-    <updated>2026-09-19T01:12:00Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/cooley-partners-openai-legal-tool-drafting-sec-filings"/>
-    <title>Cooley Partners with OpenAI on Legal Tool For Drafting SEC Filings</title>
-    <content type="html">&lt;p&gt;OpenAI and law firm Cooley co-launched a product, called GO Public, that can draft S-1 filings, the document companies must submit to the Securities and Exchange Commission before they can go public, Cooley said Thursday.&lt;/p&gt; &lt;p&gt;Lawyers at Cooley can prompt GO Public, which also has access to Cooley ...&lt;/p&gt;</content>
-    <author>
-      <name>Julia Hornstein</name>
     </author>
   </entry>
 </feed>
