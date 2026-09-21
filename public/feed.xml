@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed?cb=1789998960022</id>
+  <id>tag:www.theinformation.com,2005:/feed</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1789998960022"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-21T13:55:34Z</updated>
+  <updated>2026-09-21T14:31:27Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17854</id>
+    <published>2026-09-21T14:30:40Z</published>
+    <updated>2026-09-21T14:31:27Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/openai-develops-features-counter-grok-bot-mulls-response-metas-muse"/>
+    <title>OpenAI Develops Features to Counter Grok Bot, Mulls Response to Meta’s Muse</title>
+    <content type="html">&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; pioneered AI that can take over web browsers and other applications on people’s behalf, and its &lt;b&gt;ChatGPT&lt;/b&gt; app brought generative AI to consumers. Now that rivals like &lt;b&gt;SpaceX&lt;/b&gt; and &lt;b&gt;Meta&lt;/b&gt; are pushing the boundaries by launching personal AI agents that handle multistep tasks, OpenAI is playing catch-up.&lt;/p&gt;&lt;p&gt;For instance, OpenAI is developing features to compete more directly with SpaceX’s recently launched &lt;b&gt;Grok Bot&lt;/b&gt;, which helps customers create always-on AI “teammates” to handle routine tasks, manage software, and collaborate in the background, according to a person with knowledge of the effort. OpenAI also has discussed developing a personal AI assistant to compete with one that Meta Platforms recently launched, according to another person with knowledge of the situation.&lt;/p&gt;&lt;p&gt;In developing such products, OpenAI would be repurposing and rebranding some of the existing “agentic” technology it already offers through &lt;b&gt;Codex&lt;/b&gt; and ChatGPT. Some customers of these OpenAI apps have already connected them to their email, calendar and other applications so they can automate tasks such as scheduling appointments or communicating with businesses by email, sometimes over multiple days.&amp;nbsp;&lt;/p&gt;</content>
+    <author>
+      <name>Stephanie Palazzolo</name>
+    </author>
+    <author>
+      <name>Amir Efrati</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17852</id>
     <published>2026-09-21T13:55:09Z</published>
@@ -56,10 +70,10 @@
 
 &lt;p&gt;DeepSeek’s growing adoption of Huawei chips during AI model training&amp;mdash;a process that requires more powerful chips compared to running the models&amp;mdash;demonstrates how both companies are joining hands to break away from the stranglehold imposed by U.S. export controls on advanced chips. Liang’s most recent remarks, made during a closed-door, in-person meeting on Sunday, came as DeepSeek finalizes its &lt;a href="http://theinformation.com/articles/deepseeks-annualized-revenue-nears-500-million-boosting-fundraise-ipo-plans?rc=jnr9wn"&gt;second funding round&lt;/a&gt;, which aims to raise 50 billion yuan ($7.5 billion) at a valuation of 500 billion yuan.&lt;/p&gt;</content>
     <author>
-      <name>Juro Osawa</name>
+      <name>Qianer Liu</name>
     </author>
     <author>
-      <name>Qianer Liu</name>
+      <name>Juro Osawa</name>
     </author>
   </entry>
   <entry>
@@ -268,19 +282,6 @@
     </author>
     <author>
       <name>Tiffany Li</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Article/17841</id>
-    <published>2026-09-18T12:10:44Z</published>
-    <updated>2026-09-18T13:22:53Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/tsinghua-professors-stealth-llm-startup-hits-1-4-billion-valuation"/>
-    <title>A Tsinghua Professor’s Stealth LLM Startup Hits $1.4 Billion Valuation</title>
-    <content type="html">&lt;p&gt;A secretive Chinese AI model startup founded in February by a Tsinghua University professor is now valued at more than $1.4 billion, after raising $400 million in three funding rounds from investors including &lt;a href="https://www.theinformation.com/org-charts/tencent"&gt;Tencent&lt;/a&gt;, according to a person with direct knowledge of the matter.&lt;/p&gt;
-
-&lt;p&gt;Beijing-based Naive AI is preparing to release its first large language model as early as&amp;nbsp;this month, joining the country’s fierce LLM competition as a newcomer, according to the person. The startup plans to release it as an open-weight model, similar to offerings from DeepSeek, Moonshot and Alibaba that people can download for free and customize to their liking.&lt;/p&gt;</content>
-    <author>
-      <name>Juro Osawa</name>
     </author>
   </entry>
 </feed>
