@@ -5,7 +5,23 @@
   <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-21T08:53:35Z</updated>
+  <updated>2026-09-21T10:52:59Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17853</id>
+    <published>2026-09-21T10:22:11Z</published>
+    <updated>2026-09-21T10:52:59Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/deepseek-bets-big-huawei-chips-bypass-u-s-export-controls"/>
+    <title>DeepSeek Bets Big on Huawei Chips to Bypass U.S. Export Controls</title>
+    <content type="html">&lt;p&gt;DeepSeek CEO Liang Wenfeng told investors that a major priority for his company is to use more domestic chips to train its models, adding that he expects Huawei Technologies to start delivering training chips to DeepSeek as early as the fourth quarter this year, according to two people with direct knowledge of the matter.&lt;/p&gt;
+
+&lt;p&gt;DeepSeek’s growing adoption of Huawei chips during AI model training&amp;mdash;a process that requires more powerful chips compared to running the models&amp;mdash;demonstrates how both companies are joining hands to break away from the stranglehold imposed by U.S. export controls on advanced chips. Liang’s most recent remarks, made during a closed-door, in-person meeting on Sunday, came as DeepSeek finalizes its &lt;a href="http://theinformation.com/articles/deepseeks-annualized-revenue-nears-500-million-boosting-fundraise-ipo-plans?rc=jnr9wn"&gt;second funding round&lt;/a&gt;, which aims to raise 50 billion yuan ($7.5 billion) at a valuation of 500 billion yuan.&lt;/p&gt;</content>
+    <author>
+      <name>Qianer Liu</name>
+    </author>
+    <author>
+      <name>Juro Osawa</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18073</id>
     <published>2026-09-21T06:29:46Z</published>
@@ -208,10 +224,10 @@
 
 &lt;p&gt;Both &lt;a href="https://www.theinformation.com/org-charts/anthropic"&gt;Anthropic&lt;/a&gt; Chief Executive Dario Amodei and &lt;a href="https://www.theinformation.com/org-charts/openai"&gt;OpenAI&lt;/a&gt; CEO Sam Altman promised in recent days to embed evaluators from such outside research organizations inside their companies to help ensure they develop AI at a safe pace. Other executives including&amp;nbsp;&lt;a href="https://x.com/satyanadella/status/2099220712024408084"&gt;Microsoft CEO Satya Nadella&lt;/a&gt; also endorsed the idea of embedding independent evaluators in companies.&lt;/p&gt;</content>
     <author>
-      <name>Tiffany Li</name>
+      <name>Rocket Drew</name>
     </author>
     <author>
-      <name>Rocket Drew</name>
+      <name>Tiffany Li</name>
     </author>
   </entry>
   <entry>
@@ -258,17 +274,6 @@
     <content type="html">&lt;p&gt;This week, we and others reported that OpenAI &lt;a href="https://www.theinformation.com/briefings/openai-early-talks-new-funding-round-1-2-trillion-valuation?rc=zjctrx"&gt;has been in early talks with investors&lt;/a&gt; about a new private round that could value it at $1.2 trillion or more. That follows CEO Sam Altman’s recent statement &lt;a href="https://fortune.com/2026/09/12/sam-altman-openai-ipo-delay-ill-advised-moment-safety-concerns/"&gt;that an initial public offering wouldn’t happen this year&lt;/a&gt;, not that anyone was actually expecting that!&lt;/p&gt;&lt;p&gt;There are plenty of unanswered questions about the recent turn of events. But the biggest—why stay private?—seems obvious. It buys the company more time to rev up sales without the pressure of disclosing on how much it’s paying for that growth, such as offering margin-crushing discounts to lure business from rival Anthropic.&amp;nbsp;&lt;/p&gt;</content>
     <author>
       <name>Laura Mandaro</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Article/17839</id>
-    <published>2026-09-18T00:00:58Z</published>
-    <updated>2026-09-18T00:07:51Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/ai-executives-fret-existential-threat-ai-poses-publishers"/>
-    <title>AI Executives Fret About Existential Threat AI Poses—to Publishers</title>
-    <content type="html">&lt;p&gt;It’s not just humanity that AI folks worry the new technology could wipe out—it’s publishers as well! (Publishers are, of course, people!) That’s what we learned from a court filing today by a group of news publishers including The New York Times Co. in a copyright infringement lawsuit against OpenAI and Microsoft. The filing cited an OpenAI executive writing—presumably in an internal memo—that publishers face “an existential threat” from AI products.&lt;/p&gt;&lt;p&gt;We knew the publishers worried that AI threatened their existence—The New York Times Co. made that point when it sued OpenAI and Microsoft back in 2023 (the case has since been consolidated with similar lawsuits filed by other publishers). What’s striking is that OpenAI and Microsoft internally acknowledge the threat—and recognize the implications for them as well. “Our AI content strategy has started a ‘doom loop’ that will hurt the performance of our models and the entire web at the same time. It is highly unusual that an end-product threatens the economic foundations of its essential suppliers,” according to a Microsoft document cited in the filing.&lt;/p&gt;</content>
-    <author>
-      <name>Martin Peers</name>
     </author>
   </entry>
 </feed>
