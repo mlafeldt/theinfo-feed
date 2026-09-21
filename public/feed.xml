@@ -1,15 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed</id>
+  <id>tag:www.theinformation.com,2005:/feed?cb=1790023192255</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1790023192255"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-21T19:51:34Z</updated>
+  <updated>2026-09-21T20:39:13Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18076</id>
+    <published>2026-09-21T20:39:13Z</published>
+    <updated>2026-09-21T20:39:13Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/paramount-settles-state-antitrust-lawsuit-clearing-way-warner-deal-close"/>
+    <title>Paramount Settles State Antitrust Lawsuit, Clearing Way for Warner Deal to Close</title>
+    <content type="html">&lt;p&gt;Paramount Skydance settled a lawsuit filed by 12 states that had threatened to stop its $110 billion purchase of Warner Bros. Discovery. The settlement, &lt;a href="https://oag.ca.gov/system/files/attachments/press-docs/2026-09-21-244-exhibits-re-243-joint-motion-enter-consent-decree-and.pdf"&gt;filed in court on Monday,&lt;/a&gt; clears the way for the deal to close.&lt;/p&gt; &lt;p&gt;Under the settlement, Paramount agreed to release at least 30 films into movie ...&lt;/p&gt;</content>
+    <author>
+      <name>Martin Peers</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18075</id>
     <published>2026-09-21T18:11:04Z</published>
-    <updated>2026-09-21T18:11:04Z</updated>
+    <updated>2026-09-21T20:38:44Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/openai-releases-proposal-international-ai-safety-coordination"/>
     <title>OpenAI Releases Proposal for International AI Safety Coordination</title>
     <content type="html">&lt;p&gt;OpenAI &lt;a href="https://openai.com/index/building-standards-next-phase-ai/"&gt;released a proposal&lt;/a&gt; on Monday that would create international coordination around AI safety. In a blog post, OpenAI called for national AI safety institutes, such as the U.S. Commerce Department’s Center for AI Standards and Innovation, to set standards around areas including model ...&lt;/p&gt;</content>
@@ -162,7 +173,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18073</id>
     <published>2026-09-21T06:29:46Z</published>
-    <updated>2026-09-21T18:10:30Z</updated>
+    <updated>2026-09-21T20:38:44Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/alibaba-appoints-new-head-qwen-llm-team"/>
     <title>Alibaba Appoints New Head of Qwen LLM Team </title>
     <content type="html">&lt;p&gt;Alibaba Group has appointed Dayiheng Liu, one of its senior AI researchers, as the head of its Qwen large language models, according to two employees with knowledge of the matter.&lt;/p&gt; &lt;p&gt;Liu’s appointment has brought more clarity to the Qwen team’s leadership after multiple rounds of reorganization ...&lt;/p&gt;</content>
@@ -173,7 +184,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18072</id>
     <published>2026-09-21T01:18:17Z</published>
-    <updated>2026-09-21T18:10:29Z</updated>
+    <updated>2026-09-21T20:38:44Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/u-s-china-discussed-ai-safety-system-bessent-says"/>
     <title>U.S. and China Discussed AI Safety System, Bessent Says  </title>
     <content type="html">&lt;p&gt;U.S. Treasury Secretary Scott Bessent said Sunday that the U.S. and China had discussed setting up a mechanism called the U.S.-China AI dialogue to address potential threats.&lt;/p&gt; &lt;p&gt;&lt;a href="https://x.com/leomschwartz/status/2101826037772369980?s=46&amp;t=vHmkStoxaU0_DAAjLc-84A"&gt;Speaking to reporters&lt;/a&gt; at the JPMorgan headquarters in Manhattan at the conclusion of a day of talks with Chinese ...&lt;/p&gt;</content>
@@ -232,7 +243,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18071</id>
     <published>2026-09-19T20:01:40Z</published>
-    <updated>2026-09-21T18:10:29Z</updated>
+    <updated>2026-09-21T20:38:44Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/president-trump-announces-ai-force-will-appoint-new-czar"/>
     <title>President Trump Announces ‘AI Force,’ Will Appoint New Czar</title>
     <content type="html">&lt;p&gt;President Donald Trump on Saturday said he was creating a new “AI Force,” that would be similar to his Space Force—the arm of the Defense Department focused on space combat started by Trump during his first administration—and he planned to appoint a new AI czar to lead it.&lt;/p&gt; &lt;p&gt;On his Truth Social ...&lt;/p&gt;</content>
@@ -254,7 +265,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18070</id>
     <published>2026-09-19T02:32:44Z</published>
-    <updated>2026-09-21T18:10:30Z</updated>
+    <updated>2026-09-21T20:38:44Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/openai-said-forecast-nearly-280-billion-cash-burn-end-2030"/>
     <title>OpenAI Said to Forecast Nearly $280 Billion in Cash Burn Through End 2030</title>
     <content type="html">&lt;p&gt;OpenAI has told some investors that it expects to burn $278 billion by the end of 2030, the Financial Times reported, as it spends more on cloud computing and chips to run and train its AI. The forecast, based on a recent presentation, is higher than the one it gave investors early this year, &lt;a href="https://www.theinformation.com/articles/openai-boost-revenue-forecasts-predicts-112-billion-cash-burn-2030?rc=zjctrx"&gt; ...&lt;/a&gt;&lt;/p&gt;</content>
@@ -265,7 +276,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18069</id>
     <published>2026-09-18T23:22:32Z</published>
-    <updated>2026-09-21T18:10:29Z</updated>
+    <updated>2026-09-21T20:38:44Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/googles-gemini-model-hacks-companies-test"/>
     <title>Google’s Gemini Model Hacks Companies During Test</title>
     <content type="html">&lt;p&gt;Google acknowledged that its Gemini AI model unexpectedly breached the networks of three outside companies during safety evaluations conducted by third-party testing firm Irregular last May, &lt;a href="https://www.wsj.com/tech/ai/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-5c0baba2"&gt;The Wall Street Journal reported.&lt;/a&gt;&lt;/p&gt; &lt;p&gt;During the exercise, Gemini gained entry to the companies’ systems by ...&lt;/p&gt;</content>
@@ -289,55 +300,12 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18068</id>
     <published>2026-09-18T20:56:41Z</published>
-    <updated>2026-09-21T18:10:30Z</updated>
+    <updated>2026-09-21T20:38:44Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/nscale-ipo-files-go-public-shows-huge-revenue-jump-steep-losses"/>
     <title>Nscale IPO Files to Go Public, Shows Huge Revenue Jump And Steep Losses </title>
     <content type="html">&lt;p&gt;Nvidia-backed startup Nscale disclosed Friday that revenue had surged 10 times in the first half of this year from the year-ago period, but losses mounted as the cloud startup spent billions on data centers and the AI chips they’ll house.&lt;/p&gt; &lt;p&gt;The two-year-old UK startup, a spinout of an Australian ...&lt;/p&gt;</content>
     <author>
       <name>Valida Pau</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Article/17836</id>
-    <published>2026-09-18T14:01:39Z</published>
-    <updated>2026-09-18T14:01:39Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/communicate-technical-topics-non-technical-audience-google-gemini"/>
-    <title>Communicate Technical Topics to a Non-Technical Audience with Google Gemini</title>
-    <content type="html">&lt;p&gt;In a room full of IT professionals, words and phrases like “tokenization,” “retrieval-augmented generation,” and “context window” need no explanation. But when technology leaders present to their CEOs and other company leaders about topics like AI, they often find that they need to translate these terms into everyday business language, or else risk being met by blank stares.&lt;/p&gt;
-
-&lt;p&gt;In the moment, this can be maddening. You know the opportunities and challenges that a technology like generative AI presents for your company. And you know that the organization’s other leaders will likely see things the same way you do, if only you can make yourself understood.&lt;/p&gt;
-
-&lt;p&gt;Instead of trying to bridge this communication gap on the fly, use Google Gemini to help translate your technical vision into bottom-line business value.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Step 1: Figure Out What You Want to Say&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Your CEO might not speak “tech,” but Google Gemini does. Open up a new chat and explain exactly what it is you hope to communicate to leadership. Here, you can feel free to be as technical as you wish. Maybe you’ll tell Gemini that you’re thinking of building a RAG pipeline to vectorize your company’s proprietary data. Or, maybe you’ll float the idea of using parameter-efficient fine-tuning methods like LoRA to deploy open-weight models on-premises, without exploding your cloud inference costs. You can even upload your technical documents to Gemini, directly in the chat window.&lt;/p&gt;
-
-&lt;p&gt;No matter how in-the-weeds you get, Gemini will follow your train of thought, parsing the complexity to find the business value at the core of your plans.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Step 2: Let Gemini Be Your Translator&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Now that you’ve captured your vision in your own words, let Gemini help you translate those words into language that will connect with your audience. Use this sample prompt, along with your brainstorming from Step 1:&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;I am the CIO at [company], and I am trying to build the case to [adopt generative AI solutions]. I need to explain the technical concept of generative AI to a non-technical audience (the CEO and board). Help me write talking points that will help me convey what generative AI is, ways it could help us digitally transform, and why it’s important to our growth as a company. Include details about how it could potentially re-focus our technical talent on more strategic work, help enhance our workforce’s productivity, and help us better serve our global workforce and customers.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;In just a few moments, you’ll have a set of boardroom-ready talking points. Gemini might, for instance, break down the benefits of RAG in simple terms by noting that it anchors AI to internal data like HR policies and technical manuals. Or, it might point out the business benefits of arming IT staff and engineers with generative AI tools, noting the opportunity to shift employees’ focus from low-value, repetitive tasks to innovation.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Step 3: Create Content&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;Now that you have your core narrative and language nailed down, Gemini can help you create a more structured pitch. Instead of staring at a blank slide deck, prompt Gemini for ideas on how to build out a presentation that will sway your peers in the C-suite. Try this prompt:&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;I need to build a presentation to deliver this information to the board. Turn these talking points into a 10-slide presentation. For each slide, write a headline, three to four short bullet points for the slide itself, and the speaker notes I should use to explain the concept out loud.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Gemini will generate a full, downloadable presentation deck directly in the chat. If you like, you can export the presentation to Google Slides and make your own edits. Or, you can command Gemini to generate a new version with changes to elements like design, language, and narrative flow.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Step 4: Make Gemini Your Sparring Partner&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Before you go into your meeting, open a new chat in Gemini, providing your speaker notes and a link to your presentation, and then ask it to act as a skeptical executive: &lt;em&gt;You are my CEO. Review this presentation and grill me on cost, security, and ROI. Ask your toughest questions, one at a time.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Even though Gemini helped you prepare your presentation, it will seamlessly pivot to the role of rigorous executive or tough board member, pressing for more details on project payback, hidden risks, and timeline. By practicing your pitch in this low-stakes environment, you can make certain that you’ll be confident when it’s time for the real thing.&lt;/p&gt;</content>
-    <author>
-      <name>The Information Partnerships</name>
     </author>
   </entry>
 </feed>
