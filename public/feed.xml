@@ -1,11 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed?cb=1789991241748</id>
+  <id>tag:www.theinformation.com,2005:/feed?cb=1789998960022</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1789991241748"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1789998960022"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-21T11:46:48Z</updated>
+  <updated>2026-09-21T13:55:34Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17852</id>
+    <published>2026-09-21T13:55:09Z</published>
+    <updated>2026-09-21T13:55:34Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/openai-anthropic-neared-deal-stress-test-others-ai"/>
+    <title>OpenAI and Anthropic Neared Deal to Stress-Test Each Other’s AI</title>
+    <content type="html">&lt;p&gt;&lt;a href="https://www.theinformation.com/org-charts/openai"&gt;OpenAI&lt;/a&gt; is rethinking a range of safety strategies as it responds to fears from employees and others about the dangers its AI poses. One solution could lie in the recent past.&lt;/p&gt;
+
+&lt;p&gt;Even before the spate of cybersecurity incidents involving OpenAI’s technology and the dire warnings from industry workers, the company was negotiating a legally binding deal with &lt;a href="https://www.theinformation.com/org-charts/anthropic"&gt;Anthropic&lt;/a&gt; for the companies to stress-test each other’s models, according to a person with direct knowledge of the discussions, which haven’t been previously reported.&lt;/p&gt;</content>
+    <author>
+      <name>Stephanie Palazzolo</name>
+    </author>
+    <author>
+      <name>Amir Efrati</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17845</id>
+    <published>2026-09-21T13:31:04Z</published>
+    <updated>2026-09-21T13:31:29Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/crowdstrike-okta-trade-big-premiums-despite-unproven-ai-payoff"/>
+    <title>CrowdStrike and Okta Trade at Big Premiums Despite Unproven AI Payoff</title>
+    <content type="html">&lt;p&gt;Cybersecurity stocks have enjoyed a good run in 2026 as investors bet on the idea that they’ll benefit from companies shoring up their defenses against AI-fueled online threats. The S&amp;amp;P Kensho cybersecurity index is up 41% this year compared to an 11% rise in the S&amp;amp;P 500 over the same period.&lt;/p&gt;
+
+&lt;p&gt;But some of the names attracting the most interest, such as cloud-based security firm CrowdStrike and identity security software provider Okta, have soared to valuation highs that should give investors in the sector pause. So far, there’s limited evidence that their revenue growth is getting a boost from new AI concerns.&lt;/p&gt;</content>
+    <author>
+      <name>Anita Ramaswamy</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18074</id>
     <published>2026-09-21T11:46:48Z</published>
@@ -27,10 +56,10 @@
 
 &lt;p&gt;DeepSeek’s growing adoption of Huawei chips during AI model training&amp;mdash;a process that requires more powerful chips compared to running the models&amp;mdash;demonstrates how both companies are joining hands to break away from the stranglehold imposed by U.S. export controls on advanced chips. Liang’s most recent remarks, made during a closed-door, in-person meeting on Sunday, came as DeepSeek finalizes its &lt;a href="http://theinformation.com/articles/deepseeks-annualized-revenue-nears-500-million-boosting-fundraise-ipo-plans?rc=jnr9wn"&gt;second funding round&lt;/a&gt;, which aims to raise 50 billion yuan ($7.5 billion) at a valuation of 500 billion yuan.&lt;/p&gt;</content>
     <author>
-      <name>Qianer Liu</name>
+      <name>Juro Osawa</name>
     </author>
     <author>
-      <name>Juro Osawa</name>
+      <name>Qianer Liu</name>
     </author>
   </entry>
   <entry>
@@ -252,28 +281,6 @@
 &lt;p&gt;Beijing-based Naive AI is preparing to release its first large language model as early as&amp;nbsp;this month, joining the country’s fierce LLM competition as a newcomer, according to the person. The startup plans to release it as an open-weight model, similar to offerings from DeepSeek, Moonshot and Alibaba that people can download for free and customize to their liking.&lt;/p&gt;</content>
     <author>
       <name>Juro Osawa</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18066</id>
-    <published>2026-09-18T02:41:59Z</published>
-    <updated>2026-09-21T11:46:16Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/u-s-lawmaker-ro-khanna-urges-chinese-labs-help-pace-frontier-ai"/>
-    <title>U.S. Lawmaker Ro Khanna Urges Chinese Labs to Help Pace Frontier AI</title>
-    <content type="html">&lt;p&gt;Ro Khanna, a Democratic congressman for Silicon Valley, has sent letters to Chinese AI companies including Alibaba Group, DeepSeek and Moonshot, requesting their commitments to join American AI labs in a binding international agreement to pace the development of the technology.&lt;/p&gt; &lt;p&gt;Khanna, a ranking ...&lt;/p&gt;</content>
-    <author>
-      <name>Juro Osawa</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18065</id>
-    <published>2026-09-18T02:37:59Z</published>
-    <updated>2026-09-19T19:48:51Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/bug-hunters-used-claude-hack-openai"/>
-    <title>Bug Hunters Used Claude to Hack OpenAI</title>
-    <content type="html">&lt;p&gt;A team of cybersecurity researchers with startup Hacktron AI used Anthropic’s Claude to hack into OpenAI, gaining access to a key repository of OpenAI’s software, &lt;a href="https://www.hacktron.ai/blog/hacking-openai"&gt;the researchers revealed Thursday&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;The hack, which occurred on July 25, further demonstrates AI companies’ vulnerability to ...&lt;/p&gt;</content>
-    <author>
-      <name>Rocket Drew</name>
     </author>
   </entry>
 </feed>
