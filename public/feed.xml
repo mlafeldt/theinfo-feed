@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed</id>
+  <id>tag:www.theinformation.com,2005:/feed?cb=1790064875624</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1790064875624"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-22T07:35:24Z</updated>
+  <updated>2026-09-22T08:14:09Z</updated>
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18081</id>
     <published>2026-09-22T07:34:39Z</published>
@@ -31,7 +31,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18079</id>
     <published>2026-09-22T01:29:21Z</published>
-    <updated>2026-09-22T07:35:23Z</updated>
+    <updated>2026-09-22T08:14:09Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/exclusive-xbox-cut-hundreds-jobs-consolidate-game-studios"/>
     <title>Exclusive: Xbox to Cut Hundreds of Jobs, Consolidate Game Studios</title>
     <content type="html">&lt;p&gt;Xbox is planning to lay off hundreds of employees this week in its second major staff reduction this year, according to someone briefed on the plans. The Microsoft-owned firm also plans to consolidate several of its game studios, this person said.&lt;/p&gt; &lt;p&gt;Xbox CEO Asha Sharma &lt;a href="https://www.theinformation.com/briefings/microsoft-cut-4-800-jobs-primarily-xbox-sell-several-xbox-game-studios?rc=geicgp"&gt;in July told staff she ...&lt;/a&gt;&lt;/p&gt;</content>
@@ -64,7 +64,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17855</id>
     <published>2026-09-21T22:46:47Z</published>
-    <updated>2026-09-21T23:17:26Z</updated>
+    <updated>2026-09-22T08:10:07Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/world-models-need-intelligence-says-luma-ceo-amit-jain"/>
     <title>World Models Need More Intelligence, Says Luma CEO Amit Jain</title>
     <content type="html">&lt;p&gt;The AI boom has been built largely on progress in language models, but a different approach has gained enormous attention in the industry this year: world models, which are designed to generate accurate predictions about the physical world, rather than words and numbers.&lt;/p&gt;
@@ -99,7 +99,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18075</id>
     <published>2026-09-21T18:11:04Z</published>
-    <updated>2026-09-22T07:35:23Z</updated>
+    <updated>2026-09-22T08:14:09Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/openai-releases-proposal-international-ai-safety-coordination"/>
     <title>OpenAI Releases Proposal for International AI Safety Coordination</title>
     <content type="html">&lt;p&gt;OpenAI &lt;a href="https://openai.com/index/building-standards-next-phase-ai/"&gt;released a proposal&lt;/a&gt; on Monday that would create international coordination around AI safety. In a blog post, OpenAI called for national AI safety institutes, such as the U.S. Commerce Department’s Center for AI Standards and Innovation, to set standards around areas including model ...&lt;/p&gt;</content>
@@ -203,10 +203,10 @@
 
 &lt;p&gt;Even before the spate of cybersecurity incidents involving OpenAI’s technology and the dire warnings from industry workers, the company was negotiating a legally binding deal with &lt;a href="https://www.theinformation.com/org-charts/anthropic"&gt;Anthropic&lt;/a&gt; for the companies to stress-test each other’s models, according to a person with direct knowledge of the discussions, which haven’t been previously reported.&lt;/p&gt;</content>
     <author>
-      <name>Amir Efrati</name>
+      <name>Stephanie Palazzolo</name>
     </author>
     <author>
-      <name>Stephanie Palazzolo</name>
+      <name>Amir Efrati</name>
     </author>
   </entry>
   <entry>
@@ -243,16 +243,16 @@
 
 &lt;p&gt;DeepSeek’s growing adoption of Huawei chips during AI model training&amp;mdash;a process that requires more powerful chips compared to running the models&amp;mdash;demonstrates how both companies are joining hands to break away from the stranglehold imposed by U.S. export controls on advanced chips. Liang’s most recent remarks, made during a closed-door, in-person meeting on Sunday, came as DeepSeek finalizes its &lt;a href="http://theinformation.com/articles/deepseeks-annualized-revenue-nears-500-million-boosting-fundraise-ipo-plans?rc=jnr9wn"&gt;second funding round&lt;/a&gt;, which aims to raise 50 billion yuan ($7.5 billion) at a valuation of 500 billion yuan.&lt;/p&gt;</content>
     <author>
-      <name>Qianer Liu</name>
+      <name>Juro Osawa</name>
     </author>
     <author>
-      <name>Juro Osawa</name>
+      <name>Qianer Liu</name>
     </author>
   </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18073</id>
     <published>2026-09-21T06:29:46Z</published>
-    <updated>2026-09-22T01:28:49Z</updated>
+    <updated>2026-09-22T07:35:24Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/alibaba-appoints-new-head-qwen-llm-team"/>
     <title>Alibaba Appoints New Head of Qwen LLM Team </title>
     <content type="html">&lt;p&gt;Alibaba Group has appointed Dayiheng Liu, one of its senior AI researchers, as the head of its Qwen large language models, according to two employees with knowledge of the matter.&lt;/p&gt; &lt;p&gt;Liu’s appointment has brought more clarity to the Qwen team’s leadership after multiple rounds of reorganization ...&lt;/p&gt;</content>
@@ -263,7 +263,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18072</id>
     <published>2026-09-21T01:18:17Z</published>
-    <updated>2026-09-22T01:28:49Z</updated>
+    <updated>2026-09-22T07:35:24Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/u-s-china-discussed-ai-safety-system-bessent-says"/>
     <title>U.S. and China Discussed AI Safety System, Bessent Says  </title>
     <content type="html">&lt;p&gt;U.S. Treasury Secretary Scott Bessent said Sunday that the U.S. and China had discussed setting up a mechanism called the U.S.-China AI dialogue to address potential threats.&lt;/p&gt; &lt;p&gt;&lt;a href="https://x.com/leomschwartz/status/2101826037772369980?s=46&amp;t=vHmkStoxaU0_DAAjLc-84A"&gt;Speaking to reporters&lt;/a&gt; at the JPMorgan headquarters in Manhattan at the conclusion of a day of talks with Chinese ...&lt;/p&gt;</content>
