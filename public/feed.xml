@@ -1,11 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed?cb=1790089544762</id>
+  <id>tag:www.theinformation.com,2005:/feed?cb=1790092923864</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1790089544762"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1790092923864"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-22T15:05:17Z</updated>
+  <updated>2026-09-22T16:01:08Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17858</id>
+    <published>2026-09-22T16:00:42Z</published>
+    <updated>2026-09-22T16:01:08Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/luckeys-erebor-bank-plots-syria-expansion"/>
+    <title>Luckey’s Erebor Bank Plots Syria Expansion</title>
+    <content type="html">&lt;p&gt;Erebor Bank, fresh from becoming a vital new financial bridge between the U.S. and Venezuela, is eyeing a new foreign foray: expanding into Syria.&lt;/p&gt;
+
+&lt;p&gt;The bank, founded by Anduril Industries co-founder Palmer Luckey, has told staff and some investors it could help the war-torn Middle Eastern country reconnect to the global financial system, potentially attracting billions in deposits from businesses and consumers, according to people familiar with the strategy. Doing so would make Erebor a remarkably early mover in Syria, given that Washington only recently reopened the country to U.S. firms and investment.&lt;/p&gt;</content>
+    <author>
+      <name>Michael Roddan</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17860</id>
     <published>2026-09-22T14:00:38Z</published>
@@ -27,13 +40,13 @@
 
 &lt;p&gt;The special offers come as customers get choosier about which tools they purchase after they increased budgets for products like Anthropic’s Claude Code and OpenAI’s Codex and cut other costs to justify the new spending. Businesses are also grumbling about shifts by software providers to charge them for AI based on usage or how many tasks it completes, which can drive up costs.&lt;/p&gt;</content>
     <author>
+      <name>Aaron Holmes</name>
+    </author>
+    <author>
       <name>Laura Bratton</name>
     </author>
     <author>
       <name>Catherine Perloff</name>
-    </author>
-    <author>
-      <name>Aaron Holmes</name>
     </author>
   </entry>
   <entry>
@@ -304,17 +317,6 @@
     <content type="html">&lt;p&gt;Alibaba Group has appointed Dayiheng Liu, one of its senior AI researchers, as the head of its Qwen large language models, according to two employees with knowledge of the matter.&lt;/p&gt; &lt;p&gt;Liu’s appointment has brought more clarity to the Qwen team’s leadership after multiple rounds of reorganization ...&lt;/p&gt;</content>
     <author>
       <name>Juro Osawa</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18072</id>
-    <published>2026-09-21T01:18:17Z</published>
-    <updated>2026-09-22T07:35:24Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/u-s-china-discussed-ai-safety-system-bessent-says"/>
-    <title>U.S. and China Discussed AI Safety System, Bessent Says  </title>
-    <content type="html">&lt;p&gt;U.S. Treasury Secretary Scott Bessent said Sunday that the U.S. and China had discussed setting up a mechanism called the U.S.-China AI dialogue to address potential threats.&lt;/p&gt; &lt;p&gt;&lt;a href="https://x.com/leomschwartz/status/2101826037772369980?s=46&amp;t=vHmkStoxaU0_DAAjLc-84A"&gt;Speaking to reporters&lt;/a&gt; at the JPMorgan headquarters in Manhattan at the conclusion of a day of talks with Chinese ...&lt;/p&gt;</content>
-    <author>
-      <name>Leo Schwartz</name>
     </author>
   </entry>
 </feed>
