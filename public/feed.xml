@@ -1,15 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed</id>
+  <id>tag:www.theinformation.com,2005:/feed?cb=1790111071317</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1790111071317"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-22T18:36:30Z</updated>
+  <updated>2026-09-22T21:04:14Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17864</id>
+    <published>2026-09-22T20:58:49Z</published>
+    <updated>2026-09-22T21:04:14Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/wall-streets-gpu-futures-push-stalls-cftc"/>
+    <title>Wall Street’s GPU Futures Push Stalls at the CFTC</title>
+    <content type="html">&lt;p&gt;The launch of futures for rental prices on Nvidia GPUs, which are seen as important to make AI compute an investable asset class, is hitting a snag.&lt;/p&gt;
+
+&lt;p&gt;CME Group had hoped to launch contracts as soon as early October, but it won’t have regulatory approval by then. The Commodity Futures Trading Commission, which regulates the futures market, is extending its review as it digs into how such contracts work and seeks comments from the broader industry, according to a letter to the exchange seen by The Information.&lt;/p&gt;</content>
+    <author>
+      <name>Dakin Campbell</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18082</id>
     <published>2026-09-22T18:00:45Z</published>
-    <updated>2026-09-22T18:00:45Z</updated>
+    <updated>2026-09-22T20:33:49Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/openai-announces-cheaper-gpt-6-family-models"/>
     <title>OpenAI Announces Cheaper GPT-6 Family Models</title>
     <content type="html">&lt;p&gt;OpenAI on Tuesday announced GPT-6 Sol and GPT-6 Luna, which it describes as cheaper and faster models in the GPT-6 Astra family.&lt;/p&gt; &lt;p&gt;The company said that the new models show significant improvements compared to their predecessors, GPT-5.6 Sol and GPT-5.6 Luna, in areas like professional work, ...&lt;/p&gt;</content>
@@ -20,7 +33,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18083</id>
     <published>2026-09-22T17:49:21Z</published>
-    <updated>2026-09-22T17:49:21Z</updated>
+    <updated>2026-09-22T20:33:49Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/exclusive-metas-muse-surpassed-500-000-users-first-week"/>
     <title>Exclusive: Meta’s Muse Surpassed 500,000 Users After First Week</title>
     <content type="html">&lt;p&gt;Meta’s new personal AI agent, Muse, had more than 500,000 people try it out roughly a week after launch, including more than 250,000 daily active users, according to internal data viewed by The Information. Users have also submitted more than 2 million prompts.&lt;/p&gt; &lt;p&gt;The data indicate there has been ...&lt;/p&gt;</content>
@@ -51,10 +64,10 @@
 
 &lt;p&gt;During the first three months of 2026, local opposition blocked or delayed roughly &lt;a href="https://www.datacenterwatch.org/q1-2026"&gt;$130 billion&lt;/a&gt; in data center projects. &lt;a href="https://www.nytimes.com/2026/07/15/opinion/ai-data-center-politics.html"&gt;This spring, 71%&lt;/a&gt; of Americans surveyed opposed the construction of a data center near where they live. Texas, the fastest-growing state in data center construction, has &lt;a href="https://www.texastribune.org/2026/08/03/texas-data-center-project-audit-greg-abbott/"&gt;frozen new grid-connected projects&lt;/a&gt; until further impact studies are completed. Data centers have become a bipartisan &lt;a href="https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election"&gt;sleeper issue&lt;/a&gt; for the election cycle.&lt;/p&gt;</content>
     <author>
-      <name>Ryan Cunningham</name>
+      <name>Kristy Loke</name>
     </author>
     <author>
-      <name>Kristy Loke</name>
+      <name>Ryan Cunningham</name>
     </author>
   </entry>
   <entry>
@@ -91,13 +104,13 @@
 
 &lt;p&gt;The special offers come as customers get choosier about which tools they purchase after they increased budgets for products like Anthropic’s Claude Code and OpenAI’s Codex and cut other costs to justify the new spending. Businesses are also grumbling about shifts by software providers to charge them for AI based on usage or how many tasks it completes, which can drive up costs.&lt;/p&gt;</content>
     <author>
-      <name>Catherine Perloff</name>
+      <name>Laura Bratton</name>
     </author>
     <author>
       <name>Aaron Holmes</name>
     </author>
     <author>
-      <name>Laura Bratton</name>
+      <name>Catherine Perloff</name>
     </author>
   </entry>
   <entry>
@@ -110,16 +123,16 @@
 
 &lt;p&gt;In a &lt;a href="https://www.anthropic.com/threat-intelligence-report-september-2026"&gt;154-page report&lt;/a&gt; published on Sept. 10, Anthropic detailed how seven Chinese companies were using Claude illicitly on a widespread scale. In one example, Anthropic alleged that DeepSeek relayed requests from engineers building a police surveillance system to Claude.&lt;/p&gt;</content>
     <author>
-      <name>Qianer Liu</name>
+      <name>Jing Yang</name>
     </author>
     <author>
-      <name>Jing Yang</name>
+      <name>Qianer Liu</name>
     </author>
   </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18081</id>
     <published>2026-09-22T07:34:39Z</published>
-    <updated>2026-09-22T07:35:23Z</updated>
+    <updated>2026-09-22T20:33:49Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/z-ai-open-sources-zcode-data-uploading-scandal"/>
     <title> Z.ai Open-Sources ZCode After Data Uploading Scandal </title>
     <content type="html">&lt;p&gt;Z.ai said that it has open-sourced its coding tool, ZCode, after the Chinese AI firm faced intense backlash from developers who found out that their data was being uploaded to cloud servers without their consent.&lt;/p&gt; &lt;p&gt;“In response to the ZCode product security issues reported by the community, we ...&lt;/p&gt;</content>
@@ -130,7 +143,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18080</id>
     <published>2026-09-22T07:27:39Z</published>
-    <updated>2026-09-22T07:27:39Z</updated>
+    <updated>2026-09-22T20:33:49Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/alibaba-unveils-new-ai-chip-data-center-expansion-plan"/>
     <title>Alibaba Unveils New AI Chip And Data Center Expansion Plan</title>
     <content type="html">&lt;p&gt;Alibaba on Tuesday unveiled a powerful new AI chip for training and running models, highlighting the rapid progress in China’s domestic semiconductor capabilities.&lt;/p&gt; &lt;p&gt;During its annual Apsara tech conference, Alibaba said its new AI chip, Zhenwu V900, delivers three times the performance of its ...&lt;/p&gt;</content>
@@ -141,7 +154,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18079</id>
     <published>2026-09-22T01:29:21Z</published>
-    <updated>2026-09-22T14:06:12Z</updated>
+    <updated>2026-09-22T20:33:49Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/exclusive-xbox-cut-hundreds-jobs-consolidate-game-studios"/>
     <title>Exclusive: Xbox to Cut Hundreds of Jobs, Consolidate Game Studios</title>
     <content type="html">&lt;p&gt;Xbox is planning to lay off hundreds of employees this week in its second major staff reduction this year, according to someone briefed on the plans. The Microsoft-owned firm also plans to consolidate several of its game studios, this person said.&lt;/p&gt; &lt;p&gt;After The Information reported the planned ...&lt;/p&gt;</content>
@@ -152,7 +165,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17856</id>
     <published>2026-09-22T00:00:41Z</published>
-    <updated>2026-09-22T00:07:36Z</updated>
+    <updated>2026-09-22T20:19:03Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/metas-muse-tries-and-fails-disrupt-amazon"/>
     <title>Meta’s Muse Tries (and Fails) to Disrupt Amazon</title>
     <content type="html">&lt;p&gt;Everyone loves a brawl between two big tech firms—even other tech CEOs. Amazon’s block on Meta Platforms’ new Muse personal agent &lt;a href="https://www.theinformation.com/briefings/amazon-blocks-metas-muse-agent?rc=9byxri"&gt;accessing its shopping site,&lt;/a&gt; which came to &lt;a href="https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping/"&gt;light Sunday night,&lt;/a&gt; prompted Palo Alto Networks CEO Nikesh Arora to &lt;a href="https://x.com/nikesharora/status/2102061935516881135?s=20"&gt;post on X on Monday&lt;/a&gt; that the episode signals “a bigger battle than anyone anticipates.”&amp;nbsp;&lt;/p&gt;&lt;p&gt;He may be right: while Amazon has previously &lt;a href="https://www.theinformation.com/articles/amazon-locks-googles-ai-shopping-agents?rc=9byxri"&gt;blocked Google and OpenAI shopping bots&lt;/a&gt; without drama, Amazon’s action against Meta is a bit more reminiscent of its blocking of Perplexity’s agent, which &lt;a href="https://www.theinformation.com/briefings/amazon-sues-perplexity-battle-ai-agent-access?rc=9byxri"&gt;sparked a lawsuit that is still underway.&lt;/a&gt; And this is just the beginning. Arora, for instance, predicted that eventually everyone from Apple to Google and the AI firms will offer similar personal agents. (See our &lt;a href="https://www.theinformation.com/newsletters/ai-agenda/openai-develops-features-counter-grok-bot-mulls-response-metas-muse?rc=9byxri"&gt;report today&lt;/a&gt; on what OpenAI is up to.)&lt;/p&gt;</content>
@@ -163,7 +176,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18078</id>
     <published>2026-09-21T23:20:25Z</published>
-    <updated>2026-09-22T07:35:24Z</updated>
+    <updated>2026-09-22T20:33:49Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/sb-energy-faces-investor-skepticism-ipo-report-says"/>
     <title>SB Energy Faces Investor Skepticism in IPO, Report Says</title>
     <content type="html">&lt;p&gt;SB Energy’s initial public offering is facing investor skepticism, The New York Times reported Monday.&lt;/p&gt; &lt;p&gt;The SoftBank majority-owned company is planning to raise $5 billion to $7 billion in a public offering to help develop a massive data center complex OpenAI plans to lease, which is set to be ...&lt;/p&gt;</content>
@@ -187,7 +200,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18077</id>
     <published>2026-09-21T22:40:08Z</published>
-    <updated>2026-09-22T07:35:24Z</updated>
+    <updated>2026-09-22T20:33:49Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/smart-ring-maker-oura-files-sell-2-2-billion-ipo"/>
     <title>Smart-ring Maker Oura Files to Sell $2.2 Billion in IPO</title>
     <content type="html">&lt;p&gt;Oura is looking to sell $2.2 billion in shares during its initial public offering, the company said in its &lt;a href="https://www.sec.gov/Archives/edgar/data/2133022/000119312526396051/d119865ds1a.htm"&gt;updated S-1 filing&lt;/a&gt; on Monday. Oura, which makes smart rings that track biometrics including sleep quality and heart health, could reach a $15.6 billion fully-diluted valuation from the ...&lt;/p&gt;</content>
@@ -198,7 +211,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18076</id>
     <published>2026-09-21T20:39:13Z</published>
-    <updated>2026-09-22T07:35:24Z</updated>
+    <updated>2026-09-22T20:33:49Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/paramount-settles-state-antitrust-lawsuit-clearing-way-warner-deal-close"/>
     <title>Paramount Settles State Antitrust Lawsuit, Clearing Way for Warner Deal to Close</title>
     <content type="html">&lt;p&gt;Paramount Skydance settled a lawsuit filed by 12 states that had threatened to stop its $110 billion purchase of Warner Bros. Discovery. The settlement, &lt;a href="https://oag.ca.gov/system/files/attachments/press-docs/2026-09-21-244-exhibits-re-243-joint-motion-enter-consent-decree-and.pdf"&gt;filed in court on Monday,&lt;/a&gt; clears the way for the deal to close.&lt;/p&gt; &lt;p&gt;Under the settlement, Paramount agreed to release at least 30 films into movie ...&lt;/p&gt;</content>
@@ -209,7 +222,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18075</id>
     <published>2026-09-21T18:11:04Z</published>
-    <updated>2026-09-22T08:14:09Z</updated>
+    <updated>2026-09-22T20:33:49Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/openai-releases-proposal-international-ai-safety-coordination"/>
     <title>OpenAI Releases Proposal for International AI Safety Coordination</title>
     <content type="html">&lt;p&gt;OpenAI &lt;a href="https://openai.com/index/building-standards-next-phase-ai/"&gt;released a proposal&lt;/a&gt; on Monday that would create international coordination around AI safety. In a blog post, OpenAI called for national AI safety institutes, such as the U.S. Commerce Department’s Center for AI Standards and Innovation, to set standards around areas including model ...&lt;/p&gt;</content>
@@ -297,26 +310,10 @@
     <title>OpenAI Develops Features to Counter Grok Bot, Mulls Response to Meta’s Muse</title>
     <content type="html">&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; pioneered AI that can take over web browsers and other applications on people’s behalf, and its &lt;b&gt;ChatGPT&lt;/b&gt; app brought generative AI to consumers. Now that rivals like &lt;b&gt;SpaceX&lt;/b&gt; and &lt;b&gt;Meta&lt;/b&gt; are pushing the boundaries by launching personal AI agents that handle multistep tasks, OpenAI is playing catch-up.&lt;/p&gt;&lt;p&gt;For instance, OpenAI is developing features to compete more directly with SpaceX’s recently launched &lt;b&gt;Grok Bot&lt;/b&gt;, which helps customers create always-on AI “teammates” to handle routine tasks, manage software, and collaborate in the background, according to a person with knowledge of the effort. OpenAI also has discussed developing a personal AI assistant to compete with one that Meta Platforms recently launched, according to another person with knowledge of the situation.&lt;/p&gt;&lt;p&gt;In developing such products, OpenAI would be repurposing and rebranding some of the existing “agentic” technology it already offers through &lt;b&gt;Codex&lt;/b&gt; and ChatGPT. Some customers of these OpenAI apps have already connected them to their email, calendar and other applications so they can automate tasks such as scheduling appointments or communicating with businesses by email, sometimes over multiple days.&amp;nbsp;&lt;/p&gt;</content>
     <author>
-      <name>Stephanie Palazzolo</name>
-    </author>
-    <author>
       <name>Amir Efrati</name>
     </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Article/17852</id>
-    <published>2026-09-21T13:55:09Z</published>
-    <updated>2026-09-22T18:36:30Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/openai-anthropic-neared-deal-stress-test-others-ai"/>
-    <title>OpenAI and Anthropic Neared Deal to Stress Test Each Other’s AI</title>
-    <content type="html">&lt;p&gt;&lt;a href="https://www.theinformation.com/org-charts/openai"&gt;OpenAI&lt;/a&gt; is rethinking a range of safety strategies as it responds to fears from employees and others about the dangers its AI poses. One solution could lie in the recent past.&lt;/p&gt;
-
-&lt;p&gt;Even before the spate of cybersecurity incidents involving OpenAI’s technology and the dire warnings from industry workers, the company was negotiating a legally binding deal with &lt;a href="https://www.theinformation.com/org-charts/anthropic"&gt;Anthropic&lt;/a&gt; for the companies to stress-test each other’s models, according to a person with direct knowledge of the discussions, which haven’t been previously reported.&lt;/p&gt;</content>
     <author>
       <name>Stephanie Palazzolo</name>
-    </author>
-    <author>
-      <name>Amir Efrati</name>
     </author>
   </entry>
 </feed>
