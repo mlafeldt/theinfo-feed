@@ -5,11 +5,33 @@
   <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-22T01:59:27Z</updated>
+  <updated>2026-09-22T07:35:24Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18081</id>
+    <published>2026-09-22T07:34:39Z</published>
+    <updated>2026-09-22T07:35:23Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/z-ai-open-sources-zcode-data-uploading-scandal"/>
+    <title> Z.ai Open-Sources ZCode After Data Uploading Scandal </title>
+    <content type="html">&lt;p&gt;Z.ai said that it has open-sourced its coding tool, ZCode, after the Chinese AI firm faced intense backlash from developers who found out that their data was being uploaded to cloud servers without their consent.&lt;/p&gt; &lt;p&gt;“In response to the ZCode product security issues reported by the community, we ...&lt;/p&gt;</content>
+    <author>
+      <name>Juro Osawa</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18080</id>
+    <published>2026-09-22T07:27:39Z</published>
+    <updated>2026-09-22T07:27:39Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/alibaba-unveils-new-ai-chip-data-center-expansion-plan"/>
+    <title>Alibaba Unveils New AI Chip And Data Center Expansion Plan</title>
+    <content type="html">&lt;p&gt;Alibaba on Tuesday unveiled a powerful new AI chip for training and running models, highlighting the rapid progress in China’s domestic semiconductor capabilities.&lt;/p&gt; &lt;p&gt;During its annual Apsara tech conference, Alibaba said its new AI chip, Zhenwu V900, delivers three times the performance of its ...&lt;/p&gt;</content>
+    <author>
+      <name>Juro Osawa</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18079</id>
     <published>2026-09-22T01:29:21Z</published>
-    <updated>2026-09-22T01:59:27Z</updated>
+    <updated>2026-09-22T07:35:23Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/exclusive-xbox-cut-hundreds-jobs-consolidate-game-studios"/>
     <title>Exclusive: Xbox to Cut Hundreds of Jobs, Consolidate Game Studios</title>
     <content type="html">&lt;p&gt;Xbox is planning to lay off hundreds of employees this week in its second major staff reduction this year, according to someone briefed on the plans. The Microsoft-owned firm also plans to consolidate several of its game studios, this person said.&lt;/p&gt; &lt;p&gt;Xbox CEO Asha Sharma &lt;a href="https://www.theinformation.com/briefings/microsoft-cut-4-800-jobs-primarily-xbox-sell-several-xbox-game-studios?rc=geicgp"&gt;in July told staff she ...&lt;/a&gt;&lt;/p&gt;</content>
@@ -31,7 +53,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18078</id>
     <published>2026-09-21T23:20:25Z</published>
-    <updated>2026-09-22T01:28:49Z</updated>
+    <updated>2026-09-22T07:35:24Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/sb-energy-faces-investor-skepticism-ipo-report-says"/>
     <title>SB Energy Faces Investor Skepticism in IPO, Report Says</title>
     <content type="html">&lt;p&gt;SB Energy’s initial public offering is facing investor skepticism, The New York Times reported Monday.&lt;/p&gt; &lt;p&gt;The SoftBank majority-owned company is planning to raise $5 billion to $7 billion in a public offering to help develop a massive data center complex OpenAI plans to lease, which is set to be ...&lt;/p&gt;</content>
@@ -55,7 +77,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18077</id>
     <published>2026-09-21T22:40:08Z</published>
-    <updated>2026-09-22T01:28:49Z</updated>
+    <updated>2026-09-22T07:35:24Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/smart-ring-maker-oura-files-sell-2-2-billion-ipo"/>
     <title>Smart-ring Maker Oura Files to Sell $2.2 Billion in IPO</title>
     <content type="html">&lt;p&gt;Oura is looking to sell $2.2 billion in shares during its initial public offering, the company said in its &lt;a href="https://www.sec.gov/Archives/edgar/data/2133022/000119312526396051/d119865ds1a.htm"&gt;updated S-1 filing&lt;/a&gt; on Monday. Oura, which makes smart rings that track biometrics including sleep quality and heart health, could reach a $15.6 billion fully-diluted valuation from the ...&lt;/p&gt;</content>
@@ -66,7 +88,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18076</id>
     <published>2026-09-21T20:39:13Z</published>
-    <updated>2026-09-22T01:28:49Z</updated>
+    <updated>2026-09-22T07:35:24Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/paramount-settles-state-antitrust-lawsuit-clearing-way-warner-deal-close"/>
     <title>Paramount Settles State Antitrust Lawsuit, Clearing Way for Warner Deal to Close</title>
     <content type="html">&lt;p&gt;Paramount Skydance settled a lawsuit filed by 12 states that had threatened to stop its $110 billion purchase of Warner Bros. Discovery. The settlement, &lt;a href="https://oag.ca.gov/system/files/attachments/press-docs/2026-09-21-244-exhibits-re-243-joint-motion-enter-consent-decree-and.pdf"&gt;filed in court on Monday,&lt;/a&gt; clears the way for the deal to close.&lt;/p&gt; &lt;p&gt;Under the settlement, Paramount agreed to release at least 30 films into movie ...&lt;/p&gt;</content>
@@ -77,7 +99,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18075</id>
     <published>2026-09-21T18:11:04Z</published>
-    <updated>2026-09-22T01:28:49Z</updated>
+    <updated>2026-09-22T07:35:23Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/openai-releases-proposal-international-ai-safety-coordination"/>
     <title>OpenAI Releases Proposal for International AI Safety Coordination</title>
     <content type="html">&lt;p&gt;OpenAI &lt;a href="https://openai.com/index/building-standards-next-phase-ai/"&gt;released a proposal&lt;/a&gt; on Monday that would create international coordination around AI safety. In a blog post, OpenAI called for national AI safety institutes, such as the U.S. Commerce Department’s Center for AI Standards and Innovation, to set standards around areas including model ...&lt;/p&gt;</content>
@@ -203,7 +225,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18074</id>
     <published>2026-09-21T11:46:48Z</published>
-    <updated>2026-09-22T01:28:49Z</updated>
+    <updated>2026-09-22T07:35:23Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/amazon-blocks-metas-muse-agent"/>
     <title>Amazon Blocks Meta’s Muse Agent </title>
     <content type="html">&lt;p&gt;Amazon blocked Meta’s Muse personalized AI agent from accessing its shopping site, Amazon confirmed, saying that agents such as Muse “should operate openly and respect&amp;nbsp;provider decisions about whether or not to participate.”&lt;/p&gt; &lt;p&gt;The block appeared to even prevent Muse from browsing Amazon’s ...&lt;/p&gt;</content>
@@ -282,30 +304,6 @@
 &lt;p&gt;But &lt;a href="https://www.theinformation.com/org-charts/apple"&gt;Apple&lt;/a&gt; is betting that the same demand that’s driven double-digit growth of such phones outside North America for Huawei, Samsung and others will boost sales of its flagship iPhones. Demand for such smartphones, whose hinged sides open to one large glass screen, should also make an expected drop in global smartphone shipments this year less severe than it otherwise would have been.&lt;/p&gt;</content>
     <author>
       <name>Tiffany Li</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Article/17848</id>
-    <published>2026-09-20T14:01:00Z</published>
-    <updated>2026-09-20T14:31:56Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/jane-street-linked-data-center-debt-sours"/>
-    <title>Jane Street-Linked Data Center Debt Sours</title>
-    <content type="html">&lt;p&gt;Secretive Wall Street trading firm Jane Street has become famous in the past couple of years for its sizable AI-related spending, as it has struck big cloud deals to handle its AI computing needs and made investments in neocloud CoreWeave. Yet even a Jane Street&amp;ndash;related deal for data center debt hasn’t won over investors.&lt;/p&gt;
-
-&lt;p&gt;Debt sold by a venture building a data center to be leased by Jane Street has quickly soured in secondary trading, according to Financial Industry Regulatory Authority data. Yields on the bonds have risen to around 11.3%, more than 2 percentage points above where the debt first sold in August. That deterioration has been sharper than for other recently issued AI data center bonds, with investors demanding far higher compensation to hold them versus government debt.&lt;/p&gt;</content>
-    <author>
-      <name>Dakin Campbell</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18071</id>
-    <published>2026-09-19T20:01:40Z</published>
-    <updated>2026-09-22T01:28:49Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/president-trump-announces-ai-force-will-appoint-new-czar"/>
-    <title>President Trump Announces ‘AI Force,’ Will Appoint New Czar</title>
-    <content type="html">&lt;p&gt;President Donald Trump on Saturday said he was creating a new “AI Force,” that would be similar to his Space Force—the arm of the Defense Department focused on space combat started by Trump during his first administration—and he planned to appoint a new AI czar to lead it.&lt;/p&gt; &lt;p&gt;On his Truth Social ...&lt;/p&gt;</content>
-    <author>
-      <name>Laura Mandaro</name>
     </author>
   </entry>
 </feed>
