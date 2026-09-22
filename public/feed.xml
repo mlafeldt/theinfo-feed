@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed?cb=1790111071317</id>
+  <id>tag:www.theinformation.com,2005:/feed?cb=1790111131590</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1790111071317"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1790111131590"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-22T21:04:14Z</updated>
+  <updated>2026-09-22T21:05:04Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18084</id>
+    <published>2026-09-22T21:05:04Z</published>
+    <updated>2026-09-22T21:05:04Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/binance-invests-100-million-circle"/>
+    <title>Binance Invests $100 Million in Circle</title>
+    <content type="html">&lt;p&gt;Binance has &lt;a href="https://www.circle.com/pressroom/binance-invests-100-million-in-circle-expands-strategic-partnership-and-renews-commercial-agreement-for-five-years"&gt;made&lt;/a&gt; a $100 million strategic equity investment in Circle, as the two companies enter a new, five-year agreement to promote Circle’s stablecoins USDC on the Binance platform.&lt;/p&gt; &lt;p&gt;Circle will also pay a monthly fee to Binance, based on a percentage of the amount of USDC held through ...&lt;/p&gt;</content>
+    <author>
+      <name>Yueqi Yang</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17864</id>
     <published>2026-09-22T20:58:49Z</published>
@@ -300,20 +311,6 @@
 &lt;p&gt;&lt;strong&gt;Respondent titles and roles:&lt;/strong&gt; Forty percent were executive leadership (including CEOs, CIOs and CTOs) and owners; 31% were senior management (including SVPs and VPs, directors and managers).&lt;/p&gt;</content>
     <author>
       <name>The Information Partnerships</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Article/17854</id>
-    <published>2026-09-21T14:30:40Z</published>
-    <updated>2026-09-21T14:31:27Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/openai-develops-features-counter-grok-bot-mulls-response-metas-muse"/>
-    <title>OpenAI Develops Features to Counter Grok Bot, Mulls Response to Meta’s Muse</title>
-    <content type="html">&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; pioneered AI that can take over web browsers and other applications on people’s behalf, and its &lt;b&gt;ChatGPT&lt;/b&gt; app brought generative AI to consumers. Now that rivals like &lt;b&gt;SpaceX&lt;/b&gt; and &lt;b&gt;Meta&lt;/b&gt; are pushing the boundaries by launching personal AI agents that handle multistep tasks, OpenAI is playing catch-up.&lt;/p&gt;&lt;p&gt;For instance, OpenAI is developing features to compete more directly with SpaceX’s recently launched &lt;b&gt;Grok Bot&lt;/b&gt;, which helps customers create always-on AI “teammates” to handle routine tasks, manage software, and collaborate in the background, according to a person with knowledge of the effort. OpenAI also has discussed developing a personal AI assistant to compete with one that Meta Platforms recently launched, according to another person with knowledge of the situation.&lt;/p&gt;&lt;p&gt;In developing such products, OpenAI would be repurposing and rebranding some of the existing “agentic” technology it already offers through &lt;b&gt;Codex&lt;/b&gt; and ChatGPT. Some customers of these OpenAI apps have already connected them to their email, calendar and other applications so they can automate tasks such as scheduling appointments or communicating with businesses by email, sometimes over multiple days.&amp;nbsp;&lt;/p&gt;</content>
-    <author>
-      <name>Amir Efrati</name>
-    </author>
-    <author>
-      <name>Stephanie Palazzolo</name>
     </author>
   </entry>
 </feed>
