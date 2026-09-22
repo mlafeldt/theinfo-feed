@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed?cb=1790111131590</id>
+  <id>tag:www.theinformation.com,2005:/feed</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1790111131590"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-22T21:05:04Z</updated>
+  <updated>2026-09-22T22:51:17Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18085</id>
+    <published>2026-09-22T22:51:17Z</published>
+    <updated>2026-09-22T22:51:17Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/anthropic-releases-cheaper-model-first-launch-since-slowdown-calls"/>
+    <title>Anthropic releases cheaper model in first launch since slowdown calls</title>
+    <content type="html">&lt;p&gt;Anthropic announced the release of its newest model, &lt;a href="https://www.anthropic.com/claude-opus-5-5"&gt;Claude Opus 5.5&lt;/a&gt;, saying it performs as well or better than Anthropic’s previous most powerful models, Fable 5.1 and Mythos 5.1, in domains including coding, reasoning, business workflows, and safety. At the same time, it will cost 40% less to ...&lt;/p&gt;</content>
+    <author>
+      <name>Tiffany Li</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18084</id>
     <published>2026-09-22T21:05:04Z</published>
@@ -20,7 +31,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17864</id>
     <published>2026-09-22T20:58:49Z</published>
-    <updated>2026-09-22T21:04:14Z</updated>
+    <updated>2026-09-22T22:49:36Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/wall-streets-gpu-futures-push-stalls-cftc"/>
     <title>Wall Street’s GPU Futures Push Stalls at the CFTC</title>
     <content type="html">&lt;p&gt;The launch of futures for rental prices on Nvidia GPUs, which are seen as important to make AI compute an investable asset class, is hitting a snag.&lt;/p&gt;
@@ -239,78 +250,6 @@
     <content type="html">&lt;p&gt;OpenAI &lt;a href="https://openai.com/index/building-standards-next-phase-ai/"&gt;released a proposal&lt;/a&gt; on Monday that would create international coordination around AI safety. In a blog post, OpenAI called for national AI safety institutes, such as the U.S. Commerce Department’s Center for AI Standards and Innovation, to set standards around areas including model ...&lt;/p&gt;</content>
     <author>
       <name>Leo Schwartz</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Article/17843</id>
-    <published>2026-09-21T16:04:42Z</published>
-    <updated>2026-09-21T16:04:42Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/real-cost-ai-survey-unpredictable-token-economics"/>
-    <title>The Real Cost of AI: A Survey of the Unpredictable Token Economics</title>
-    <content type="html">&lt;p&gt;For decades, enterprise software budgeting was a predictable exercise: negotiate a subscription fee, project the number of seats you need, move on. AI has broken that model. Pricing tied to tokens — the metered unit behind most AI billing — has turned technology spend into a variable cost, and an unpredictable one.&lt;/p&gt;
-
-&lt;p&gt;The Information’s survey of 107 of our readers  - senior leaders and professionals (See Methodology) - finds that most companies haven’t gotten a handle on it: 60% say the cost trajectory of their AI initiatives is unpredictable, at the exact moment CFOs, boards and investors are demanding proof of ROI.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;60%: “The cost trajectory of AI initiatives is unpredictable.”&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;This piece draws on that survey and The Information’s Deep Research to examine where AI budgets are actually going, why token costs remain so hard to forecast, and what separates the companies that have managed AI spending from those still being surprised by their bills.&lt;/p&gt; &lt;h2&gt;The Bulk of the AI Budget&lt;/h2&gt; &lt;p&gt;Outside the hyperscalers, who are &lt;a href="https://www.theinformation.com/deep-research?size=1014265&amp;amp;threadID=bd8076a4-6f12-4444-9151-d1061e4ce1a0"&gt;pouring billions into data centers&lt;/a&gt;, most companies put the bulk of their AI investment — 64% — into software, applications, and API models. (See Chart.) That reflects where ROI is actually realized, according to The Information: most businesses want solutions to specific problems, not infrastructure to manage.&lt;/p&gt;
-
-&lt;p&gt;&lt;iframe aria-label="Bar Chart" data-external="1" frameborder="0" height="303" scrolling="no" src="https://datawrapper.dwcdn.net/QZ2KQ/1/" title="AI Budget Allocation" width="100%"&gt;&lt;/iframe&gt;&lt;script type="text/javascript"&gt;(function(){function e(){window.addEventListener(`message`,function(e){if(e.data[`datawrapper-height`]!==void 0){var t=document.querySelectorAll(`iframe`);for(var n in e.data[`datawrapper-height`])for(var r=0,i;i=t[r];r++)if(i.contentWindow===e.source){var a=e.data[`datawrapper-height`][n]+`px`;i.style.height=a}}})}e()})();&lt;/script&gt;This 64% budget line includes the unpredictability factor, the token, which behaves unlike anything else in the technology budget.&lt;/p&gt;
-
-&lt;p&gt;Let’s unpack the costs of different types of software. The classic subscription/SaaS model relies on per-seat licenses for enterprise systems of record and the cloud services that underpin them, such as CRM (Salesforce), ERP/HR and finance (SAP, Workday), and collaboration (Slack).&lt;/p&gt;
-
-&lt;p&gt;Packaged AI apps and assistants, like ChatGPT or Microsoft Copilot, are also largely bought per seat. The flat seat price covers token usage but also limits what an AI assistant can do. The main drawback of seat-based licensing has always been waste: many paid seats sit idle or underused.&lt;/p&gt;
-
-&lt;p&gt;The token consumption appears in the AI layer of independent digital agents that perform complex tasks rather than simply answering a query. These agents use metered, token-based pricing that scales with usage, making forecasting much harder, and they &lt;a href="https://www.theinformation.com/articles/tokenmaxxing-ai-margin-squeeze"&gt;consume far more compute than basic chatbots.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;As AI shifts from chatbots to autonomous agents running in the background, the companies least practiced at controlling token usage are seeing the biggest surprises on their bills. That’s because such agents operate in loops, and a single inefficient prompt can snowball very quickly.&lt;/p&gt;
-
-&lt;p&gt;For routine data manipulation and established workflows, traditional software is often still cheaper and more reliable than agentic AI. When budget predictability matters most, AI’s consumption-based pricing is a liability, not a feature.&lt;/p&gt;
-
-&lt;p&gt;One survey respondent frames it as a balancing act: “We should be looking for the best of both worlds. Even with a reasonably implemented, small, hosted cloud environment, the cost per transaction for software is nothing like that of pure agent workloads. The cost of going to pure AI can be prohibitive. There must be a balance among human decisions, programmed software, and pure AI.”&lt;/p&gt; &lt;h2&gt;The Intersection of Token Consumption and Productivity&lt;/h2&gt; &lt;p&gt;Reader experience with AI productivity varies widely — even within the same industry. One respondent building a startup says, “With my agentic AI assistant, I am compressing what took me 3 years to build into 6 months.” A technology lawyer at a large enterprise draws a much tighter line, restricting AI to coding and software-vulnerability remediation. AI is useful for legal research, this reader says, but “the amount of quality control that I have to do with AI-generated content adds to the frustration I feel when having to explain to management why AI can’t solve all our problems.”&lt;/p&gt;
-
-&lt;p&gt;Despite the variance, respondents were broadly positive on ROI: 60% say AI increases productivity, more than half say it returns more than it costs, and nearly half report lower internal labor costs. (See Chart)&lt;/p&gt;
-
-&lt;p&gt;&lt;iframe aria-label="Bar Chart" data-external="1" frameborder="0" height="251" scrolling="no" src="https://datawrapper.dwcdn.net/UV6TB/1/" title="Reaping the Rewards of AI" width="100%"&gt;&lt;/iframe&gt;&lt;script type="text/javascript"&gt;(function(){function e(){window.addEventListener(`message`,function(e){if(e.data[`datawrapper-height`]!==void 0){var t=document.querySelectorAll(`iframe`);for(var n in e.data[`datawrapper-height`])for(var r=0,i;i=t[r];r++)if(i.contentWindow===e.source){var a=e.data[`datawrapper-height`][n]+`px`;i.style.height=a}}})}e()})();&lt;/script&gt;&lt;a href="https://www.theinformation.com/deep-research?threadID=f34542b7-8020-470f-a4fb-46d407fc13e7"&gt;The intersection of “token economics” and workforce productivity&lt;/a&gt; has confounded business leaders and accounting departments. First, some companies have equated token consumption with productivity, a mistake. Token consumption itself is not a proxy for a worker’s productivity. More tokens don’t necessarily mean a better outcome. On the contrary, they can cause AI agents to loop, generating large volumes of responses that can run up compute costs and overwhelm a human.&lt;/p&gt;
-
-&lt;p&gt;The crux of the issue is translating token consumption into productivity – not equating the two. Token consumption is an input, not an output. It’s the compute era’s equivalent of billable hours: easy to count, weakly correlated with value. Measure outcomes, not token metrics, with the caveat that outcomes are much harder to measure than tokens.&lt;/p&gt;
-
-&lt;p&gt;Some metrics that are more useful than tokens to consider include task-completion units (the emerging standard), which count the tasks completed by its agents rather than the tokens processed; cycle-time compression for a given process; and revenue or cost attribution.&lt;/p&gt; &lt;h2&gt;AI Adoption and Regulatory Compliance&lt;/h2&gt; &lt;p&gt;“Regulatory compliance is slowing us down” has become one of the most common explanations for sluggish AI adoption. The smallest share of survey respondents, 17%, view regulatory compliance as an accelerant for AI adoption.&lt;/p&gt;
-
-&lt;p&gt;As government regulations, data privacy laws, and corporate governance requirements increase, the cost to develop, run, and use AI rises significantly. Ensuring that AI acts safely and complies with enterprise parameters requires more “thinking” and therefore more tokens. This is largely because ensuring that models, especially agentic models, are secure, compliant, and safe requires immense computational overhead.&lt;/p&gt;
-
-&lt;p&gt;&lt;iframe aria-label="Bar Chart" data-external="1" frameborder="0" height="318" scrolling="no" src="https://datawrapper.dwcdn.net/cLKEJ/2/" title="Top Accelerants of AI Adoption" width="100%"&gt;&lt;/iframe&gt;&lt;script type="text/javascript"&gt;(function(){function e(){window.addEventListener(`message`,function(e){if(e.data[`datawrapper-height`]!==void 0){var t=document.querySelectorAll(`iframe`);for(var n in e.data[`datawrapper-height`])for(var r=0,i;i=t[r];r++)if(i.contentWindow===e.source){var a=e.data[`datawrapper-height`][n]+`px`;i.style.height=a}}})}e()})();&lt;/script&gt;While legal uncertainty and the number of regulations are genuine concerns, large  companies also face the buildout of AI bureaucracy, including chief AI officers, adoption dashboards, token budgets or governance councils, according to The Information. This bureaucracy is a mechanism to deploy AI at scale but it also obscures whether any of it pays for itself. The economics of AI, especially in the era of tokenization, can be confusing and the AI bureaucracy itself is not its cause but its symptom.&lt;/p&gt;
-
-&lt;p&gt;Common flaws of AI governance  include companies governing AI at the policy layer (committees, principles, training) while risk lives at the identity and permission layer. Most policy frameworks are written as instruction sets delivered to the AI model, while the controls that work (deterministic triggers, permission gates, scoped credentials) are enforced outside the model. On top of that, companies may not always know what they are governing, as vendors and employees are adding shadow AI features.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="https://www.theinformation.com/deep-research?size=1014265&amp;amp;threadID=8e81c23f-ad4d-4be2-acdf-d2ed6e01a982"&gt;The right approach inverts the framing most companies start with.&lt;/a&gt; The default assumption is a tradeoff — compliance slows adoption, so minimize one to maximize the other. The evidence points the other way: the things blocking adoption &lt;em&gt;are&lt;/em&gt; the compliance questions, and the companies moving fastest are the ones that resolved them first. But before doing it fast, they must do it right.&lt;/p&gt; &lt;h2&gt;Token Cost Management&lt;/h2&gt; &lt;p&gt;Token cost management is where the survey’s biggest paradox appears. A slim majority of companies (52%) say they understand token costs, and about as many know that disciplined prompt and output engineering can substantially reduce them. Yet only about a third say they actually control token costs in practice. (See Chart)&lt;/p&gt;
-
-&lt;p&gt;“Token cost management is not yet in line with the growth in usage of AI,” one respondent writes.&lt;/p&gt;
-
-&lt;p&gt;&lt;iframe aria-label="Bar Chart" data-external="1" frameborder="0" height="375" scrolling="no" src="https://datawrapper.dwcdn.net/y8zhw/4/" title="The Token Paradox" width="100%"&gt;&lt;/iframe&gt;&lt;script type="text/javascript"&gt;(function(){function e(){window.addEventListener(`message`,function(e){if(e.data[`datawrapper-height`]!==void 0){var t=document.querySelectorAll(`iframe`);for(var n in e.data[`datawrapper-height`])for(var r=0,i;i=t[r];r++)if(i.contentWindow===e.source){var a=e.data[`datawrapper-height`][n]+`px`;i.style.height=a}}})}e()})();&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;Only one in five respondents (20%) believe that buying tokens in higher volumes lowers cost-per-query (see Chart). Yet The Information’s research shows that batching purchases is an effective and increasingly necessary strategy for cutting per-query costs on frontier models, which carry a steep premium over simpler ones. Equally important for savings is selecting token-guzzling frontier models only for tasks that require them.&lt;/p&gt;
-
-&lt;p&gt;The Information’s research and reader responses point to five ways companies are managing token costs:&lt;/p&gt; &lt;ol&gt; &lt;li&gt;
-&lt;strong&gt;Train users.&lt;/strong&gt; Teach employees about model selection, how to prevent models from overthinking, and how to prompt and structure requests to achieve the most useful output at the lowest token cost. Also, teach employees when not to use AI.&lt;/li&gt; &lt;li&gt;
-&lt;strong&gt;Match the right model to the right task.&lt;/strong&gt; Route routine queries to cheaper, open-source models and reserve frontier models for genuinely complex reasoning. “If you select the models best aligned with most tasks, token costs are incredibly low. All the news about token costs concerns frontier models, which are rarely required,” one respondent writes.&lt;/li&gt; &lt;li&gt;
-&lt;strong&gt;Optimize prompts.&lt;/strong&gt; Keep them concise, strip unnecessary context, and reuse outputs where possible. The Information’s research shows that these “token-minimizing” techniques are being deployed to reduce the volume of data a model must process per request.&lt;/li&gt; &lt;li&gt;
-&lt;strong&gt;Cap and track usage.&lt;/strong&gt; Track token usage against productivity, not just spend, and set daily or weekly caps when usage is outpacing value. At one respondent’s company, employees don’t have unfettered access to tokens: “Only authorized employees may use tokens, following a defined mandate and an allocated development budget based on a cost-benefit analysis.”&lt;/li&gt; &lt;li&gt;
-&lt;strong&gt;Adopt a systemic approach.&lt;/strong&gt; Some respondents argue that the fix isn’t behavioral at all. “Cost efficiency is largely determined by systemic, deterministic constraints, rather than individuals voluntarily enforcing constraints upon themselves,” one respondent writes. A systemic approach includes creating a single controlled AI gateway (eradicating shadow AI), introducing hard spend ceilings with approval gates, and making the cheapest path automatic.&lt;/li&gt; &lt;/ol&gt; &lt;h2&gt;Looking Ahead&lt;/h2&gt; &lt;p&gt;AI is getting more expensive, not less. The shift from chatbots to autonomous agents built for multi-step workflows is the single biggest driver of rising costs, and token-based pricing means uncontrolled usage shows up directly on the bill. Respondents expect that trend to continue: most see AI-related spending rising across the board over the next 12 months. (See Chart)&lt;/p&gt;
-
-&lt;p&gt;&lt;iframe aria-label="Bar Chart" data-external="1" frameborder="0" height="293" scrolling="no" src="https://datawrapper.dwcdn.net/ha3hT/1/" title="Higher AI Spending Ahead" width="100%"&gt;&lt;/iframe&gt;&lt;script type="text/javascript"&gt;(function(){function e(){window.addEventListener(`message`,function(e){if(e.data[`datawrapper-height`]!==void 0){var t=document.querySelectorAll(`iframe`);for(var n in e.data[`datawrapper-height`])for(var r=0,i;i=t[r];r++)if(i.contentWindow===e.source){var a=e.data[`datawrapper-height`][n]+`px`;i.style.height=a}}})}e()})();&lt;/script&gt;That’s happening as the enterprise AI market moves past its experimental phase and into one where spending gets scrutinized like any other line item. Companies that haven’t yet built model routing, usage limits, and hard budget caps into their AI programs are likely to keep absorbing costs they can’t fully explain.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Methodology&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Based on a survey of 107 senior leaders and professionals, conducted in June and July 2026.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Company size:&lt;/strong&gt; Forty-five percent of companies surveyed had revenues under $10 million; 20% had revenues of more than $1 billion; 16% had revenues between $10 million and $100 million; 12% had revenues between $100 million and $500 million, and 8% had revenues between $500 million and $1 billion.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Key industry sectors:&lt;/strong&gt; Thirty-eight percent of companies were from technology, media and telecommunications; 13% from professional services; 10% from healthcare and life sciences; 9% from financial services &amp;amp; capital markets, and the remaining 29% came from the government, retail, public sector and others.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Respondent titles and roles:&lt;/strong&gt; Forty percent were executive leadership (including CEOs, CIOs and CTOs) and owners; 31% were senior management (including SVPs and VPs, directors and managers).&lt;/p&gt;</content>
-    <author>
-      <name>The Information Partnerships</name>
     </author>
   </entry>
 </feed>
