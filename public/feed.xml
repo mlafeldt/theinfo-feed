@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed?cb=1790069037125</id>
+  <id>tag:www.theinformation.com,2005:/feed</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1790069037125"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-22T09:23:12Z</updated>
+  <updated>2026-09-22T11:48:24Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17859</id>
+    <published>2026-09-22T11:18:07Z</published>
+    <updated>2026-09-22T11:48:24Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/china-probes-deepseek-moonshot-potential-data-leaks-anthropic"/>
+    <title>China Probes DeepSeek, Moonshot Over Potential Data Leaks to Anthropic</title>
+    <content type="html">&lt;p&gt;China’s internet regulator is investigating DeepSeek and Moonshot AI after Anthropic alleged both companies had been routing sensitive user data to Claude models, according to people with knowledge of the matter.&lt;/p&gt;
+
+&lt;p&gt;In a &lt;a href="https://www.anthropic.com/threat-intelligence-report-september-2026"&gt;154-page report&lt;/a&gt; published on Sept. 10, Anthropic detailed how seven Chinese companies were using Claude illicitly on a widespread scale. In one example, Anthropic alleged that DeepSeek relayed requests from engineers building a police surveillance system to Claude.&lt;/p&gt;</content>
+    <author>
+      <name>Qianer Liu</name>
+    </author>
+    <author>
+      <name>Jing Yang</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18081</id>
     <published>2026-09-22T07:34:39Z</published>
@@ -187,10 +203,10 @@
     <title>OpenAI Develops Features to Counter Grok Bot, Mulls Response to Meta’s Muse</title>
     <content type="html">&lt;p&gt;&lt;b&gt;OpenAI&lt;/b&gt; pioneered AI that can take over web browsers and other applications on people’s behalf, and its &lt;b&gt;ChatGPT&lt;/b&gt; app brought generative AI to consumers. Now that rivals like &lt;b&gt;SpaceX&lt;/b&gt; and &lt;b&gt;Meta&lt;/b&gt; are pushing the boundaries by launching personal AI agents that handle multistep tasks, OpenAI is playing catch-up.&lt;/p&gt;&lt;p&gt;For instance, OpenAI is developing features to compete more directly with SpaceX’s recently launched &lt;b&gt;Grok Bot&lt;/b&gt;, which helps customers create always-on AI “teammates” to handle routine tasks, manage software, and collaborate in the background, according to a person with knowledge of the effort. OpenAI also has discussed developing a personal AI assistant to compete with one that Meta Platforms recently launched, according to another person with knowledge of the situation.&lt;/p&gt;&lt;p&gt;In developing such products, OpenAI would be repurposing and rebranding some of the existing “agentic” technology it already offers through &lt;b&gt;Codex&lt;/b&gt; and ChatGPT. Some customers of these OpenAI apps have already connected them to their email, calendar and other applications so they can automate tasks such as scheduling appointments or communicating with businesses by email, sometimes over multiple days.&amp;nbsp;&lt;/p&gt;</content>
     <author>
-      <name>Stephanie Palazzolo</name>
+      <name>Amir Efrati</name>
     </author>
     <author>
-      <name>Amir Efrati</name>
+      <name>Stephanie Palazzolo</name>
     </author>
   </entry>
   <entry>
@@ -203,10 +219,10 @@
 
 &lt;p&gt;Even before the spate of cybersecurity incidents involving OpenAI’s technology and the dire warnings from industry workers, the company was negotiating a legally binding deal with &lt;a href="https://www.theinformation.com/org-charts/anthropic"&gt;Anthropic&lt;/a&gt; for the companies to stress-test each other’s models, according to a person with direct knowledge of the discussions, which haven’t been previously reported.&lt;/p&gt;</content>
     <author>
-      <name>Stephanie Palazzolo</name>
+      <name>Amir Efrati</name>
     </author>
     <author>
-      <name>Amir Efrati</name>
+      <name>Stephanie Palazzolo</name>
     </author>
   </entry>
   <entry>
@@ -291,19 +307,6 @@
     <content type="html">&lt;p&gt;Nvidia is tracking “every single gigawatt of land, power and shell around the world, literally everything on the planet,” CEO Jensen Huang said at Goldman Sachs’ annual tech conference earlier this month. “We know where everything is.”&lt;/p&gt;&lt;p&gt;Why track power so intently?&lt;/p&gt;&lt;p&gt;Nvidia sees power availability as a key barrier to getting its AI server chips online as soon as they ship, as we’ve chronicled in this column &lt;a href="https://www.theinformation.com/newsletters/ai-infrastructure/exclusive-spacex-lays-groundwork-turbine-blade-factory-solve-data-center-power-crunch"&gt;over&lt;/a&gt; and &lt;a href="https://www.theinformation.com/newsletters/ai-infrastructure/fearing-ai-chip-glut-data-center-developers-choosin-texas"&gt;over&lt;/a&gt;. While securing power is the first step to any AI data center project, even before getting the land or chips, developers that work with Google, Microsoft, Oracle and others fear a glut of unused chips due to an eventual power shortage.&lt;/p&gt;</content>
     <author>
       <name>Phoebe Liu</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Article/17849</id>
-    <published>2026-09-20T15:01:10Z</published>
-    <updated>2026-09-20T15:31:56Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/apple-betting-foldable-iphones"/>
-    <title>Why Apple Is Betting on Foldable iPhones</title>
-    <content type="html">&lt;p&gt;When new Apple CEO John Ternus showed off the first version of a foldable iPhone at an event earlier this month, there was a good chance many Americans watching clips of the video stream had never thought hard about buying such a device.&lt;/p&gt;
-
-&lt;p&gt;But &lt;a href="https://www.theinformation.com/org-charts/apple"&gt;Apple&lt;/a&gt; is betting that the same demand that’s driven double-digit growth of such phones outside North America for Huawei, Samsung and others will boost sales of its flagship iPhones. Demand for such smartphones, whose hinged sides open to one large glass screen, should also make an expected drop in global smartphone shipments this year less severe than it otherwise would have been.&lt;/p&gt;</content>
-    <author>
-      <name>Tiffany Li</name>
     </author>
   </entry>
 </feed>
