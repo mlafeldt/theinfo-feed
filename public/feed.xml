@@ -1,11 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed?cb=1790092923864</id>
+  <id>tag:www.theinformation.com,2005:/feed</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1790092923864"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-22T16:01:08Z</updated>
+  <updated>2026-09-22T18:00:45Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18082</id>
+    <published>2026-09-22T18:00:45Z</published>
+    <updated>2026-09-22T18:00:45Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/openai-announces-cheaper-gpt-6-family-models"/>
+    <title>OpenAI Announces Cheaper GPT-6 Family Models</title>
+    <content type="html">&lt;p&gt;OpenAI on Tuesday announced GPT-6 Sol and GPT-6 Luna, which it describes as cheaper and faster models in the GPT-6 Astra family.&lt;/p&gt; &lt;p&gt;The company said that the new models show significant improvements compared to their predecessors, GPT-5.6 Sol and GPT-5.6 Luna, in areas like professional work, ...&lt;/p&gt;</content>
+    <author>
+      <name>Stephanie Palazzolo</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18083</id>
+    <published>2026-09-22T17:49:21Z</published>
+    <updated>2026-09-22T17:49:21Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/exclusive-metas-muse-surpassed-500-000-users-first-week"/>
+    <title>Exclusive: Meta’s Muse Surpassed 500,000 Users After First Week</title>
+    <content type="html">&lt;p&gt;Meta’s new personal AI agent, Muse, had more than 500,000 people try it out roughly a week after launch, including more than 250,000 daily active users, according to internal data viewed by The Information. Users have also submitted more than 2 million prompts.&lt;/p&gt; &lt;p&gt;The data indicate there has been ...&lt;/p&gt;</content>
+    <author>
+      <name>Jyoti Mann</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17862</id>
+    <published>2026-09-22T17:38:28Z</published>
+    <updated>2026-09-22T17:40:49Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/new-data-show-anthropic-openai-upstarts-eating-software-budgets"/>
+    <title>New Data Show Anthropic, OpenAI and Other Upstarts Are Eating into Software Budgets</title>
+    <content type="html">&lt;p&gt;We’ve been &lt;a href="https://www.theinformation.com/articles/anthropic-costs-mount-businesses-pressure-software-firms-shorten-contracts"&gt;reporting&lt;/a&gt; &lt;a href="https://www.theinformation.com/articles/anthropic-flexes-pricing-power-customers-willingly-eat-cost"&gt;for&lt;/a&gt; &lt;a href="https://www.theinformation.com/articles/small-firms-use-claude-quit-salesforce"&gt;months&lt;/a&gt; about how companies are shifting some traditional software spending to Anthropic and OpenAI. &lt;a href="https://zip.com/blog/where-ai-budget-is-actually-going"&gt;New data&lt;/a&gt; from procurement software firm Zip provides further evidence.&lt;/p&gt;&lt;p&gt;AI providers such as OpenAI, Anthropic, Cursor, and Sierra accounted for 8% of spending by Zip customers in the 12 months that ended in August, up from 1.4% during the previous 12 months. Overall, their software budgets rose by a median of 13% during that period.&amp;nbsp;&lt;/p&gt;&lt;p&gt;The dozens of customers included in the study had an average of 2,400 employees and spent $18 billion for software, including AI, over the past four years. Zip’s customers include Snowflake, OpenAI, Datadog, Cloudflare and AMD.&lt;/p&gt;</content>
+    <author>
+      <name>Laura Bratton</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17861</id>
+    <published>2026-09-22T17:33:18Z</published>
+    <updated>2026-09-22T17:33:43Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/americas-ai-dream-failing-launch"/>
+    <title>Why America’s AI Dream Is Failing to Launch</title>
+    <content type="html">&lt;p&gt;In 2022, American dominance in AI looked almost unassailable. The U.S. led in advanced models, semiconductors, capital and talent. Its closest competitor, China, &lt;a href="https://x.com/jordanschneider/status/1580889347846713344"&gt;appeared to be reeling&lt;/a&gt; from export controls that cut it off from the world’s most advanced process nodes, chips and memory technologies.&lt;/p&gt;
+
+&lt;p&gt;Four years later, the tide seems to be turning. Chinese models &lt;a href="https://x.com/KobeissiLetter/status/2078863180475035891"&gt;have gained major global token share&lt;/a&gt;; American technology giants &lt;a href="https://www.wsj.com/tech/apple-tests-chinese-memory-chips-as-supply-squeeze-bites-d292bb97"&gt;are eyeing Chinese logic and memory chips&lt;/a&gt;; and America’s grand AI ambitions face growing public backlash.&lt;/p&gt;
+
+&lt;p&gt;During the first three months of 2026, local opposition blocked or delayed roughly &lt;a href="https://www.datacenterwatch.org/q1-2026"&gt;$130 billion&lt;/a&gt; in data center projects. &lt;a href="https://www.nytimes.com/2026/07/15/opinion/ai-data-center-politics.html"&gt;This spring, 71%&lt;/a&gt; of Americans surveyed opposed the construction of a data center near where they live. Texas, the fastest-growing state in data center construction, has &lt;a href="https://www.texastribune.org/2026/08/03/texas-data-center-project-audit-greg-abbott/"&gt;frozen new grid-connected projects&lt;/a&gt; until further impact studies are completed. Data centers have become a bipartisan &lt;a href="https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election"&gt;sleeper issue&lt;/a&gt; for the election cycle.&lt;/p&gt;</content>
+    <author>
+      <name>Ryan Cunningham</name>
+    </author>
+    <author>
+      <name>Kristy Loke</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17858</id>
     <published>2026-09-22T16:00:42Z</published>
@@ -40,13 +91,13 @@
 
 &lt;p&gt;The special offers come as customers get choosier about which tools they purchase after they increased budgets for products like Anthropic’s Claude Code and OpenAI’s Codex and cut other costs to justify the new spending. Businesses are also grumbling about shifts by software providers to charge them for AI based on usage or how many tasks it completes, which can drive up costs.&lt;/p&gt;</content>
     <author>
+      <name>Catherine Perloff</name>
+    </author>
+    <author>
       <name>Aaron Holmes</name>
     </author>
     <author>
       <name>Laura Bratton</name>
-    </author>
-    <author>
-      <name>Catherine Perloff</name>
     </author>
   </entry>
   <entry>
@@ -59,10 +110,10 @@
 
 &lt;p&gt;In a &lt;a href="https://www.anthropic.com/threat-intelligence-report-september-2026"&gt;154-page report&lt;/a&gt; published on Sept. 10, Anthropic detailed how seven Chinese companies were using Claude illicitly on a widespread scale. In one example, Anthropic alleged that DeepSeek relayed requests from engineers building a police surveillance system to Claude.&lt;/p&gt;</content>
     <author>
-      <name>Jing Yang</name>
+      <name>Qianer Liu</name>
     </author>
     <author>
-      <name>Qianer Liu</name>
+      <name>Jing Yang</name>
     </author>
   </entry>
   <entry>
@@ -266,57 +317,6 @@
     </author>
     <author>
       <name>Amir Efrati</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Article/17845</id>
-    <published>2026-09-21T13:31:04Z</published>
-    <updated>2026-09-21T13:31:29Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/crowdstrike-okta-trade-big-premiums-despite-unproven-ai-payoff"/>
-    <title>CrowdStrike and Okta Trade at Big Premiums Despite Unproven AI Payoff</title>
-    <content type="html">&lt;p&gt;Cybersecurity stocks have enjoyed a good run in 2026 as investors bet on the idea that they’ll benefit from companies shoring up their defenses against AI-fueled online threats. The S&amp;amp;P Kensho cybersecurity index is up 41% this year compared to an 11% rise in the S&amp;amp;P 500 over the same period.&lt;/p&gt;
-
-&lt;p&gt;But some of the names attracting the most interest, such as cloud-based security firm CrowdStrike and identity security software provider Okta, have soared to valuation highs that should give investors in the sector pause. So far, there’s limited evidence that their revenue growth is getting a boost from new AI concerns.&lt;/p&gt;</content>
-    <author>
-      <name>Anita Ramaswamy</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18074</id>
-    <published>2026-09-21T11:46:48Z</published>
-    <updated>2026-09-22T07:35:23Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/amazon-blocks-metas-muse-agent"/>
-    <title>Amazon Blocks Meta’s Muse Agent </title>
-    <content type="html">&lt;p&gt;Amazon blocked Meta’s Muse personalized AI agent from accessing its shopping site, Amazon confirmed, saying that agents such as Muse “should operate openly and respect&amp;nbsp;provider decisions about whether or not to participate.”&lt;/p&gt; &lt;p&gt;The block appeared to even prevent Muse from browsing Amazon’s ...&lt;/p&gt;</content>
-    <author>
-      <name>Martin Peers</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Article/17853</id>
-    <published>2026-09-21T10:22:11Z</published>
-    <updated>2026-09-21T10:52:59Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/deepseek-bets-big-huawei-chips-bypass-u-s-export-controls"/>
-    <title>DeepSeek Bets Big on Huawei Chips to Bypass U.S. Export Controls</title>
-    <content type="html">&lt;p&gt;DeepSeek CEO Liang Wenfeng told investors that a major priority for his company is to use more domestic chips to train its models, adding that he expects Huawei Technologies to start delivering training chips to DeepSeek as early as the fourth quarter this year, according to two people with direct knowledge of the matter.&lt;/p&gt;
-
-&lt;p&gt;DeepSeek’s growing adoption of Huawei chips during AI model training&amp;mdash;a process that requires more powerful chips compared to running the models&amp;mdash;demonstrates how both companies are joining hands to break away from the stranglehold imposed by U.S. export controls on advanced chips. Liang’s most recent remarks, made during a closed-door, in-person meeting on Sunday, came as DeepSeek finalizes its &lt;a href="http://theinformation.com/articles/deepseeks-annualized-revenue-nears-500-million-boosting-fundraise-ipo-plans?rc=jnr9wn"&gt;second funding round&lt;/a&gt;, which aims to raise 50 billion yuan ($7.5 billion) at a valuation of 500 billion yuan.&lt;/p&gt;</content>
-    <author>
-      <name>Qianer Liu</name>
-    </author>
-    <author>
-      <name>Juro Osawa</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18073</id>
-    <published>2026-09-21T06:29:46Z</published>
-    <updated>2026-09-22T07:35:24Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/alibaba-appoints-new-head-qwen-llm-team"/>
-    <title>Alibaba Appoints New Head of Qwen LLM Team </title>
-    <content type="html">&lt;p&gt;Alibaba Group has appointed Dayiheng Liu, one of its senior AI researchers, as the head of its Qwen large language models, according to two employees with knowledge of the matter.&lt;/p&gt; &lt;p&gt;Liu’s appointment has brought more clarity to the Qwen team’s leadership after multiple rounds of reorganization ...&lt;/p&gt;</content>
-    <author>
-      <name>Juro Osawa</name>
     </author>
   </entry>
 </feed>
