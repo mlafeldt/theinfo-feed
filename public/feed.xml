@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed</id>
+  <id>tag:www.theinformation.com,2005:/feed?cb=1790174937576</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1790174937576"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-23T14:02:21Z</updated>
+  <updated>2026-09-23T14:48:20Z</updated>
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17869</id>
     <published>2026-09-23T14:01:30Z</published>
@@ -20,15 +20,12 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17868</id>
     <published>2026-09-23T13:00:42Z</published>
-    <updated>2026-09-23T13:01:14Z</updated>
+    <updated>2026-09-23T14:14:47Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/founders-fund-khosla-ventures-visit-china-countrys-ai-prowess-rises"/>
     <title>Founders Fund, Khosla Ventures Visit China as Country’s AI Prowess Rises</title>
     <content type="html">&lt;p&gt;U.S. venture capitalists have slashed investments in Chinese startups in recent years as relations between the two superpowers have soured. But behind the scenes, plenty are taking weekslong trips to meet with the country’s tech founders&amp;mdash;a sign of the influence Chinese startups like DeepSeek wield in the hottest parts of tech.&lt;/p&gt;
 
 &lt;p&gt;Last month, three partners at Peter Thiel’s Founders Fund&amp;mdash;Sean Liu, John Luttig and Joey Krug&amp;mdash;visited tech companies in Beijing, Shanghai and Shenzhen. It was the second trip to China Liu had made in the past year and Luttig’s first visit to the country, according to people with direct knowledge of the matter. The idea was not to make investments but to learn about China’s thriving tech sector.&lt;/p&gt;</content>
-    <author>
-      <name>Juro Osawa</name>
-    </author>
     <author>
       <name>Rocket Drew</name>
     </author>
@@ -37,6 +34,9 @@
     </author>
     <author>
       <name>Jing Yang</name>
+    </author>
+    <author>
+      <name>Juro Osawa</name>
     </author>
   </entry>
   <entry>
@@ -135,7 +135,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18086</id>
     <published>2026-09-22T23:20:38Z</published>
-    <updated>2026-09-23T09:27:05Z</updated>
+    <updated>2026-09-23T14:48:20Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/coreweave-completes-4-2-billion-convertible-offering"/>
     <title>CoreWeave Completes $4.2 Billion Convertible Offering </title>
     <content type="html">&lt;p&gt;CoreWeave said on Tuesday it had completed a $4.2 billion convertible bond offering, an upsized amount versus what the AI cloud provider initially targeted last week.&lt;/p&gt; &lt;p&gt;The company had said last&amp;nbsp;Thursday that it was looking to raise $3 billion in the offering, and said it had priced $3.7 ...&lt;/p&gt;</content>
@@ -223,10 +223,10 @@
 
 &lt;p&gt;During the first three months of 2026, local opposition blocked or delayed roughly &lt;a href="https://www.datacenterwatch.org/q1-2026"&gt;$130 billion&lt;/a&gt; in data center projects. &lt;a href="https://www.nytimes.com/2026/07/15/opinion/ai-data-center-politics.html"&gt;This spring, 71%&lt;/a&gt; of Americans surveyed opposed the construction of a data center near where they live. Texas, the fastest-growing state in data center construction, has &lt;a href="https://www.texastribune.org/2026/08/03/texas-data-center-project-audit-greg-abbott/"&gt;frozen new grid-connected projects&lt;/a&gt; until further impact studies are completed. Data centers have become a bipartisan &lt;a href="https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election"&gt;sleeper issue&lt;/a&gt; for the election cycle.&lt;/p&gt;</content>
     <author>
-      <name>Ryan Cunningham</name>
+      <name>Kristy Loke</name>
     </author>
     <author>
-      <name>Kristy Loke</name>
+      <name>Ryan Cunningham</name>
     </author>
   </entry>
   <entry>
