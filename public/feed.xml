@@ -5,11 +5,55 @@
   <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-22T22:51:17Z</updated>
+  <updated>2026-09-23T00:08:14Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17865</id>
+    <published>2026-09-23T00:01:19Z</published>
+    <updated>2026-09-23T00:08:14Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/ai-un-xi-trump"/>
+    <title>AI, the UN, Xi and Trump</title>
+    <content type="html">&lt;p&gt;It’s a big week for global leaders talking about AI. We’ve got a bunch of presidents and prime ministers at the United Nations General Assembly meeting in New York—motorcades are creating chaos in Midtown Manhattan right now—and Chinese president Xi Jinping is due to arrive in Washington tomorrow. The top executives from &lt;a href="https://www.cnbc.com/2026/09/22/heres-who-we-know-is-going-to-the-trump-xi-dinner-so-far.html"&gt;most big tech firms&lt;/a&gt; will be at a state dinner on Thursday night with Xi, while some will also be at the U.N. earlier in the week.&lt;/p&gt;&lt;p&gt;You can bet AI will dominate much of the discussion both at the U.N. and in Washington. It’s unlikely anything of substance will emerge, although there’ll be plenty of breathless headlines. On Tuesday morning, for instance, President Donald Trump made news by pronouncing that artificial intelligence would &lt;a href="https://thehill.com/homenews/administration/6104142-trump-renames-ai-super-intelligence/"&gt;henceforth be known as super intelligence&lt;/a&gt; in U.S. government paperwork, because the word “artificial” makes AI sound “fake.” (See below for more on this.) Glad to see the leader of the free world is staying on top of the most important issues!&lt;/p&gt;</content>
+    <author>
+      <name>Martin Peers</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18087</id>
+    <published>2026-09-22T23:38:54Z</published>
+    <updated>2026-09-23T00:06:46Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/exclusive-microsoft-boost-copilot-discounts-launches-ai-super-app"/>
+    <title>Exclusive: Microsoft to Boost Copilot Discounts as It Launches AI ‘Super App’</title>
+    <content type="html">&lt;p&gt;Microsoft leaders told sales staff this week that it is authorizing steeper discounts of 30% to 50% on subscriptions of its Copilot AI software for corporate customers who commit to purchase a large number of seats and commit to additional payments based on their usage of certain features, ...&lt;/p&gt;</content>
+    <author>
+      <name>Aaron Holmes</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17866</id>
+    <published>2026-09-22T23:28:06Z</published>
+    <updated>2026-09-22T23:29:15Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/barrick-gold-inks-five-year-ai-deal-ipo"/>
+    <title>Barrick Gold Inks Five-Year AI Deal Before IPO</title>
+    <content type="html">&lt;p&gt;AI is top of mind for stock investors these days. That means even companies outside tech are beefing up their AI credentials ahead of new listings.&amp;nbsp;&lt;/p&gt;&lt;p&gt;In one such example, Barrick Gold’s North American unit has agreed to a five-year partnership with Avathon, a startup that develops AI-powered software to help industrial companies predict when expensive equipment will fail and monitors mine and factories sites for safety risks, Avathon CEO Pervinder Johar told me.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Barrick is planning to float a minority stake in its North American unit, which produces the majority of its gold. The company has targeted year-end for the listing.&lt;/p&gt;</content>
+    <author>
+      <name>Alix Coutures</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18086</id>
+    <published>2026-09-22T23:20:38Z</published>
+    <updated>2026-09-22T23:38:22Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/coreweave-completes-4-2-billion-convertible-offering"/>
+    <title>CoreWeave Completes $4.2 Billion Convertible Offering </title>
+    <content type="html">&lt;p&gt;CoreWeave said on Tuesday it had completed a $4.2 billion convertible bond offering, an upsized amount versus what the AI cloud provider initially targeted last week.&lt;/p&gt; &lt;p&gt;The company had said last&amp;nbsp;Thursday that it was looking to raise $3 billion in the offering, and said it had priced $3.7 ...&lt;/p&gt;</content>
+    <author>
+      <name>Alex Eichenstein</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18085</id>
     <published>2026-09-22T22:51:17Z</published>
-    <updated>2026-09-22T22:51:17Z</updated>
+    <updated>2026-09-22T23:38:22Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/anthropic-releases-cheaper-model-first-launch-since-slowdown-calls"/>
     <title>Anthropic releases cheaper model in first launch since slowdown calls</title>
     <content type="html">&lt;p&gt;Anthropic announced the release of its newest model, &lt;a href="https://www.anthropic.com/claude-opus-5-5"&gt;Claude Opus 5.5&lt;/a&gt;, saying it performs as well or better than Anthropic’s previous most powerful models, Fable 5.1 and Mythos 5.1, in domains including coding, reasoning, business workflows, and safety. At the same time, it will cost 40% less to ...&lt;/p&gt;</content>
@@ -20,7 +64,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18084</id>
     <published>2026-09-22T21:05:04Z</published>
-    <updated>2026-09-22T21:05:04Z</updated>
+    <updated>2026-09-22T23:38:22Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/binance-invests-100-million-circle"/>
     <title>Binance Invests $100 Million in Circle</title>
     <content type="html">&lt;p&gt;Binance has &lt;a href="https://www.circle.com/pressroom/binance-invests-100-million-in-circle-expands-strategic-partnership-and-renews-commercial-agreement-for-five-years"&gt;made&lt;/a&gt; a $100 million strategic equity investment in Circle, as the two companies enter a new, five-year agreement to promote Circle’s stablecoins USDC on the Binance platform.&lt;/p&gt; &lt;p&gt;Circle will also pay a monthly fee to Binance, based on a percentage of the amount of USDC held through ...&lt;/p&gt;</content>
@@ -44,7 +88,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18082</id>
     <published>2026-09-22T18:00:45Z</published>
-    <updated>2026-09-22T20:33:49Z</updated>
+    <updated>2026-09-22T23:38:21Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/openai-announces-cheaper-gpt-6-family-models"/>
     <title>OpenAI Announces Cheaper GPT-6 Family Models</title>
     <content type="html">&lt;p&gt;OpenAI on Tuesday announced GPT-6 Sol and GPT-6 Luna, which it describes as cheaper and faster models in the GPT-6 Astra family.&lt;/p&gt; &lt;p&gt;The company said that the new models show significant improvements compared to their predecessors, GPT-5.6 Sol and GPT-5.6 Luna, in areas like professional work, ...&lt;/p&gt;</content>
@@ -55,7 +99,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18083</id>
     <published>2026-09-22T17:49:21Z</published>
-    <updated>2026-09-22T20:33:49Z</updated>
+    <updated>2026-09-22T23:38:21Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/exclusive-metas-muse-surpassed-500-000-users-first-week"/>
     <title>Exclusive: Meta’s Muse Surpassed 500,000 Users After First Week</title>
     <content type="html">&lt;p&gt;Meta’s new personal AI agent, Muse, had more than 500,000 people try it out roughly a week after launch, including more than 250,000 daily active users, according to internal data viewed by The Information. Users have also submitted more than 2 million prompts.&lt;/p&gt; &lt;p&gt;The data indicate there has been ...&lt;/p&gt;</content>
@@ -86,16 +130,16 @@
 
 &lt;p&gt;During the first three months of 2026, local opposition blocked or delayed roughly &lt;a href="https://www.datacenterwatch.org/q1-2026"&gt;$130 billion&lt;/a&gt; in data center projects. &lt;a href="https://www.nytimes.com/2026/07/15/opinion/ai-data-center-politics.html"&gt;This spring, 71%&lt;/a&gt; of Americans surveyed opposed the construction of a data center near where they live. Texas, the fastest-growing state in data center construction, has &lt;a href="https://www.texastribune.org/2026/08/03/texas-data-center-project-audit-greg-abbott/"&gt;frozen new grid-connected projects&lt;/a&gt; until further impact studies are completed. Data centers have become a bipartisan &lt;a href="https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election"&gt;sleeper issue&lt;/a&gt; for the election cycle.&lt;/p&gt;</content>
     <author>
-      <name>Kristy Loke</name>
+      <name>Ryan Cunningham</name>
     </author>
     <author>
-      <name>Ryan Cunningham</name>
+      <name>Kristy Loke</name>
     </author>
   </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17858</id>
     <published>2026-09-22T16:00:42Z</published>
-    <updated>2026-09-22T16:01:08Z</updated>
+    <updated>2026-09-22T23:20:42Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/luckeys-erebor-bank-plots-syria-expansion"/>
     <title>Luckey’s Erebor Bank Plots Syria Expansion</title>
     <content type="html">&lt;p&gt;Erebor Bank, fresh from becoming a vital new financial bridge between the U.S. and Venezuela, is eyeing a new foreign foray: expanding into Syria.&lt;/p&gt;
@@ -126,13 +170,13 @@
 
 &lt;p&gt;The special offers come as customers get choosier about which tools they purchase after they increased budgets for products like Anthropic’s Claude Code and OpenAI’s Codex and cut other costs to justify the new spending. Businesses are also grumbling about shifts by software providers to charge them for AI based on usage or how many tasks it completes, which can drive up costs.&lt;/p&gt;</content>
     <author>
+      <name>Catherine Perloff</name>
+    </author>
+    <author>
       <name>Laura Bratton</name>
     </author>
     <author>
       <name>Aaron Holmes</name>
-    </author>
-    <author>
-      <name>Catherine Perloff</name>
     </author>
   </entry>
   <entry>
@@ -154,7 +198,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18081</id>
     <published>2026-09-22T07:34:39Z</published>
-    <updated>2026-09-22T20:33:49Z</updated>
+    <updated>2026-09-22T23:38:22Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/z-ai-open-sources-zcode-data-uploading-scandal"/>
     <title> Z.ai Open-Sources ZCode After Data Uploading Scandal </title>
     <content type="html">&lt;p&gt;Z.ai said that it has open-sourced its coding tool, ZCode, after the Chinese AI firm faced intense backlash from developers who found out that their data was being uploaded to cloud servers without their consent.&lt;/p&gt; &lt;p&gt;“In response to the ZCode product security issues reported by the community, we ...&lt;/p&gt;</content>
@@ -165,7 +209,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18080</id>
     <published>2026-09-22T07:27:39Z</published>
-    <updated>2026-09-22T20:33:49Z</updated>
+    <updated>2026-09-22T23:38:21Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/alibaba-unveils-new-ai-chip-data-center-expansion-plan"/>
     <title>Alibaba Unveils New AI Chip And Data Center Expansion Plan</title>
     <content type="html">&lt;p&gt;Alibaba on Tuesday unveiled a powerful new AI chip for training and running models, highlighting the rapid progress in China’s domestic semiconductor capabilities.&lt;/p&gt; &lt;p&gt;During its annual Apsara tech conference, Alibaba said its new AI chip, Zhenwu V900, delivers three times the performance of its ...&lt;/p&gt;</content>
@@ -176,7 +220,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18079</id>
     <published>2026-09-22T01:29:21Z</published>
-    <updated>2026-09-22T20:33:49Z</updated>
+    <updated>2026-09-22T23:38:22Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/exclusive-xbox-cut-hundreds-jobs-consolidate-game-studios"/>
     <title>Exclusive: Xbox to Cut Hundreds of Jobs, Consolidate Game Studios</title>
     <content type="html">&lt;p&gt;Xbox is planning to lay off hundreds of employees this week in its second major staff reduction this year, according to someone briefed on the plans. The Microsoft-owned firm also plans to consolidate several of its game studios, this person said.&lt;/p&gt; &lt;p&gt;After The Information reported the planned ...&lt;/p&gt;</content>
@@ -198,58 +242,12 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18078</id>
     <published>2026-09-21T23:20:25Z</published>
-    <updated>2026-09-22T20:33:49Z</updated>
+    <updated>2026-09-22T23:38:22Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/sb-energy-faces-investor-skepticism-ipo-report-says"/>
     <title>SB Energy Faces Investor Skepticism in IPO, Report Says</title>
     <content type="html">&lt;p&gt;SB Energy’s initial public offering is facing investor skepticism, The New York Times reported Monday.&lt;/p&gt; &lt;p&gt;The SoftBank majority-owned company is planning to raise $5 billion to $7 billion in a public offering to help develop a massive data center complex OpenAI plans to lease, which is set to be ...&lt;/p&gt;</content>
     <author>
       <name>Laura Mandaro</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Article/17855</id>
-    <published>2026-09-21T22:46:47Z</published>
-    <updated>2026-09-22T08:10:07Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/world-models-need-intelligence-says-luma-ceo-amit-jain"/>
-    <title>World Models Need More Intelligence, Says Luma CEO Amit Jain</title>
-    <content type="html">&lt;p&gt;The AI boom has been built largely on progress in language models, but a different approach has gained enormous attention in the industry this year: world models, which are designed to generate accurate predictions about the physical world, rather than words and numbers.&lt;/p&gt;
-
-&lt;p&gt;I sat down with Amit Jain, co-founder and CEO of Luma AI, to discuss the promise of world models&amp;mdash;and where current approaches to training them still fall short&amp;mdash;on the &lt;a href="https://www.youtube.com/watch?v=_0gu94SZGlk"&gt;latest episode of AI Deep Dive&lt;/a&gt;, The Information’s&amp;nbsp;new show exploring the hard problems on tech’s frontier.&lt;/p&gt;</content>
-    <author>
-      <name>Rocket Drew</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18077</id>
-    <published>2026-09-21T22:40:08Z</published>
-    <updated>2026-09-22T20:33:49Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/smart-ring-maker-oura-files-sell-2-2-billion-ipo"/>
-    <title>Smart-ring Maker Oura Files to Sell $2.2 Billion in IPO</title>
-    <content type="html">&lt;p&gt;Oura is looking to sell $2.2 billion in shares during its initial public offering, the company said in its &lt;a href="https://www.sec.gov/Archives/edgar/data/2133022/000119312526396051/d119865ds1a.htm"&gt;updated S-1 filing&lt;/a&gt; on Monday. Oura, which makes smart rings that track biometrics including sleep quality and heart health, could reach a $15.6 billion fully-diluted valuation from the ...&lt;/p&gt;</content>
-    <author>
-      <name>Tiffany Li</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18076</id>
-    <published>2026-09-21T20:39:13Z</published>
-    <updated>2026-09-22T20:33:49Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/paramount-settles-state-antitrust-lawsuit-clearing-way-warner-deal-close"/>
-    <title>Paramount Settles State Antitrust Lawsuit, Clearing Way for Warner Deal to Close</title>
-    <content type="html">&lt;p&gt;Paramount Skydance settled a lawsuit filed by 12 states that had threatened to stop its $110 billion purchase of Warner Bros. Discovery. The settlement, &lt;a href="https://oag.ca.gov/system/files/attachments/press-docs/2026-09-21-244-exhibits-re-243-joint-motion-enter-consent-decree-and.pdf"&gt;filed in court on Monday,&lt;/a&gt; clears the way for the deal to close.&lt;/p&gt; &lt;p&gt;Under the settlement, Paramount agreed to release at least 30 films into movie ...&lt;/p&gt;</content>
-    <author>
-      <name>Martin Peers</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18075</id>
-    <published>2026-09-21T18:11:04Z</published>
-    <updated>2026-09-22T20:33:49Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/openai-releases-proposal-international-ai-safety-coordination"/>
-    <title>OpenAI Releases Proposal for International AI Safety Coordination</title>
-    <content type="html">&lt;p&gt;OpenAI &lt;a href="https://openai.com/index/building-standards-next-phase-ai/"&gt;released a proposal&lt;/a&gt; on Monday that would create international coordination around AI safety. In a blog post, OpenAI called for national AI safety institutes, such as the U.S. Commerce Department’s Center for AI Standards and Innovation, to set standards around areas including model ...&lt;/p&gt;</content>
-    <author>
-      <name>Leo Schwartz</name>
     </author>
   </entry>
 </feed>
