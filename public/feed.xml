@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed?cb=1790122712083</id>
+  <id>tag:www.theinformation.com,2005:/feed</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1790122712083"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
   <updated>2026-09-23T00:18:30Z</updated>
@@ -170,10 +170,10 @@
 
 &lt;p&gt;The special offers come as customers get choosier about which tools they purchase after they increased budgets for products like Anthropic’s Claude Code and OpenAI’s Codex and cut other costs to justify the new spending. Businesses are also grumbling about shifts by software providers to charge them for AI based on usage or how many tasks it completes, which can drive up costs.&lt;/p&gt;</content>
     <author>
-      <name>Laura Bratton</name>
+      <name>Catherine Perloff</name>
     </author>
     <author>
-      <name>Catherine Perloff</name>
+      <name>Laura Bratton</name>
     </author>
     <author>
       <name>Aaron Holmes</name>
@@ -189,10 +189,10 @@
 
 &lt;p&gt;In a &lt;a href="https://www.anthropic.com/threat-intelligence-report-september-2026"&gt;154-page report&lt;/a&gt; published on Sept. 10, Anthropic detailed how seven Chinese companies were using Claude illicitly on a widespread scale. In one example, Anthropic alleged that DeepSeek relayed requests from engineers building a police surveillance system to Claude.&lt;/p&gt;</content>
     <author>
-      <name>Qianer Liu</name>
+      <name>Jing Yang</name>
     </author>
     <author>
-      <name>Jing Yang</name>
+      <name>Qianer Liu</name>
     </author>
   </entry>
   <entry>
