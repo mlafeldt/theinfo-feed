@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed?cb=1790135863148</id>
+  <id>tag:www.theinformation.com,2005:/feed?cb=1790138999073</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1790135863148"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1790138999073"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-23T03:56:57Z</updated>
+  <updated>2026-09-23T04:49:58Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18088</id>
+    <published>2026-09-23T04:12:07Z</published>
+    <updated>2026-09-23T04:49:58Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/anthropic-talks-lease-apollo-owned-stream-data-centers"/>
+    <title>Anthropic in Talks to Lease Apollo-Controlled Stream Data Centers</title>
+    <content type="html">&lt;p&gt;Anthropic is in&amp;nbsp;early talks to lease up to 1 gigawatt in compute capacity from Stream Data Centers, a developer majority-owned by Apollo Global Management, which could house&amp;nbsp;tensor processing units designed by Broadcom and Google, &lt;a href="https://www.theinformation.com/articles/anthropic-talks-cement-control-data-centers?rc=zjctrx"&gt;The Information reported&lt;/a&gt; Tuesday.&amp;nbsp;Anthropic could ...&lt;/p&gt;</content>
+    <author>
+      <name>Laura Mandaro</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17867</id>
     <published>2026-09-23T02:21:47Z</published>
@@ -242,17 +253,6 @@
     <content type="html">&lt;p&gt;Xbox is planning to lay off hundreds of employees this week in its second major staff reduction this year, according to someone briefed on the plans. The Microsoft-owned firm also plans to consolidate several of its game studios, this person said.&lt;/p&gt; &lt;p&gt;After The Information reported the planned ...&lt;/p&gt;</content>
     <author>
       <name>Aaron Holmes</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Article/17856</id>
-    <published>2026-09-22T00:00:41Z</published>
-    <updated>2026-09-22T20:19:03Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/metas-muse-tries-and-fails-disrupt-amazon"/>
-    <title>Meta’s Muse Tries (and Fails) to Disrupt Amazon</title>
-    <content type="html">&lt;p&gt;Everyone loves a brawl between two big tech firms—even other tech CEOs. Amazon’s block on Meta Platforms’ new Muse personal agent &lt;a href="https://www.theinformation.com/briefings/amazon-blocks-metas-muse-agent?rc=9byxri"&gt;accessing its shopping site,&lt;/a&gt; which came to &lt;a href="https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping/"&gt;light Sunday night,&lt;/a&gt; prompted Palo Alto Networks CEO Nikesh Arora to &lt;a href="https://x.com/nikesharora/status/2102061935516881135?s=20"&gt;post on X on Monday&lt;/a&gt; that the episode signals “a bigger battle than anyone anticipates.”&amp;nbsp;&lt;/p&gt;&lt;p&gt;He may be right: while Amazon has previously &lt;a href="https://www.theinformation.com/articles/amazon-locks-googles-ai-shopping-agents?rc=9byxri"&gt;blocked Google and OpenAI shopping bots&lt;/a&gt; without drama, Amazon’s action against Meta is a bit more reminiscent of its blocking of Perplexity’s agent, which &lt;a href="https://www.theinformation.com/briefings/amazon-sues-perplexity-battle-ai-agent-access?rc=9byxri"&gt;sparked a lawsuit that is still underway.&lt;/a&gt; And this is just the beginning. Arora, for instance, predicted that eventually everyone from Apple to Google and the AI firms will offer similar personal agents. (See our &lt;a href="https://www.theinformation.com/newsletters/ai-agenda/openai-develops-features-counter-grok-bot-mulls-response-metas-muse?rc=9byxri"&gt;report today&lt;/a&gt; on what OpenAI is up to.)&lt;/p&gt;</content>
-    <author>
-      <name>Martin Peers</name>
     </author>
   </entry>
 </feed>
