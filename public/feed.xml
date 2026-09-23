@@ -5,7 +5,18 @@
   <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-23T09:29:18Z</updated>
+  <updated>2026-09-23T11:16:59Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18091</id>
+    <published>2026-09-23T11:16:59Z</published>
+    <updated>2026-09-23T11:16:59Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/china-leads-u-s-top-ai-talent-study-finds"/>
+    <title>China Leads U.S. in Top AI Talent, Study Finds</title>
+    <content type="html">&lt;p&gt;Chinese AI researchers have increasingly opted to stay and work in their home country, leading China to become the top destination for elite AI talent, according to a study by think tank Carnegie China.&lt;/p&gt; &lt;p&gt;The research found that the share of top AI researchers working in China rose from 27.1% in ...&lt;/p&gt;</content>
+    <author>
+      <name>Claudia Chong</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18090</id>
     <published>2026-09-23T09:25:51Z</published>
@@ -242,17 +253,6 @@
     </author>
     <author>
       <name>Qianer Liu</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18081</id>
-    <published>2026-09-22T07:34:39Z</published>
-    <updated>2026-09-23T09:27:06Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/z-ai-open-sources-zcode-data-uploading-scandal"/>
-    <title> Z.ai Open-Sources ZCode After Data Uploading Scandal </title>
-    <content type="html">&lt;p&gt;Z.ai said that it has open-sourced its coding tool, ZCode, after the Chinese AI firm faced intense backlash from developers who found out that their data was being uploaded to cloud servers without their consent.&lt;/p&gt; &lt;p&gt;“In response to the ZCode product security issues reported by the community, we ...&lt;/p&gt;</content>
-    <author>
-      <name>Juro Osawa</name>
     </author>
   </entry>
 </feed>
