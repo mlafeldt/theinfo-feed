@@ -5,7 +5,18 @@
   <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-23T13:01:14Z</updated>
+  <updated>2026-09-23T14:02:21Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17869</id>
+    <published>2026-09-23T14:01:30Z</published>
+    <updated>2026-09-23T14:02:21Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/expect-ai-agenda-live-crusoe-thinking-machines-labs-strike-compute-deal"/>
+    <title>What To Expect at AI Agenda Live; Crusoe and Thinking Machines Labs Strike a Compute Deal</title>
+    <content type="html">&lt;p&gt;Happy AI Agenda Live day! For those joining us &lt;a href="https://www.theinformation.com/events/ai-agenda-live-2026"&gt;today at SFMOMA&lt;/a&gt;, I’m so excited to meet you all and talk about this exciting, if slightly contentious, moment in the AI industry.&lt;/p&gt;&lt;p&gt;Our staff and attendees will ask top researchers, founders and executives from &lt;b&gt;OpenAI&lt;/b&gt;, &lt;b&gt;Google DeepMind&lt;/b&gt; and &lt;b&gt;Nvidia&lt;/b&gt; some burning questions. Here are three at the top of my mind.&lt;/p&gt;</content>
+    <author>
+      <name>Stephanie Palazzolo</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17868</id>
     <published>2026-09-23T13:00:42Z</published>
@@ -82,10 +93,10 @@
 
 &lt;p&gt;The maker of Claude has discussed signing on as a direct tenant of sites developed by Stream Data Centers, a 27-year-old company with facilities across the U.S., and filling them with tensor processing units designed by Broadcom and Google, according to people with knowledge of the discussions.&lt;/p&gt;</content>
     <author>
-      <name>Amir Efrati</name>
+      <name>Valida Pau</name>
     </author>
     <author>
-      <name>Valida Pau</name>
+      <name>Amir Efrati</name>
     </author>
   </entry>
   <entry>
@@ -240,25 +251,6 @@
     <content type="html">&lt;p&gt;Personal AI agents like &lt;b&gt;Instinct&lt;/b&gt; and &lt;b&gt;Muse&lt;/b&gt; have promised to take away the hassle of booking hard-to-get restaurant reservations, Broadway tickets and sporting events. Now, a startup is coming out of stealth to do the same for corporate entertainment—events, group dining, catering, sporting events and more.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Ande&lt;/b&gt;, founded nearly three years ago, says its AI agents help businesses arrange events for employees or customers, handling everything from booking a venue to processing expenses, CEO &lt;b&gt;Lohit Sarma&lt;/b&gt; said. The firm’s customers include &lt;b&gt;Cloudflare&lt;/b&gt;, &lt;b&gt;Salesforce&lt;/b&gt; and &lt;b&gt;McGraw Hill&lt;/b&gt;.&lt;/p&gt;&lt;p&gt;The New York-based startup has raised more than $52 million in funding across seed and Series A rounds from &lt;b&gt;Lightspeed Venture Partners&lt;/b&gt;, &lt;b&gt;Redpoint Ventures&lt;/b&gt;, &lt;b&gt;Duration Ventures&lt;/b&gt;, &lt;b&gt;Sierra Ventures&lt;/b&gt; and &lt;b&gt;Bain Capital Ventures&lt;/b&gt;, Sarma told The Information exclusively. He declined to disclose the valuation.&lt;/p&gt;</content>
     <author>
       <name>Stephanie Palazzolo</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Article/17857</id>
-    <published>2026-09-22T13:01:01Z</published>
-    <updated>2026-09-23T00:18:30Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/software-firms-discount-ai-keep-customers-anthropic-openai"/>
-    <title>Software Firms Discount AI to Keep Customers From Anthropic, OpenAI</title>
-    <content type="html">&lt;p&gt;Software firms and cloud providers including Amazon, Microsoft, Figma and Workday are dangling new discounts on AI products to clients and consulting partners exhausted by shifts in pricing.&lt;/p&gt;
-
-&lt;p&gt;The special offers come as customers get choosier about which tools they purchase after they increased budgets for products like Anthropic’s Claude Code and OpenAI’s Codex and cut other costs to justify the new spending. Businesses are also grumbling about shifts by software providers to charge them for AI based on usage or how many tasks it completes, which can drive up costs.&lt;/p&gt;</content>
-    <author>
-      <name>Laura Bratton</name>
-    </author>
-    <author>
-      <name>Catherine Perloff</name>
-    </author>
-    <author>
-      <name>Aaron Holmes</name>
     </author>
   </entry>
 </feed>
