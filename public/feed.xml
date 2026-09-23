@@ -1,18 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed</id>
+  <id>tag:www.theinformation.com,2005:/feed?cb=1790188083087</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1790188083087"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-23T17:49:28Z</updated>
+  <updated>2026-09-23T18:27:58Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18093</id>
+    <published>2026-09-23T18:11:40Z</published>
+    <updated>2026-09-23T18:11:40Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/former-lone-pine-capital-director-launches-500-million-plus-tech-fund"/>
+    <title>Former Lone Pine Capital Director Launches $500 Million-Plus Tech Fund</title>
+    <content type="html">&lt;p&gt;Kevin Salimian, former managing director at investment firm Lone Pine Capital, has launched a new firm with more than $500 million in committed capital, according to a person familiar with the firm’s operations.&lt;/p&gt; &lt;p&gt;The firm, Voxel Capital Partners, will invest in 12 to 15 public companies in AI ...&lt;/p&gt;</content>
+    <author>
+      <name>Phoebe Liu</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18092</id>
     <published>2026-09-23T17:37:19Z</published>
-    <updated>2026-09-23T17:37:19Z</updated>
+    <updated>2026-09-23T18:12:13Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/amazon-gives-sellers-12-months-ai-software-quick-free"/>
-    <title>Amazon Gives Sellers 12 Months of AI Software Quick For Free</title>
-    <content type="html">&lt;p&gt;Amazon is giving the merchants that sell goods on Amazon’s site 12 free months of Quick, an AWS AI workplace assistant, Amazon announced Wednesday at its annual conference for sellers, Amazon Accelerate. Amazon is also letting sellers integrate Seller Assistant, another AI assistant which helps ...&lt;/p&gt;</content>
+    <title>Amazon Gives Sellers 12 Months of AI Software Quick Plus For Free</title>
+    <content type="html">&lt;p&gt;Amazon is giving the merchants that sell goods on Amazon’s site 12 free months of Quick Plus, an AWS AI workplace assistant, Amazon announced Wednesday at its annual conference for sellers, Amazon Accelerate. Quick Plus normally costs users $20 a month.&lt;/p&gt; &lt;p&gt;Amazon is also letting sellers integrate ...&lt;/p&gt;</content>
     <author>
       <name>Catherine Perloff</name>
     </author>
@@ -225,7 +236,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17861</id>
     <published>2026-09-22T17:33:18Z</published>
-    <updated>2026-09-22T17:33:43Z</updated>
+    <updated>2026-09-23T18:27:58Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/americas-ai-dream-failing-launch"/>
     <title>Why America’s AI Dream Is Failing to Launch</title>
     <content type="html">&lt;p&gt;In 2022, American dominance in AI looked almost unassailable. The U.S. led in advanced models, semiconductors, capital and talent. Its closest competitor, China, &lt;a href="https://x.com/jordanschneider/status/1580889347846713344"&gt;appeared to be reeling&lt;/a&gt; from export controls that cut it off from the world’s most advanced process nodes, chips and memory technologies.&lt;/p&gt;
@@ -238,19 +249,6 @@
     </author>
     <author>
       <name>Ryan Cunningham</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Article/17858</id>
-    <published>2026-09-22T16:00:42Z</published>
-    <updated>2026-09-22T23:20:42Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/luckeys-erebor-bank-plots-syria-expansion"/>
-    <title>Luckey’s Erebor Bank Plots Syria Expansion</title>
-    <content type="html">&lt;p&gt;Erebor Bank, fresh from becoming a vital new financial bridge between the U.S. and Venezuela, is eyeing a new foreign foray: expanding into Syria.&lt;/p&gt;
-
-&lt;p&gt;The bank, founded by Anduril Industries co-founder Palmer Luckey, has told staff and some investors it could help the war-torn Middle Eastern country reconnect to the global financial system, potentially attracting billions in deposits from businesses and consumers, according to people familiar with the strategy. Doing so would make Erebor a remarkably early mover in Syria, given that Washington only recently reopened the country to U.S. firms and investment.&lt;/p&gt;</content>
-    <author>
-      <name>Michael Roddan</name>
     </author>
   </entry>
 </feed>
