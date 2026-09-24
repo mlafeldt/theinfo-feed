@@ -1,18 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed?cb=1790279630088</id>
+  <id>tag:www.theinformation.com,2005:/feed</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1790279630088"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-24T19:53:24Z</updated>
+  <updated>2026-09-24T21:56:12Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17882</id>
+    <published>2026-09-24T21:53:48Z</published>
+    <updated>2026-09-24T21:56:12Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/anthropic-seeks-palantir-style-voting-control-seven-co-founders-ahead-ipo"/>
+    <title>Anthropic Seeks Palantir-Style Voting Control for Seven Co-Founders Ahead of IPO</title>
+    <content type="html">&lt;p&gt;&lt;a href="https://www.theinformation.com/org-charts/anthropic"&gt;Anthropic&lt;/a&gt;&amp;nbsp;is asking shareholders to approve a new corporate structure that would award CEO Dario Amodei and his six cofounders a special class of shares giving them collective voting control in most corporate matters, according to people familiar with the planning.&lt;/p&gt;
+
+&lt;p&gt;The new arrangement, which emulates a founder-control structure at Palantir, would grant the co-founders a combined 50.1% of voting power, as long as three of the seven co-founders retain a minimum number of shares in the company, one of the people said. It would mark a major change in Anthropic’s already unusual governance structure, strengthening the clout of a group of founders who own relatively small stakes against the prospect of pressure from outside shareholders once it goes public.&lt;/p&gt;</content>
+    <author>
+      <name>Julia Hornstein</name>
+    </author>
+    <author>
+      <name>Cory Weinberg</name>
+    </author>
+    <author>
+      <name>Valida Pau</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18105</id>
+    <published>2026-09-24T21:38:22Z</published>
+    <updated>2026-09-24T21:38:22Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/databricks-acquires-microsoft-excel-competitor-row-zero"/>
+    <title>Databricks Acquires  Microsoft Excel Competitor Row Zero</title>
+    <content type="html">&lt;p&gt;Databricks is &lt;a href="https://www.databricks.com/company/newsroom/press-releases/databricks-acquires-row-zero-bringing-live-governed-spreadsheets"&gt;acquiring&lt;/a&gt; Row Zero, a five-year-old Microsoft Excel competitor that sells spreadsheet software that’s designed for analyzing massive amounts of data.&lt;/p&gt; &lt;p&gt;The deal could help Databricks attract more non-technical users to Genie, a chatbot it launched last summer that lets business ...&lt;/p&gt;</content>
+    <author>
+      <name>Kevin McLaughlin</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18104</id>
+    <published>2026-09-24T21:37:04Z</published>
+    <updated>2026-09-24T21:37:04Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/amazon-gives-merchants-tools-manage-walmart-shopify-inventory"/>
+    <title>Amazon Gives Merchants Tools to Manage Walmart, Shopify Inventory</title>
+    <content type="html">&lt;p&gt;Merchants that sell on Amazon can now use Amazon’s software tools to manage their inventory at rival retailers, including Walmart, Shopify, eBay and TikTok, Amazon announced Thursday at its annual conference for sellers. Merchants will be able to update their product listings and track orders ...&lt;/p&gt;</content>
+    <author>
+      <name>Catherine Perloff</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17883</id>
     <published>2026-09-24T19:02:44Z</published>
-    <updated>2026-09-24T19:05:39Z</updated>
+    <updated>2026-09-24T21:39:01Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/businesses-still-see-ai-returns-consulting-exec-says"/>
     <title>Businesses Still Don’t See AI Returns, Consulting Exec Says</title>
-    <content type="html">&lt;p&gt;Here’s something worth paying attention to. According to consulting firm EY, businesses are still not seeing substantial revenue gains or cost reductions from using AI.&lt;/p&gt;&lt;p&gt;“I haven‘t met any clients that say I wanna slow down my spend on AI. But I have seen a bunch of clients say, ‘I don’t know where my ROI is today,’” said EY executive Dan Diaso in a conversation with Jessica Lessin during &lt;a href="https://www.theinformation.com/articles/open-source-model-price-cuts-keep-ai-costs-control"&gt;The Information’s AI Agenda Live Summit&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;&lt;p&gt;That’s a striking statement, echoing a complaint from businesses about AI that goes back a year or two. And it highlights why so many software and AI companies are&lt;a href="https://www.theinformation.com/articles/software-firms-discount-ai-keep-customers-anthropic-openai?rc=9byxri"&gt; offering discounts and freebies &lt;/a&gt;to persuade businesses to use AI tools.&amp;nbsp;&lt;/p&gt;&lt;p&gt;What’s made businesses conscious of the returns they’re seeing from AI is usage-based pricing, which Anthropic and other providers began to adopt more widely over the past year. That pricing approach has translated to much &lt;a href="https://www.theinformation.com/newsletters/applied-ai/uber-cto-shows-claude-code-can-blow-ai-budgets"&gt;higher bills&lt;/a&gt;. Companies began to both use the tools more carefully and use open source models more, &lt;a href="https://www.theinformation.com/articles/ai-customers-lowering-anthropic-openai-bills"&gt;as we’ve reported&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Even so, Diaso said that spending on AI now is still “based on enthusiasm as opposed to that evidence.” He said only one in 10 of EY’s clients can “actually show where the ROI is happening” in their income statements.&lt;/p&gt;&lt;p&gt;He added that “everybody without a doubt would say that AI is significantly increasing the [organization's] productivity.” But from a CFO’s point of view, “productivity needs to translate into one of two things…Are we making more revenue? Or are we taking costs out of the organization?”&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Here’s something worth paying attention to. According to consulting firm EY, businesses are still not seeing substantial revenue gains or cost reductions from using AI.&lt;/p&gt;&lt;p&gt;“I haven‘t met any clients that say I wanna slow down my spend on AI. But I have seen a bunch of clients say, ‘I don’t know where my ROI is today,’” said EY executive Dan Diasio in a conversation with Jessica Lessin during &lt;a href="https://www.theinformation.com/articles/open-source-model-price-cuts-keep-ai-costs-control"&gt;The Information’s AI Agenda Live Summit&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;&lt;p&gt;That’s a striking statement, echoing a complaint from businesses about AI that goes back a year or two. And it highlights why so many software and AI companies are&lt;a href="https://www.theinformation.com/articles/software-firms-discount-ai-keep-customers-anthropic-openai?rc=9byxri"&gt; offering discounts and freebies &lt;/a&gt;to persuade businesses to use AI tools.&amp;nbsp;&lt;/p&gt;&lt;p&gt;What’s made businesses conscious of the returns they’re seeing from AI is usage-based pricing, which Anthropic and other providers began to adopt more widely over the past year. That pricing approach has translated to much &lt;a href="https://www.theinformation.com/newsletters/applied-ai/uber-cto-shows-claude-code-can-blow-ai-budgets"&gt;higher bills&lt;/a&gt;. Companies began to both use the tools more carefully and use open source models more, &lt;a href="https://www.theinformation.com/articles/ai-customers-lowering-anthropic-openai-bills"&gt;as we’ve reported&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Even so, Diasio said that spending on AI now is still “based on enthusiasm as opposed to that evidence.” He said only one in 10 of EY’s clients can “actually show where the ROI is happening” in their income statements.&lt;/p&gt;&lt;p&gt;He added that “everybody without a doubt would say that AI is significantly increasing the [organization's] productivity.” But from a CFO’s point of view, “productivity needs to translate into one of two things…Are we making more revenue? Or are we taking costs out of the organization?”&lt;/p&gt;</content>
     <author>
       <name>Laura Bratton</name>
     </author>
@@ -23,18 +64,18 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17881</id>
     <published>2026-09-24T18:42:11Z</published>
-    <updated>2026-09-24T18:43:19Z</updated>
+    <updated>2026-09-24T21:06:59Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/jev-fervor-leads-talk-big-valuation-boost"/>
     <title>Jev Fervor Leads to Talk of Big Valuation Boost</title>
-    <content type="html">&lt;p&gt;Silicon Valley has a new AI startup to obsess over—and throw money at. We’re hearing that TypeSafe AI, the startup developing a new kind of model called Jev, has started to talk to investors about raising an enormous round—$1 billion or even more—and that some unnamed investors have offered to put money in at a valuation of $10 billion or more. All this for a startup that said only last week it had raised $40 million, at a valuation, according to PitchBook, of $200 million.&lt;/p&gt;&lt;p&gt;Talks are early and a lot could change over the next few days and weeks. But the buzz is palpable: on Wednesday&lt;a href="https://www.theinformation.com/features/ai-summit?rc=zjctrx"&gt; at our AI Agenda Live conference&lt;/a&gt; in San Francisco, at least two speakers brought Jev up, with pretty glowing terms. “Incredibly fast,” remarked Nvidia’s senior director of high performance computing, Dion Harris, while noting the model’s limitations. &lt;/p&gt;&lt;p&gt;This buzz may be driving up its compute costs, making it more amenable to another round—a scenario that just played out &lt;a href="https://www.theinformation.com/articles/ai-agent-startup-instinct-talks-10-billion-valuation"&gt;with the startup behind Instinct&lt;/a&gt;.&lt;/p&gt;</content>
-    <author>
-      <name>Cory Weinberg</name>
-    </author>
+    <content type="html">&lt;p&gt;Silicon Valley has a new AI startup to obsess over—and throw money at. We’re hearing that TypeSafe AI, the startup developing a new kind of model called Jev, has started to talk to investors about raising an enormous round—$1 billion or even more—and that some unnamed investors have offered to put money in at a valuation of $10 billion or more. All this for a startup that said only last week it had raised $40 million, at a valuation, according to PitchBook, of $200 million.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Talks are early and a lot could change over the next few days and weeks. But the buzz is palpable: on Wednesday&lt;a href="https://www.theinformation.com/features/ai-summit?rc=zjctrx"&gt; at our AI Agenda Live conference&lt;/a&gt; in San Francisco, at least two speakers brought Jev up, with pretty glowing terms. “Incredibly fast,” remarked Nvidia’s senior director of high performance computing, Dion Harris, while noting the model’s limitations. &lt;/p&gt;&lt;p&gt;This buzz may be driving up its compute costs, making it more amenable to another round—a scenario that just played out &lt;a href="https://www.theinformation.com/articles/ai-agent-startup-instinct-talks-10-billion-valuation"&gt;with the startup behind Instinct&lt;/a&gt;.&lt;/p&gt;</content>
     <author>
       <name>Stephanie Palazzolo</name>
     </author>
     <author>
       <name>Valida Pau</name>
+    </author>
+    <author>
+      <name>Cory Weinberg</name>
     </author>
   </entry>
   <entry>
@@ -56,7 +97,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18103</id>
     <published>2026-09-24T17:44:00Z</published>
-    <updated>2026-09-24T17:44:00Z</updated>
+    <updated>2026-09-24T21:17:43Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/former-openai-data-center-chief-now-nvidia"/>
     <title>Former OpenAI Data Center Chief Is Now At Nvidia</title>
     <content type="html">&lt;p&gt;Chris Malone, OpenAI’s former head of data centers, joined Nvidia as the vice president of Nvidia’s DSX Platform this month, according to his LinkedIn profile. DSX is the Nvidia division that helps customers design and build AI data centers according to Nvidia’s specifications.&lt;/p&gt; &lt;p&gt;Malone left ...&lt;/p&gt;</content>
@@ -67,7 +108,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18102</id>
     <published>2026-09-24T16:21:38Z</published>
-    <updated>2026-09-24T19:37:06Z</updated>
+    <updated>2026-09-24T21:17:42Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/new-york-sues-polymarket-alleged-illegal-gambling"/>
     <title>New York Sues Polymarket Over Alleged Illegal Gambling</title>
     <content type="html">&lt;p&gt;New York has sued Polymarket for allegedly running an illegal gambling operation, expanding the state’s fight against prediction markets after earlier suing rival startup Kalshi and others.&lt;/p&gt; &lt;p&gt;New York Attorney General Letitia James announced the action against Polymarket on Thursday. The state has ...&lt;/p&gt;</content>
@@ -78,7 +119,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18101</id>
     <published>2026-09-24T14:48:32Z</published>
-    <updated>2026-09-24T19:36:59Z</updated>
+    <updated>2026-09-24T21:17:42Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/oracle-invokes-force-majeure-aim-protect-data-center-cost-overruns"/>
     <title>Oracle Invokes Force Majeure in Aim to Protect Itself From Data Center Cost Overruns</title>
     <content type="html">&lt;p&gt;Oracle, which is set to lease a New Mexico data center on behalf of OpenAI, sent a notice to the project’s developer asserting its contractual rights to withhold payments if project delays persist, according to &lt;a href="https://www.bloomberg.com/news/articles/2026-09-24/oracle-cites-force-majeure-to-shield-itself-on-controversial-data-center"&gt;Bloomberg&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;Oracle sent a notice that cited “force majeure” to a developer owned by ...&lt;/p&gt;</content>
@@ -127,7 +168,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18100</id>
     <published>2026-09-24T10:33:12Z</published>
-    <updated>2026-09-24T19:37:06Z</updated>
+    <updated>2026-09-24T21:17:43Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/deepseek-aims-close-7-5-billion-funding-round-end-october"/>
     <title>DeepSeek Aims to Close $7.5 Billion Funding Round by End-October</title>
     <content type="html">&lt;p&gt;DeepSeek is aiming to complete its second funding round by the end of October as it prepares to go public on the Shanghai Stock Exchange, The Information reported on Thursday. The company’s fundraising efforts may be fuelled by a boost in revenue, which has hit $1 billion on an annualized basis. ...&lt;/p&gt;</content>
@@ -145,10 +186,10 @@
 
 &lt;p&gt;The latest revenue figure, shared by CEO Liang Wenfeng in a recent meeting with investors, could boost investor confidence as the company finalizes its second funding round and as it prepares to go public in the Shanghai Stock Exchange. DeepSeek is aiming to complete the fundraising by the end of October, with a goal of raising 50 billion yuan ($7.5 billion) at a valuation of 500 billion yuan.&lt;/p&gt;</content>
     <author>
-      <name>Juro Osawa</name>
+      <name>Qianer Liu</name>
     </author>
     <author>
-      <name>Qianer Liu</name>
+      <name>Juro Osawa</name>
     </author>
   </entry>
   <entry>
@@ -204,7 +245,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18098</id>
     <published>2026-09-23T22:11:53Z</published>
-    <updated>2026-09-24T19:37:06Z</updated>
+    <updated>2026-09-24T21:17:55Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/blackstone-exec-says-big-unknowns-remain-ai-credit-demand"/>
     <title>Blackstone Exec Says Big Unknowns Remain For AI Credit Demand</title>
     <content type="html">&lt;p&gt;Jas Khaira, head of Blackstone’s AI-focused investment team, said on Wednesday that the firm is still figuring out which kinds of investors will step in to provide the massive amounts of financing still needed for the AI buildout. The investment giant itself is waiting to see if debt from the ...&lt;/p&gt;</content>
@@ -215,45 +256,12 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18097</id>
     <published>2026-09-23T21:34:41Z</published>
-    <updated>2026-09-24T19:37:06Z</updated>
+    <updated>2026-09-24T21:17:55Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/openai-agent-hacked-australian-government-prime-minister-says"/>
     <title>OpenAI Agent Hacked Australian Government, Prime Minister Says</title>
     <content type="html">&lt;p&gt;An AI agent developed by OpenAI hacked an Australian government website in June, Australian prime minister Anthony Albanese said on Wednesday. The AI accessed both public and nonpublic data from the country’s Department of Health website, Albanese told reporters, adding that the country is now ...&lt;/p&gt;</content>
     <author>
       <name>Aaron Holmes</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18096</id>
-    <published>2026-09-23T21:05:56Z</published>
-    <updated>2026-09-24T19:37:07Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/patreon-co-founder-sam-yam-joins-openai-lead-new-creator-division"/>
-    <title>Patreon Co-Founder Sam Yam Joins OpenAI to Lead New Creator Division </title>
-    <content type="html">&lt;p&gt;OpenAI has hired Patreon co-founder Sam Yam to lead a new creator product division, Creator Product, Yam announced Wednesday &lt;a href="https://x.com/samyamiam/status/2102503574492332141"&gt;on X&lt;/a&gt;, a sign of renewed interest in attracting consumers.&lt;/p&gt; &lt;p&gt;Two other former Patreon executives, head of product Drew Rowny and head of engineering Shannon Ma, are joining ...&lt;/p&gt;</content>
-    <author>
-      <name>Alix Coutures</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18095</id>
-    <published>2026-09-23T20:23:28Z</published>
-    <updated>2026-09-24T19:37:06Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/anthropic-says-ai-helped-discover-possible-new-gene-editing-tool"/>
-    <title>Anthropic Says Its AI Helped Discover a Possible New Gene-Editing Tool</title>
-    <content type="html">&lt;p&gt;Anthropic said that Claude helped discover a previously unknown molecular system that the company said could represent a new gene editing tool akin to CRISPR, which has transformed the creation of new gene therapies.&lt;/p&gt; &lt;p&gt;In a &lt;a href="https://x.com/DarioAmodei/status/2102831170299834652"&gt;post on X&lt;/a&gt;, Anthropic CEO Dario Amodei cautioned that the “precise ...&lt;/p&gt;</content>
-    <author>
-      <name>Nick Wingfield</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18094</id>
-    <published>2026-09-23T20:19:21Z</published>
-    <updated>2026-09-24T19:37:07Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/sam-altman-dario-amodei-brief-un-security-council"/>
-    <title>Sam Altman and Dario Amodei Brief UN Security Council</title>
-    <content type="html">&lt;p&gt;OpenAI CEO Sam Altman and Anthropic CEO Dario Amodei briefed the United Nations Security Council on Wednesday as part of the international organization’s General Assembly week in New York. In a session on artificial intelligence and international security, the two executives addressed concerns ...&lt;/p&gt;</content>
-    <author>
-      <name>Leo Schwartz</name>
     </author>
   </entry>
 </feed>
