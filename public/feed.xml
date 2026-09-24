@@ -5,7 +5,23 @@
   <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-24T05:19:22Z</updated>
+  <updated>2026-09-24T06:51:43Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17878</id>
+    <published>2026-09-24T06:20:50Z</published>
+    <updated>2026-09-24T06:51:43Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/deepseeks-annualized-revenue-hits-1-billion-startup-finalizes-7-5-billion-fundraising"/>
+    <title>DeepSeek’s Annualized Revenue Hits $1 Billion as Startup Finalizes $7.5 Billion Fundraising</title>
+    <content type="html">&lt;p&gt;DeepSeek’s annualized revenue run rate has hit $1 billion, more than double from less than $500 million a few months ago, buoyed by a recent price hike as well as continued popularity of its models, according to two people with direct knowledge of the matter.&lt;/p&gt;
+
+&lt;p&gt;The latest revenue figure, shared by CEO Liang Wenfeng in a recent meeting with investors, could boost investor confidence as the company finalizes its second funding round and as it prepares to go public in the Shanghai Stock Exchange. DeepSeek is aiming to complete the fundraising by the end of October, with a goal of raising 50 billion yuan ($7.5 billion) at a valuation of 500 billion yuan.&lt;/p&gt;</content>
+    <author>
+      <name>Juro Osawa</name>
+    </author>
+    <author>
+      <name>Qianer Liu</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17877</id>
     <published>2026-09-24T04:25:31Z</published>
@@ -154,16 +170,16 @@
 
 &lt;p&gt;Last month, three partners at Peter Thiel’s Founders Fund&amp;mdash;Sean Liu, John Luttig and Joey Krug&amp;mdash;visited tech companies in Beijing, Shanghai and Shenzhen. It was the second trip to China Liu had made in the past year and Luttig’s first visit to the country, according to people with direct knowledge of the matter. The idea was not to make investments but to learn about China’s thriving tech sector.&lt;/p&gt;</content>
     <author>
-      <name>Jing Yang</name>
-    </author>
-    <author>
       <name>Rocket Drew</name>
     </author>
     <author>
-      <name>Julia Hornstein</name>
+      <name>Juro Osawa</name>
     </author>
     <author>
-      <name>Juro Osawa</name>
+      <name>Jing Yang</name>
+    </author>
+    <author>
+      <name>Julia Hornstein</name>
     </author>
   </entry>
   <entry>
@@ -220,10 +236,10 @@
 
 &lt;p&gt;The maker of Claude has discussed signing on as a direct tenant of sites developed by Stream Data Centers, a 27-year-old company with facilities across the U.S., and filling them with tensor processing units designed by Broadcom and Google, according to people with knowledge of the discussions.&lt;/p&gt;</content>
     <author>
-      <name>Valida Pau</name>
+      <name>Amir Efrati</name>
     </author>
     <author>
-      <name>Amir Efrati</name>
+      <name>Valida Pau</name>
     </author>
   </entry>
   <entry>
@@ -235,17 +251,6 @@
     <content type="html">&lt;p&gt;It’s a big week for global leaders talking about AI. We’ve got a bunch of presidents and prime ministers at the United Nations General Assembly meeting in New York—motorcades are creating chaos in Midtown Manhattan right now—and Chinese president Xi Jinping is due to arrive in Washington tomorrow. The top executives from &lt;a href="https://www.cnbc.com/2026/09/22/heres-who-we-know-is-going-to-the-trump-xi-dinner-so-far.html"&gt;most big tech firms&lt;/a&gt; will be at a state dinner on Thursday night with Xi, while some will also be at the U.N. earlier in the week.&lt;/p&gt;&lt;p&gt;You can bet AI will dominate much of the discussion both at the U.N. and in Washington. It’s unlikely anything of substance will emerge, although there’ll be plenty of breathless headlines. On Tuesday morning, for instance, President Donald Trump made news by pronouncing that artificial intelligence would &lt;a href="https://thehill.com/homenews/administration/6104142-trump-renames-ai-super-intelligence/"&gt;henceforth be known as super intelligence&lt;/a&gt; in U.S. government paperwork, because the word “artificial” makes AI sound “fake.” (See below for more on this.) Glad to see the leader of the free world is staying on top of the most important issues!&lt;/p&gt;</content>
     <author>
       <name>Martin Peers</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18087</id>
-    <published>2026-09-22T23:38:54Z</published>
-    <updated>2026-09-23T21:33:56Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/exclusive-microsoft-boost-copilot-discounts-launches-ai-super-app"/>
-    <title>Exclusive: Microsoft to Boost Copilot Discounts as It Launches AI ‘Super App’</title>
-    <content type="html">&lt;p&gt;Microsoft leaders told sales staff this week that it is authorizing steeper discounts of 30% to 50% on subscriptions of its Copilot AI software for corporate customers who commit to purchase a large number of seats and commit to additional payments based on their usage of certain features, ...&lt;/p&gt;</content>
-    <author>
-      <name>Aaron Holmes</name>
     </author>
   </entry>
 </feed>
