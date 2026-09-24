@@ -5,7 +5,38 @@
   <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-24T17:52:39Z</updated>
+  <updated>2026-09-24T19:04:02Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17883</id>
+    <published>2026-09-24T19:02:44Z</published>
+    <updated>2026-09-24T19:04:02Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/businesses-still-see-ai-returns-consulting-exec-says"/>
+    <title>Businesses Still Don’t See AI Returns, Consulting Exec Says</title>
+    <content type="html">&lt;p&gt;Here’s something worth paying attention to. According to consulting firm EY, businesses are still not seeing substantial revenue gains or cost reductions from using AI.&lt;/p&gt;&lt;p&gt;“I haven‘t met any clients that say I wanna slow down my spend on AI. But I have seen a bunch of clients say, ‘I don’t know where my ROI is today,’” said EY executive Dan Diaso in a conversation with Jessica Lessin during &lt;a href="https://www.theinformation.com/articles/open-source-model-price-cuts-keep-ai-costs-control"&gt;The Information’s AI Agenda Live Summit&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;&lt;p&gt;That’s a striking statement, echoing a complaint from businesses about AI that goes back a year or two. And it highlights why so many software and AI companies are&lt;a href="https://www.theinformation.com/articles/software-firms-discount-ai-keep-customers-anthropic-openai?rc=9byxri"&gt; offering discounts and freebies &lt;/a&gt;to persuade businesses to use AI tools.&amp;nbsp;&lt;/p&gt;&lt;p&gt;What’s made businesses conscious of the returns they’re seeing from AI is usage-based pricing, which Anthropic and other providers began to adopt more widely over the past year. That pricing approach has translated to much &lt;a href="https://www.theinformation.com/newsletters/applied-ai/uber-cto-shows-claude-code-can-blow-ai-budgets"&gt;higher bills&lt;/a&gt;. Companies began to both use the tools more carefully and use open source models more, &lt;a href="https://www.theinformation.com/articles/ai-customers-lowering-anthropic-openai-bills"&gt;as we’ve reported&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Even so, Diaso said that spending on AI now is still “based on enthusiasm as opposed to that evidence.” He said only one in 10 of EY’s clients can “actually show where the ROI is happening” in their income statements.&lt;/p&gt;&lt;p&gt;He added that “everybody without a doubt would say that AI is significantly increasing the [organization's] productivity.” But from a CFO’s point of view, “productivity needs to translate into one of two things…Are we making more revenue? Or are we taking costs out of the organization?”&lt;/p&gt;</content>
+    <author>
+      <name>Kevin McLaughlin</name>
+    </author>
+    <author>
+      <name>Laura Bratton</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17881</id>
+    <published>2026-09-24T18:42:11Z</published>
+    <updated>2026-09-24T18:43:19Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/jev-fervor-leads-talk-big-valuation-boost"/>
+    <title>Jev Fervor Leads to Talk of Big Valuation Boost</title>
+    <content type="html">&lt;p&gt;Silicon Valley has a new AI startup to obsess over—and throw money at. We’re hearing that TypeSafe AI, the startup developing a new kind of model called Jev, has started to talk to investors about raising an enormous round—$1 billion or even more—and that some unnamed investors have offered to put money in at a valuation of $10 billion or more. All this for a startup that said only last week it had raised $40 million, at a valuation, according to PitchBook, of $200 million.&lt;/p&gt;&lt;p&gt;Talks are early and a lot could change over the next few days and weeks. But the buzz is palpable: on Wednesday&lt;a href="https://www.theinformation.com/features/ai-summit?rc=zjctrx"&gt; at our AI Agenda Live conference&lt;/a&gt; in San Francisco, at least two speakers brought Jev up, with pretty glowing terms. “Incredibly fast,” remarked Nvidia’s senior director of high performance computing, Dion Harris, while noting the model’s limitations. &lt;/p&gt;&lt;p&gt;This buzz may be driving up its compute costs, making it more amenable to another round—a scenario that just played out &lt;a href="https://www.theinformation.com/articles/ai-agent-startup-instinct-talks-10-billion-valuation"&gt;with the startup behind Instinct&lt;/a&gt;.&lt;/p&gt;</content>
+    <author>
+      <name>Cory Weinberg</name>
+    </author>
+    <author>
+      <name>Stephanie Palazzolo</name>
+    </author>
+    <author>
+      <name>Valida Pau</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17880</id>
     <published>2026-09-24T17:52:15Z</published>
@@ -36,7 +67,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18102</id>
     <published>2026-09-24T16:21:38Z</published>
-    <updated>2026-09-24T16:21:38Z</updated>
+    <updated>2026-09-24T18:35:20Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/new-york-sues-polymarket-alleged-illegal-gambling"/>
     <title>New York Sues Polymarket Over Alleged Illegal Gambling</title>
     <content type="html">&lt;p&gt;New York has sued Polymarket for allegedly running an illegal gambling operation, expanding the state’s fight against prediction markets after earlier suing rival startup Kalshi and others.&lt;/p&gt; &lt;p&gt;New York Attorney General Letitia James announced the action against Polymarket on Thursday. The state has ...&lt;/p&gt;</content>
@@ -69,7 +100,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17879</id>
     <published>2026-09-24T14:00:59Z</published>
-    <updated>2026-09-24T14:01:45Z</updated>
+    <updated>2026-09-24T18:32:39Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/learned-ai-agenda-live"/>
     <title>What I Learned From AI Agenda Live</title>
     <content type="html">&lt;p&gt;What a day! I loved meeting many of our amazing subscribers yesterday at our AI Agenda Live conference, where my colleagues and I interviewed leaders from companies like &lt;b&gt;OpenAI&lt;/b&gt;, &lt;b&gt;Google DeepMind&lt;/b&gt;, &lt;b&gt;Nvidia&lt;/b&gt;, &lt;b&gt;Blackstone&lt;/b&gt;, &lt;b&gt;Replit&lt;/b&gt;, &lt;b&gt;Atlassian&lt;/b&gt; and more.&lt;/p&gt;&lt;p&gt;Discussions at the conference touched on topics ranging from whether &lt;a href="https://www.theinformation.com/articles/google-nears-release-flagship-gemini-4-ai-model"&gt;Google can catch up in the AI race&lt;/a&gt; to how companies are managing the runaway costs of AI to who is going to buy the debt being raised to fund the data center buildout. (For a full recap, check out this story from my colleagues &lt;a href="https://www.theinformation.com/articles/open-source-model-price-cuts-keep-ai-costs-control"&gt;here&lt;/a&gt;.)&lt;/p&gt;&lt;p&gt;Here are three themes I’m thinking about from my conversations at the conference.&lt;/p&gt;</content>
@@ -87,10 +118,10 @@
 
 &lt;p&gt;The three companies tentatively plan to name the self-regulatory organization the Standards Authority for Frontier AI, the people said. Some members of the working group have considered an array of well-known figures to be CEO. They approached Sriram Krishnan, a former venture capitalist and top AI policy adviser in the Trump administration, for the position, according to people familiar with the matter.&lt;/p&gt;</content>
     <author>
-      <name>Stephanie Palazzolo</name>
+      <name>Leo Schwartz</name>
     </author>
     <author>
-      <name>Leo Schwartz</name>
+      <name>Stephanie Palazzolo</name>
     </author>
   </entry>
   <entry>
@@ -151,7 +182,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17872</id>
     <published>2026-09-24T00:01:00Z</published>
-    <updated>2026-09-24T00:08:15Z</updated>
+    <updated>2026-09-24T18:32:23Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/amazons-new-ai-offer-reflects-discounting-surge"/>
     <title>Amazon’s New AI Offer Reflects Discounting Surge</title>
     <content type="html">&lt;p&gt;Have we gone full circle on AI pricing? A bunch of tech firms are throwing around discounts and free offers for AI products, with Amazon &lt;a href="https://www.theinformation.com/briefings/amazon-gives-sellers-12-months-ai-software-quick-free?rc=9byxri"&gt;on Wednesday announcing&lt;/a&gt; that merchants selling on its shopping site will get a year’s free use of its Quick Plus AI assistant product. Microsoft, meanwhile, is discounting Copilot AI subscriptions heavily, we &lt;a href="https://www.theinformation.com/briefings/exclusive-microsoft-boost-copilot-discounts-launches-ai-super-app?rc=9byxri"&gt;reported Tuesday night&lt;/a&gt;. Both offers are part of &lt;a href="https://www.theinformation.com/articles/software-firms-discount-ai-keep-customers-anthropic-openai?rc=9byxri"&gt;a wave of discounting&lt;/a&gt; by various software firms and AI labs such as OpenAI.&lt;/p&gt;&lt;p&gt;We keep hearing from tech executives about the transformative nature of AI. And yet there’s clearly some resistance among businesses to paying full price for it, which seems a bit of an issue given how much money it is costing to build out the infrastructure for running AI on a mass scale. Something has to give. As Apollo Global Management’s chief economist, Torsten Slok, noted in his daily email on Monday, credit investors are buying bonds of the hyperscalers—a reference to cloud firms—right now on the assumption that their operating cash flow will triple between 2025 and 2030. “If this doesn’t happen, then the risk is that the AI trade weakens, with credit spreads widening, capex plans getting cut,” Slok wrote.&lt;/p&gt;</content>
@@ -223,28 +254,6 @@
     <content type="html">&lt;p&gt;OpenAI CEO Sam Altman and Anthropic CEO Dario Amodei briefed the United Nations Security Council on Wednesday as part of the international organization’s General Assembly week in New York. In a session on artificial intelligence and international security, the two executives addressed concerns ...&lt;/p&gt;</content>
     <author>
       <name>Leo Schwartz</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18093</id>
-    <published>2026-09-23T18:11:40Z</published>
-    <updated>2026-09-24T10:40:06Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/former-lone-pine-capital-director-launches-500-million-plus-tech-fund"/>
-    <title>Former Lone Pine Capital Director Launches $500 Million-Plus Tech Fund</title>
-    <content type="html">&lt;p&gt;Kevin Salimian, former managing director at investment firm Lone Pine Capital, has launched a new firm with more than $500 million in committed capital, according to a person familiar with the firm’s operations.&lt;/p&gt; &lt;p&gt;The firm, Voxel Capital Partners, will invest in 12 to 15 public companies in AI ...&lt;/p&gt;</content>
-    <author>
-      <name>Phoebe Liu</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18092</id>
-    <published>2026-09-23T17:37:19Z</published>
-    <updated>2026-09-24T10:40:06Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/amazon-gives-sellers-12-months-ai-software-quick-free"/>
-    <title>Amazon Gives Sellers 12 Months of AI Software Quick Plus For Free</title>
-    <content type="html">&lt;p&gt;Amazon is giving the merchants that sell goods on Amazon’s site 12 free months of Quick Plus, an AWS AI workplace assistant, Amazon announced Wednesday at its annual conference for sellers, Amazon Accelerate. Quick Plus normally costs users $20 a month.&lt;/p&gt; &lt;p&gt;Amazon is also letting sellers integrate ...&lt;/p&gt;</content>
-    <author>
-      <name>Catherine Perloff</name>
     </author>
   </entry>
 </feed>
