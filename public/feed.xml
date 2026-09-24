@@ -5,16 +5,16 @@
   <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-24T02:45:43Z</updated>
+  <updated>2026-09-24T03:19:04Z</updated>
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17875</id>
     <published>2026-09-24T02:15:35Z</published>
-    <updated>2026-09-24T02:45:43Z</updated>
+    <updated>2026-09-24T03:19:04Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/google-nears-release-flagship-gemini-4-ai-model"/>
     <title>Google Nears Release of Flagship Gemini 4 AI Model</title>
-    <content type="html">&lt;p&gt;&lt;a href="https://www.theinformation.com/org-charts/google"&gt;Google&lt;/a&gt; is nearing the release of its newest flagship model, Gemini 4, the head of its DeepMind division said Wednesday, a long-awaited development after the tech giant fell behind rivals Anthropic and OpenAI in the AI model race.&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;a href="https://www.theinformation.com/org-charts/google"&gt;Google&lt;/a&gt; is nearing the release of its newest flagship model, Gemini 4, the head of its &lt;a href="https://www.theinformation.com/org-charts/deepmind"&gt;DeepMind&lt;/a&gt; division said Wednesday, a long-awaited development after the tech giant fell behind rivals Anthropic and OpenAI in the AI model race.&lt;/p&gt;
 
-&lt;p&gt;Speaking at The Information’s AI Agenda Live Summit, in his first media appearance as the new top leader of Google DeepMind, Koray Kavukcuoglu said Gemini 4 is in the early days of a phase of development called post-training, in which a base AI model is refined to behave reliably. He said he hopes the model will be released “much earlier” than the end of the year.&lt;/p&gt;</content>
+&lt;p&gt;Speaking at The Information’s AI Agenda Live Summit, in his first media appearance as the new leader of Google DeepMind, Koray Kavukcuoglu said Gemini 4 is in the early days of a phase of development called post-training, in which a base AI model is refined to behave reliably. He said he hopes the model will be released “much earlier” than the end of the year.&lt;/p&gt;</content>
     <author>
       <name>Laura Bratton</name>
     </author>
