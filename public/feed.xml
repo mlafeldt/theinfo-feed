@@ -1,11 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed?cb=1790208531515</id>
+  <id>tag:www.theinformation.com,2005:/feed</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1790208531515"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-24T00:08:15Z</updated>
+  <updated>2026-09-24T02:45:43Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17875</id>
+    <published>2026-09-24T02:15:35Z</published>
+    <updated>2026-09-24T02:45:43Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/google-nears-release-flagship-gemini-4-ai-model"/>
+    <title>Google Nears Release of Flagship Gemini 4 AI Model</title>
+    <content type="html">&lt;p&gt;&lt;a href="https://www.theinformation.com/org-charts/google"&gt;Google&lt;/a&gt; is nearing the release of its newest flagship model, Gemini 4, the head of its DeepMind division said Wednesday, a long-awaited development after the tech giant fell behind rivals Anthropic and OpenAI in the AI model race.&lt;/p&gt;
+
+&lt;p&gt;Speaking at The Information’s AI Agenda Live Summit, in his first media appearance as the new top leader of Google DeepMind, Koray Kavukcuoglu said Gemini 4 is in the early days of a phase of development called post-training, in which a base AI model is refined to behave reliably. He said he hopes the model will be released “much earlier” than the end of the year.&lt;/p&gt;</content>
+    <author>
+      <name>Laura Bratton</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17872</id>
     <published>2026-09-24T00:01:00Z</published>
@@ -126,13 +139,13 @@
 
 &lt;p&gt;Last month, three partners at Peter Thiel’s Founders Fund&amp;mdash;Sean Liu, John Luttig and Joey Krug&amp;mdash;visited tech companies in Beijing, Shanghai and Shenzhen. It was the second trip to China Liu had made in the past year and Luttig’s first visit to the country, according to people with direct knowledge of the matter. The idea was not to make investments but to learn about China’s thriving tech sector.&lt;/p&gt;</content>
     <author>
+      <name>Julia Hornstein</name>
+    </author>
+    <author>
       <name>Rocket Drew</name>
     </author>
     <author>
       <name>Juro Osawa</name>
-    </author>
-    <author>
-      <name>Julia Hornstein</name>
     </author>
     <author>
       <name>Jing Yang</name>
@@ -192,10 +205,10 @@
 
 &lt;p&gt;The maker of Claude has discussed signing on as a direct tenant of sites developed by Stream Data Centers, a 27-year-old company with facilities across the U.S., and filling them with tensor processing units designed by Broadcom and Google, according to people with knowledge of the discussions.&lt;/p&gt;</content>
     <author>
-      <name>Valida Pau</name>
+      <name>Amir Efrati</name>
     </author>
     <author>
-      <name>Amir Efrati</name>
+      <name>Valida Pau</name>
     </author>
   </entry>
   <entry>
@@ -229,17 +242,6 @@
     <content type="html">&lt;p&gt;AI is top of mind for stock investors these days. That means even companies outside tech are beefing up their AI credentials ahead of new listings.&amp;nbsp;&lt;/p&gt;&lt;p&gt;In one such example, Barrick Gold’s North American unit has agreed to a five-year partnership with Avathon, a startup that develops AI-powered software to help industrial companies predict when expensive equipment will fail and monitors mine and factories sites for safety risks, Avathon CEO Pervinder Johar told me.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Barrick is planning to float a minority stake in its North American unit, which produces the majority of its gold. The company has targeted year-end for the listing.&lt;/p&gt;</content>
     <author>
       <name>Alix Coutures</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18086</id>
-    <published>2026-09-22T23:20:38Z</published>
-    <updated>2026-09-23T21:00:07Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/coreweave-completes-4-2-billion-convertible-offering"/>
-    <title>CoreWeave Completes $4.2 Billion Convertible Offering </title>
-    <content type="html">&lt;p&gt;CoreWeave said on Tuesday it had completed a $4.2 billion convertible bond offering, an upsized amount versus what the AI cloud provider initially targeted last week.&lt;/p&gt; &lt;p&gt;The company had said last&amp;nbsp;Thursday that it was looking to raise $3 billion in the offering, and said it had priced $3.7 ...&lt;/p&gt;</content>
-    <author>
-      <name>Alex Eichenstein</name>
     </author>
   </entry>
 </feed>
