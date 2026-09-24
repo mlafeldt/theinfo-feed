@@ -5,7 +5,18 @@
   <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-24T06:51:43Z</updated>
+  <updated>2026-09-24T10:40:06Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18100</id>
+    <published>2026-09-24T10:33:12Z</published>
+    <updated>2026-09-24T10:37:21Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/deepseek-aims-close-7-5-billion-funding-round-end-october"/>
+    <title>DeepSeek Aims to Close $7.5 Billion Funding Round by End-October</title>
+    <content type="html">&lt;p&gt;DeepSeek is aiming to complete its second funding round by the end of October as it prepares to go public on the Shanghai Stock Exchange, The Information reported on Thursday. The company’s fundraising efforts may be fuelled by a boost in revenue, which has hit $1 billion on an annualized basis. ...&lt;/p&gt;</content>
+    <author>
+      <name>Claudia Chong</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17878</id>
     <published>2026-09-24T06:20:50Z</published>
@@ -75,7 +86,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18098</id>
     <published>2026-09-23T22:11:53Z</published>
-    <updated>2026-09-23T22:17:06Z</updated>
+    <updated>2026-09-24T10:37:21Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/blackstone-exec-says-big-unknowns-remain-ai-credit-demand"/>
     <title>Blackstone Exec Says Big Unknowns Remain For AI Credit Demand</title>
     <content type="html">&lt;p&gt;Jas Khaira, head of Blackstone’s AI-focused investment team, said on Wednesday that the firm is still figuring out which kinds of investors will step in to provide the massive amounts of financing still needed for the AI buildout. The investment giant itself is waiting to see if debt from the ...&lt;/p&gt;</content>
@@ -86,7 +97,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18097</id>
     <published>2026-09-23T21:34:41Z</published>
-    <updated>2026-09-23T21:34:41Z</updated>
+    <updated>2026-09-24T10:33:56Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/openai-agent-hacked-australian-government-prime-minister-says"/>
     <title>OpenAI Agent Hacked Australian Government, Prime Minister Says</title>
     <content type="html">&lt;p&gt;An AI agent developed by OpenAI hacked an Australian government website in June, Australian prime minister Anthony Albanese said on Wednesday. The AI accessed both public and nonpublic data from the country’s Department of Health website, Albanese told reporters, adding that the country is now ...&lt;/p&gt;</content>
@@ -97,7 +108,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18096</id>
     <published>2026-09-23T21:05:56Z</published>
-    <updated>2026-09-23T21:36:19Z</updated>
+    <updated>2026-09-24T10:40:06Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/patreon-co-founder-sam-yam-joins-openai-lead-new-creator-division"/>
     <title>Patreon Co-Founder Sam Yam Joins OpenAI to Lead New Creator Division </title>
     <content type="html">&lt;p&gt;OpenAI has hired Patreon co-founder Sam Yam to lead a new creator product division, Creator Product, Yam announced Wednesday &lt;a href="https://x.com/samyamiam/status/2102503574492332141"&gt;on X&lt;/a&gt;, a sign of renewed interest in attracting consumers.&lt;/p&gt; &lt;p&gt;Two other former Patreon executives, head of product Drew Rowny and head of engineering Shannon Ma, are joining ...&lt;/p&gt;</content>
@@ -108,7 +119,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18095</id>
     <published>2026-09-23T20:23:28Z</published>
-    <updated>2026-09-23T21:33:56Z</updated>
+    <updated>2026-09-24T10:37:21Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/anthropic-says-ai-helped-discover-possible-new-gene-editing-tool"/>
     <title>Anthropic Says Its AI Helped Discover a Possible New Gene-Editing Tool</title>
     <content type="html">&lt;p&gt;Anthropic said that Claude helped discover a previously unknown molecular system that the company said could represent a new gene editing tool akin to CRISPR, which has transformed the creation of new gene therapies.&lt;/p&gt; &lt;p&gt;In a &lt;a href="https://x.com/DarioAmodei/status/2102831170299834652"&gt;post on X&lt;/a&gt;, Anthropic CEO Dario Amodei cautioned that the “precise ...&lt;/p&gt;</content>
@@ -119,7 +130,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18094</id>
     <published>2026-09-23T20:19:21Z</published>
-    <updated>2026-09-23T21:36:19Z</updated>
+    <updated>2026-09-24T10:40:06Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/sam-altman-dario-amodei-brief-un-security-council"/>
     <title>Sam Altman and Dario Amodei Brief UN Security Council</title>
     <content type="html">&lt;p&gt;OpenAI CEO Sam Altman and Anthropic CEO Dario Amodei briefed the United Nations Security Council on Wednesday as part of the international organization’s General Assembly week in New York. In a session on artificial intelligence and international security, the two executives addressed concerns ...&lt;/p&gt;</content>
@@ -130,7 +141,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18093</id>
     <published>2026-09-23T18:11:40Z</published>
-    <updated>2026-09-23T21:36:19Z</updated>
+    <updated>2026-09-24T10:40:06Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/former-lone-pine-capital-director-launches-500-million-plus-tech-fund"/>
     <title>Former Lone Pine Capital Director Launches $500 Million-Plus Tech Fund</title>
     <content type="html">&lt;p&gt;Kevin Salimian, former managing director at investment firm Lone Pine Capital, has launched a new firm with more than $500 million in committed capital, according to a person familiar with the firm’s operations.&lt;/p&gt; &lt;p&gt;The firm, Voxel Capital Partners, will invest in 12 to 15 public companies in AI ...&lt;/p&gt;</content>
@@ -141,7 +152,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18092</id>
     <published>2026-09-23T17:37:19Z</published>
-    <updated>2026-09-23T21:36:19Z</updated>
+    <updated>2026-09-24T10:40:06Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/amazon-gives-sellers-12-months-ai-software-quick-free"/>
     <title>Amazon Gives Sellers 12 Months of AI Software Quick Plus For Free</title>
     <content type="html">&lt;p&gt;Amazon is giving the merchants that sell goods on Amazon’s site 12 free months of Quick Plus, an AWS AI workplace assistant, Amazon announced Wednesday at its annual conference for sellers, Amazon Accelerate. Quick Plus normally costs users $20 a month.&lt;/p&gt; &lt;p&gt;Amazon is also letting sellers integrate ...&lt;/p&gt;</content>
@@ -185,7 +196,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18091</id>
     <published>2026-09-23T11:16:59Z</published>
-    <updated>2026-09-23T21:33:56Z</updated>
+    <updated>2026-09-24T10:40:06Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/china-leads-u-s-top-ai-talent-study-finds"/>
     <title>China Leads U.S. in Top AI Talent, Study Finds</title>
     <content type="html">&lt;p&gt;Chinese AI researchers have increasingly opted to stay and work in their home country, leading China to become the top destination for elite AI talent, according to a study by think tank Carnegie China.&lt;/p&gt; &lt;p&gt;The research found that the share of top AI researchers working in China rose from 27.1% in ...&lt;/p&gt;</content>
@@ -196,7 +207,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18090</id>
     <published>2026-09-23T09:25:51Z</published>
-    <updated>2026-09-23T21:36:19Z</updated>
+    <updated>2026-09-24T10:33:57Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/shares-chinese-ai-model-firms-fall-report-regulatory-probe"/>
     <title>Shares of Chinese AI Model Firms Fall After Report of Regulatory Probe</title>
     <content type="html">&lt;p&gt;Hong Kong-listed shares of Z.ai&amp;nbsp;and MiniMax plunged on Wednesday, after The Information reported that China’s internet regulator is probing potential data leaks to Anthropic. Z.ai, also known as Zhipu, dropped 12.4%, MiniMax fell 4% and Alibaba declined 4.4%. The benchmark Hang Seng Index ...&lt;/p&gt;</content>
@@ -207,7 +218,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18089</id>
     <published>2026-09-23T09:21:21Z</published>
-    <updated>2026-09-23T21:36:19Z</updated>
+    <updated>2026-09-24T10:33:57Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/openai-partners-grab-southeast-asia-ai-skills-program"/>
     <title>OpenAI Partners With Grab in Southeast Asia for AI Skills Program</title>
     <content type="html">&lt;p&gt;OpenAI and Grab, a Singapore-based transport and food delivery company, on Wednesday launched a program to train Grab’s drivers, merchants and delivery riders to use ChatGPT for work.&lt;/p&gt; &lt;p&gt;The program covers Singapore, Thailand, Indonesia and the Philippines and aims to train around 30,000 people ...&lt;/p&gt;</content>
@@ -218,7 +229,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18088</id>
     <published>2026-09-23T04:12:07Z</published>
-    <updated>2026-09-23T21:36:19Z</updated>
+    <updated>2026-09-24T10:33:57Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/anthropic-talks-lease-apollo-owned-stream-data-centers"/>
     <title>Anthropic in Talks to Lease Apollo-Controlled Stream Data Centers</title>
     <content type="html">&lt;p&gt;Anthropic is in&amp;nbsp;early talks to lease up to 1 gigawatt in compute capacity from Stream Data Centers, a developer majority-owned by Apollo Global Management, which could house&amp;nbsp;tensor processing units designed by Broadcom and Google, &lt;a href="https://www.theinformation.com/articles/anthropic-talks-cement-control-data-centers?rc=zjctrx"&gt;The Information reported&lt;/a&gt; Tuesday.&amp;nbsp;Anthropic could ...&lt;/p&gt;</content>
@@ -240,17 +251,6 @@
     </author>
     <author>
       <name>Valida Pau</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Article/17865</id>
-    <published>2026-09-23T00:01:19Z</published>
-    <updated>2026-09-23T00:08:14Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/ai-un-xi-trump"/>
-    <title>AI, the UN, Xi and Trump</title>
-    <content type="html">&lt;p&gt;It’s a big week for global leaders talking about AI. We’ve got a bunch of presidents and prime ministers at the United Nations General Assembly meeting in New York—motorcades are creating chaos in Midtown Manhattan right now—and Chinese president Xi Jinping is due to arrive in Washington tomorrow. The top executives from &lt;a href="https://www.cnbc.com/2026/09/22/heres-who-we-know-is-going-to-the-trump-xi-dinner-so-far.html"&gt;most big tech firms&lt;/a&gt; will be at a state dinner on Thursday night with Xi, while some will also be at the U.N. earlier in the week.&lt;/p&gt;&lt;p&gt;You can bet AI will dominate much of the discussion both at the U.N. and in Washington. It’s unlikely anything of substance will emerge, although there’ll be plenty of breathless headlines. On Tuesday morning, for instance, President Donald Trump made news by pronouncing that artificial intelligence would &lt;a href="https://thehill.com/homenews/administration/6104142-trump-renames-ai-super-intelligence/"&gt;henceforth be known as super intelligence&lt;/a&gt; in U.S. government paperwork, because the word “artificial” makes AI sound “fake.” (See below for more on this.) Glad to see the leader of the free world is staying on top of the most important issues!&lt;/p&gt;</content>
-    <author>
-      <name>Martin Peers</name>
     </author>
   </entry>
 </feed>
