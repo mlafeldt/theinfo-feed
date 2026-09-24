@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed</id>
+  <id>tag:www.theinformation.com,2005:/feed?cb=1790279630088</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1790279630088"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-24T19:04:02Z</updated>
+  <updated>2026-09-24T19:53:24Z</updated>
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17883</id>
     <published>2026-09-24T19:02:44Z</published>
-    <updated>2026-09-24T19:04:02Z</updated>
+    <updated>2026-09-24T19:05:39Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/businesses-still-see-ai-returns-consulting-exec-says"/>
     <title>Businesses Still Don’t See AI Returns, Consulting Exec Says</title>
     <content type="html">&lt;p&gt;Here’s something worth paying attention to. According to consulting firm EY, businesses are still not seeing substantial revenue gains or cost reductions from using AI.&lt;/p&gt;&lt;p&gt;“I haven‘t met any clients that say I wanna slow down my spend on AI. But I have seen a bunch of clients say, ‘I don’t know where my ROI is today,’” said EY executive Dan Diaso in a conversation with Jessica Lessin during &lt;a href="https://www.theinformation.com/articles/open-source-model-price-cuts-keep-ai-costs-control"&gt;The Information’s AI Agenda Live Summit&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;&lt;p&gt;That’s a striking statement, echoing a complaint from businesses about AI that goes back a year or two. And it highlights why so many software and AI companies are&lt;a href="https://www.theinformation.com/articles/software-firms-discount-ai-keep-customers-anthropic-openai?rc=9byxri"&gt; offering discounts and freebies &lt;/a&gt;to persuade businesses to use AI tools.&amp;nbsp;&lt;/p&gt;&lt;p&gt;What’s made businesses conscious of the returns they’re seeing from AI is usage-based pricing, which Anthropic and other providers began to adopt more widely over the past year. That pricing approach has translated to much &lt;a href="https://www.theinformation.com/newsletters/applied-ai/uber-cto-shows-claude-code-can-blow-ai-budgets"&gt;higher bills&lt;/a&gt;. Companies began to both use the tools more carefully and use open source models more, &lt;a href="https://www.theinformation.com/articles/ai-customers-lowering-anthropic-openai-bills"&gt;as we’ve reported&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Even so, Diaso said that spending on AI now is still “based on enthusiasm as opposed to that evidence.” He said only one in 10 of EY’s clients can “actually show where the ROI is happening” in their income statements.&lt;/p&gt;&lt;p&gt;He added that “everybody without a doubt would say that AI is significantly increasing the [organization's] productivity.” But from a CFO’s point of view, “productivity needs to translate into one of two things…Are we making more revenue? Or are we taking costs out of the organization?”&lt;/p&gt;</content>
     <author>
-      <name>Kevin McLaughlin</name>
+      <name>Laura Bratton</name>
     </author>
     <author>
-      <name>Laura Bratton</name>
+      <name>Kevin McLaughlin</name>
     </author>
   </entry>
   <entry>
@@ -67,7 +67,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18102</id>
     <published>2026-09-24T16:21:38Z</published>
-    <updated>2026-09-24T18:35:20Z</updated>
+    <updated>2026-09-24T19:37:06Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/new-york-sues-polymarket-alleged-illegal-gambling"/>
     <title>New York Sues Polymarket Over Alleged Illegal Gambling</title>
     <content type="html">&lt;p&gt;New York has sued Polymarket for allegedly running an illegal gambling operation, expanding the state’s fight against prediction markets after earlier suing rival startup Kalshi and others.&lt;/p&gt; &lt;p&gt;New York Attorney General Letitia James announced the action against Polymarket on Thursday. The state has ...&lt;/p&gt;</content>
@@ -78,7 +78,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18101</id>
     <published>2026-09-24T14:48:32Z</published>
-    <updated>2026-09-24T17:28:16Z</updated>
+    <updated>2026-09-24T19:36:59Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/oracle-invokes-force-majeure-aim-protect-data-center-cost-overruns"/>
     <title>Oracle Invokes Force Majeure in Aim to Protect Itself From Data Center Cost Overruns</title>
     <content type="html">&lt;p&gt;Oracle, which is set to lease a New Mexico data center on behalf of OpenAI, sent a notice to the project’s developer asserting its contractual rights to withhold payments if project delays persist, according to &lt;a href="https://www.bloomberg.com/news/articles/2026-09-24/oracle-cites-force-majeure-to-shield-itself-on-controversial-data-center"&gt;Bloomberg&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;Oracle sent a notice that cited “force majeure” to a developer owned by ...&lt;/p&gt;</content>
@@ -118,16 +118,16 @@
 
 &lt;p&gt;The three companies tentatively plan to name the self-regulatory organization the Standards Authority for Frontier AI, the people said. Some members of the working group have considered an array of well-known figures to be CEO. They approached Sriram Krishnan, a former venture capitalist and top AI policy adviser in the Trump administration, for the position, according to people familiar with the matter.&lt;/p&gt;</content>
     <author>
-      <name>Leo Schwartz</name>
+      <name>Stephanie Palazzolo</name>
     </author>
     <author>
-      <name>Stephanie Palazzolo</name>
+      <name>Leo Schwartz</name>
     </author>
   </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18100</id>
     <published>2026-09-24T10:33:12Z</published>
-    <updated>2026-09-24T15:40:11Z</updated>
+    <updated>2026-09-24T19:37:06Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/deepseek-aims-close-7-5-billion-funding-round-end-october"/>
     <title>DeepSeek Aims to Close $7.5 Billion Funding Round by End-October</title>
     <content type="html">&lt;p&gt;DeepSeek is aiming to complete its second funding round by the end of October as it prepares to go public on the Shanghai Stock Exchange, The Information reported on Thursday. The company’s fundraising efforts may be fuelled by a boost in revenue, which has hit $1 billion on an annualized basis. ...&lt;/p&gt;</content>
@@ -154,7 +154,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17877</id>
     <published>2026-09-24T04:25:31Z</published>
-    <updated>2026-09-24T16:12:56Z</updated>
+    <updated>2026-09-24T19:53:24Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/open-source-model-price-cuts-keep-ai-costs-control"/>
     <title>Open Source, Model Price Cuts Keep AI Costs Under Control</title>
     <content type="html">&lt;p&gt;Open-source models as well as cheaper model releases from Anthropic and OpenAI are helping business customers rein in costs while getting as much or more out of AI, said speakers at The Information’s AI Agenda Live conference in San Francisco Wednesday.&lt;/p&gt;
@@ -193,7 +193,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18099</id>
     <published>2026-09-23T23:59:15Z</published>
-    <updated>2026-09-23T23:59:15Z</updated>
+    <updated>2026-09-24T19:37:00Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/meta-announces-new-retail-partnerships-agent-muse"/>
     <title>Meta Announces New Retail Partnerships for Agent Muse</title>
     <content type="html">&lt;p&gt;Meta Platforms announced partnerships with Walmart and other retailers for its AI agent Muse days after e-commerce giant Amazon &lt;a href="https://www.theinformation.com/briefings/amazon-blocks-metas-muse-agent"&gt;blocked the personalized agent&lt;/a&gt; from accessing its shopping site.&lt;/p&gt; &lt;p&gt;At Meta’s annual Connect conference on Wednesday, Chief AI officer Alexandr Wang said the company is ...&lt;/p&gt;</content>
@@ -204,7 +204,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18098</id>
     <published>2026-09-23T22:11:53Z</published>
-    <updated>2026-09-24T10:37:21Z</updated>
+    <updated>2026-09-24T19:37:06Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/blackstone-exec-says-big-unknowns-remain-ai-credit-demand"/>
     <title>Blackstone Exec Says Big Unknowns Remain For AI Credit Demand</title>
     <content type="html">&lt;p&gt;Jas Khaira, head of Blackstone’s AI-focused investment team, said on Wednesday that the firm is still figuring out which kinds of investors will step in to provide the massive amounts of financing still needed for the AI buildout. The investment giant itself is waiting to see if debt from the ...&lt;/p&gt;</content>
@@ -215,7 +215,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18097</id>
     <published>2026-09-23T21:34:41Z</published>
-    <updated>2026-09-24T10:33:56Z</updated>
+    <updated>2026-09-24T19:37:06Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/openai-agent-hacked-australian-government-prime-minister-says"/>
     <title>OpenAI Agent Hacked Australian Government, Prime Minister Says</title>
     <content type="html">&lt;p&gt;An AI agent developed by OpenAI hacked an Australian government website in June, Australian prime minister Anthony Albanese said on Wednesday. The AI accessed both public and nonpublic data from the country’s Department of Health website, Albanese told reporters, adding that the country is now ...&lt;/p&gt;</content>
@@ -226,7 +226,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18096</id>
     <published>2026-09-23T21:05:56Z</published>
-    <updated>2026-09-24T10:40:06Z</updated>
+    <updated>2026-09-24T19:37:07Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/patreon-co-founder-sam-yam-joins-openai-lead-new-creator-division"/>
     <title>Patreon Co-Founder Sam Yam Joins OpenAI to Lead New Creator Division </title>
     <content type="html">&lt;p&gt;OpenAI has hired Patreon co-founder Sam Yam to lead a new creator product division, Creator Product, Yam announced Wednesday &lt;a href="https://x.com/samyamiam/status/2102503574492332141"&gt;on X&lt;/a&gt;, a sign of renewed interest in attracting consumers.&lt;/p&gt; &lt;p&gt;Two other former Patreon executives, head of product Drew Rowny and head of engineering Shannon Ma, are joining ...&lt;/p&gt;</content>
@@ -237,7 +237,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18095</id>
     <published>2026-09-23T20:23:28Z</published>
-    <updated>2026-09-24T10:37:21Z</updated>
+    <updated>2026-09-24T19:37:06Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/anthropic-says-ai-helped-discover-possible-new-gene-editing-tool"/>
     <title>Anthropic Says Its AI Helped Discover a Possible New Gene-Editing Tool</title>
     <content type="html">&lt;p&gt;Anthropic said that Claude helped discover a previously unknown molecular system that the company said could represent a new gene editing tool akin to CRISPR, which has transformed the creation of new gene therapies.&lt;/p&gt; &lt;p&gt;In a &lt;a href="https://x.com/DarioAmodei/status/2102831170299834652"&gt;post on X&lt;/a&gt;, Anthropic CEO Dario Amodei cautioned that the “precise ...&lt;/p&gt;</content>
@@ -248,7 +248,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18094</id>
     <published>2026-09-23T20:19:21Z</published>
-    <updated>2026-09-24T10:40:06Z</updated>
+    <updated>2026-09-24T19:37:07Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/sam-altman-dario-amodei-brief-un-security-council"/>
     <title>Sam Altman and Dario Amodei Brief UN Security Council</title>
     <content type="html">&lt;p&gt;OpenAI CEO Sam Altman and Anthropic CEO Dario Amodei briefed the United Nations Security Council on Wednesday as part of the international organization’s General Assembly week in New York. In a session on artificial intelligence and international security, the two executives addressed concerns ...&lt;/p&gt;</content>
