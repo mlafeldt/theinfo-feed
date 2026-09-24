@@ -1,11 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed?cb=1790266910820</id>
+  <id>tag:www.theinformation.com,2005:/feed</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1790266910820"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-24T16:21:38Z</updated>
+  <updated>2026-09-24T17:52:39Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17880</id>
+    <published>2026-09-24T17:52:15Z</published>
+    <updated>2026-09-24T17:52:39Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/one-tethers-bank-partners-caught-assets-seizure"/>
+    <title>One of Tether’s Bank Partners Caught Up in Assets Seizure</title>
+    <content type="html">&lt;p&gt;On the surface, Tether, the largest stablecoin issuer in the world, might appear to be a formidable force in global finance. It owns more than $100 billion in U.S. Treasury bills, mostly held at Cantor Fitzgerald, the investment bank formerly led by U.S. Secretary of Commerce Howard Lutnick.&lt;/p&gt;
+
+&lt;p&gt;But a U.S. government seizure of bank accounts held in the name of an obscure company based in Sacramento, Calif., in recent weeks shows how Tether still relies on a web of sometimes unstable intermediaries to facilitate transactions, thanks to challenges it has faced opening accounts directly at major U.S. banks. And that has exposed Tether to problems at those intermediaries.&lt;/p&gt;</content>
+    <author>
+      <name>Michael Roddan</name>
+    </author>
+    <author>
+      <name>Yueqi Yang</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18103</id>
+    <published>2026-09-24T17:44:00Z</published>
+    <updated>2026-09-24T17:44:00Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/former-openai-data-center-chief-now-nvidia"/>
+    <title>Former OpenAI Data Center Chief Is Now At Nvidia</title>
+    <content type="html">&lt;p&gt;Chris Malone, OpenAI’s former head of data centers, joined Nvidia as the vice president of Nvidia’s DSX Platform this month, according to his LinkedIn profile. DSX is the Nvidia division that helps customers design and build AI data centers according to Nvidia’s specifications.&lt;/p&gt; &lt;p&gt;Malone left ...&lt;/p&gt;</content>
+    <author>
+      <name>Phoebe Liu</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18102</id>
     <published>2026-09-24T16:21:38Z</published>
@@ -20,7 +47,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18101</id>
     <published>2026-09-24T14:48:32Z</published>
-    <updated>2026-09-24T14:48:32Z</updated>
+    <updated>2026-09-24T17:28:16Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/oracle-invokes-force-majeure-aim-protect-data-center-cost-overruns"/>
     <title>Oracle Invokes Force Majeure in Aim to Protect Itself From Data Center Cost Overruns</title>
     <content type="html">&lt;p&gt;Oracle, which is set to lease a New Mexico data center on behalf of OpenAI, sent a notice to the project’s developer asserting its contractual rights to withhold payments if project delays persist, according to &lt;a href="https://www.bloomberg.com/news/articles/2026-09-24/oracle-cites-force-majeure-to-shield-itself-on-controversial-data-center"&gt;Bloomberg&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;Oracle sent a notice that cited “force majeure” to a developer owned by ...&lt;/p&gt;</content>
@@ -60,10 +87,10 @@
 
 &lt;p&gt;The three companies tentatively plan to name the self-regulatory organization the Standards Authority for Frontier AI, the people said. Some members of the working group have considered an array of well-known figures to be CEO. They approached Sriram Krishnan, a former venture capitalist and top AI policy adviser in the Trump administration, for the position, according to people familiar with the matter.&lt;/p&gt;</content>
     <author>
-      <name>Leo Schwartz</name>
+      <name>Stephanie Palazzolo</name>
     </author>
     <author>
-      <name>Stephanie Palazzolo</name>
+      <name>Leo Schwartz</name>
     </author>
   </entry>
   <entry>
@@ -218,39 +245,6 @@
     <content type="html">&lt;p&gt;Amazon is giving the merchants that sell goods on Amazon’s site 12 free months of Quick Plus, an AWS AI workplace assistant, Amazon announced Wednesday at its annual conference for sellers, Amazon Accelerate. Quick Plus normally costs users $20 a month.&lt;/p&gt; &lt;p&gt;Amazon is also letting sellers integrate ...&lt;/p&gt;</content>
     <author>
       <name>Catherine Perloff</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Article/17869</id>
-    <published>2026-09-23T14:01:30Z</published>
-    <updated>2026-09-23T17:49:28Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/expect-ai-agenda-live-crusoe-thinking-machines-labs-strike-compute-deal"/>
-    <title>What To Expect at AI Agenda Live; Crusoe and Thinking Machines Labs Strike a Compute Deal</title>
-    <content type="html">&lt;p&gt;Happy AI Agenda Live day! For those joining us &lt;a href="https://www.theinformation.com/events/ai-agenda-live-2026"&gt;today at SFMOMA&lt;/a&gt;, I’m so excited to meet you all and talk about this exciting, if slightly contentious, moment in the AI industry.&lt;/p&gt;&lt;p&gt;Our staff and attendees will ask top researchers, founders and executives from &lt;b&gt;OpenAI&lt;/b&gt;, &lt;b&gt;Google DeepMind&lt;/b&gt; and &lt;b&gt;Nvidia&lt;/b&gt; some burning questions. Here are three at the top of my mind.&lt;/p&gt;</content>
-    <author>
-      <name>Stephanie Palazzolo</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Article/17868</id>
-    <published>2026-09-23T13:00:42Z</published>
-    <updated>2026-09-23T14:14:47Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/founders-fund-khosla-ventures-visit-china-countrys-ai-prowess-rises"/>
-    <title>Founders Fund, Khosla Ventures Visit China as Country’s AI Prowess Rises</title>
-    <content type="html">&lt;p&gt;U.S. venture capitalists have slashed investments in Chinese startups in recent years as relations between the two superpowers have soured. But behind the scenes, plenty are taking weekslong trips to meet with the country’s tech founders&amp;mdash;a sign of the influence Chinese startups like DeepSeek wield in the hottest parts of tech.&lt;/p&gt;
-
-&lt;p&gt;Last month, three partners at Peter Thiel’s Founders Fund&amp;mdash;Sean Liu, John Luttig and Joey Krug&amp;mdash;visited tech companies in Beijing, Shanghai and Shenzhen. It was the second trip to China Liu had made in the past year and Luttig’s first visit to the country, according to people with direct knowledge of the matter. The idea was not to make investments but to learn about China’s thriving tech sector.&lt;/p&gt;</content>
-    <author>
-      <name>Julia Hornstein</name>
-    </author>
-    <author>
-      <name>Juro Osawa</name>
-    </author>
-    <author>
-      <name>Jing Yang</name>
-    </author>
-    <author>
-      <name>Rocket Drew</name>
     </author>
   </entry>
 </feed>
