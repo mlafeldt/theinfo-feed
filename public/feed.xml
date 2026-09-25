@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed?cb=1790290968738</id>
+  <id>tag:www.theinformation.com,2005:/feed?cb=1790294892477</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1790290968738"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1790294892477"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-24T23:02:25Z</updated>
+  <updated>2026-09-25T00:07:26Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17884</id>
+    <published>2026-09-25T00:00:45Z</published>
+    <updated>2026-09-25T00:07:26Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/metas-moment-ai-sun-last"/>
+    <title>Why Meta’s Moment in the AI Sun Won’t Last</title>
+    <content type="html">&lt;p&gt;If Meta Platforms wants to raise money by selling equity, now is the time. Meta shares have gone on an incredible run lately, jumping 27% since Sept. 8, when the company released its Muse personal AI agent. Meta stock is now up 18% so far this year, a bigger gain than that for Alphabet, Amazon or Microsoft—quite the turnaround for a company that not too long ago was in Wall Street’s doghouse for its seemingly out-of-control AI spending.&lt;/p&gt;&lt;p&gt;It’s no secret why investors have fallen back in love with Meta—the company has done a good job of marketing Muse, prompting lots of glowing reviews and headlines about app downloads. Wednesday’s Connect conference, where Meta CEO Mark Zuckerberg unveiled new virtual reality and AI hardware—including a device called Charm designed around Muse—appears to have reinforced the positive sentiment. But let’s not overinterpret the current state of play. In AI, no one stays on top for very long.&lt;/p&gt;</content>
+    <author>
+      <name>Martin Peers</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17882</id>
     <published>2026-09-24T21:53:48Z</published>
@@ -19,10 +30,10 @@
       <name>Julia Hornstein</name>
     </author>
     <author>
-      <name>Cory Weinberg</name>
+      <name>Valida Pau</name>
     </author>
     <author>
-      <name>Valida Pau</name>
+      <name>Cory Weinberg</name>
     </author>
   </entry>
   <entry>
@@ -64,15 +75,15 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17881</id>
     <published>2026-09-24T18:42:11Z</published>
-    <updated>2026-09-24T21:06:59Z</updated>
+    <updated>2026-09-24T23:10:27Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/jev-fervor-leads-talk-big-valuation-boost"/>
     <title>Jev Fervor Leads to Talk of Big Valuation Boost</title>
     <content type="html">&lt;p&gt;Silicon Valley has a new AI startup to obsess over—and throw money at. We’re hearing that TypeSafe AI, the startup developing a new kind of model called Jev, has started to talk to investors about raising an enormous round—$1 billion or even more—and that some unnamed investors have offered to put money in at a valuation of $10 billion or more. All this for a startup that said only last week it had raised $40 million, at a valuation, according to PitchBook, of $200 million.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Talks are early and a lot could change over the next few days and weeks. But the buzz is palpable: on Wednesday&lt;a href="https://www.theinformation.com/features/ai-summit?rc=zjctrx"&gt; at our AI Agenda Live conference&lt;/a&gt; in San Francisco, at least two speakers brought Jev up, with pretty glowing terms. “Incredibly fast,” remarked Nvidia’s senior director of high performance computing, Dion Harris, while noting the model’s limitations. &lt;/p&gt;&lt;p&gt;This buzz may be driving up its compute costs, making it more amenable to another round—a scenario that just played out &lt;a href="https://www.theinformation.com/articles/ai-agent-startup-instinct-talks-10-billion-valuation"&gt;with the startup behind Instinct&lt;/a&gt;.&lt;/p&gt;</content>
     <author>
-      <name>Stephanie Palazzolo</name>
+      <name>Valida Pau</name>
     </author>
     <author>
-      <name>Valida Pau</name>
+      <name>Stephanie Palazzolo</name>
     </author>
     <author>
       <name>Cory Weinberg</name>
@@ -186,10 +197,10 @@
 
 &lt;p&gt;The latest revenue figure, shared by CEO Liang Wenfeng in a recent meeting with investors, could boost investor confidence as the company finalizes its second funding round and as it prepares to go public in the Shanghai Stock Exchange. DeepSeek is aiming to complete the fundraising by the end of October, with a goal of raising 50 billion yuan ($7.5 billion) at a valuation of 500 billion yuan.&lt;/p&gt;</content>
     <author>
-      <name>Qianer Liu</name>
+      <name>Juro Osawa</name>
     </author>
     <author>
-      <name>Juro Osawa</name>
+      <name>Qianer Liu</name>
     </author>
   </entry>
   <entry>
@@ -251,17 +262,6 @@
     <content type="html">&lt;p&gt;Jas Khaira, head of Blackstone’s AI-focused investment team, said on Wednesday that the firm is still figuring out which kinds of investors will step in to provide the massive amounts of financing still needed for the AI buildout. The investment giant itself is waiting to see if debt from the ...&lt;/p&gt;</content>
     <author>
       <name>Dakin Campbell</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18097</id>
-    <published>2026-09-23T21:34:41Z</published>
-    <updated>2026-09-24T22:10:27Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/openai-agent-hacked-australian-government-prime-minister-says"/>
-    <title>OpenAI Agent Hacked Australian Government, Prime Minister Says</title>
-    <content type="html">&lt;p&gt;An AI agent developed by OpenAI hacked an Australian government website in June, Australian prime minister Anthony Albanese said on Wednesday. The AI accessed both public and nonpublic data from the country’s Department of Health website, Albanese told reporters, adding that the country is now ...&lt;/p&gt;</content>
-    <author>
-      <name>Aaron Holmes</name>
     </author>
   </entry>
 </feed>
