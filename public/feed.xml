@@ -5,7 +5,35 @@
   <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-25T15:37:44Z</updated>
+  <updated>2026-09-25T17:00:47Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17887</id>
+    <published>2026-09-25T17:00:19Z</published>
+    <updated>2026-09-25T17:00:47Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/inside-drama-behind-biology-contest-pits-openai-agents-humans"/>
+    <title>Inside the Drama Behind a Biology Contest That Pits OpenAI Agents Against Humans</title>
+    <content type="html">&lt;p&gt;For months, Jason Kelly, co-founder and CEO of Ginkgo Bioworks, has been planning what was billed as a fun, attention-grabbing science competition. His idea was to pit a top scientist against OpenAI’s latest models in designing a variety of proteins using a technique in which they are grown in test tubes faster than they would be in cells. Kelly’s company, which builds autonomous labs, would supply the venue&amp;mdash;a 15,000-square-foot, robot-filled lab at its Boston headquarters. Ginkgo executives would serve as judges of the three-round contest.&lt;/p&gt;
+
+&lt;p&gt;Michael Jewett, a renowned Stanford University professor and an expert in that technique, known as cell-free protein synthesis, had agreed to go up against OpenAI. OpenAI’s team, meanwhile, would consist only of AI agents. Jewett would also be permitted to use AI, reflecting the reality that it is already integrated into many labs. He could use any commercially available AI model; OpenAI would have access to its own most advanced, unreleased AI. When Ginkgo initially shared notes with me about the proposed project, it even had a catchy name: “Mike Versus the Machines.”&lt;/p&gt;
+
+&lt;p&gt;The showdown was intended to generate the kind of excitement and frisson that comes when humans go up against a new technology&amp;mdash;akin to world chess champion Gary Kasparov taking on IBM’s Deep Blue supercomputer in 1997 or Go champion Lee Sedol playing Google DeepMind’s AlphaGo in 2016. (In both those cases, of course, the humans lost.) Hoping to capture a striking moment in the history of biology, Ginkgo had hired a documentary film crew to record the action.&lt;/p&gt;
+
+&lt;p&gt;But in the past few weeks, something odd has happened. Plans for the contest have morphed. Shortly before the two sides were supposed to square off for the first time on Sept. 14, Ginkgo postponed the event. For a moment, I thought the company might cancel it entirely. Then, earlier this week, I was told the competition is back on, but the “Mike Versus the Machines” concept has been scrapped.&lt;/p&gt;</content>
+    <author>
+      <name>Amy Dockser Marcus</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18109</id>
+    <published>2026-09-25T16:48:02Z</published>
+    <updated>2026-09-25T16:48:02Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/federal-court-sides-pentagon-anthropic-dispute"/>
+    <title>Federal Court Sides With Pentagon in Anthropic Dispute</title>
+    <content type="html">&lt;p&gt;A federal court ruled in favor of the Department of Defense in a lawsuit over the Department’s decision to label Anthropic a supply-chain risk earlier this year. In a split 2-1 decision, Judge Gregory Katsas of the Washington D.C. Circuit Court, an appointee of President Trump, wrote for the ...&lt;/p&gt;</content>
+    <author>
+      <name>Leo Schwartz</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18108</id>
     <published>2026-09-25T15:37:44Z</published>
@@ -47,7 +75,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18106</id>
     <published>2026-09-25T10:14:57Z</published>
-    <updated>2026-09-25T15:37:17Z</updated>
+    <updated>2026-09-25T16:47:38Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/chinese-leader-xi-calls-u-s-china-cooperation-prevent-ai-abuse"/>
     <title>Chinese Leader Xi Calls for U.S.-China Cooperation to Prevent AI Abuse </title>
     <content type="html">&lt;p&gt;Chinese leader Xi Jinping said during his summit with U.S. President Donald Trump that the two nations can “jointly prevent the misuse and abuse of AI” through more cooperation.&lt;/p&gt; &lt;p&gt;Trump and Xi held talks on Thursday at the White House, and a major topic on the agenda was AI safety and governance.&lt;/p&gt; ...</content>
@@ -65,13 +93,13 @@
 
 &lt;p&gt;The valuation is high for a company whose chips appear to be early in their development, meaning they could be years away from mass production. But the company’s leaders have told potential investors they’ve secured an agreement in which Amazon Web Services would purchase eventual chips from DensityAI if they meet certain performance requirements, the people said.&lt;/p&gt;</content>
     <author>
-      <name>Valida Pau</name>
-    </author>
-    <author>
       <name>Stephanie Palazzolo</name>
     </author>
     <author>
       <name>Phoebe Liu</name>
+    </author>
+    <author>
+      <name>Valida Pau</name>
     </author>
   </entry>
   <entry>
@@ -95,10 +123,10 @@
 
 &lt;p&gt;The new arrangement, which emulates a founder-control structure at Palantir, would grant the co-founders a combined 50.1% of voting power, as long as three of the seven co-founders retain a minimum number of shares in the company, one of the people said. It would mark a major change in Anthropic’s already unusual governance structure, strengthening the clout of a group of founders who own relatively small stakes against the prospect of pressure from outside shareholders once it goes public.&lt;/p&gt;</content>
     <author>
-      <name>Valida Pau</name>
+      <name>Julia Hornstein</name>
     </author>
     <author>
-      <name>Julia Hornstein</name>
+      <name>Valida Pau</name>
     </author>
     <author>
       <name>Cory Weinberg</name>
@@ -107,7 +135,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18105</id>
     <published>2026-09-24T21:38:22Z</published>
-    <updated>2026-09-25T15:37:17Z</updated>
+    <updated>2026-09-25T16:47:38Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/databricks-acquires-microsoft-excel-competitor-row-zero"/>
     <title>Databricks Acquires  Microsoft Excel Competitor Row Zero</title>
     <content type="html">&lt;p&gt;Databricks is &lt;a href="https://www.databricks.com/company/newsroom/press-releases/databricks-acquires-row-zero-bringing-live-governed-spreadsheets"&gt;acquiring&lt;/a&gt; Row Zero, a five-year-old Microsoft Excel competitor that sells spreadsheet software that’s designed for analyzing massive amounts of data.&lt;/p&gt; &lt;p&gt;The deal could help Databricks attract more non-technical users to Genie, a chatbot it launched last summer that lets business ...&lt;/p&gt;</content>
@@ -118,7 +146,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18104</id>
     <published>2026-09-24T21:37:04Z</published>
-    <updated>2026-09-25T15:37:18Z</updated>
+    <updated>2026-09-25T16:47:38Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/amazon-gives-merchants-tools-manage-walmart-shopify-inventory"/>
     <title>Amazon Gives Merchants Tools to Manage Walmart, Shopify Inventory</title>
     <content type="html">&lt;p&gt;Merchants that sell on Amazon can now use Amazon’s software tools to manage their inventory at rival retailers, including Walmart, Shopify, eBay and TikTok, Amazon announced Thursday at its annual conference for sellers. Merchants will be able to update their product listings and track orders ...&lt;/p&gt;</content>
@@ -151,10 +179,10 @@
       <name>Cory Weinberg</name>
     </author>
     <author>
-      <name>Valida Pau</name>
+      <name>Stephanie Palazzolo</name>
     </author>
     <author>
-      <name>Stephanie Palazzolo</name>
+      <name>Valida Pau</name>
     </author>
   </entry>
   <entry>
@@ -167,16 +195,16 @@
 
 &lt;p&gt;But a U.S. government seizure of bank accounts held in the name of an obscure company based in Sacramento, Calif., in recent weeks shows how Tether still relies on a web of sometimes unstable intermediaries to facilitate transactions, thanks to challenges it has faced opening accounts directly at major U.S. banks. And that has exposed Tether to problems at those intermediaries.&lt;/p&gt;</content>
     <author>
-      <name>Michael Roddan</name>
+      <name>Yueqi Yang</name>
     </author>
     <author>
-      <name>Yueqi Yang</name>
+      <name>Michael Roddan</name>
     </author>
   </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18103</id>
     <published>2026-09-24T17:44:00Z</published>
-    <updated>2026-09-25T15:37:17Z</updated>
+    <updated>2026-09-25T16:47:37Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/former-openai-data-center-chief-now-nvidia"/>
     <title>Former OpenAI Data Center Chief Is Now At Nvidia</title>
     <content type="html">&lt;p&gt;Chris Malone, OpenAI’s former head of data centers, joined Nvidia as the vice president of Nvidia’s DSX Platform this month, according to his LinkedIn profile. DSX is the Nvidia division that helps customers design and build AI data centers according to Nvidia’s specifications.&lt;/p&gt; &lt;p&gt;Malone left ...&lt;/p&gt;</content>
@@ -187,7 +215,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18102</id>
     <published>2026-09-24T16:21:38Z</published>
-    <updated>2026-09-25T15:37:17Z</updated>
+    <updated>2026-09-25T16:47:38Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/new-york-sues-polymarket-alleged-illegal-gambling"/>
     <title>New York Sues Polymarket Over Alleged Illegal Gambling</title>
     <content type="html">&lt;p&gt;New York has sued Polymarket for allegedly running an illegal gambling operation, expanding the state’s fight against prediction markets after earlier suing rival startup Kalshi and others.&lt;/p&gt; &lt;p&gt;New York Attorney General Letitia James announced the action against Polymarket on Thursday. The state has ...&lt;/p&gt;</content>
@@ -198,7 +226,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18101</id>
     <published>2026-09-24T14:48:32Z</published>
-    <updated>2026-09-25T15:37:17Z</updated>
+    <updated>2026-09-25T16:47:37Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/oracle-invokes-force-majeure-aim-protect-data-center-cost-overruns"/>
     <title>Oracle Invokes Force Majeure in Aim to Protect Itself From Data Center Cost Overruns</title>
     <content type="html">&lt;p&gt;Oracle, which is set to lease a New Mexico data center on behalf of OpenAI, sent a notice to the project’s developer asserting its contractual rights to withhold payments if project delays persist, according to &lt;a href="https://www.bloomberg.com/news/articles/2026-09-24/oracle-cites-force-majeure-to-shield-itself-on-controversial-data-center"&gt;Bloomberg&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;Oracle sent a notice that cited “force majeure” to a developer owned by ...&lt;/p&gt;</content>
@@ -238,37 +266,10 @@
 
 &lt;p&gt;The three companies tentatively plan to name the self-regulatory organization the Standards Authority for Frontier AI, the people said. Some members of the working group have considered an array of well-known figures to be CEO. They approached Sriram Krishnan, a former venture capitalist and top AI policy adviser in the Trump administration, for the position, according to people familiar with the matter.&lt;/p&gt;</content>
     <author>
-      <name>Leo Schwartz</name>
-    </author>
-    <author>
       <name>Stephanie Palazzolo</name>
     </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18100</id>
-    <published>2026-09-24T10:33:12Z</published>
-    <updated>2026-09-25T15:37:17Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/deepseek-aims-close-7-5-billion-funding-round-end-october"/>
-    <title>DeepSeek Aims to Close $7.5 Billion Funding Round by End-October</title>
-    <content type="html">&lt;p&gt;DeepSeek is aiming to complete its second funding round by the end of October as it prepares to go public on the Shanghai Stock Exchange, The Information reported on Thursday. The company’s fundraising efforts may be fuelled by a boost in revenue, which has hit $1 billion on an annualized basis. ...&lt;/p&gt;</content>
     <author>
-      <name>Claudia Chong</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Article/17878</id>
-    <published>2026-09-24T06:20:50Z</published>
-    <updated>2026-09-24T12:52:37Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/deepseeks-annualized-revenue-hits-1-billion-startup-finalizes-7-5-billion-fundraising"/>
-    <title>DeepSeek’s Annualized Revenue Hits $1 Billion as Startup Finalizes $7.5 Billion Fundraising</title>
-    <content type="html">&lt;p&gt;DeepSeek’s annualized revenue run rate has hit $1 billion, more than double the rate of a few months ago, buoyed by a recent price hike as well as continued popularity of its models, according to two people with direct knowledge of the matter.&lt;/p&gt;
-
-&lt;p&gt;The latest revenue figure, shared by CEO Liang Wenfeng in a recent meeting with investors, could boost investor confidence as the company finalizes its second funding round and as it prepares to go public in the Shanghai Stock Exchange. DeepSeek is aiming to complete the fundraising by the end of October, with a goal of raising 50 billion yuan ($7.5 billion) at a valuation of 500 billion yuan.&lt;/p&gt;</content>
-    <author>
-      <name>Juro Osawa</name>
-    </author>
-    <author>
-      <name>Qianer Liu</name>
+      <name>Leo Schwartz</name>
     </author>
   </entry>
 </feed>
