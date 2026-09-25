@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed?cb=1790314614735</id>
+  <id>tag:www.theinformation.com,2005:/feed?cb=1790328731271</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1790314614735"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1790328731271"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-25T04:42:24Z</updated>
+  <updated>2026-09-25T09:31:38Z</updated>
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17885</id>
     <published>2026-09-25T02:40:47Z</published>
@@ -69,7 +69,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18104</id>
     <published>2026-09-24T21:37:04Z</published>
-    <updated>2026-09-24T22:10:26Z</updated>
+    <updated>2026-09-25T09:31:38Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/amazon-gives-merchants-tools-manage-walmart-shopify-inventory"/>
     <title>Amazon Gives Merchants Tools to Manage Walmart, Shopify Inventory</title>
     <content type="html">&lt;p&gt;Merchants that sell on Amazon can now use Amazon’s software tools to manage their inventory at rival retailers, including Walmart, Shopify, eBay and TikTok, Amazon announced Thursday at its annual conference for sellers. Merchants will be able to update their product listings and track orders ...&lt;/p&gt;</content>
@@ -127,7 +127,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18103</id>
     <published>2026-09-24T17:44:00Z</published>
-    <updated>2026-09-24T21:17:43Z</updated>
+    <updated>2026-09-25T09:31:38Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/former-openai-data-center-chief-now-nvidia"/>
     <title>Former OpenAI Data Center Chief Is Now At Nvidia</title>
     <content type="html">&lt;p&gt;Chris Malone, OpenAI’s former head of data centers, joined Nvidia as the vice president of Nvidia’s DSX Platform this month, according to his LinkedIn profile. DSX is the Nvidia division that helps customers design and build AI data centers according to Nvidia’s specifications.&lt;/p&gt; &lt;p&gt;Malone left ...&lt;/p&gt;</content>
@@ -138,7 +138,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18102</id>
     <published>2026-09-24T16:21:38Z</published>
-    <updated>2026-09-24T21:17:42Z</updated>
+    <updated>2026-09-25T09:31:38Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/new-york-sues-polymarket-alleged-illegal-gambling"/>
     <title>New York Sues Polymarket Over Alleged Illegal Gambling</title>
     <content type="html">&lt;p&gt;New York has sued Polymarket for allegedly running an illegal gambling operation, expanding the state’s fight against prediction markets after earlier suing rival startup Kalshi and others.&lt;/p&gt; &lt;p&gt;New York Attorney General Letitia James announced the action against Polymarket on Thursday. The state has ...&lt;/p&gt;</content>
@@ -149,7 +149,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18101</id>
     <published>2026-09-24T14:48:32Z</published>
-    <updated>2026-09-24T21:17:42Z</updated>
+    <updated>2026-09-25T09:31:38Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/oracle-invokes-force-majeure-aim-protect-data-center-cost-overruns"/>
     <title>Oracle Invokes Force Majeure in Aim to Protect Itself From Data Center Cost Overruns</title>
     <content type="html">&lt;p&gt;Oracle, which is set to lease a New Mexico data center on behalf of OpenAI, sent a notice to the project’s developer asserting its contractual rights to withhold payments if project delays persist, according to &lt;a href="https://www.bloomberg.com/news/articles/2026-09-24/oracle-cites-force-majeure-to-shield-itself-on-controversial-data-center"&gt;Bloomberg&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;Oracle sent a notice that cited “force majeure” to a developer owned by ...&lt;/p&gt;</content>
@@ -198,7 +198,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18100</id>
     <published>2026-09-24T10:33:12Z</published>
-    <updated>2026-09-24T22:10:26Z</updated>
+    <updated>2026-09-25T09:31:38Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/deepseek-aims-close-7-5-billion-funding-round-end-october"/>
     <title>DeepSeek Aims to Close $7.5 Billion Funding Round by End-October</title>
     <content type="html">&lt;p&gt;DeepSeek is aiming to complete its second funding round by the end of October as it prepares to go public on the Shanghai Stock Exchange, The Information reported on Thursday. The company’s fundraising efforts may be fuelled by a boost in revenue, which has hit $1 billion on an annualized basis. ...&lt;/p&gt;</content>
