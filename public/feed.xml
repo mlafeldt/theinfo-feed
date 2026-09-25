@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed</id>
+  <id>tag:www.theinformation.com,2005:/feed?cb=1790360690215</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1790360690215"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-25T17:41:55Z</updated>
+  <updated>2026-09-25T18:24:27Z</updated>
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18110</id>
     <published>2026-09-25T17:41:55Z</published>
-    <updated>2026-09-25T17:41:55Z</updated>
+    <updated>2026-09-25T18:24:27Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/exclusive-meta-bolsters-muse-safety-warning-security-vulnerability-found"/>
     <title>Exclusive: Meta Bolsters Muse Safety Warning After Security Vulnerability Found</title>
     <content type="html">&lt;p&gt;Meta Platforms is adding a clearer safety warning within Muse after a security researcher discovered a vulnerability in the AI agent that could let an attacker access a user’s sensitive personal information.&lt;/p&gt; &lt;p&gt;The security flaw, which was flagged by an outside researcher through Meta’s bug bounty ...&lt;/p&gt;</content>
@@ -59,17 +59,17 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17886</id>
     <published>2026-09-25T13:01:05Z</published>
-    <updated>2026-09-25T13:40:27Z</updated>
+    <updated>2026-09-25T18:10:26Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/teslas-optimus-hits-snags-hands-suppliers-scale-up-begins"/>
     <title>Tesla’s Optimus Hits Snags in Hands, Suppliers as Scale-Up Begins</title>
     <content type="html">&lt;p&gt;Tesla has ramped up production of its Optimus humanoid robot roughly tenfold in recent months, but the company is still struggling to manufacture the machines reliably at scale. Its production lines are grappling with problems involving the robot’s intricate hands, automated equipment and supplier constraints, according to people familiar with the project.&lt;/p&gt;
 
 &lt;p&gt;Last month, Tesla produced several hundred robots a week, up from a few dozen robots per week during the second quarter when the company was doing small batch testing for production, according to two people familiar with the work. Managers have told staffers the company wants to set up a continuous automated production line capable of producing more than a thousand robots a week by the end of the year, the people said. That is still far short of its eventual plan to produce around 20,000 a week.&lt;/p&gt;</content>
     <author>
-      <name>Grace Kay</name>
+      <name>Qianer Liu</name>
     </author>
     <author>
-      <name>Qianer Liu</name>
+      <name>Grace Kay</name>
     </author>
   </entry>
   <entry>
