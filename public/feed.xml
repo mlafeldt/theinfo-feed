@@ -5,7 +5,18 @@
   <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-25T17:00:47Z</updated>
+  <updated>2026-09-25T17:41:55Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18110</id>
+    <published>2026-09-25T17:41:55Z</published>
+    <updated>2026-09-25T17:41:55Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/exclusive-meta-bolsters-muse-safety-warning-security-vulnerability-found"/>
+    <title>Exclusive: Meta Bolsters Muse Safety Warning After Security Vulnerability Found</title>
+    <content type="html">&lt;p&gt;Meta Platforms is adding a clearer safety warning within Muse after a security researcher discovered a vulnerability in the AI agent that could let an attacker access a user’s sensitive personal information.&lt;/p&gt; &lt;p&gt;The security flaw, which was flagged by an outside researcher through Meta’s bug bounty ...&lt;/p&gt;</content>
+    <author>
+      <name>Jyoti Mann</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17887</id>
     <published>2026-09-25T17:00:19Z</published>
@@ -26,7 +37,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18109</id>
     <published>2026-09-25T16:48:02Z</published>
-    <updated>2026-09-25T16:48:02Z</updated>
+    <updated>2026-09-25T17:30:21Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/federal-court-sides-pentagon-anthropic-dispute"/>
     <title>Federal Court Sides With Pentagon in Anthropic Dispute</title>
     <content type="html">&lt;p&gt;A federal court ruled in favor of the Department of Defense in a lawsuit over the Department’s decision to label Anthropic a supply-chain risk earlier this year. In a split 2-1 decision, Judge Gregory Katsas of the Washington D.C. Circuit Court, an appointee of President Trump, wrote for the ...&lt;/p&gt;</content>
@@ -254,22 +265,6 @@
     <content type="html">&lt;p&gt;What a day! I loved meeting many of our amazing subscribers yesterday at our AI Agenda Live conference, where my colleagues and I interviewed leaders from companies like &lt;b&gt;OpenAI&lt;/b&gt;, &lt;b&gt;Google DeepMind&lt;/b&gt;, &lt;b&gt;Nvidia&lt;/b&gt;, &lt;b&gt;Blackstone&lt;/b&gt;, &lt;b&gt;Replit&lt;/b&gt;, &lt;b&gt;Atlassian&lt;/b&gt; and more.&lt;/p&gt;&lt;p&gt;Discussions at the conference touched on topics ranging from whether &lt;a href="https://www.theinformation.com/articles/google-nears-release-flagship-gemini-4-ai-model"&gt;Google can catch up in the AI race&lt;/a&gt; to how companies are managing the runaway costs of AI to who is going to buy the debt being raised to fund the data center buildout. (For a full recap, check out this story from my colleagues &lt;a href="https://www.theinformation.com/articles/open-source-model-price-cuts-keep-ai-costs-control"&gt;here&lt;/a&gt;.)&lt;/p&gt;&lt;p&gt;Here are three themes I’m thinking about from my conversations at the conference.&lt;/p&gt;</content>
     <author>
       <name>Stephanie Palazzolo</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Article/17873</id>
-    <published>2026-09-24T13:00:44Z</published>
-    <updated>2026-09-24T13:01:11Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/google-openai-anthropic-ai-safety-group-takes-shape"/>
-    <title>Google, OpenAI and Anthropic AI Safety Group Takes Shape</title>
-    <content type="html">&lt;p&gt;&lt;a href="https://www.theinformation.com/org-charts/google"&gt;Google&lt;/a&gt;, &lt;a href="https://www.theinformation.com/org-charts/openai"&gt;OpenAI&lt;/a&gt; and &lt;a href="https://www.theinformation.com/org-charts/anthropic"&gt;Anthropic&lt;/a&gt; are pushing forward with a plan to create a new AI safety-focused standards body on their own, without government oversight, in hopes of launching it by the end of the year or early in 2027, according to people familiar with the matter.&lt;/p&gt;
-
-&lt;p&gt;The three companies tentatively plan to name the self-regulatory organization the Standards Authority for Frontier AI, the people said. Some members of the working group have considered an array of well-known figures to be CEO. They approached Sriram Krishnan, a former venture capitalist and top AI policy adviser in the Trump administration, for the position, according to people familiar with the matter.&lt;/p&gt;</content>
-    <author>
-      <name>Stephanie Palazzolo</name>
-    </author>
-    <author>
-      <name>Leo Schwartz</name>
     </author>
   </entry>
 </feed>
