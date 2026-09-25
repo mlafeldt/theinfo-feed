@@ -1,15 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed</id>
+  <id>tag:www.theinformation.com,2005:/feed?cb=1790341335321</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1790341335321"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-25T11:29:33Z</updated>
+  <updated>2026-09-25T13:01:30Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17886</id>
+    <published>2026-09-25T13:01:05Z</published>
+    <updated>2026-09-25T13:01:30Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/teslas-optimus-hits-snags-hands-suppliers-scale-up-begins"/>
+    <title>Tesla’s Optimus Hits Snags in Hands, Suppliers as Scale-Up Begins</title>
+    <content type="html">&lt;p&gt;Tesla has ramped up production of its Optimus humanoid robot roughly tenfold in recent months, but the company is still struggling to manufacture the machines reliably at scale. Its production lines are grappling with problems involving the robot’s intricate hands, automated equipment and supplier constraints, according to people familiar with the project.&lt;/p&gt;
+
+&lt;p&gt;Last month, Tesla produced several hundred robots a week, up from a few dozen robots per week during the second quarter when the company was doing small batch testing for production, according to two people familiar with the work. Managers have told staffers the company wants to set up a continuous automated production line capable of producing more than a thousand robots a week by the end of the year, the people said. That is still far short of its eventual plan to produce around 20,000 a week.&lt;/p&gt;</content>
+    <author>
+      <name>Grace Kay</name>
+    </author>
+    <author>
+      <name>Qianer Liu</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18107</id>
+    <published>2026-09-25T12:50:48Z</published>
+    <updated>2026-09-25T12:50:48Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/microsoft-launches-revamped-copilot-super-app-muse-competitor"/>
+    <title>Microsoft Launches Revamped Copilot ‘Super App’ with Muse Competitor</title>
+    <content type="html">&lt;p&gt;Microsoft on Friday launched a revamped version of its Copilot app that combines features that had previously been sold separately, including AI coding tools, features that automate tasks in Office 365, and an always-on “Autopilot” agent similar to Meta’s Muse.&lt;/p&gt; &lt;p&gt;The overhaul is meant to make ...&lt;/p&gt;</content>
+    <author>
+      <name>Aaron Holmes</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18106</id>
     <published>2026-09-25T10:14:57Z</published>
-    <updated>2026-09-25T10:14:57Z</updated>
+    <updated>2026-09-25T12:50:29Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/chinese-leader-xi-calls-u-s-china-cooperation-prevent-ai-abuse"/>
     <title>Chinese Leader Xi Calls for U.S.-China Cooperation to Prevent AI Abuse </title>
     <content type="html">&lt;p&gt;Chinese leader Xi Jinping said during his summit with U.S. President Donald Trump that the two nations can “jointly prevent the misuse and abuse of AI” through more cooperation.&lt;/p&gt; &lt;p&gt;Trump and Xi held talks on Thursday at the White House, and a major topic on the agenda was AI safety and governance.&lt;/p&gt; ...</content>
@@ -30,10 +57,10 @@
       <name>Valida Pau</name>
     </author>
     <author>
-      <name>Phoebe Liu</name>
+      <name>Stephanie Palazzolo</name>
     </author>
     <author>
-      <name>Stephanie Palazzolo</name>
+      <name>Phoebe Liu</name>
     </author>
   </entry>
   <entry>
@@ -57,19 +84,19 @@
 
 &lt;p&gt;The new arrangement, which emulates a founder-control structure at Palantir, would grant the co-founders a combined 50.1% of voting power, as long as three of the seven co-founders retain a minimum number of shares in the company, one of the people said. It would mark a major change in Anthropic’s already unusual governance structure, strengthening the clout of a group of founders who own relatively small stakes against the prospect of pressure from outside shareholders once it goes public.&lt;/p&gt;</content>
     <author>
+      <name>Valida Pau</name>
+    </author>
+    <author>
       <name>Julia Hornstein</name>
     </author>
     <author>
       <name>Cory Weinberg</name>
     </author>
-    <author>
-      <name>Valida Pau</name>
-    </author>
   </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18105</id>
     <published>2026-09-24T21:38:22Z</published>
-    <updated>2026-09-24T22:35:18Z</updated>
+    <updated>2026-09-25T12:50:30Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/databricks-acquires-microsoft-excel-competitor-row-zero"/>
     <title>Databricks Acquires  Microsoft Excel Competitor Row Zero</title>
     <content type="html">&lt;p&gt;Databricks is &lt;a href="https://www.databricks.com/company/newsroom/press-releases/databricks-acquires-row-zero-bringing-live-governed-spreadsheets"&gt;acquiring&lt;/a&gt; Row Zero, a five-year-old Microsoft Excel competitor that sells spreadsheet software that’s designed for analyzing massive amounts of data.&lt;/p&gt; &lt;p&gt;The deal could help Databricks attract more non-technical users to Genie, a chatbot it launched last summer that lets business ...&lt;/p&gt;</content>
@@ -80,7 +107,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18104</id>
     <published>2026-09-24T21:37:04Z</published>
-    <updated>2026-09-25T09:31:38Z</updated>
+    <updated>2026-09-25T12:50:30Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/amazon-gives-merchants-tools-manage-walmart-shopify-inventory"/>
     <title>Amazon Gives Merchants Tools to Manage Walmart, Shopify Inventory</title>
     <content type="html">&lt;p&gt;Merchants that sell on Amazon can now use Amazon’s software tools to manage their inventory at rival retailers, including Walmart, Shopify, eBay and TikTok, Amazon announced Thursday at its annual conference for sellers. Merchants will be able to update their product listings and track orders ...&lt;/p&gt;</content>
@@ -91,7 +118,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17883</id>
     <published>2026-09-24T19:02:44Z</published>
-    <updated>2026-09-24T23:02:25Z</updated>
+    <updated>2026-09-25T12:15:58Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/businesses-still-see-ai-returns-consulting-exec-says"/>
     <title>Businesses Still Don’t See AI Returns, Consulting Exec Says</title>
     <content type="html">&lt;p&gt;Here’s something worth paying attention to. According to consulting firm EY, businesses are still not seeing substantial revenue gains or cost reductions from using AI.&lt;/p&gt;&lt;p&gt;“I haven‘t met any clients that say I wanna slow down my spend on AI. But I have seen a bunch of clients say, ‘I don’t know where my ROI is today,’” said EY executive Dan Diasio in a conversation with Jessica Lessin during &lt;a href="https://www.theinformation.com/articles/open-source-model-price-cuts-keep-ai-costs-control"&gt;The Information’s AI Agenda Live Summit&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;&lt;p&gt;That’s a striking statement, echoing a complaint from businesses about AI that goes back a year or two. And it highlights why so many software and AI companies are&lt;a href="https://www.theinformation.com/articles/software-firms-discount-ai-keep-customers-anthropic-openai?rc=9byxri"&gt; offering discounts and freebies &lt;/a&gt;to persuade businesses to use AI tools.&amp;nbsp;&lt;/p&gt;&lt;p&gt;What’s made businesses conscious of the returns they’re seeing from AI is usage-based pricing, which Anthropic and other providers began to adopt more widely over the past year. That pricing approach has translated to much &lt;a href="https://www.theinformation.com/newsletters/applied-ai/uber-cto-shows-claude-code-can-blow-ai-budgets"&gt;higher bills&lt;/a&gt;. Companies began to both use the tools more carefully and use open source models more, &lt;a href="https://www.theinformation.com/articles/ai-customers-lowering-anthropic-openai-bills"&gt;as we’ve reported&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Even so, Diasio said that spending on AI now is still “based on enthusiasm as opposed to that evidence.” Noting EY does a lot of CEO surveys, he said only one in 10 of companies can “actually show where the ROI is happening” in their income statements.&lt;/p&gt;&lt;p&gt;He added that “everybody without a doubt would say that AI is significantly increasing the [organization's] productivity.” But from a CFO’s point of view, “productivity needs to translate into one of two things…Are we making more revenue? Or are we taking costs out of the organization?”&lt;/p&gt;</content>
@@ -110,13 +137,13 @@
     <title>Jev Fervor Leads to Talk of Big Valuation Boost</title>
     <content type="html">&lt;p&gt;Silicon Valley has a new AI startup to obsess over—and throw money at. We’re hearing that TypeSafe AI, the startup developing a new kind of model called Jev, has started to talk to investors about raising an enormous round—$1 billion or even more—and that some unnamed investors have offered to put money in at a valuation of $10 billion or more. All this for a startup that said only last week it had raised $40 million, at a valuation, according to PitchBook, of $200 million.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Talks are early and a lot could change over the next few days and weeks. But the buzz is palpable: on Wednesday&lt;a href="https://www.theinformation.com/features/ai-summit?rc=zjctrx"&gt; at our AI Agenda Live conference&lt;/a&gt; in San Francisco, at least two speakers brought Jev up, with pretty glowing terms. “Incredibly fast,” remarked Nvidia’s senior director of high performance computing, Dion Harris, while noting the model’s limitations. &lt;/p&gt;&lt;p&gt;This buzz may be driving up its compute costs, making it more amenable to another round—a scenario that just played out &lt;a href="https://www.theinformation.com/articles/ai-agent-startup-instinct-talks-10-billion-valuation"&gt;with the startup behind Instinct&lt;/a&gt;.&lt;/p&gt;</content>
     <author>
+      <name>Cory Weinberg</name>
+    </author>
+    <author>
       <name>Valida Pau</name>
     </author>
     <author>
       <name>Stephanie Palazzolo</name>
-    </author>
-    <author>
-      <name>Cory Weinberg</name>
     </author>
   </entry>
   <entry>
@@ -129,16 +156,16 @@
 
 &lt;p&gt;But a U.S. government seizure of bank accounts held in the name of an obscure company based in Sacramento, Calif., in recent weeks shows how Tether still relies on a web of sometimes unstable intermediaries to facilitate transactions, thanks to challenges it has faced opening accounts directly at major U.S. banks. And that has exposed Tether to problems at those intermediaries.&lt;/p&gt;</content>
     <author>
-      <name>Yueqi Yang</name>
+      <name>Michael Roddan</name>
     </author>
     <author>
-      <name>Michael Roddan</name>
+      <name>Yueqi Yang</name>
     </author>
   </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18103</id>
     <published>2026-09-24T17:44:00Z</published>
-    <updated>2026-09-25T09:31:38Z</updated>
+    <updated>2026-09-25T12:50:29Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/former-openai-data-center-chief-now-nvidia"/>
     <title>Former OpenAI Data Center Chief Is Now At Nvidia</title>
     <content type="html">&lt;p&gt;Chris Malone, OpenAI’s former head of data centers, joined Nvidia as the vice president of Nvidia’s DSX Platform this month, according to his LinkedIn profile. DSX is the Nvidia division that helps customers design and build AI data centers according to Nvidia’s specifications.&lt;/p&gt; &lt;p&gt;Malone left ...&lt;/p&gt;</content>
@@ -149,7 +176,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18102</id>
     <published>2026-09-24T16:21:38Z</published>
-    <updated>2026-09-25T09:31:38Z</updated>
+    <updated>2026-09-25T12:50:29Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/new-york-sues-polymarket-alleged-illegal-gambling"/>
     <title>New York Sues Polymarket Over Alleged Illegal Gambling</title>
     <content type="html">&lt;p&gt;New York has sued Polymarket for allegedly running an illegal gambling operation, expanding the state’s fight against prediction markets after earlier suing rival startup Kalshi and others.&lt;/p&gt; &lt;p&gt;New York Attorney General Letitia James announced the action against Polymarket on Thursday. The state has ...&lt;/p&gt;</content>
@@ -160,7 +187,7 @@
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18101</id>
     <published>2026-09-24T14:48:32Z</published>
-    <updated>2026-09-25T09:31:38Z</updated>
+    <updated>2026-09-25T12:50:29Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/oracle-invokes-force-majeure-aim-protect-data-center-cost-overruns"/>
     <title>Oracle Invokes Force Majeure in Aim to Protect Itself From Data Center Cost Overruns</title>
     <content type="html">&lt;p&gt;Oracle, which is set to lease a New Mexico data center on behalf of OpenAI, sent a notice to the project’s developer asserting its contractual rights to withhold payments if project delays persist, according to &lt;a href="https://www.bloomberg.com/news/articles/2026-09-24/oracle-cites-force-majeure-to-shield-itself-on-controversial-data-center"&gt;Bloomberg&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;Oracle sent a notice that cited “force majeure” to a developer owned by ...&lt;/p&gt;</content>
@@ -200,16 +227,16 @@
 
 &lt;p&gt;The three companies tentatively plan to name the self-regulatory organization the Standards Authority for Frontier AI, the people said. Some members of the working group have considered an array of well-known figures to be CEO. They approached Sriram Krishnan, a former venture capitalist and top AI policy adviser in the Trump administration, for the position, according to people familiar with the matter.&lt;/p&gt;</content>
     <author>
-      <name>Stephanie Palazzolo</name>
+      <name>Leo Schwartz</name>
     </author>
     <author>
-      <name>Leo Schwartz</name>
+      <name>Stephanie Palazzolo</name>
     </author>
   </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18100</id>
     <published>2026-09-24T10:33:12Z</published>
-    <updated>2026-09-25T09:31:38Z</updated>
+    <updated>2026-09-25T12:50:30Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/deepseek-aims-close-7-5-billion-funding-round-end-october"/>
     <title>DeepSeek Aims to Close $7.5 Billion Funding Round by End-October</title>
     <content type="html">&lt;p&gt;DeepSeek is aiming to complete its second funding round by the end of October as it prepares to go public on the Shanghai Stock Exchange, The Information reported on Thursday. The company’s fundraising efforts may be fuelled by a boost in revenue, which has hit $1 billion on an annualized basis. ...&lt;/p&gt;</content>
@@ -227,10 +254,10 @@
 
 &lt;p&gt;The latest revenue figure, shared by CEO Liang Wenfeng in a recent meeting with investors, could boost investor confidence as the company finalizes its second funding round and as it prepares to go public in the Shanghai Stock Exchange. DeepSeek is aiming to complete the fundraising by the end of October, with a goal of raising 50 billion yuan ($7.5 billion) at a valuation of 500 billion yuan.&lt;/p&gt;</content>
     <author>
-      <name>Qianer Liu</name>
+      <name>Juro Osawa</name>
     </author>
     <author>
-      <name>Juro Osawa</name>
+      <name>Qianer Liu</name>
     </author>
   </entry>
   <entry>
@@ -246,30 +273,6 @@
 &lt;p&gt;Still, for many companies, it’s unclear how much value they’re getting out of AI spending.&lt;/p&gt;</content>
     <author>
       <name>The Information Staff</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Article/17875</id>
-    <published>2026-09-24T02:15:35Z</published>
-    <updated>2026-09-24T03:19:04Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/google-nears-release-flagship-gemini-4-ai-model"/>
-    <title>Google Nears Release of Flagship Gemini 4 AI Model</title>
-    <content type="html">&lt;p&gt;&lt;a href="https://www.theinformation.com/org-charts/google"&gt;Google&lt;/a&gt; is nearing the release of its newest flagship model, Gemini 4, the head of its &lt;a href="https://www.theinformation.com/org-charts/deepmind"&gt;DeepMind&lt;/a&gt; division said Wednesday, a long-awaited development after the tech giant fell behind rivals Anthropic and OpenAI in the AI model race.&lt;/p&gt;
-
-&lt;p&gt;Speaking at The Information’s AI Agenda Live Summit, in his first media appearance as the new leader of Google DeepMind, Koray Kavukcuoglu said Gemini 4 is in the early days of a phase of development called post-training, in which a base AI model is refined to behave reliably. He said he hopes the model will be released “much earlier” than the end of the year.&lt;/p&gt;</content>
-    <author>
-      <name>Laura Bratton</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Article/17872</id>
-    <published>2026-09-24T00:01:00Z</published>
-    <updated>2026-09-24T18:32:23Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/amazons-new-ai-offer-reflects-discounting-surge"/>
-    <title>Amazon’s New AI Offer Reflects Discounting Surge</title>
-    <content type="html">&lt;p&gt;Have we gone full circle on AI pricing? A bunch of tech firms are throwing around discounts and free offers for AI products, with Amazon &lt;a href="https://www.theinformation.com/briefings/amazon-gives-sellers-12-months-ai-software-quick-free?rc=9byxri"&gt;on Wednesday announcing&lt;/a&gt; that merchants selling on its shopping site will get a year’s free use of its Quick Plus AI assistant product. Microsoft, meanwhile, is discounting Copilot AI subscriptions heavily, we &lt;a href="https://www.theinformation.com/briefings/exclusive-microsoft-boost-copilot-discounts-launches-ai-super-app?rc=9byxri"&gt;reported Tuesday night&lt;/a&gt;. Both offers are part of &lt;a href="https://www.theinformation.com/articles/software-firms-discount-ai-keep-customers-anthropic-openai?rc=9byxri"&gt;a wave of discounting&lt;/a&gt; by various software firms and AI labs such as OpenAI.&lt;/p&gt;&lt;p&gt;We keep hearing from tech executives about the transformative nature of AI. And yet there’s clearly some resistance among businesses to paying full price for it, which seems a bit of an issue given how much money it is costing to build out the infrastructure for running AI on a mass scale. Something has to give. As Apollo Global Management’s chief economist, Torsten Slok, noted in his daily email on Monday, credit investors are buying bonds of the hyperscalers—a reference to cloud firms—right now on the assumption that their operating cash flow will triple between 2025 and 2030. “If this doesn’t happen, then the risk is that the AI trade weakens, with credit spreads widening, capex plans getting cut,” Slok wrote.&lt;/p&gt;</content>
-    <author>
-      <name>Martin Peers</name>
     </author>
   </entry>
 </feed>
