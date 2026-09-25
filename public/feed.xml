@@ -1,11 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed</id>
+  <id>tag:www.theinformation.com,2005:/feed?cb=1790305024668</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1790305024668"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-25T00:07:26Z</updated>
+  <updated>2026-09-25T02:56:57Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Article/17885</id>
+    <published>2026-09-25T02:40:47Z</published>
+    <updated>2026-09-25T02:56:57Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/articles/startup-founded-ex-tesla-dojo-leaders-nears-10-billion-valuation"/>
+    <title>Startup Founded by ex-Tesla Dojo Leaders Nears $10 Billion Valuation</title>
+    <content type="html">&lt;p&gt;DensityAI, an AI chip startup founded just a year ago by former leaders of Tesla’s Dojo supercomputer program, is in advanced talks to raise hundreds of millions of dollars in a round that would value it at $10 billion, according to two people with knowledge of the discussions.&lt;/p&gt;
+
+&lt;p&gt;The valuation is high for a company whose chips appear to be early in their development, meaning they could be years away from mass production. But the company’s leaders have told potential investors they’ve secured an agreement in which Amazon Web Services would purchase eventual chips from DensityAI if they meet certain performance requirements, the people said.&lt;/p&gt;</content>
+    <author>
+      <name>Valida Pau</name>
+    </author>
+    <author>
+      <name>Phoebe Liu</name>
+    </author>
+    <author>
+      <name>Stephanie Palazzolo</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17884</id>
     <published>2026-09-25T00:00:45Z</published>
@@ -30,10 +49,10 @@
       <name>Julia Hornstein</name>
     </author>
     <author>
-      <name>Valida Pau</name>
+      <name>Cory Weinberg</name>
     </author>
     <author>
-      <name>Cory Weinberg</name>
+      <name>Valida Pau</name>
     </author>
   </entry>
   <entry>
@@ -66,10 +85,10 @@
     <title>Businesses Still Don’t See AI Returns, Consulting Exec Says</title>
     <content type="html">&lt;p&gt;Here’s something worth paying attention to. According to consulting firm EY, businesses are still not seeing substantial revenue gains or cost reductions from using AI.&lt;/p&gt;&lt;p&gt;“I haven‘t met any clients that say I wanna slow down my spend on AI. But I have seen a bunch of clients say, ‘I don’t know where my ROI is today,’” said EY executive Dan Diasio in a conversation with Jessica Lessin during &lt;a href="https://www.theinformation.com/articles/open-source-model-price-cuts-keep-ai-costs-control"&gt;The Information’s AI Agenda Live Summit&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;&lt;p&gt;That’s a striking statement, echoing a complaint from businesses about AI that goes back a year or two. And it highlights why so many software and AI companies are&lt;a href="https://www.theinformation.com/articles/software-firms-discount-ai-keep-customers-anthropic-openai?rc=9byxri"&gt; offering discounts and freebies &lt;/a&gt;to persuade businesses to use AI tools.&amp;nbsp;&lt;/p&gt;&lt;p&gt;What’s made businesses conscious of the returns they’re seeing from AI is usage-based pricing, which Anthropic and other providers began to adopt more widely over the past year. That pricing approach has translated to much &lt;a href="https://www.theinformation.com/newsletters/applied-ai/uber-cto-shows-claude-code-can-blow-ai-budgets"&gt;higher bills&lt;/a&gt;. Companies began to both use the tools more carefully and use open source models more, &lt;a href="https://www.theinformation.com/articles/ai-customers-lowering-anthropic-openai-bills"&gt;as we’ve reported&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Even so, Diasio said that spending on AI now is still “based on enthusiasm as opposed to that evidence.” Noting EY does a lot of CEO surveys, he said only one in 10 of companies can “actually show where the ROI is happening” in their income statements.&lt;/p&gt;&lt;p&gt;He added that “everybody without a doubt would say that AI is significantly increasing the [organization's] productivity.” But from a CFO’s point of view, “productivity needs to translate into one of two things…Are we making more revenue? Or are we taking costs out of the organization?”&lt;/p&gt;</content>
     <author>
-      <name>Laura Bratton</name>
+      <name>Kevin McLaughlin</name>
     </author>
     <author>
-      <name>Kevin McLaughlin</name>
+      <name>Laura Bratton</name>
     </author>
   </entry>
   <entry>
@@ -99,10 +118,10 @@
 
 &lt;p&gt;But a U.S. government seizure of bank accounts held in the name of an obscure company based in Sacramento, Calif., in recent weeks shows how Tether still relies on a web of sometimes unstable intermediaries to facilitate transactions, thanks to challenges it has faced opening accounts directly at major U.S. banks. And that has exposed Tether to problems at those intermediaries.&lt;/p&gt;</content>
     <author>
-      <name>Michael Roddan</name>
+      <name>Yueqi Yang</name>
     </author>
     <author>
-      <name>Yueqi Yang</name>
+      <name>Michael Roddan</name>
     </author>
   </entry>
   <entry>
@@ -197,10 +216,10 @@
 
 &lt;p&gt;The latest revenue figure, shared by CEO Liang Wenfeng in a recent meeting with investors, could boost investor confidence as the company finalizes its second funding round and as it prepares to go public in the Shanghai Stock Exchange. DeepSeek is aiming to complete the fundraising by the end of October, with a goal of raising 50 billion yuan ($7.5 billion) at a valuation of 500 billion yuan.&lt;/p&gt;</content>
     <author>
-      <name>Juro Osawa</name>
+      <name>Qianer Liu</name>
     </author>
     <author>
-      <name>Qianer Liu</name>
+      <name>Juro Osawa</name>
     </author>
   </entry>
   <entry>
@@ -251,17 +270,6 @@
     <content type="html">&lt;p&gt;Meta Platforms announced partnerships with Walmart and other retailers for its AI agent Muse days after e-commerce giant Amazon &lt;a href="https://www.theinformation.com/briefings/amazon-blocks-metas-muse-agent"&gt;blocked the personalized agent&lt;/a&gt; from accessing its shopping site.&lt;/p&gt; &lt;p&gt;At Meta’s annual Connect conference on Wednesday, Chief AI officer Alexandr Wang said the company is ...&lt;/p&gt;</content>
     <author>
       <name>Jyoti Mann</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18098</id>
-    <published>2026-09-23T22:11:53Z</published>
-    <updated>2026-09-24T22:10:27Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/blackstone-exec-says-big-unknowns-remain-ai-credit-demand"/>
-    <title>Blackstone Exec Says Big Unknowns Remain For AI Credit Demand</title>
-    <content type="html">&lt;p&gt;Jas Khaira, head of Blackstone’s AI-focused investment team, said on Wednesday that the firm is still figuring out which kinds of investors will step in to provide the massive amounts of financing still needed for the AI buildout. The investment giant itself is waiting to see if debt from the ...&lt;/p&gt;</content>
-    <author>
-      <name>Dakin Campbell</name>
     </author>
   </entry>
 </feed>
