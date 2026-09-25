@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed?cb=1790328731271</id>
+  <id>tag:www.theinformation.com,2005:/feed</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1790328731271"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-25T09:31:38Z</updated>
+  <updated>2026-09-25T10:14:57Z</updated>
+  <entry>
+    <id>tag:www.theinformation.com,2005:Briefing/18106</id>
+    <published>2026-09-25T10:14:57Z</published>
+    <updated>2026-09-25T10:14:57Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/chinese-leader-xi-calls-u-s-china-cooperation-prevent-ai-abuse"/>
+    <title>Chinese Leader Xi Calls for U.S.-China Cooperation to Prevent AI Abuse </title>
+    <content type="html">&lt;p&gt;Chinese leader Xi Jinping said during his summit with U.S. President Donald Trump that the two nations can “jointly prevent the misuse and abuse of AI” through more cooperation.&lt;/p&gt; &lt;p&gt;Trump and Xi held talks on Thursday at the White House, and a major topic on the agenda was AI safety and governance.&lt;/p&gt; ...</content>
+    <author>
+      <name>Juro Osawa</name>
+    </author>
+  </entry>
   <entry>
     <id>tag:www.theinformation.com,2005:Article/17885</id>
     <published>2026-09-25T02:40:47Z</published>
@@ -259,17 +270,6 @@
     <content type="html">&lt;p&gt;Have we gone full circle on AI pricing? A bunch of tech firms are throwing around discounts and free offers for AI products, with Amazon &lt;a href="https://www.theinformation.com/briefings/amazon-gives-sellers-12-months-ai-software-quick-free?rc=9byxri"&gt;on Wednesday announcing&lt;/a&gt; that merchants selling on its shopping site will get a year’s free use of its Quick Plus AI assistant product. Microsoft, meanwhile, is discounting Copilot AI subscriptions heavily, we &lt;a href="https://www.theinformation.com/briefings/exclusive-microsoft-boost-copilot-discounts-launches-ai-super-app?rc=9byxri"&gt;reported Tuesday night&lt;/a&gt;. Both offers are part of &lt;a href="https://www.theinformation.com/articles/software-firms-discount-ai-keep-customers-anthropic-openai?rc=9byxri"&gt;a wave of discounting&lt;/a&gt; by various software firms and AI labs such as OpenAI.&lt;/p&gt;&lt;p&gt;We keep hearing from tech executives about the transformative nature of AI. And yet there’s clearly some resistance among businesses to paying full price for it, which seems a bit of an issue given how much money it is costing to build out the infrastructure for running AI on a mass scale. Something has to give. As Apollo Global Management’s chief economist, Torsten Slok, noted in his daily email on Monday, credit investors are buying bonds of the hyperscalers—a reference to cloud firms—right now on the assumption that their operating cash flow will triple between 2025 and 2030. “If this doesn’t happen, then the risk is that the AI trade weakens, with credit spreads widening, capex plans getting cut,” Slok wrote.&lt;/p&gt;</content>
     <author>
       <name>Martin Peers</name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:www.theinformation.com,2005:Briefing/18099</id>
-    <published>2026-09-23T23:59:15Z</published>
-    <updated>2026-09-24T19:37:00Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/meta-announces-new-retail-partnerships-agent-muse"/>
-    <title>Meta Announces New Retail Partnerships for Agent Muse</title>
-    <content type="html">&lt;p&gt;Meta Platforms announced partnerships with Walmart and other retailers for its AI agent Muse days after e-commerce giant Amazon &lt;a href="https://www.theinformation.com/briefings/amazon-blocks-metas-muse-agent"&gt;blocked the personalized agent&lt;/a&gt; from accessing its shopping site.&lt;/p&gt; &lt;p&gt;At Meta’s annual Connect conference on Wednesday, Chief AI officer Alexandr Wang said the company is ...&lt;/p&gt;</content>
-    <author>
-      <name>Jyoti Mann</name>
     </author>
   </entry>
 </feed>
