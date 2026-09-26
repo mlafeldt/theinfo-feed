@@ -45,8 +45,8 @@ class Feed(NamedTuple):
 
 FEEDS = [
     Feed("all.xml", "The Information", None),
-    Feed("briefings.xml", "The Information — Briefings", "Briefing"),
-    Feed("articles.xml", "The Information — Articles", "Article"),
+    Feed("briefings.xml", "The Information: Briefings", "Briefing"),
+    Feed("articles.xml", "The Information: Articles", "Article"),
 ]
 
 
