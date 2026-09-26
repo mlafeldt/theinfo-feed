@@ -1,5 +1,5 @@
 [project]
-name = "theinfo-feed"
+name = "theinfo-feeds"
 version = "0.0.0"
 requires-python = ">=3.12"
 dependencies = ["feedgen>=1.0", "feedparser>=6.0", "httpx>=0.28"]

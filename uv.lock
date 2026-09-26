@@ -294,7 +294,7 @@ wheels = [
 ]
 
 [[package]]
-name = "theinfo-feed"
+name = "theinfo-feeds"
 version = "0.0.0"
 source = { virtual = "." }
 dependencies = [

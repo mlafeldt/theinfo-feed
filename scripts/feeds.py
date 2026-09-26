@@ -25,8 +25,8 @@ from feedgen.feed import FeedGenerator
 UPSTREAM = "https://www.theinformation.com/feed"
 SITE = "https://www.theinformation.com"
 HOST = "www.theinformation.com"
-PAGES = "https://mlafeldt.github.io/theinfo-feed"
-USER_AGENT = "theinfo-feed (+https://github.com/mlafeldt/theinfo-feed)"
+PAGES = "https://mlafeldt.github.io/theinfo-feeds"
+USER_AGENT = "theinfo-feeds (+https://github.com/mlafeldt/theinfo-feeds)"
 
 ROOT = Path(__file__).resolve().parent.parent
 STORE = ROOT / "data" / "entries.json"
