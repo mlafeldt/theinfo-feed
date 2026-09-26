@@ -1130,6 +1130,17 @@
     "type": "Article",
     "updated": "2026-09-25T17:00:47Z"
   },
+  "tag:www.theinformation.com,2005:Article/17889": {
+    "authors": [
+      "Eli Rosenberg"
+    ],
+    "content": "<p>A few weeks ago, Augustus Doricko, founder of the cloud-seeding startup Rainmaker, stood in a park on the outskirts of Albuquerque, N.M., flying a drone in the sky. Clad in a khaki field shirt, he looked at home in the desert heat: 97 degrees, not a rain cloud in sight.</p>\n\n<p>“The conditions here are great,” said Doricko, 26. “And the demand for water’s huge.”</p>\n\n<p>Doricko’s company, which is based in El Segundo, Calif., plans to start a trial program around the Rio Grande river in the coming months, dispatching its drones to induce precipitation with the help of a chemical, silver iodide.</p>\n\n<p>That trial is not the only connection Rainmaker has to New Mexico. The startup has received funding from several venture capital firms that have gotten money from New Mexico’s $75 billion sovereign wealth fund. The fund has funneled some $2 billion into VC firms in the last three years as the state’s oil and gas revenues have swelled.</p>",
+    "link": "https://www.theinformation.com/articles/new-mexicos-oil-windfall-became-2-billion-vc-bet",
+    "published": "2026-09-26T13:13:30Z",
+    "title": "How New Mexico’s Oil Windfall Became a $2 Billion VC Bet",
+    "type": "Article",
+    "updated": "2026-09-26T13:16:22Z"
+  },
   "tag:www.theinformation.com,2005:Article/17892": {
     "authors": [
       "Aaron Holmes",
@@ -1142,6 +1153,17 @@
     "title": "Fireworks, Fal Consider New Rounds as Inference Demand Soars",
     "type": "Article",
     "updated": "2026-09-25T22:59:45Z"
+  },
+  "tag:www.theinformation.com,2005:Article/17893": {
+    "authors": [
+      "Michelle Celarier"
+    ],
+    "content": "<p>Steve Eisman, former hedge fund manager and short seller, has become one of the more prominentcritics of the AI phenomenon that is sweeping the markets and, according to some, endangering the world.</p>\n\n<p>Yet Eisman, who initially shot to fame for his trades in the 2008 financial crisis and his subsequent portrayal in Michael Lewis’ “The Big Short,” is hesitant to commit capital to his AI criticism. “I am not ready to make a big short call here,” he told me.</p>\n\n<p>For now, he’s paying a lot of attention to Nvidia, the mother of the AI trade, and its relationship supplying chips to Anthropic and OpenAI. “It’s like the entire chain is dependent upon two companies that lose a ton of money,” he said. He’s waiting to see if OpenAI does actually go public anytime soon: “When you’re a company that bleeds cash&mdash;like these companies bleed cash&mdash;narrative is very important because you’ve got to raise money all the time.” So if OpenAI keeps delaying its IPO, that might be the catalyst for him to make a short call on AI, Eisman said.</p>",
+    "link": "https://www.theinformation.com/articles/wall-streets-big-bad-bears-ready-bet-ai-yet",
+    "published": "2026-09-26T13:11:40Z",
+    "title": "Why Wall Street’s Big, Bad Bears Aren’t Ready to Bet Against AI Yet",
+    "type": "Article",
+    "updated": "2026-09-26T13:12:16Z"
   },
   "tag:www.theinformation.com,2005:Briefing/17998": {
     "authors": [
