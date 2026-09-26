@@ -178,7 +178,7 @@ def test_render_splits_by_type():
     def ids(name: str) -> set[str]:
         return {e.id.rsplit(":", 1)[1] for e in rendered(store, name).entries}
 
-    assert ids("feed.xml") == {"Briefing/1", "Article/2", "Podcast/3"}
+    assert ids("all.xml") == {"Briefing/1", "Article/2", "Podcast/3"}
     assert ids("briefings.xml") == {"Briefing/1"}
     assert ids("articles.xml") == {"Article/2"}
 
@@ -187,7 +187,7 @@ def test_render_orders_newest_first_and_caps(monkeypatch):
     monkeypatch.setattr(feeds, "MAX_ENTRIES", 3)
     store = feeds.parse(atom(*(entry(n, published=f"2026-09-{n:02d}T10:00:00Z") for n in range(1, 8))))
     assert len(store) == 7
-    got = [e.id.rsplit("/", 1)[1] for e in rendered(store, "feed.xml").entries]
+    got = [e.id.rsplit("/", 1)[1] for e in rendered(store, "all.xml").entries]
     assert got == ["7", "6", "5"]
 
 
@@ -210,18 +210,18 @@ def test_render_takes_feed_updated_from_newest_entry():
     store = feeds.parse(
         atom(entry(1, updated="2026-09-20T12:00:00Z"), entry(2, published="2026-09-19T10:00:00Z"))
     )
-    assert rendered(store, "feed.xml").feed.updated == "2026-09-20T12:00:00+00:00"
+    assert rendered(store, "all.xml").feed.updated == "2026-09-20T12:00:00+00:00"
 
 
 def test_render_keeps_sorted_author_order():
     store = feeds.parse(atom(entry(1, authors=("Zoe", "Adam", "Mia"))))
-    [e] = rendered(store, "feed.xml").entries
+    [e] = rendered(store, "all.xml").entries
     assert [a.name for a in e.authors] == ["Adam", "Mia", "Zoe"]
 
 
 def test_render_round_trips_entry_fields():
     store = feeds.parse(UPSTREAM_FIXTURE)
-    out = rendered(store, "feed.xml").entries
+    out = rendered(store, "all.xml").entries
     assert len(out) == len(store)
     for e in out:
         o = store[e.id]
