@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:www.theinformation.com,2005:/feed</id>
+  <id>tag:www.theinformation.com,2005:/feed?cb=1790384563090</id>
   <link rel="alternate" type="text/html" href="https://www.theinformation.com"/>
-  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed"/>
+  <link rel="self" type="application/atom+xml" href="https://www.theinformation.com/feed?cb=1790384563090"/>
   <link rel="hub" href="https://theinformation.superfeedr.com/"/>
   <title>The Information</title>
-  <updated>2026-09-26T00:05:05Z</updated>
+  <updated>2026-09-26T01:02:39Z</updated>
   <entry>
     <id>tag:www.theinformation.com,2005:Briefing/18111</id>
     <published>2026-09-25T23:20:57Z</published>
-    <updated>2026-09-25T23:20:57Z</updated>
+    <updated>2026-09-26T01:02:39Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theinformation.com/briefings/openai-found-dozens-new-instances-ai-misbehavior"/>
-    <title>OpenAI Found ‘Dozens’ of New Instances of AI Misbehavior</title>
-    <content type="html">&lt;p&gt;OpenAI said Friday it has notified dozens of entities, including governments and universities, that its agents may have breached or spammed their websites or services. The agents took actions such as obtaining unauthorized access to websites or using the organizations’ public pages as message ...&lt;/p&gt;</content>
+    <title>OpenAI Agents Tried to Hack Education Depart. Website Amid Dozens of Misdeeds</title>
+    <content type="html">&lt;p&gt;OpenAI agents attempted to hack the Department of Education’s website but was not successful, according to researchers at AI nonprofit Transluce. An OpenAI spokesperson said the company was reviewing the incident, first reported by The New York Times.&lt;/p&gt; &lt;p&gt;OpenAI agents also accessed public data from ...&lt;/p&gt;</content>
     <author>
       <name>Tiffany Li</name>
     </author>
