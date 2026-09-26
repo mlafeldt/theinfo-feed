@@ -64,6 +64,14 @@ class Entry(TypedDict):
 
 Store = dict[str, Entry]
 
+
+class Change(NamedTuple):
+    """An entry a run added to the store or edited in it."""
+
+    entry: Entry
+    edited: tuple[str, ...]  # the fields that changed; empty for a new entry
+
+
 # Upstream ids look like tag:www.theinformation.com,2005:Briefing/18111.
 ID_RE = re.compile(r"^tag:(?P<host>[^,]+),2005:(?P<type>[A-Za-z]+)/\d+$")
 
@@ -141,32 +149,28 @@ def parse(payload: bytes) -> Store:
     return entries
 
 
-def edited(old: Entry, new: Entry) -> bool:
-    """Whether a fresh version of an entry differs in anything a reader would see.
+def edits(old: Entry, new: Entry) -> tuple[str, ...]:
+    """The fields a reader would see differ in between two versions of an entry.
 
     Upstream re-stamps <updated> in bulk without touching the entries, so a new
     timestamp alone does not count as an edit.
     """
-    return any(old[k] != new[k] for k in ("title", "content", "link", "authors"))
+    return tuple(k for k in ("title", "content", "link", "authors") if old[k] != new[k])
 
 
-def merge(store: Store, entries: Store) -> tuple[Counter[str], int]:
-    """Fold fresh entries into the store in place.
-
-    Returns the number of added entries per type and the number of edited ones.
-    """
-    added: Counter[str] = Counter()
-    updated = 0
+def merge(store: Store, entries: Store) -> list[Change]:
+    """Fold fresh entries into the store in place and return what changed."""
+    changes = []
     for id_, new in entries.items():
         old = store.get(id_)
         if old is None:
-            added[new["type"]] += 1
-        elif edited(old, new):
-            updated += 1
+            changes.append(Change(new, ()))
+        elif fields := edits(old, new):
+            changes.append(Change(new, fields))
         else:
             continue
         store[id_] = new
-    return added, updated
+    return changes
 
 
 def render(store: Store, feed: Feed) -> bytes:
@@ -226,11 +230,25 @@ def plural(n: int, word: str) -> str:
     return f"{n} {word}" + ("" if n == 1 else "s")
 
 
-def summarize(added: Counter[str], updated: int) -> str:
-    parts = [f"+{plural(n, t.lower())}" for t, n in sorted(added.items())]
-    if updated:
-        parts.append(f"{updated} updated")
-    return ", ".join(parts) or "no changes"
+def count(changes: list[Change]) -> str:
+    types = Counter(c.entry["type"] for c in changes)
+    return ", ".join(plural(n, t.lower()) for t, n in sorted(types.items()))
+
+
+def message(changes: list[Change]) -> str:
+    """The commit message for a run: counts per type, then one line per entry."""
+    added = [c for c in changes if not c.edited]
+    edited = [c for c in changes if c.edited]
+    parts = []
+    if added:
+        parts.append(f"add {count(added)}")
+    if edited:
+        parts.append(f"edit {count(edited)}")
+    if not parts:
+        return "No changes"
+    lines = [f"+ {c.entry['type']}: {c.entry['title']}" for c in added]
+    lines += [f"~ {c.entry['type']}: {c.entry['title']} ({', '.join(c.edited)})" for c in edited]
+    return ", ".join(parts).capitalize() + "\n\n" + "\n".join(lines)
 
 
 def main() -> None:
@@ -240,10 +258,10 @@ def main() -> None:
         sys.exit(f"refusing to update: {e}")
 
     store = load_store()
-    added, updated = merge(store, entries)
+    changes = merge(store, entries)
     dump_store(store)
     publish(store)
-    print(summarize(added, updated))
+    print(message(changes))
 
 
 if __name__ == "__main__":

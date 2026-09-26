@@ -50,8 +50,9 @@ jobs:
       - name: Update feeds
         id: update
         run: |
-          # feeds.py prints a one-line summary such as "+1 article, +2 briefings".
-          summary=$(uv run --locked scripts/feeds.py)
+          # feeds.py prints the commit message: a subject such as "Add 1 article,
+          # 2 briefings", then one line per added or edited entry.
+          message=$(uv run --locked scripts/feeds.py)
           # The archive is written deterministically, so it only differs when a
           # run learned something new.
           git add data
@@ -61,7 +62,7 @@ jobs:
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -m "Update feeds: $summary"
+          git commit -m "$message"
           git push
           echo "changed=true" >> "$GITHUB_OUTPUT"
 

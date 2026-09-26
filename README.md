@@ -42,7 +42,10 @@ Run it, and its tests, locally with [uv](https://docs.astral.sh/uv/):
 
 ```console
 $ uv run scripts/feeds.py
-+1 article, +2 briefings
+Add 1 article, edit 1 briefing
+
++ Article: …
+~ Briefing: … (title)
 $ uv run pytest
 ```
 

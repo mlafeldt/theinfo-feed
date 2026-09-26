@@ -1,7 +1,6 @@
 """Tests for scripts/feeds.py. Run with: uv run pytest"""
 
 import re
-from collections import Counter
 from datetime import datetime
 from pathlib import Path
 from xml.sax.saxutils import escape
@@ -123,27 +122,23 @@ def test_parse_rejects_foreign_host_in_link():
 # merge
 
 
-def test_merge_counts_new_entries_per_type():
+def test_merge_reports_new_entries():
     store = {}
-    added, updated = feeds.merge(store, feeds.parse(atom(entry(1), entry(2), entry(3, "Article"))))
-    assert added == {"Briefing": 2, "Article": 1}
-    assert updated == 0
-    assert len(store) == 3
+    changes = feeds.merge(store, feeds.parse(atom(entry(1), entry(2, "Article"))))
+    assert [(c.entry["title"], c.edited) for c in changes] == [("Story 1", ()), ("Story 2", ())]
+    assert len(store) == 2
 
 
 def test_merge_ignores_restamped_updated():
     store = feeds.parse(atom(entry(1, updated="2026-09-20T10:00:00Z")))
-    added, updated = feeds.merge(store, feeds.parse(atom(entry(1, updated="2026-09-21T09:00:00Z"))))
-    assert (added, updated) == ({}, 0)
+    assert feeds.merge(store, feeds.parse(atom(entry(1, updated="2026-09-21T09:00:00Z")))) == []
     assert store["tag:www.theinformation.com,2005:Briefing/1"]["updated"] == "2026-09-20T10:00:00Z"
 
 
 def test_merge_ignores_reordered_authors():
     store = feeds.parse(atom(entry(1, authors=("Zoe", "Adam"))))
-    added, updated = feeds.merge(
-        store, feeds.parse(atom(entry(1, authors=("Adam", "Zoe"), updated="2026-09-21T09:00:00Z")))
-    )
-    assert (added, updated) == ({}, 0)
+    fresh = feeds.parse(atom(entry(1, authors=("Adam", "Zoe"), updated="2026-09-21T09:00:00Z")))
+    assert feeds.merge(store, fresh) == []
     assert store["tag:www.theinformation.com,2005:Briefing/1"]["authors"] == ["Adam", "Zoe"]
 
 
@@ -158,8 +153,8 @@ def test_merge_ignores_reordered_authors():
 def test_merge_takes_real_edits(change):
     store = feeds.parse(atom(entry(1)))
     fresh = feeds.parse(atom(entry(1, updated="2026-09-21T09:00:00Z", **change)))
-    added, updated = feeds.merge(store, fresh)
-    assert (added, updated) == ({}, 1)
+    [c] = feeds.merge(store, fresh)
+    assert c.edited == tuple(change)
     assert store["tag:www.theinformation.com,2005:Briefing/1"]["updated"] == "2026-09-21T09:00:00Z"
 
 
@@ -245,15 +240,27 @@ def test_store_round_trips(tmp_path):
     assert path.read_bytes() == before
 
 
+def change(type_: str, title: str, *edited: str) -> feeds.Change:
+    return feeds.Change({"type": type_, "title": title}, edited)
+
+
 @pytest.mark.parametrize(
-    "added, updated, want",
+    "changes, want",
     [
-        (Counter(), 0, "no changes"),
-        (Counter(Briefing=2, Article=1), 0, "+1 article, +2 briefings"),
-        (Counter(), 3, "3 updated"),
-        (Counter(Briefing=1), 1, "+1 briefing, 1 updated"),
+        ([], "No changes"),
+        (
+            [change("Briefing", "B1"), change("Article", "A1"), change("Briefing", "B2")],
+            "Add 1 article, 2 briefings\n\n+ Briefing: B1\n+ Article: A1\n+ Briefing: B2",
+        ),
+        (
+            [change("Article", "A1", "content")],
+            "Edit 1 article\n\n~ Article: A1 (content)",
+        ),
+        (
+            [change("Briefing", "B1", "title", "authors"), change("Briefing", "B2")],
+            "Add 1 briefing, edit 1 briefing\n\n+ Briefing: B2\n~ Briefing: B1 (title, authors)",
+        ),
     ],
 )
-def test_summarize(added, updated, want):
-    assert feeds.summarize(added, updated) == want
-
+def test_message(changes, want):
+    assert feeds.message(changes) == want
