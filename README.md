@@ -1,54 +1,57 @@
 # theinfo-feed
 
-A mirror of [theinformation.com/feed](https://www.theinformation.com/feed), refreshed hourly
-and served from GitHub Pages:
+Feeds for [The Information](https://www.theinformation.com), built from its
+[public feed](https://www.theinformation.com/feed), refreshed hourly and served from GitHub Pages:
 
-```
-https://mlafeldt.github.io/theinfo-feed/feed.xml
-```
+| Feed       | URL                                                     |
+| ---------- | ------------------------------------------------------- |
+| Everything | `https://mlafeldt.github.io/theinfo-feed/feed.xml`      |
+| Briefings  | `https://mlafeldt.github.io/theinfo-feed/briefings.xml` |
+| Articles   | `https://mlafeldt.github.io/theinfo-feed/articles.xml`  |
 
 ## Why
 
-Since early September 2026 the upstream feed sits behind a Cloudflare rule that answers feed
-readers with an HTML challenge page where the XML should be, so they fail to parse it. The feed
-itself is fine — it renders in a browser, and its content is public. This mirror republishes
-those bytes unchanged so a reader can subscribe again.
+Upstream serves only its latest 20 entries, briefings and articles mixed — about a day and a
+half's worth. These feeds keep every entry seen since 2026-09-08 (the newest 500 per feed are
+published), offer briefings and articles separately, and leave out the noise upstream adds
+between renders:
 
-I reported the block to The Information, both by support ticket and
-[on X](https://x.com/mlafeldt/status/2097408295665381768). It looks like a misconfiguration
-rather than a policy change, so treat this mirror as a stopgap — once they fix it, point your
-reader back at the original.
+- a `?cb=` cache buster in the feed's id and self link that changes from fetch to fetch
+- entries re-stamped in bulk: unrelated briefings, some a day apart in publication, converge
+  on one `<updated>` value while their title, summary and authors stay byte-identical
+- author lists that come back in a different order from one render to the next
 
 ## How
 
-`scripts/mirror.sh` fetches the feed, refuses to write anything that is not an Atom feed with
-at least one entry, and rewrites `public/` only when the payload actually changed. The workflow
-commits and redeploys only on a real change.
+`scripts/feeds.py` fetches upstream, folds its entries into `data/entries.json` and renders all
+three feeds from that archive into `public/`. An archived entry is replaced only when its
+title, content, link or authors changed, so the re-stamps above never count as edits, and
+authors are kept in alphabetical order, since upstream's own order is not stable. Only the
+archive is committed; the feeds are rendered afresh on every run, and redeployed whenever the
+archive changed or the code did.
 
-A change in the bytes is not always an editorial one, though. Entries get re-stamped in bulk:
-unrelated briefings, some a day apart in publication, converge on one `<updated>` value while
-their title, summary and author stay byte-identical, and the feed-level `<updated>` moves with
-them. The cause looks like a re-render rather than an edit, so expect commits that carry no new
-writing.
+Nothing is ever removed from the archive, so the script refuses a whole payload rather than
+let a bad entry in: anything that is not well-formed Atom with at least one entry, and any
+entry whose id or link points somewhere other than `www.theinformation.com`. The latter
+happened on 2026-09-10, when upstream briefly rendered its Heroku origin hostname into entry
+links and ids, pointing readers at a host where no subscriber can sign in. A red run and
+stale feeds beat republishing that. For the same reason, the workflow runs the tests before
+it lets the script near the archive.
 
-It also fails the run outright if an entry id carries `info-reader-production.herokuapp.com`,
-upstream's Heroku origin hostname, which it briefly rendered into entry links and ids on
-2026-09-10 in place of its own. Those URLs point at a host where no subscriber can sign in, so a
-red run and a stale mirror beat republishing them.
-
-Fetching needs a `CF_CLEARANCE` repository secret. Run it locally with:
+Run it, and its tests, locally with [uv](https://docs.astral.sh/uv/):
 
 ```console
-$ CF_CLEARANCE=... ./scripts/mirror.sh
-updated: 20 entries, updated 2026-09-09T08:03:46Z
+$ uv run scripts/feeds.py
++1 article, +2 briefings
+$ uv run pytest
 ```
 
-A bad or expired value fails the run rather than mirroring an error page: the fetch itself
-fails, and `mirror.sh` rejects any response that is not an Atom feed before it can overwrite
-`public/feed.xml`.
+The archive was seeded from this repo's history: it started out as a byte-for-byte mirror of
+upstream's feed, a workaround for a Cloudflare rule that answered feed readers with a
+challenge page in September 2026. That rule is gone, and so is the mirror.
 
 ## Scope
 
-This mirrors the **public** feed only — the same headlines and summaries the URL above serves
+These feeds carry the **public** feed only — the same headlines and summaries upstream serves
 any visitor, with no article bodies and nothing from behind the paywall. Unofficial, not
 affiliated with or endorsed by The Information.
